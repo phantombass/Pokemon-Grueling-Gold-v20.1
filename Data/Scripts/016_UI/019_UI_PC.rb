@@ -114,6 +114,7 @@ def pbTrainerPC
 end
 
 def pbTrainerPCMenu
+  $pc = true
   command = 0
   loop do
     command = pbMessage(_INTL("What do you want to do?"),
@@ -219,6 +220,7 @@ MenuHandlers.add(:pc_menu, :close, {
   "name"      => _INTL("Log off"),
   "order"     => 100,
   "effect"    => proc { |menu|
+    $pc = false
     next true
   }
 })
