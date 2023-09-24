@@ -206,7 +206,7 @@ end
 
 def pbPositionNearMsgWindow(cmdwindow, msgwindow, side)
   return if !cmdwindow
-  return if msgwindow.is_a?(String)
+  return if msgwindow.is_a?(String) && $pc == false
   if msgwindow
     height = [cmdwindow.height, Graphics.height - msgwindow.height].min
     if cmdwindow.height != height
