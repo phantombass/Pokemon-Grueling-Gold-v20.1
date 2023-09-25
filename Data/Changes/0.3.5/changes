@@ -4,6 +4,7 @@ Data/Changes/0.3.6/changes
 Data/Changes/0.3.6/deleted
 Data/Changes/0.3.7/changes
 Data/Changes/0.3.7/deleted
+Data/Changes/versions
 Data/Map210.rxdata
 Data/Map217.rxdata
 Data/Map218.rxdata
@@ -11,4 +12,6 @@ Data/Map220.rxdata
 Data/MapInfos.rxdata
 Data/PluginScripts.rxdata
 Data/System.rxdata
+Data/messages.dat
+Data/species.dat
 version
