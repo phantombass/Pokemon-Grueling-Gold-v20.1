@@ -10,6 +10,6 @@ do
 	source ~/.bashrc
 	mkfile Data/Changes/${before}/changes
 	mkfile Data/Changes/${before}/deleted
-	curl -o Data/Changes/${version}/changes https://raw.githubusercontent.com/phantombass/Pokemon-Grueling-Gold-v20.1/Release/${files}/changes
-	curl -o Data/Changes/${version}/deleted https://raw.githubusercontent.com/phantombass/Pokemon-Grueling-Gold-v20.1/Release/${files}/deleted
+	curl -o Data/Changes/${version}/changes https://raw.githubusercontent.com/phantombass/Pokemon-Grueling-Gold-v20.1/Release/Data/Changes/${version}/changes
+	curl -o Data/Changes/${version}/deleted https://raw.githubusercontent.com/phantombass/Pokemon-Grueling-Gold-v20.1/Release/Data/Changes/${version}/deleted
 done
