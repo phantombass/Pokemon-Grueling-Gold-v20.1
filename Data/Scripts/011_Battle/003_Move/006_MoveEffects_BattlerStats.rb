@@ -184,6 +184,7 @@ class Battle::Move::RaiseUserSpDef1PowerUpElectricMove < Battle::Move::StatUpMov
   end
 
   def pbEffectGeneral(user)
+    user.charge = 2
     user.effects[PBEffects::Charge] = 2
     @battle.pbDisplay(_INTL("{1} began charging power!", user.pbThis))
     super

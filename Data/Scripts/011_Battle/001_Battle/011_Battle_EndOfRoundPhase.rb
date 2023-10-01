@@ -710,6 +710,7 @@ class Battle
     # Reset/count down battler-specific effects (no messages)
     allBattlers.each do |battler|
       battler.effects[PBEffects::BanefulBunker]    = false
+      battler.charge -= 1 if battler.charge > 0
       battler.effects[PBEffects::Charge]           -= 1 if battler.effects[PBEffects::Charge] > 0
       battler.effects[PBEffects::Counter]          = -1
       battler.effects[PBEffects::CounterTarget]    = -1
