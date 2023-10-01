@@ -108,6 +108,7 @@ class Battle::Battler
       end
     end
     @effects[PBEffects::BeakBlast]   = false
+    @charge = 0 if @charge == 1
     @effects[PBEffects::Charge]      = 0 if @effects[PBEffects::Charge] == 1
     @effects[PBEffects::GemConsumed] = nil
     @effects[PBEffects::ShellTrap]   = false
