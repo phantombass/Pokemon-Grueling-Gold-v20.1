@@ -2,6 +2,8 @@ Data/Changes/0.4.0/changes
 Data/Changes/0.4.0/deleted
 Data/Changes/0.4.1/changes
 Data/Changes/0.4.1/deleted
+Data/Changes/0.4.2/changes
+Data/Changes/0.4.2/deleted
 Data/Changes/versions
 Data/Map217.rxdata
 Data/Map225.rxdata
@@ -12,6 +14,8 @@ Data/MapInfos.rxdata
 Data/PluginScripts.rxdata
 Data/System.rxdata
 Data/Tilesets.rxdata
+Data/items.dat
+Data/messages.dat
 Graphics/Characters/ethan_run.png
 Graphics/Items/EXPALL.png
 Graphics/Items/EXPALLOFF.png
