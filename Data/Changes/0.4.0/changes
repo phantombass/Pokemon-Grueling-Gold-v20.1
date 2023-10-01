@@ -8,12 +8,16 @@ Data/Changes/0.4.3/changes
 Data/Changes/0.4.3/deleted
 Data/Changes/0.4.4/changes
 Data/Changes/0.4.4/deleted
+Data/Changes/0.4.5/changes
+Data/Changes/0.4.5/deleted
 Data/Changes/versions
 Data/Map181.rxdata
 Data/Map188.rxdata
 Data/Map189.rxdata
+Data/Map191.rxdata
 Data/Map194.rxdata
 Data/Map200.rxdata
+Data/Map208.rxdata
 Data/Map217.rxdata
 Data/Map225.rxdata
 Data/Map226.rxdata
@@ -31,6 +35,7 @@ Data/System.rxdata
 Data/Tilesets.rxdata
 Data/items.dat
 Data/messages.dat
+Data/species.dat
 Graphics/Characters/ethan_run.png
 Graphics/Items/EXPALL.png
 Graphics/Items/EXPALLOFF.png
