@@ -43,6 +43,7 @@ class Battle::Battler
   attr_accessor :statsLoweredThisRound   # Boolean for whether self's stat(s) lowered this round
   attr_accessor :canRestoreIceFace   # Whether Hail started in the round
   attr_accessor :damageState
+  attr_accessor :charge
 
   #=============================================================================
   # Complex accessors
@@ -52,6 +53,11 @@ class Battle::Battler
   def level=(value)
     @level = value
     @pokemon.level = value if @pokemon
+  end
+
+  def charge=(value)
+    @charge = value
+    return @charge
   end
 
   attr_reader :form

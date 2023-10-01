@@ -157,6 +157,7 @@ class Battle::Battler
     @effects[PBEffects::BideDamage]          = 0
     @effects[PBEffects::BideTarget]          = -1
     @effects[PBEffects::BurnUp]              = false
+    @charge = 0
     @effects[PBEffects::Charge]              = 0
     @effects[PBEffects::ChoiceBand]          = nil
     @effects[PBEffects::Counter]             = -1
