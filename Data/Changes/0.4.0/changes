@@ -6,7 +6,14 @@ Data/Changes/0.4.2/changes
 Data/Changes/0.4.2/deleted
 Data/Changes/0.4.3/changes
 Data/Changes/0.4.3/deleted
+Data/Changes/0.4.4/changes
+Data/Changes/0.4.4/deleted
 Data/Changes/versions
+Data/Map181.rxdata
+Data/Map188.rxdata
+Data/Map189.rxdata
+Data/Map194.rxdata
+Data/Map200.rxdata
 Data/Map217.rxdata
 Data/Map225.rxdata
 Data/Map226.rxdata
@@ -15,6 +22,11 @@ Data/Map353.rxdata
 Data/Map354.rxdata
 Data/MapInfos.rxdata
 Data/PluginScripts.rxdata
+Data/Scripts/011_Battle/001_Battle/011_Battle_EndOfRoundPhase.rb
+Data/Scripts/011_Battle/002_Battler/001_Battle_Battler.rb
+Data/Scripts/011_Battle/002_Battler/002_Battler_Initialize.rb
+Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove.rb
+Data/Scripts/011_Battle/003_Move/006_MoveEffects_BattlerStats.rb
 Data/System.rxdata
 Data/Tilesets.rxdata
 Data/items.dat
