@@ -447,6 +447,7 @@ MenuHandlers.add(:options_menu, :battle_animations, {
   "set_proc"    => proc { |value, _scene| $PokemonSystem.battlescene = value }
 })
 
+=begin
 MenuHandlers.add(:options_menu, :battle_style, {
   "name"        => _INTL("Battle Style"),
   "order"       => 50,
@@ -456,7 +457,7 @@ MenuHandlers.add(:options_menu, :battle_style, {
   "get_proc"    => proc { next $PokemonSystem.battlestyle },
   "set_proc"    => proc { |value, _scene| $PokemonSystem.battlestyle = value }
 })
-
+=end
 MenuHandlers.add(:options_menu, :movement_style, {
   "name"        => _INTL("Default Movement"),
   "order"       => 60,
