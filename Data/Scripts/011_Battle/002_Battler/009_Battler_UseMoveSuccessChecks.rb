@@ -230,7 +230,7 @@ class Battle::Battler
     # Truant
     if hasActiveAbility?(:TRUANT)
       @effects[PBEffects::Truant] = !@effects[PBEffects::Truant]
-      if !@effects[PBEffects::Truant]   # True means loafing, but was just inverted
+      if !@effects[PBEffects::Truant] && move.damagingMove?  # True means loafing, but was just inverted
         @battle.pbShowAbilitySplash(self)
         @battle.pbDisplay(_INTL("{1} is loafing around!", pbThis))
         @lastMoveFailed = true

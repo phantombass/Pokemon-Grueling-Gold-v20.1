@@ -296,7 +296,7 @@ end
 class Battle::Move::RaiseUserEvasion1 < Battle::Move::StatUpMove
   def initialize(battle, move)
     super
-    @statUp = [:EVASION, 1]
+    @statUp = [:DEFENSE, 1]
   end
 end
 
@@ -306,7 +306,7 @@ end
 class Battle::Move::RaiseUserEvasion2 < Battle::Move::StatUpMove
   def initialize(battle, move)
     super
-    @statUp = [:EVASION, 2]
+    @statUp = [:DEFENSE, 2]
   end
 end
 
@@ -316,7 +316,7 @@ end
 class Battle::Move::RaiseUserEvasion2MinimizeUser < Battle::Move::StatUpMove
   def initialize(battle, move)
     super
-    @statUp = [:EVASION, 2]
+    @statUp = [:DEFENSE, 2]
   end
 
   def pbEffectGeneral(user)
@@ -331,7 +331,7 @@ end
 class Battle::Move::RaiseUserEvasion3 < Battle::Move::StatUpMove
   def initialize(battle, move)
     super
-    @statUp = [:EVASION, 3]
+    @statUp = [:DEFENSE, 3]
   end
 end
 
@@ -1151,7 +1151,7 @@ end
 class Battle::Move::LowerTargetAccuracy1 < Battle::Move::TargetStatDownMove
   def initialize(battle, move)
     super
-    @statDown = [:ACCURACY, 1]
+    @statDown = [:ATTACK, 1]
   end
 end
 
@@ -1161,7 +1161,7 @@ end
 class Battle::Move::LowerTargetAccuracy2 < Battle::Move::TargetStatDownMove
   def initialize(battle, move)
     super
-    @statDown = [:ACCURACY, 2]
+    @statDown = [:ATTACK, 2]
   end
 end
 
@@ -1171,7 +1171,7 @@ end
 class Battle::Move::LowerTargetAccuracy3 < Battle::Move::TargetStatDownMove
   def initialize(battle, move)
     super
-    @statDown = [:ACCURACY, 3]
+    @statDown = [:ATTACK, 3]
   end
 end
 
