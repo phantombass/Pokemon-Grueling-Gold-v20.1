@@ -6,6 +6,8 @@ Data/Changes/0.5.2/changes
 Data/Changes/0.5.2/deleted
 Data/Changes/0.5.3/changes
 Data/Changes/0.5.3/deleted
+Data/Changes/0.5.4/changes
+Data/Changes/0.5.4/deleted
 Data/Changes/versions
 Data/Map209.rxdata
 Data/Map210.rxdata
@@ -19,4 +21,5 @@ Data/Scripts/016_UI/015_UI_Options.rb
 Data/System.rxdata
 Data/messages.dat
 Data/trainers.dat
+Graphics/Trainers/RIVAL2_back.png
 version
