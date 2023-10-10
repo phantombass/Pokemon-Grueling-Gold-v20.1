@@ -1,3 +1,6 @@
+Data/Actors.rxdata
+Data/Animations.rxdata
+Data/Armors.rxdata
 Data/Changes/0.5.0/changes
 Data/Changes/0.5.0/deleted
 Data/Changes/0.5.1/changes
@@ -10,7 +13,12 @@ Data/Changes/0.5.4/changes
 Data/Changes/0.5.4/deleted
 Data/Changes/0.5.5/changes
 Data/Changes/0.5.5/deleted
+Data/Changes/0.5.6/changes
+Data/Changes/0.5.6/deleted
 Data/Changes/versions
+Data/CommonEvents.rxdata
+Data/Enemies.rxdata
+Data/Items.rxdata
 Data/Map209.rxdata
 Data/Map210.rxdata
 Data/Map214.rxdata
@@ -20,8 +28,11 @@ Data/Map351.rxdata
 Data/MapInfos.rxdata
 Data/PluginScripts.rxdata
 Data/Scripts/016_UI/015_UI_Options.rb
+Data/Skills.rxdata
+Data/States.rxdata
 Data/System.rxdata
 Data/Tilesets.rxdata
+Data/Weapons.rxdata
 Data/messages.dat
 Data/trainers.dat
 Graphics/Trainers/RIVAL2_back.png
