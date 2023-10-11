@@ -380,10 +380,6 @@ class Battle::Move::AddSpikesToFoeSide < Battle::Move
       @battle.pbDisplay(_INTL("But it failed!"))
       return true
     end
-    if $gym_hazard == true && user.index == 0
-      @battle.pbDisplay(_INTL("A mysterious force prevents hazards."))
-      return true
-    end
     return false
   end
 
@@ -406,15 +402,12 @@ class Battle::Move::AddToxicSpikesToFoeSide < Battle::Move
       @battle.pbDisplay(_INTL("But it failed!"))
       return true
     end
-    if $gym_hazard == true && user.index == 0
-      @battle.pbDisplay(_INTL("A mysterious force prevents hazards."))
-      return true
-    end
     return false
   end
 
   def pbEffectGeneral(user)
     user.pbOpposingSide.effects[PBEffects::ToxicSpikes] += 1
+    $toxic_spikes[user.idxOpposingSide] += user.pbOpposingSide.effects[PBEffects::ToxicSpikes]
     @battle.pbDisplay(_INTL("Poison spikes were scattered all around {1}'s feet!",
                             user.pbOpposingTeam(true)))
   end
@@ -429,10 +422,6 @@ class Battle::Move::AddStealthRocksToFoeSide < Battle::Move
   def pbMoveFailed?(user, targets)
     if user.pbOpposingSide.effects[PBEffects::StealthRock]
       @battle.pbDisplay(_INTL("But it failed!"))
-      return true
-    end
-    if $gym_hazard == true && user.index == 0
-      @battle.pbDisplay(_INTL("A mysterious force prevents hazards."))
       return true
     end
     return false
@@ -454,10 +443,6 @@ class Battle::Move::AddStickyWebToFoeSide < Battle::Move
   def pbMoveFailed?(user, targets)
     if user.pbOpposingSide.effects[PBEffects::StickyWeb]
       @battle.pbDisplay(_INTL("But it failed!"))
-      return true
-    end
-    if $gym_hazard == true && user.index == 0
-      @battle.pbDisplay(_INTL("A mysterious force prevents hazards."))
       return true
     end
     return false
