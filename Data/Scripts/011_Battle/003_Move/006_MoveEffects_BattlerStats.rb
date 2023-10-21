@@ -1207,12 +1207,12 @@ class Battle::Move::LowerTargetEvasion1RemoveSideEffects < Battle::Move::TargetS
                     targetSide.effects[PBEffects::Safeguard] > 0
     return false if targetSide.effects[PBEffects::StealthRock] ||
                     targetSide.effects[PBEffects::Spikes] > 0 ||
-                    targetSide.effects[PBEffects::ToxicSpikes] > 0 ||
+                    $toxic_spikes[user.idxOpposingSide] ||
                     targetSide.effects[PBEffects::StickyWeb]
     return false if Settings::MECHANICS_GENERATION >= 6 &&
                     (targetOpposingSide.effects[PBEffects::StealthRock] ||
                     targetOpposingSide.effects[PBEffects::Spikes] > 0 ||
-                    targetOpposingSide.effects[PBEffects::ToxicSpikes] > 0 ||
+                    $toxic_spikes[user.idxOwnSide] > 0 ||
                     targetOpposingSide.effects[PBEffects::StickyWeb])
     return false if Settings::MECHANICS_GENERATION >= 8 && @battle.field.terrain != :None
     return super
@@ -1256,11 +1256,11 @@ class Battle::Move::LowerTargetEvasion1RemoveSideEffects < Battle::Move::TargetS
       target.pbOpposingSide.effects[PBEffects::Spikes] = 0 if Settings::MECHANICS_GENERATION >= 6
       @battle.pbDisplay(_INTL("{1} blew away spikes!", user.pbThis))
     end
-    if target.pbOwnSide.effects[PBEffects::ToxicSpikes] > 0 ||
+    if $toxic_spikes[user.idxOpposingSide] > 0 ||
        (Settings::MECHANICS_GENERATION >= 6 &&
-       target.pbOpposingSide.effects[PBEffects::ToxicSpikes] > 0)
-      target.pbOwnSide.effects[PBEffects::ToxicSpikes]      = 0
-      target.pbOpposingSide.effects[PBEffects::ToxicSpikes] = 0 if Settings::MECHANICS_GENERATION >= 6
+       $toxic_spikes[user.idxOwnSide] > 0)
+      $toxic_spikes[user.idxOpposingSide]      = 0
+      $toxic_spikes[user.idxOwnSide] = 0 if Settings::MECHANICS_GENERATION >= 6
       @battle.pbDisplay(_INTL("{1} blew away poison spikes!", user.pbThis))
     end
     if target.pbOwnSide.effects[PBEffects::StickyWeb] ||
