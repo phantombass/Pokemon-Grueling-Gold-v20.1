@@ -586,8 +586,8 @@ class Battle::Move::RemoveUserBindingAndEntryHazards < Battle::Move::StatUpMove
       user.pbOwnSide.effects[PBEffects::Spikes] = 0
       @battle.pbDisplay(_INTL("{1} blew away spikes!", user.pbThis))
     end
-    if user.pbOwnSide.effects[PBEffects::ToxicSpikes] > 0
-      user.pbOwnSide.effects[PBEffects::ToxicSpikes] = 0
+    if $toxic_spikes[user.idxOwnSide] > 0
+      $toxic_spikes[user.idxOwnSide] = 0
       @battle.pbDisplay(_INTL("{1} blew away poison spikes!", user.pbThis))
     end
     if user.pbOwnSide.effects[PBEffects::StickyWeb]
