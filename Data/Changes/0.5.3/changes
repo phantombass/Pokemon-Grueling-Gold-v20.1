@@ -133,9 +133,6 @@ Audio/SE/Cries/WIGLETT.ogg
 Audio/SE/Cries/WOCHIEN.ogg
 Audio/SE/Cries/WUGTRIO.ogg
 Audio/SE/Cries/WYRDEER.ogg
-Data/Actors.rxdata
-Data/Animations.rxdata
-Data/Armors.rxdata
 Data/Changes/0.5.0/changes
 Data/Changes/0.5.0/deleted
 Data/Changes/0.5.1/changes
@@ -158,10 +155,9 @@ Data/Changes/0.5.9/changes
 Data/Changes/0.5.9/deleted
 Data/Changes/0.6.0/changes
 Data/Changes/0.6.0/deleted
+Data/Changes/0.6.1/changes
+Data/Changes/0.6.1/deleted
 Data/Changes/versions
-Data/CommonEvents.rxdata
-Data/Enemies.rxdata
-Data/Items.rxdata
 Data/Map182.rxdata
 Data/Map183.rxdata
 Data/Map184.rxdata
@@ -174,6 +170,7 @@ Data/Map194.rxdata
 Data/Map195.rxdata
 Data/Map196.rxdata
 Data/Map197.rxdata
+Data/Map199.rxdata
 Data/Map200.rxdata
 Data/Map203.rxdata
 Data/Map206.rxdata
@@ -191,6 +188,7 @@ Data/Map233.rxdata
 Data/Map234.rxdata
 Data/Map235.rxdata
 Data/Map236.rxdata
+Data/Map239.rxdata
 Data/Map241.rxdata
 Data/Map243.rxdata
 Data/Map244.rxdata
@@ -224,11 +222,8 @@ Data/MapInfos.rxdata
 Data/PluginScripts.rxdata
 Data/Scripts/011_Battle/003_Move/005_MoveEffects_Misc.rb
 Data/Scripts/011_Battle/003_Move/006_MoveEffects_BattlerStats.rb
-Data/Skills.rxdata
-Data/States.rxdata
 Data/System.rxdata
 Data/Tilesets.rxdata
-Data/Weapons.rxdata
 Data/encounters.dat
 Data/items.dat
 Data/map_metadata.dat
@@ -236,6 +231,7 @@ Data/messages.dat
 Data/metadata.dat
 Data/moves.dat
 Data/species.dat
+Data/species_metrics.dat
 Data/trainer_types.dat
 Data/trainers.dat
 Graphics/Battlebacks/electric_base0.png
@@ -259,4 +255,10 @@ Graphics/Transitions/hgss_vs_LEADER_Chuck.png
 Graphics/Transitions/hgss_vs_LEADER_Clair.png
 Graphics/Transitions/hgss_vs_LEADER_Jasmine.png
 Graphics/Transitions/hgss_vs_LEADER_Pryce.png
+Graphics/Transitions/rocket_ROCKETADMIN_Archer.png
+Graphics/Transitions/rocket_ROCKETADMIN_Ariana.png
+Graphics/Transitions/vsTrainer_JUGGLER.png
+Graphics/Transitions/vsTrainer_PICNICKER.png
+Graphics/Transitions/vsTrainer_SAILOR.png
+Graphics/Transitions/vsTrainer_SWIMMER_F.png
 version
