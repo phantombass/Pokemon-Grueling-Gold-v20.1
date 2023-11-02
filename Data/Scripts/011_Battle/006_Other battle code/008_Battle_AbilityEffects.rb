@@ -1265,7 +1265,7 @@ Battle::AbilityEffects::DamageCalcFromUser.add(:FLASHFIRE,
 
 Battle::AbilityEffects::DamageCalcFromUser.add(:FLOWERGIFT,
   proc { |ability, user, target, move, mults, baseDmg, type|
-    if move.physicalMove? && [:Sun, :HarshSun].include?(user.effectiveWeather)
+    if move.specialMove? && [:Sun, :HarshSun].include?(user.effectiveWeather)
       mults[:attack_multiplier] *= 1.5
     end
   }
@@ -1493,7 +1493,7 @@ Battle::AbilityEffects::DamageCalcFromAlly.add(:BATTERY,
 
 Battle::AbilityEffects::DamageCalcFromAlly.add(:FLOWERGIFT,
   proc { |ability, user, target, move, mults, baseDmg, type|
-    if move.physicalMove? && [:Sun, :HarshSun].include?(user.effectiveWeather)
+    if move.specialMove? && [:Sun, :HarshSun].include?(user.effectiveWeather)
       mults[:attack_multiplier] *= 1.5
     end
   }
@@ -1533,7 +1533,7 @@ Battle::AbilityEffects::DamageCalcFromTarget.copy(:FILTER, :SOLIDROCK, :OMNIPOTE
 
 Battle::AbilityEffects::DamageCalcFromTarget.add(:FLOWERGIFT,
   proc { |ability, user, target, move, mults, baseDmg, type|
-    if move.specialMove? && [:Sun, :HarshSun].include?(target.effectiveWeather)
+    if [:Sun, :HarshSun].include?(target.effectiveWeather)
       mults[:defense_multiplier] *= 1.5
     end
   }
@@ -1631,7 +1631,7 @@ Battle::AbilityEffects::DamageCalcFromTargetNonIgnorable.add(:SHADOWSHIELD,
 
 Battle::AbilityEffects::DamageCalcFromTargetAlly.add(:FLOWERGIFT,
   proc { |ability, user, target, move, mults, baseDmg, type|
-    if move.specialMove? && [:Sun, :HarshSun].include?(target.effectiveWeather)
+    if [:Sun, :HarshSun].include?(target.effectiveWeather)
       mults[:defense_multiplier] *= 1.5
     end
   }

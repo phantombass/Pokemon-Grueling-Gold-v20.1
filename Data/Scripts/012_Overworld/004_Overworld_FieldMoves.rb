@@ -737,6 +737,7 @@ HiddenMoveHandlers::UseMove.add(:STRENGTH, proc { |move, pokemon|
 def pbSurf
   return false if $game_player.pbFacingEvent
   return false if !$game_player.can_ride_vehicle_with_follower?
+  return false if $PokemonGlobal.bridge == 2
   move = :SURF
   movefinder = $player.get_pokemon_with_move(move)
   if !pbCheckHiddenMoveBadge(Settings::BADGE_FOR_SURF, false) || (!$DEBUG && !movefinder)
@@ -804,6 +805,7 @@ EventHandlers.add(:on_player_interact, :start_surfing,
     next if $PokemonGlobal.surfing
     next if $game_map.metadata&.always_bicycle
     next if !$game_player.pbFacingTerrainTag.can_surf_freely
+    next if $PokemonGlobal.bridge == 2
     next if !$game_map.passable?($game_player.x, $game_player.y, $game_player.direction, $game_player)
     pbSurf
   }
