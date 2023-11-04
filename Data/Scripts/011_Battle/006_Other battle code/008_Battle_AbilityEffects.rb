@@ -156,7 +156,8 @@ module Battle::AbilityEffects
   end
 
   def self.triggerMoveBlocking(ability, bearer, user, targets, move, battle)
-    return true if $gym_tr_extreme && user.index == 0
+    return true if $gym_tr_expert && user.index == (0 || 2) && move.priority > 0
+    return true if $gym_tr_expert && user.index == (0 || 2) && move.type == :GROUND && move.damagingMove?
     return trigger(MoveBlocking, ability, bearer, user, targets, move, battle)
   end
 
