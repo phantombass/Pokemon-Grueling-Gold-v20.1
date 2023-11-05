@@ -276,6 +276,7 @@ SpecialBattleIntroAnimations.register("vs_admin_animation", 60,   # Priority 60
 SpecialBattleIntroAnimations.register("alternate_vs_trainer_animation", 50,   # Priority 50
   proc { |battle_type, foe, location|   # Condition
     next false if battle_type != 1   # Single trainer battle
+    next false if !$game_switches[LvlCap::Expert]
     if $game_switches[LvlCap::Expert]
       next false if !$game_switches[LvlCap::Boss]
     end
@@ -433,7 +434,7 @@ SpecialBattleIntroAnimations.register("alternate_vs_trainer_animation", 50,   # 
 # Play the "RocketGrunt" battle transition animation for any trainer battle
 # involving a Team Rocket Grunt. Is lower priority than the Vs. animation above.
 #===============================================================================
-SpecialBattleIntroAnimations.register("rocket_grunt_animation", 40,   # Priority 40
+SpecialBattleIntroAnimations.register("rocket_grunt_animation", 55,   # Priority 40
   proc { |battle_type, foe, location|   # Condition
     next false unless [1, 3].include?(battle_type)   # Only if a trainer battle
     trainer_types = [:TEAMROCKET_M, :TEAMROCKET_F]
