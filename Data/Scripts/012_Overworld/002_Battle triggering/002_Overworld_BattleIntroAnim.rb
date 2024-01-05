@@ -92,7 +92,10 @@ def pbBattleAnimation(bgm = nil, battletype = 0, foe = nil)
   handled = false
   SpecialBattleIntroAnimations.each do |name, priority, condition, animation|
     next if !condition.call(battletype, foe, location)
-    next if !$game_switches[LvlCap::Boss]
+    if !$game_switches[LvlCap::Boss]
+      trainer_types = [:TEAMROCKET_M, :TEAMROCKET_F]
+      next foe.any? { |f| !trainer_types.include?(f.trainer_type) }
+    end
     animation.call(viewport, battletype, foe, location)
     handled = true
     break
