@@ -99,6 +99,7 @@ class PokemonReadyMenu_Scene
   attr_reader :sprites
 
   def pbStartScene(commands)
+    $viewport_mission.pbEndScene if !$viewport_mission.nil?
     @commands = commands
     @movecommands = []
     @itemcommands = []
@@ -290,8 +291,14 @@ class PokemonReadyMenu
           $game_temp.in_menu = true
         end
       end
-      pbShowMenu
+      if $hm_fly == false
+        pbShowMenu
+      else
+        $game_temp.in_menu = false
+        break
+      end
     end
+    $hm_fly = false
     @scene.pbEndScene
   end
 end
