@@ -310,6 +310,9 @@ class Battle
   def pbEORCountDownBattlerEffect(priority, effect)
     priority.each do |battler|
       next if battler.fainted? || battler.effects[effect] == 0
+      next if effect == PBEffects::Taunt && $gym_taunt_expert == true
+      next if effect == PBEffects::TrickRoom && ($gym_tr == true || $gym_tr_expert == true)
+      next if effect == PBEffects::Tailwind && $gym_tailwind == true
       battler.effects[effect] -= 1
       yield battler if block_given? && battler.effects[effect] == 0
     end

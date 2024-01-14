@@ -96,6 +96,10 @@ def pbStartOver(gameover = false)
     end
     pbCancelVehicles
     Followers.clear
+    if $PokemonGlobal.pokemonSelectionOriginalParty!=nil
+      PokemonSelection.restore
+    end
+    reset_custom_variables
     $game_switches[Settings::STARTING_OVER_SWITCH] = true
     $game_temp.player_new_map_id    = $PokemonGlobal.pokecenterMapId
     $game_temp.player_new_x         = $PokemonGlobal.pokecenterX
