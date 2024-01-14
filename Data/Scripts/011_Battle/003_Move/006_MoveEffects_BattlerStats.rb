@@ -1200,6 +1200,7 @@ class Battle::Move::LowerTargetEvasion1RemoveSideEffects < Battle::Move::TargetS
   def pbFailsAgainstTarget?(user, target, show_message)
     targetSide = target.pbOwnSide
     targetOpposingSide = target.pbOpposingSide
+    return true if $gym_hazard == true
     return false if targetSide.effects[PBEffects::AuroraVeil] > 0 ||
                     targetSide.effects[PBEffects::LightScreen] > 0 ||
                     targetSide.effects[PBEffects::Reflect] > 0 ||
