@@ -342,6 +342,9 @@ class Battle
         pbJudge
         next
       end
+      if b.index == 0 && $gym_taunt_expert == true
+        b.effects[PBEffects::Taunt] = 999
+      end
       b.pbCheckForm
       # Primal Revert upon entering battle
       pbPrimalReversion(b.index)
