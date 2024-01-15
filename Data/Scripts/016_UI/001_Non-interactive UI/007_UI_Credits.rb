@@ -49,49 +49,29 @@ class Scene_Credits
   
 Thank you to everyone who caused your suffering
   
-Allister
-Shooting everyone
-  
-Bagon
-Not knowing how to go under a bridge
+Beta Testers:
 
-Diamond
-A picture of a cat
+Ryan
+Frostfire
+FloodRyan
+Druagal
+CloudEnvy
+Jordan
+Pendy
+BronzBaconBurger
+Big_Black23
+Pizzatacoburger2391
+MaximVT
 
-Fingkof
-Making us nerf Jumpluff
-  
-Geno
-Learning to hate programming
+Thanks to Dusk for helping with the team building and Pokemon change ideas
 
-Marlotix
-Pichu
-  
-MasterKrook
-Krookodile is too fast
-  
-Melody
-Making your gym too hard
-  
-Osha
-Teaching me how to bully through paint
-  
-Razzvy
-Wide Lens
+Thanks to my cats for walking on my keyboard
 
-Rex
-A lot of help but mostly losing to a Verlisify balloon
-  
-Secrets
-Teaching us the power of Silvally
-  
-Vork
-Something I think
-  
-Water
-Teaching me how to edit sprites that one time
-  
-Go to bed.
+Special appreciation to my wife and daughters, without whom I'd likely be insane
+
+And thank you. You made this dream real.
+
+Until the next one.
 
 _END_
 # Stop Editing
