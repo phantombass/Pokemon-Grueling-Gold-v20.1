@@ -1060,13 +1060,17 @@ ItemHandlers::UseOnPokemon.add(:ABILITYPATCH, proc { |item, qty, pkmn, scene|
   if scene.pbConfirm(_INTL("Do you want to change {1}'s Ability?", pkmn.name))
     abils = pkmn.getAbilityList
     new_ability_id = nil
-    abils.each { |a| new_ability_id = a[0] if a[1] == 2 }
-    if !new_ability_id || pkmn.hasHiddenAbility? || pkmn.isSpecies?(:ZYGARDE)
+    abrand = rand(2)
+    abils.each { |a| 
+      new_ability_id = a[0] if a[1] == 2
+      new_ability_id = a[0] if a[1] == abrand && pkmn.ability_index == 2
+    }
+    if !new_ability_id || pkmn.isSpecies?(:ZYGARDE)
       scene.pbDisplay(_INTL("It won't have any effect."))
       next false
     end
     new_ability_name = GameData::Ability.get(new_ability_id).name
-    pkmn.ability_index = 2
+    pkmn.ability_index = pkmn.ability_index == 2 ? abrand : 2
     pkmn.ability = nil
     scene.pbRefresh
     scene.pbDisplay(_INTL("{1}'s Ability changed! Its Ability is now {2}!",
