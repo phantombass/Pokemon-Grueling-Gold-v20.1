@@ -100,6 +100,8 @@ def pbStartOver(gameover = false)
       PokemonSelection.restore
     end
     reset_custom_variables
+    $game_switches[115] = false
+    $game_switches[173] = false
     $game_switches[Settings::STARTING_OVER_SWITCH] = true
     $game_temp.player_new_map_id    = $PokemonGlobal.pokecenterMapId
     $game_temp.player_new_x         = $PokemonGlobal.pokecenterX
