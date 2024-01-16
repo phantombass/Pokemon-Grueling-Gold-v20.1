@@ -139,6 +139,10 @@ end
 MultipleForms.register(:UNOWN, {
   "getFormOnCreation" => proc { |pkmn|
     next rand(28)
+  },
+  "getPrimalForm" => proc { |pkmn|
+    next 28 if pkmn.hasItem?(:UNOWNITE)
+    next
   }
 })
 
