@@ -227,7 +227,9 @@ class Battle::Battler
       @effects[PBEffects::PickupItem] = @item_id
       @effects[PBEffects::PickupUse]  = @battle.nextPickupUse
     end
-    setBelched if belch && self.item.is_berry?
+    if self.item != nil
+      setBelched if belch && self.item.is_berry?
+    end
     pbRemoveItem
     pbSymbiosis if symbiosis
   end
