@@ -222,9 +222,27 @@ class Battle::Battler
     # Darmanitan Zen mode
     if isSpecies?(:DARMANITAN)
       if hasActiveAbility?(:ZENMODE)
-        newForm = @form.odd? ? 1 : 0
-        newForm = 2 if [:Sun, :HarshSun].include?(effectiveWeather) && @form == 0
-        newForm = 3 if effectiveWeather == :Hail && @form == 1
+        if @form == 0
+          newForm = 0
+          if [:Sun,:HarshSun].include?(effectiveWeather)
+            newForm = 2
+          end
+        elsif @form == 1
+          newForm = 1
+          if effectiveWeather == :Hail
+            newForm = 3
+          end
+        elsif @form == 2
+          newForm = 2
+          if ![:Sun,:HarshSun].include?(effectiveWeather)
+            newForm = 0
+          end
+        elsif @form == 3
+          newForm = 3
+          if effectiveWeather != :Hail
+            newForm = 1
+          end
+        end
         if @form != newForm
           @battle.pbShowAbilitySplash(self, true)
           @battle.pbHideAbilitySplash(self)
