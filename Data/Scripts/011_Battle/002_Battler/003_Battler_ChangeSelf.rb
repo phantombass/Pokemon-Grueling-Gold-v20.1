@@ -248,8 +248,6 @@ class Battle::Battler
           @battle.pbHideAbilitySplash(self)
           pbChangeForm(newForm, _INTL("{1} transformed!", pbThis))
         end
-      else
-        pbChangeForm(0, _INTL("{1} transformed!", pbThis))
       end
     end
     # Eiscue - Ice Face
