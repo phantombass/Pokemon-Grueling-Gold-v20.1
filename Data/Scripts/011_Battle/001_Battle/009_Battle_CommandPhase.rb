@@ -148,7 +148,7 @@ class Battle
   end
 
   def pbRunMenu(idxBattler)
-    if $game_switches[LvlCap::Boss_Mon]
+    if $game_switches[LvlCap::Boss_Mon] && !$DEBUG
       pbMessage(_INTL("There's no running from a Boss Pokémon!"))
       return false
     end
