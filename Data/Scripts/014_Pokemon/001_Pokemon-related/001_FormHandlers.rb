@@ -143,6 +143,9 @@ MultipleForms.register(:UNOWN, {
   "getPrimalForm" => proc { |pkmn|
     next 28 if pkmn.hasItem?(:UNOWNITE)
     next
+  },
+  "getUnprimalForm" => proc { |pkmn|
+    next MultipleForms.call("getFormOnCreation",pkmn)
   }
 })
 
