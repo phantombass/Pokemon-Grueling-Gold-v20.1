@@ -219,37 +219,6 @@ class Battle::Battler
         pbChangeForm(0, _INTL("{1} transformed!", pbThis))
       end
     end
-    # Darmanitan Zen mode
-    if isSpecies?(:DARMANITAN)
-      if hasActiveAbility?(:ZENMODE)
-        if @form == 0
-          newForm = 0
-          if [:Sun,:HarshSun].include?(effectiveWeather)
-            newForm = 2
-          end
-        elsif @form == 1
-          newForm = 1
-          if effectiveWeather == :Hail
-            newForm = 3
-          end
-        elsif @form == 2
-          newForm = 2
-          if ![:Sun,:HarshSun].include?(effectiveWeather)
-            newForm = 0
-          end
-        elsif @form == 3
-          newForm = 3
-          if effectiveWeather != :Hail
-            newForm = 1
-          end
-        end
-        if @form != newForm
-          @battle.pbShowAbilitySplash(self, true)
-          @battle.pbHideAbilitySplash(self)
-          pbChangeForm(newForm, _INTL("{1} transformed!", pbThis))
-        end
-      end
-    end
     # Eiscue - Ice Face
     if !ability_changed && isSpecies?(:EISCUE) && self.ability == :ICEFACE &&
        @form == 1 && effectiveWeather == :Hail
@@ -265,19 +234,19 @@ class Battle::Battler
     # Form changes upon entering battle and when the weather changes
     pbCheckFormOnWeatherChange if !endOfRound
     # Darmanitan - Zen Mode
-    #if isSpecies?(:DARMANITAN) && self.ability == :ZENMODE
-    #  if @hp <= @totalhp / 2
-    #    if @form.even?
-    #      @battle.pbShowAbilitySplash(self, true)
-    #      @battle.pbHideAbilitySplash(self)
-    #      pbChangeForm(@form + 1, _INTL("{1} triggered!", abilityName))
-    #    end
-    #  elsif @form.odd?
-    #    @battle.pbShowAbilitySplash(self, true)
-    #    @battle.pbHideAbilitySplash(self)
-    #    pbChangeForm(@form - 1, _INTL("{1} triggered!", abilityName))
-    #  end
-    #end
+    if isSpecies?(:DARMANITAN) && self.ability == :ZENMODE
+      if @hp <= @totalhp / 2
+        if @form.even?
+          @battle.pbShowAbilitySplash(self, true)
+          @battle.pbHideAbilitySplash(self)
+          pbChangeForm(@form + 1, _INTL("{1} triggered!", abilityName))
+        end
+      elsif @form.odd?
+        @battle.pbShowAbilitySplash(self, true)
+        @battle.pbHideAbilitySplash(self)
+        pbChangeForm(@form - 1, _INTL("{1} triggered!", abilityName))
+      end
+    end
     # Minior - Shields Down
     if isSpecies?(:MINIOR) && self.ability == :SHIELDSDOWN
       if @hp > @totalhp / 2   # Turn into Meteor form
