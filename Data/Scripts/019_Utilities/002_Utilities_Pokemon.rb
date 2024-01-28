@@ -54,7 +54,7 @@ def pbAddPokemon(pkmn, level = 1, see_form = true)
   end
   pkmn = Pokemon.new(pkmn, level) if !pkmn.is_a?(Pokemon)
   species_name = pkmn.speciesName
-  pbMessage(_INTL("{1} obtained {2}!\\me[Pkmn get]\\wtnp[80]\1", $player.name, species_name))
+  pbMessage(_INTL("{1} obtained {2}!\\nIt has a #{GameData::Nature.get(pkmn.nature).name} Nature!\\me[Pkmn get]\\wtnp[80]\1", $player.name, species_name))
   was_owned = $player.owned?(pkmn.species)
   $player.pokedex.set_seen(pkmn.species)
   $player.pokedex.set_owned(pkmn.species)
@@ -280,7 +280,10 @@ def pbHasEgg?(species)
   compatSpecies = (evoSpecies && evoSpecies[0]) ? evoSpecies[0][0] : species
   species_data = GameData::Species.try_get(compatSpecies)
   compat = species_data.egg_groups
-  return false if compat.include?(:Undiscovered) || compat.include?(:Ditto)
+  legends = [:POIPOLE,:PHIONE,:COSMOG,:KUBFU,:MELTAN]
+  if !legends.include?(species)
+    return false if compat.include?(:Undiscovered) || compat.include?(:Ditto)
+  end
   baby = GameData::Species.get(species).get_baby_species
   return true if species == baby   # Is a basic species
   baby = GameData::Species.get(species).get_baby_species(true)
