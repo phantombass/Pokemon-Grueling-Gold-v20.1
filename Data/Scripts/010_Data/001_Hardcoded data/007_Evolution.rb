@@ -265,6 +265,7 @@ GameData::Evolution.register({
   :parameter            => Integer,
   :after_evolution_proc => proc { |pkmn, new_species, parameter, evo_species|
     next false if $player.party_full?
+    next false if $game_switches[LvlCap::Expert]
     next false if !$bag.has?(:POKEBALL)
     PokemonEvolutionScene.pbDuplicatePokemon(pkmn, new_species)
     $bag.remove(:POKEBALL)
