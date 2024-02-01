@@ -597,7 +597,7 @@ MultipleForms.register(:CRAMORANT, {
 
 MultipleForms.register(:TOXEL, {
   "getFormOnCreation" => proc { |pkmn|
-    next 2 if [:LONELY, :BOLD, :RELAXED, :TIMID, :SERIOUS, :MODEST, :MILD,
+    next 1 if [:LONELY, :BOLD, :RELAXED, :TIMID, :SERIOUS, :MODEST, :MILD,
                :QUIET, :BASHFUL, :CALM, :GENTLE, :CAREFUL].include?(pkmn.nature_id)
     next 0
   }
