@@ -595,16 +595,6 @@ MultipleForms.register(:CRAMORANT, {
   }
 })
 
-MultipleForms.register(:TOXEL, {
-  "getFormOnCreation" => proc { |pkmn|
-    next 1 if [:LONELY, :BOLD, :RELAXED, :TIMID, :SERIOUS, :MODEST, :MILD,
-               :QUIET, :BASHFUL, :CALM, :GENTLE, :CAREFUL].include?(pkmn.nature_id)
-    next 0
-  }
-})
-
-MultipleForms.copy(:TOXEL, :TOXTRICITY)
-
 MultipleForms.register(:SINISTEA, {
   "getFormOnCreation" => proc { |pkmn|
     next 1 if rand(100) < 10   # Antique
