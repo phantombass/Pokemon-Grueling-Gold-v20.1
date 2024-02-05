@@ -756,7 +756,7 @@ MultipleForms.copy(:RATTATA, :SANDSHREW, :VULPIX, :DIGLETT, :MEOWTH, :GEODUDE,
 # These species don't have visually different regional forms, but they need to
 # evolve into different forms depending on the location where they evolve.
 #===============================================================================
-
+=begin
 # Alolan forms
 MultipleForms.register(:PIKACHU, {
   "getForm" => proc { |pkmn|
@@ -784,3 +784,4 @@ MultipleForms.register(:KOFFING, {
 })
 
 MultipleForms.copy(:KOFFING, :MIMEJR)
+=end
