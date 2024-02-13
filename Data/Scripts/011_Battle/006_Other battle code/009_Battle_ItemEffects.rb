@@ -1388,13 +1388,13 @@ Battle::ItemEffects::OnBeingHit.add(:ROWAPBERRY,
     next if !user.takesIndirectDamage?
     amt = user.totalhp / 8
     ripening = false
-    if battler.hasActiveAbility?(:RIPEN)
-      battle.pbShowAbilitySplash(battler)
+    if user.hasActiveAbility?(:RIPEN)
+      battle.pbShowAbilitySplash(user)
       amt *= 2
       ripening = true
     end
     battle.pbCommonAnimation("EatBerry", target)
-    battle.pbHideAbilitySplash(battler) if ripening
+    battle.pbHideAbilitySplash(user) if ripening
     battle.scene.pbDamageAnimation(user)
     user.pbReduceHP(amt, false)
     battle.pbDisplay(_INTL("{1} consumed its {2} and hurt {3}!", target.pbThis,
