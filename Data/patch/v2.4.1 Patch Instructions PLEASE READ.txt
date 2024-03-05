@@ -1,0 +1,18 @@
+Once you have extracted this, read the following:
+
+If this is the first time you're patching, you need to copy EVERYTHING
+and paste it into the Pokemon Grueling Gold folder. However, if
+you have patched before, unless specifically stated below
+or in the Discord, you do not need to overwrite the
+Graphics folder again. Just copy the Data folder and the version file
+and paste it directly into your Pokemon Grueling Gold folder.
+When it asks you if you want to overwrite, say yes to all.
+
+If you are updating from 2.4.0, the current version does NOT need a Graphics
+folder update. If you're on an earlier version, please be sure you overwrite
+all the graphics files when asked.
+
+If you are interested in doing an expert mode run and having it continue, edit the run_counter
+and expert_name files in this folder and drag them into your Data folder before applying the
+patch. This will change your name and run count to whatever you choose. You can open these
+files in Notepad.
