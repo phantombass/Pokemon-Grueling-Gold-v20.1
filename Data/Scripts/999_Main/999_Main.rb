@@ -26,6 +26,7 @@ def mainFunctionDebug
   begin
     MessageTypes.loadMessageFile("Data/messages.dat") if safeExists?("Data/messages.dat")
     PluginManager.runPlugins
+    $MOBILE = true
     Compiler.main
     Game.initialize
     Game.set_up_system
