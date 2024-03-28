@@ -95,6 +95,9 @@ class Battle::Move
     # "Always hit" effects and "always hit" accuracy
     return true if target.effects[PBEffects::Telekinesis] > 0
     return true if target.effects[PBEffects::Minimize] && tramplesMinimize? && Settings::MECHANICS_GENERATION >= 6
+    return true if user.pbHasType?(:POISON) && statusMove? && self.is_a?(Battle::Move::BadPoisonTarget)
+    return true if user.pbHasType?(:FIRE) && statusMove? && self.is_a?(Battle::Move::BurnTarget)
+    return true if user.pbHasType?(:ELECTRIC) && statusMove? && @type == :ELECTRIC && self.is_a?(Battle::Move::ParalyzeTarget)
     baseAcc = pbBaseAccuracy(user, target)
     return true if baseAcc == 0
     # Calculate all multiplier effects

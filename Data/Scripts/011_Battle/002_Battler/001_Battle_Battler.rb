@@ -730,7 +730,7 @@ class Battle::Battler
   # Returns the data structure for this battler's side.
   def pbOwnSide
     return @battle.sides[0] if $spam_block_triggered && @index != 1
-    return @battle.sides[idxOwnSide]
+    return idxOwnSide == false ? @battle.sides[0] : @battle.sides[idxOwnSide]
   end
 
   # Returns the data structure for the opposing Pokémon's side.

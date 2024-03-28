@@ -185,6 +185,7 @@ class PokemonEncounters
   def allow_encounter?(enc_data, repel_active = false)
     return false if !enc_data
     return true if pbPokeRadarOnShakingGrass
+    return false if repel_active
     # Repel
     if repel_active
       first_pkmn = (Settings::REPEL_COUNTS_FAINTED_POKEMON) ? $player.first_pokemon : $player.first_able_pokemon

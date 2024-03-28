@@ -1767,9 +1767,9 @@ Battle::AbilityEffects::OnBeingHit.add(:CUTECHARM,
     next if target.fainted?
     next if !move.pbContactMove?(user)
     next if battle.pbRandom(100) >= 30
-    battle.pbShowAbilitySplash(target)
     if user.pbCanAttract?(target, Battle::Scene::USE_ABILITY_SPLASH) &&
        user.affectedByContactEffect?(Battle::Scene::USE_ABILITY_SPLASH)
+       battle.pbShowAbilitySplash(target)
       msg = nil
       if !Battle::Scene::USE_ABILITY_SPLASH
         msg = _INTL("{1}'s {2} made {3} fall in love!", target.pbThis,
@@ -1792,12 +1792,12 @@ Battle::AbilityEffects::OnBeingHit.add(:EFFECTSPORE,
     next if r == 0 && user.asleep?
     next if r == 1 && user.poisoned?
     next if r == 2 && user.paralyzed?
-    battle.pbShowAbilitySplash(target)
     if user.affectedByPowder?(Battle::Scene::USE_ABILITY_SPLASH) &&
        user.affectedByContactEffect?(Battle::Scene::USE_ABILITY_SPLASH)
       case r
       when 0
         if user.pbCanSleep?(target, Battle::Scene::USE_ABILITY_SPLASH)
+          battle.pbShowAbilitySplash(target)
           msg = nil
           if !Battle::Scene::USE_ABILITY_SPLASH
             msg = _INTL("{1}'s {2} made {3} fall asleep!", target.pbThis,
@@ -1807,6 +1807,7 @@ Battle::AbilityEffects::OnBeingHit.add(:EFFECTSPORE,
         end
       when 1
         if user.pbCanPoison?(target, Battle::Scene::USE_ABILITY_SPLASH)
+          battle.pbShowAbilitySplash(target)
           msg = nil
           if !Battle::Scene::USE_ABILITY_SPLASH
             msg = _INTL("{1}'s {2} poisoned {3}!", target.pbThis,
@@ -1816,6 +1817,7 @@ Battle::AbilityEffects::OnBeingHit.add(:EFFECTSPORE,
         end
       when 2
         if user.pbCanParalyze?(target, Battle::Scene::USE_ABILITY_SPLASH)
+          battle.pbShowAbilitySplash(target)
           msg = nil
           if !Battle::Scene::USE_ABILITY_SPLASH
             msg = _INTL("{1}'s {2} paralyzed {3}! It may be unable to move!",
@@ -1833,9 +1835,9 @@ Battle::AbilityEffects::OnBeingHit.add(:FLAMEBODY,
   proc { |ability, user, target, move, battle|
     next if !move.pbContactMove?(user)
     next if user.burned? || battle.pbRandom(100) >= 30
-    battle.pbShowAbilitySplash(target)
     if user.pbCanBurn?(target, Battle::Scene::USE_ABILITY_SPLASH) &&
        user.affectedByContactEffect?(Battle::Scene::USE_ABILITY_SPLASH)
+       battle.pbShowAbilitySplash(target)
       msg = nil
       if !Battle::Scene::USE_ABILITY_SPLASH
         msg = _INTL("{1}'s {2} burned {3}!", target.pbThis, target.abilityName, user.pbThis(true))
@@ -1918,7 +1920,6 @@ Battle::AbilityEffects::OnBeingHit.add(:MUMMY,
     next if user.fainted?
     next if user.unstoppableAbility? || user.ability == ability
     oldAbil = nil
-    battle.pbShowAbilitySplash(target) if user.opposes?(target)
     if user.affectedByContactEffect?(Battle::Scene::USE_ABILITY_SPLASH)
       oldAbil = user.ability
       battle.pbShowAbilitySplash(user, true, false) if user.opposes?(target)
@@ -1964,9 +1965,9 @@ Battle::AbilityEffects::OnBeingHit.add(:POISONPOINT,
   proc { |ability, user, target, move, battle|
     next if !move.pbContactMove?(user)
     next if user.poisoned? || battle.pbRandom(100) >= 30
-    battle.pbShowAbilitySplash(target)
     if user.pbCanPoison?(target, Battle::Scene::USE_ABILITY_SPLASH) &&
        user.affectedByContactEffect?(Battle::Scene::USE_ABILITY_SPLASH)
+       battle.pbShowAbilitySplash(target)
       msg = nil
       if !Battle::Scene::USE_ABILITY_SPLASH
         msg = _INTL("{1}'s {2} poisoned {3}!", target.pbThis, target.abilityName, user.pbThis(true))
@@ -2000,9 +2001,9 @@ Battle::AbilityEffects::OnBeingHit.add(:STATIC,
   proc { |ability, user, target, move, battle|
     next if !move.pbContactMove?(user)
     next if user.paralyzed? || battle.pbRandom(100) >= 30
-    battle.pbShowAbilitySplash(target)
     if user.pbCanParalyze?(target, Battle::Scene::USE_ABILITY_SPLASH) &&
        user.affectedByContactEffect?(Battle::Scene::USE_ABILITY_SPLASH)
+       battle.pbShowAbilitySplash(target)
       msg = nil
       if !Battle::Scene::USE_ABILITY_SPLASH
         msg = _INTL("{1}'s {2} paralyzed {3}! It may be unable to move!",
@@ -2020,7 +2021,7 @@ Battle::AbilityEffects::OnBeingHit.add(:WANDERINGSPIRIT,
     next if user.ungainableAbility? || [:RECEIVER, :WONDERGUARD].include?(user.ability_id)
     oldUserAbil   = nil
     oldTargetAbil = nil
-    battle.pbShowAbilitySplash(target) if user.opposes?(target)
+    #battle.pbShowAbilitySplash(target) if user.opposes?(target)
     if user.affectedByContactEffect?(Battle::Scene::USE_ABILITY_SPLASH)
       battle.pbShowAbilitySplash(user, true, false) if user.opposes?(target)
       oldUserAbil   = user.ability
@@ -2078,6 +2079,7 @@ Battle::AbilityEffects::OnDealingHit.add(:POISONTOUCH,
   proc { |ability, user, target, move, battle|
     next if !move.contactMove?
     next if battle.pbRandom(100) >= 30
+    next if target.fainted?
     battle.pbShowAbilitySplash(user)
     if target.hasActiveAbility?(:SHIELDDUST) && !battle.moldBreaker
       battle.pbShowAbilitySplash(target)
