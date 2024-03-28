@@ -62,7 +62,7 @@ class DayCare
     def generate_basic_egg(species)
       egg = Pokemon.new(species, Settings::EGG_LEVEL)
       egg.name           = _INTL("Egg")
-      egg.steps_to_hatch = egg.species_data.hatch_steps
+      egg.steps_to_hatch = 20
       egg.obtain_text    = _INTL("Day-Care Couple")
       egg.happiness      = 120
       egg.form           = 0 if species == :SINISTEA
