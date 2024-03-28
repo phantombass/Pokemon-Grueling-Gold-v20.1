@@ -407,7 +407,7 @@ class Battle::Move::AddToxicSpikesToFoeSide < Battle::Move
 
   def pbEffectGeneral(user)
     user.pbOpposingSide.effects[PBEffects::ToxicSpikes] += 1
-    $toxic_spikes[user.idxOpposingSide] += user.pbOpposingSide.effects[PBEffects::ToxicSpikes]
+    $toxic_spikes[user.idxOpposingSide] += 1
     @battle.pbDisplay(_INTL("Poison spikes were scattered all around {1}'s feet!",
                             user.pbOpposingTeam(true)))
   end
@@ -587,7 +587,8 @@ class Battle::Move::RemoveUserBindingAndEntryHazards < Battle::Move::StatUpMove
       user.pbOwnSide.effects[PBEffects::Spikes] = 0
       @battle.pbDisplay(_INTL("{1} blew away spikes!", user.pbThis))
     end
-    if $toxic_spikes[user.idxOwnSide] > 0
+    if $toxic_spikes[user.idxOwnSide] > 0 || user.pbOwnSide.effects[PBEffects::ToxicSpikes] > 0
+      user.pbOwnSide.effects[PBEffects::ToxicSpikes] = 0
       $toxic_spikes[user.idxOwnSide] = 0
       @battle.pbDisplay(_INTL("{1} blew away poison spikes!", user.pbThis))
     end

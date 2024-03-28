@@ -92,7 +92,7 @@ def pbBattleAnimation(bgm = nil, battletype = 0, foe = nil)
   handled = false
   SpecialBattleIntroAnimations.each do |name, priority, condition, animation|
     next if !condition.call(battletype, foe, location)
-    if !$game_switches[LvlCap::Boss]
+    if !$game_switches[LvlCap::Boss] && !$game_switches[LvlCap::Rival] && !$game_switches[LvlCap::Gym] && !$game_switches[LvlCap::Rival2] && !$game_switches[LvlCap::Elite_Four]
       trainer_types = [:TEAMROCKET_M, :TEAMROCKET_F]
       next foe.any? { |f| !trainer_types.include?(f.trainer_type) }
     end
@@ -281,7 +281,7 @@ SpecialBattleIntroAnimations.register("alternate_vs_trainer_animation", 50,   # 
     next false if battle_type != 1   # Single trainer battle
     next false if !$game_switches[LvlCap::Expert]
     if $game_switches[LvlCap::Expert]
-      next false if !$game_switches[LvlCap::Boss]
+      next false if !$game_switches[LvlCap::Boss] && !$game_switches[LvlCap::Rival] && !$game_switches[LvlCap::Gym] && !$game_switches[LvlCap::Rival2] && !$game_switches[LvlCap::Elite_Four]
     end
     tr_type = foe[0].trainer_type
     next pbResolveBitmap("Graphics/Transitions/vsTrainer_#{tr_type}") &&
