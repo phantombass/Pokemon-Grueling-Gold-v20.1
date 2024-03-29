@@ -188,11 +188,7 @@ class Battle::Move::HitOncePerUserTeamMember < Battle::Move
   end
 
   def pbBaseDamage(baseDmg, user, target)
-    if user.opposes? && user.has_role?(:TARGETALLY)
-      return 5
-    else
-      return 15
-    end
+    return 10
   end
 end
 
