@@ -119,7 +119,7 @@ class Battle::Scene
         $spam_block_flags[:initiative_flag].push(chosen_move) if initative.include?(chosen_move.function) && !@battle.doublebattle
         $spam_block_flags[:protect_switch].push(chosen_move) if chosen_move.is_a?(Battle::Move::ProtectUser) && !@battle.doublebattle
         $spam_block_flags[:choice] = battler.moves[cw.index]
-        $spam_block_flags[:triple_switch].clear
+        $spam_block_flags[:triple_switch] = []
         pbPlayDecisionSE
         break if yield cw.index
         needFullRefresh = true
