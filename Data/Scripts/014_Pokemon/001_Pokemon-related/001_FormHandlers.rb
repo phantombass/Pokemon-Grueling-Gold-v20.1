@@ -224,7 +224,7 @@ MultipleForms.register(:ROTOM, {
       :OVERHEAT,    # Heat (microwave oven)
       :HYDROPUMP,   # Wash (washing machine)
       :BLIZZARD,    # Frost (refrigerator)
-      :AIRSLASH,    # Fan (electric fan)
+      :WINDDRILL,    # Fan (electric fan)
       :LEAFSTORM    # Mow (lawn mower)
     ]
     # Find a known move that should be forgotten
@@ -318,7 +318,8 @@ MultipleForms.register(:ARCEUS, {
 
 MultipleForms.register(:DARMANITAN, {
   "getFormOnLeavingBattle" => proc { |pkmn, battle, usedInBattle, endBattle|
-    next 2 * (pkmn.form / 2)
+    change = pkmn.form.odd? ? 1 : 0
+    next change
   }
 })
 
