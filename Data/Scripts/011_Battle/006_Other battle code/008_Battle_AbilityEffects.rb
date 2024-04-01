@@ -1400,6 +1400,7 @@ Battle::AbilityEffects::DamageCalcFromUser.add(:SNIPER,
 
 Battle::AbilityEffects::DamageCalcFromUser.add(:STAKEOUT,
   proc { |ability, user, target, move, mults, baseDmg, type|
+    next if target.index == nil
     mults[:attack_multiplier] *= 2 if target.battle.choices[target.index][0] == :SwitchOut
   }
 )
