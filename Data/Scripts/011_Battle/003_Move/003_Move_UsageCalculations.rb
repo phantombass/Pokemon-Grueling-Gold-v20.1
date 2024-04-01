@@ -261,6 +261,7 @@ class Battle::Move
     type = @calcType   # nil is treated as physical
     # Calculate whether this hit deals critical damage
     target.damageState.critical = pbIsCritical?(user, target)
+    target.damageState.critical = false if target.item == :MITHRILSHIELD && !["AlwaysCriticalHit","HitThreeTimesAlwaysCriticalHit"].include?(@function)
     # Calcuate base power of move
     baseDmg = pbBaseDamage(@baseDamage, user, target)
     # Calculate user's attack stat
