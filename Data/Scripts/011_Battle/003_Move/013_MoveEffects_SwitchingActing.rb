@@ -628,6 +628,7 @@ end
 #===============================================================================
 class Battle::Move::StartSlowerBattlersActFirst < Battle::Move
   def pbEffectGeneral(user)
+    $gym_tr = false
     if @battle.field.effects[PBEffects::TrickRoom] > 0
       @battle.field.effects[PBEffects::TrickRoom] = 0
       @battle.pbDisplay(_INTL("{1} reverted the dimensions!", user.pbThis))
