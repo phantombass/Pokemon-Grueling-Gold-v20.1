@@ -7,6 +7,7 @@ module Battle::CatchAndStoreMixin
     if !pkmn.shadowPokemon?
       if $PokemonSystem.givenicknames == 0 &&
          pbDisplayConfirm(_INTL("Would you like to give a nickname to {1}?", pkmn.name))
+         $qol_toggle = false
         nickname = @scene.pbNameEntry(_INTL("{1}'s nickname?", pkmn.speciesName), pkmn)
         pkmn.name = nickname
       end
@@ -84,6 +85,7 @@ module Battle::CatchAndStoreMixin
     # Messages saying the Pokémon was stored in a PC box
     box_name = @peer.pbBoxName(stored_box)
     pbDisplayPaused(_INTL("{1} has been sent to Box \"{2}\"!", pkmn.name, box_name))
+    $qol_toggle = true
   end
 
   # Register all caught Pokémon in the Pokédex, and store them.
