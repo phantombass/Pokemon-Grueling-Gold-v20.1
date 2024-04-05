@@ -225,6 +225,7 @@ end
 def pbTrainerName(name = nil, outfit = 0)
   pbChangePlayer(1) if $player.character_ID < 1
   if name.nil?
+    $game_switches[NavNums::Dispose] = true
     name = pbEnterPlayerName(_INTL("Your name?"), 0, Settings::MAX_PLAYER_NAME_SIZE)
     if name.nil? || name.empty?
       player_metadata = GameData::PlayerMetadata.get($player.character_ID)
@@ -235,6 +236,7 @@ def pbTrainerName(name = nil, outfit = 0)
   end
   $player.name   = name
   $player.outfit = outfit
+  $game_switches[NavNums::Dispose] = false
 end
 
 def pbSuggestTrainerName(gender)
