@@ -157,6 +157,7 @@ class Interpreter
   #-----------------------------------------------------------------------------
   def command_101
     return false if $game_temp.message_window_showing
+    $qol_toggle = false
     message     = @list[@index].parameters[0]
     message_end = ""
     choices                 = nil
@@ -201,6 +202,7 @@ class Interpreter
       pbMessage(message + message_end)
     end
     @message_waiting = false
+    $qol_toggle = true
     return true
   end
   #-----------------------------------------------------------------------------
