@@ -731,10 +731,10 @@ class Battle::Battler
   def pbOwnSide
     return @battle.sides[0] if $spam_block_triggered && @index != 1
     if idxOwnSide == false
-      idx = $threat_index.odd? ? 1 : 0
-      @battle.sides[idx]
+      idx = [1,3].include?($threat_index) ? 1 : 0
+      return @battle.sides[idx]
     else
-      @battle.sides[idxOwnSide]
+      return @battle.sides[idxOwnSide]
     end
   end
 
