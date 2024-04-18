@@ -279,8 +279,8 @@ SpecialBattleIntroAnimations.register("vs_admin_animation", 60,   # Priority 60
 SpecialBattleIntroAnimations.register("alternate_vs_trainer_animation", 50,   # Priority 50
   proc { |battle_type, foe, location|   # Condition
     next false if battle_type != 1   # Single trainer battle
-    next false if !$game_switches[LvlCap::Expert] && !game_switches[901]
-    if $game_switches[LvlCap::Expert] || $game_switches[901]
+    next false if !game_switches[901]
+    if $game_switches[901]
       next false if !$game_switches[LvlCap::Boss] && !$game_switches[LvlCap::Rival] && !$game_switches[LvlCap::Gym] && !$game_switches[LvlCap::Rival2] && !$game_switches[LvlCap::Elite_Four]
     end
     tr_type = foe[0].trainer_type

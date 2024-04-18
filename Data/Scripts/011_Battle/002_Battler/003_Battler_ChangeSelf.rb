@@ -235,16 +235,10 @@ class Battle::Battler
     pbCheckFormOnWeatherChange if !endOfRound
     # Darmanitan - Zen Mode
     if isSpecies?(:DARMANITAN) && self.ability == :ZENMODE
-      if @hp <= @totalhp / 2
-        if @form.even?
-          @battle.pbShowAbilitySplash(self, true)
-          @battle.pbHideAbilitySplash(self)
-          pbChangeForm(@form + 1, _INTL("{1} triggered!", abilityName))
-        end
-      elsif @form.odd?
+      if @form < 2
         @battle.pbShowAbilitySplash(self, true)
         @battle.pbHideAbilitySplash(self)
-        pbChangeForm(@form - 1, _INTL("{1} triggered!", abilityName))
+        pbChangeForm(@form + 2, _INTL("{1} triggered!", abilityName))
       end
     end
     # Minior - Shields Down
