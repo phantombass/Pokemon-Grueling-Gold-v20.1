@@ -319,7 +319,7 @@ MultipleForms.register(:ARCEUS, {
 MultipleForms.register(:DARMANITAN, {
   "getFormOnLeavingBattle" => proc { |pkmn, battle, usedInBattle, endBattle|
     change = pkmn.form.odd? ? 1 : 0
-    next change
+    next change if endBattle
   }
 })
 
