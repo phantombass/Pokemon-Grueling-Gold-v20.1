@@ -1,0 +1,55 @@
+
+Ledyba
+Ability: Early Bird
+Level: 15
+Tera Type: Bug
+Lax Nature
+IVs: 26 HP / 5 Atk / 6 Def / 17 SpA / 5 SpD / 14 Spe
+- Tackle
+- Light Screen
+- Reflect
+- Mach Punch
+
+Pidgey @ Oran Berry
+Ability: Keen Eye
+Level: 15
+Tera Type: Normal
+Sassy Nature
+IVs: 10 HP / 8 Atk / 29 Def / 26 SpA / 20 SpD / 16 Spe
+- Swift
+- Gust
+- Quick Attack
+- Doldrums
+
+Snivy
+Ability: Unshaken
+Level: 15
+Tera Type: Grass
+Hardy Nature
+IVs: 31 HP / 27 Atk / 28 Def / 25 SpA / 26 SpD / 1 Spe
+- Leaf Tornado
+- Leer
+- Vine Whip
+- Tackle
+
+Sneasel-Hisui
+Ability: Inner Focus
+Level: 17
+Tera Type: Poison
+Jolly Nature
+IVs: 23 HP / 3 Atk / 31 Def / 26 SpA / 21 SpD / 20 Spe
+- Tackle
+- Rock Tomb
+- Arm Thrust
+- Circle Throw
+
+Wiglett @ Oran Berry
+Ability: Sand Rush
+Level: 15
+Tera Type: Water
+Bashful Nature
+IVs: 23 HP / 16 Atk / 21 Def / 31 SpA / 20 SpD / 3 Spe
+- Water Gun
+- Mud-Slap
+- Headbutt
+- Aqua Jet
