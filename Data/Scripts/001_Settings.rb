@@ -31,7 +31,7 @@ module Settings
   # The maximum number of Pokémon that can be in the party.
   MAX_PARTY_SIZE       = 6
   # The maximum level Pokémon can reach.
-  MAXIMUM_LEVEL        = 100
+  MAXIMUM_LEVEL        = 110
   # The level of newly hatched Pokémon.
   EGG_LEVEL            = 1
   # The odds of a newly generated Pokémon being shiny (out of 65536).

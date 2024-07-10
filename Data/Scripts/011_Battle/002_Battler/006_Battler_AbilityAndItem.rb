@@ -392,10 +392,8 @@ class Battle::Battler
     return false if !forced && !canConsumePinchBerry?(Settings::MECHANICS_GENERATION >= 7)
     used_item_name = GameData::Item.get(item_to_use).name
     fraction_to_heal = 8   # Gens 6 and lower
-    if Settings::MECHANICS_GENERATION == 7
+    if Settings::MECHANICS_GENERATION >= 7
       fraction_to_heal = 2
-    elsif Settings::MECHANICS_GENERATION >= 8
-      fraction_to_heal = 3
     end
     amt = @totalhp / fraction_to_heal
     ripening = false
