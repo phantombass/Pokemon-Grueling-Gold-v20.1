@@ -661,16 +661,16 @@ PICKUP_COMMON_ITEMS = [
   :ANTIDOTE,      # Levels 1-10, 11-20
   :SUPERPOTION,   # Levels 1-10, 11-20, 21-30
   :GREATBALL,     # Levels 1-10, 11-20, 21-30, 31-40
-  :REPEL,         # Levels 1-10, 11-20, 21-30, 31-40, 41-50
-  :ESCAPEROPE,    # Levels 1-10, 11-20, 21-30, 31-40, 41-50, 51-60
+  :QUICKBALL,     # Levels 1-10, 11-20, 21-30, 31-40, 41-50
+  :TIMERBALL,     # Levels 1-10, 11-20, 21-30, 31-40, 41-50, 51-60
   :FULLHEAL,      # Levels 1-10, 11-20, 21-30, 31-40, 41-50, 51-60, 61-70
   :HYPERPOTION,   # Levels 1-10, 11-20, 21-30, 31-40, 41-50, 51-60, 61-70, 71-80
   :ULTRABALL,     # Levels 1-10, 11-20, 21-30, 31-40, 41-50, 51-60, 61-70, 71-80, 81-90
   :REVIVE,        # Levels       11-20, 21-30, 31-40, 41-50, 51-60, 61-70, 71-80, 81-90, 91-100
-  :HEARTSCALE,    # Levels              21-30, 31-40, 41-50, 51-60, 61-70, 71-80, 81-90, 91-100
+  :LUMBERRY,      # Levels              21-30, 31-40, 41-50, 51-60, 61-70, 71-80, 81-90, 91-100
   :SUNSTONE,      # Levels                     31-40, 41-50, 51-60, 61-70, 71-80, 81-90, 91-100
   :MOONSTONE,     # Levels                            41-50, 51-60, 61-70, 71-80, 81-90, 91-100
-  :HEARTSCALE,    # Levels                                   51-60, 61-70, 71-80, 81-90, 91-100
+  :LUMBERRY,      # Levels                                   51-60, 61-70, 71-80, 81-90, 91-100
   :FULLRESTORE,   # Levels                                          61-70, 71-80, 81-90, 91-100
   :MAXREVIVE,     # Levels                                                 71-80, 81-90, 91-100
   :PPUP,          # Levels                                                        81-90, 91-100
@@ -691,11 +691,11 @@ PICKUP_RARE_ITEMS = [
   :KINGSROCK,     # Levels       11-20, 21-30
   :FULLRESTORE,   # Levels              21-30, 31-40
   :ETHER,         # Levels                     31-40, 41-50
-  :IRONBALL,      # Levels                            41-50, 51-60
+  :FULLHEAL,      # Levels                            41-50, 51-60
   :DESTINYKNOT,   # Levels                                   51-60, 61-70
   :ELIXIR,        # Levels                                          61-70, 71-80
   :DESTINYKNOT,   # Levels                                                 71-80, 81-90
-  :LEFTOVERS,     # Levels                                                        81-90, 91-100
+  :LEPPABERRY,    # Levels                                                        81-90, 91-100
   :DESTINYKNOT    # Levels                                                               91-100
 ]
 # Chances to get each item added to the pool from the array above.
