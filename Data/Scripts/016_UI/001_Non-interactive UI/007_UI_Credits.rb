@@ -48,10 +48,15 @@ class Scene_Credits
   CREDIT = <<_END_
   
 Thank you to everyone who caused your suffering
+
+Art:
+
+aveontrainer - Gen 3 style trainer overworlds
+
   
 Beta Testers:
 
-Ryan
+Zinkatron
 Frostfire
 FloodRyan
 Druagal
@@ -63,7 +68,7 @@ Big_Black23
 Pizzatacoburger2391
 MaximVT
 
-Thanks to Dusk for helping with the team building and Pokemon change ideas
+Thanks to Dusk, Zinkatron and Frostfire for helping with the team building and Pokemon change ideas
 
 Thanks to my cats for walking on my keyboard
 
