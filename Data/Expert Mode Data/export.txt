@@ -1,54 +1,50 @@
-Cyndaquil @ Oran Berry
-Level: 10
+
+Chimecho
+Level: 15
+Impish Nature
+Ability: Hopeful Toll
+IVs: 28 HP / 9 Atk / 8 Def / 16 SpA / 8 SpD / 22 Spe
+- Mach Pulse
+- Yawn
+- Draining Kiss
+- Confusion
+
+Cyndaquil
+Level: 15
 Modest Nature
 Ability: Unshaken
 IVs: 23 HP / 31 Atk / 12 Def / 31 SpA / 20 SpD / 31 Spe
 - Tackle
 - Leer
-- Ember
+- Incinerate
 - Smokescreen
 
-Surskit
-Level: 10
-Relaxed Nature
-Ability: Swift Swim
-IVs: 1 HP / 20 Atk / 31 Def / 22 SpA / 14 SpD / 26 Spe
-- Bubble
-- Quick Attack
-
-Bidoof
-Level: 10
-Lax Nature
-Ability: Telepathy
-IVs: 9 HP / 9 Atk / 24 Def / 13 SpA / 8 SpD / 19 Spe
-- Tackle
-- Growl
-
-Slugma
-Level: 10
+Ekans
+Level: 15
 Impish Nature
-Ability: Flame Body
-IVs: 29 HP / 2 Atk / 30 Def / 5 SpA / 3 SpD / 19 Spe
-- Yawn
-- Smog
-- Ember
-- Rock Throw
-
-Pancham
-Level: 10
-Bashful Nature
-Ability: Scrappy
-IVs: 7 HP / 26 Atk / 22 Def / 0 SpA / 27 SpD / 6 Spe
-- Tackle
+Ability: Intimidate
+IVs: 13 HP / 15 Atk / 5 Def / 20 SpA / 7 SpD / 15 Spe
+- Poison Fang
 - Leer
-- Arm Thrust
-- Circle Throw
+- Bite
+- Glare
 
-Munna
-Level: 10
-Bold Nature
-Ability: Unshaken
-IVs: 4 HP / 9 Atk / 8 Def / 6 SpA / 20 SpD / 6 Spe
-- Stored Power
-- Hypnosis
-- Psybeam
+Skrelp
+Level: 15
+Rash Nature
+Ability: Adaptability
+IVs: 12 HP / 18 Atk / 18 Def / 12 SpA / 28 SpD / 24 Spe
+- Tackle
+- Smokescreen
+- Sludge
+- Water Pulse
+
+Skitty
+Level: 15
+Quirky Nature
+Ability: Cute Charm
+IVs: 12 HP / 12 Atk / 24 Def / 9 SpA / 31 SpD / 14 Spe
+- Fake Out
+- Tackle
+- Swift
+- Disarming Voice
