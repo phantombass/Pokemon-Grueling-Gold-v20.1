@@ -1,50 +1,30 @@
 
-Chimecho
+Lopunny @ Silk Scarf
 Level: 15
-Impish Nature
-Ability: Hopeful Toll
-IVs: 28 HP / 9 Atk / 8 Def / 16 SpA / 8 SpD / 22 Spe
-- Mach Pulse
-- Yawn
-- Draining Kiss
-- Confusion
-
-Cyndaquil
-Level: 15
-Modest Nature
-Ability: Unshaken
-IVs: 23 HP / 31 Atk / 12 Def / 31 SpA / 20 SpD / 31 Spe
-- Tackle
-- Leer
-- Incinerate
-- Smokescreen
-
-Ekans
-Level: 15
-Impish Nature
-Ability: Intimidate
-IVs: 13 HP / 15 Atk / 5 Def / 20 SpA / 7 SpD / 15 Spe
-- Poison Fang
-- Leer
-- Bite
-- Glare
-
-Skrelp
-Level: 15
-Rash Nature
-Ability: Adaptability
-IVs: 12 HP / 18 Atk / 18 Def / 12 SpA / 28 SpD / 24 Spe
-- Tackle
-- Smokescreen
-- Sludge
-- Water Pulse
-
-Skitty
-Level: 15
-Quirky Nature
-Ability: Cute Charm
-IVs: 12 HP / 12 Atk / 24 Def / 9 SpA / 31 SpD / 14 Spe
+Naughty Nature
+Ability: Technician
+IVs: 22 HP / 21 Atk / 3 Def / 15 SpA / 16 SpD / 0 Spe
+- Mirror Coat
+- Quick Attack
+- Baby-Doll Eyes
 - Fake Out
+
+Leavanny @ Oran Berry
+Level: 15
+Docile Nature
+Ability: Sharpness
+IVs: 5 HP / 20 Atk / 31 Def / 0 SpA / 4 SpD / 12 Spe
+- Slash
+- Razor Leaf
+- Bug Bite
+- String Shot
+
+Cyndaquil @ Oran Berry
+Level: 15
+Serious Nature
+Ability: Blaze
+IVs: 6 HP / 31 Atk / 31 Def / 10 SpA / 31 SpD / 31 Spe
 - Tackle
-- Swift
-- Disarming Voice
+- Quick Attack
+- Ember
+- Incinerate
