@@ -1,116 +1,58 @@
 
-Chimecho @ Wise Glasses
-Level: 28
-Adamant Nature
-Ability: Prankster
-IVs: 30 HP / 21 Atk / 11 Def / 31 SpA / 7 SpD / 12 Spe
-- Extrasensory
-- Mach Pulse
-- Draining Kiss
-- Recover
-
-Raticate-Alola @ Sitrus Berry
-Level: 28
-Relaxed Nature
-Ability: Hustle
-IVs: 16 HP / 21 Atk / 1 Def / 27 SpA / 26 SpD / 12 Spe
-- Pursuit
-- Crunch
-- Quick Attack
-- Sucker Punch
-
-Quilava @ Oran Berry
-Level: 28
-Serious Nature
-Ability: Blaze
-IVs: 6 HP / 31 Atk / 31 Def / 10 SpA / 31 SpD / 31 Spe
+Snivy @ Oran Berry
+Level: 10
+Gentle Nature
+Ability: Overgrow
+IVs: 31 HP / 2 Atk / 31 Def / 31 SpA / 0 SpD / 15 Spe
 - Tackle
+- Leer
+- Vine Whip
+
+Ledyba
+Level: 10
+Lax Nature
+Ability: Swarm
+IVs: 19 HP / 11 Atk / 10 Def / 12 SpA / 27 SpD / 17 Spe
+- Tackle
+- Supersonic
+- Swift
+
+Pidgey
+Level: 10
+Mild Nature
+Ability: Big Pecks
+IVs: 12 HP / 28 Atk / 21 Def / 4 SpA / 5 SpD / 20 Spe
+- Tackle
+- Sand Attack
+- Gust
 - Quick Attack
-- Flame Wheel
-- Incinerate
 
-Parasect
-Level: 28
-Quirky Nature
-Ability: Effect Spore
-IVs: 8 HP / 7 Atk / 31 Def / 23 SpA / 13 SpD / 26 Spe
-- Poison Powder
-- Razor Leaf
-- Leech Life
-- Spore
-
-Arbok @ Oran Berry
-Level: 28
+Slugma
+Level: 10
 Rash Nature
-Ability: Intimidate
-IVs: 5 HP / 11 Atk / 26 Def / 28 SpA / 27 SpD / 4 Spe
-- Crunch
-- Poison Fang
-- Fire Fang
-- Thunder Fang
+Ability: Flame Body
+IVs: 21 HP / 10 Atk / 22 Def / 10 SpA / 6 SpD / 0 Spe
+- Yawn
+- Smog
+- Ember
+- Rock Throw
 
-Masquerain
-Level: 28
-Timid Nature
-Ability: Rain Dish
-IVs: 31 HP / 27 Atk / 9 Def / 20 SpA / 7 SpD / 21 Spe
-- Bug Buzz
-- Bubble Beam
-- Icy Wind
-- Roost
-
-Feebas
-Level: 28
-Sassy Nature
-Ability: Adaptability
-IVs: 31 HP / 10 Atk / 29 Def / 10 SpA / 17 SpD / 9 Spe
-- Splash
-- Water Pulse
+Tyrogue
+Level: 10
+Lonely Nature
+Ability: Guts
+IVs: 28 HP / 28 Atk / 5 Def / 9 SpA / 25 SpD / 6 Spe
 - Tackle
+- Helping Hand
+- Fake Out
+- Focus Energy
 
-Butterfree
-Level: 28
-Modest Nature
-Ability: Compound Eyes
-IVs: 31 HP / 2 Atk / 12 Def / 3 SpA / 16 SpD / 16 Spe
-- Tackle
-- Psybeam
-- Bug Bite
-- Air Slash
-
-Applin
-Level: 28
-Careful Nature
-Ability: Gluttony
-IVs: 31 HP / 28 Atk / 11 Def / 13 SpA / 8 SpD / 6 Spe
-- Astonish
-
-Dottler @ Oran Berry
-Level: 28
-Naive Nature
-Ability: Compound Eyes
-IVs: 31 HP / 6 Atk / 10 Def / 17 SpA / 4 SpD / 0 Spe
-- Struggle Bug
-- Reflect
-- Light Screen
+Exeggcute
+Level: 10
+Relaxed Nature
+Ability: Chlorophyll
+IVs: 19 HP / 17 Atk / 19 Def / 11 SpA / 25 SpD / 22 Spe
 - Confusion
-
-Croagunk @ Oran Berry
-Level: 28
-Docile Nature
-Ability: Dry Skin
-IVs: 31 HP / 16 Atk / 13 Def / 23 SpA / 7 SpD / 31 Spe
-- Septic Shot
-- Revenge
-- Astonish
-- Sucker Punch
-
-Flittle
-Level: 28
-Bashful Nature
-Ability: Frisk
-IVs: 31 HP / 13 Atk / 26 Def / 14 SpA / 12 SpD / 7 Spe
-- Disarming Voice
-- Quick Attack
-- Psybeam
-- Pluck
+- Absorb
+- Hypnosis
+- Reflect
