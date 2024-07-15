@@ -9,7 +9,7 @@ IVs: 22 HP / 21 Atk / 3 Def / 15 SpA / 16 SpD / 0 Spe
 - Baby-Doll Eyes
 - Fake Out
 
-Leavanny @ Oran Berry
+Leavanny
 Level: 15
 Docile Nature
 Ability: Sharpness
@@ -28,3 +28,81 @@ IVs: 6 HP / 31 Atk / 31 Def / 10 SpA / 31 SpD / 31 Spe
 - Quick Attack
 - Ember
 - Incinerate
+
+Croagunk @ Oran Berry
+Level: 15
+Docile Nature
+Ability: Dry Skin
+IVs: 25 HP / 16 Atk / 13 Def / 23 SpA / 7 SpD / 31 Spe
+- Septic Shot
+- Mud-Slap
+- Astonish
+
+Snorunt
+Level: 15
+Quirky Nature
+Ability: Ice Body
+IVs: 28 HP / 8 Atk / 10 Def / 5 SpA / 13 SpD / 17 Spe
+- Ice Shard
+- Bite
+- Icicle Spear
+- Headbutt
+
+Chimecho
+Level: 15
+Adamant Nature
+Ability: Prankster
+IVs: 30 HP / 21 Atk / 11 Def / 31 SpA / 7 SpD / 12 Spe
+- Confusion
+- Mach Pulse
+- Draining Kiss
+- Yawn
+
+Dottler @ Oran Berry
+Level: 15
+Naive Nature
+Ability: Compound Eyes
+IVs: 30 HP / 6 Atk / 10 Def / 17 SpA / 4 SpD / 0 Spe
+- Struggle Bug
+- Reflect
+- Light Screen
+- Confusion
+
+Ekans
+Level: 12
+Rash Nature
+Ability: Intimidate
+IVs: 30 HP / 11 Atk / 26 Def / 28 SpA / 27 SpD / 4 Spe
+- Leer
+- Poison Sting
+- Bite
+- Glare
+
+Ponyta-Galar
+Level: 15
+Rash Nature
+Ability: Step Master
+IVs: 30 HP / 1 Atk / 9 Def / 20 SpA / 29 SpD / 24 Spe
+- Tackle
+- Fairy Wind
+- Double Kick
+- Confusion
+
+Kabuto
+Level: 9
+Brave Nature
+Ability: Swift Swim
+IVs: 30 HP / 6 Atk / 15 Def / 1 SpA / 4 SpD / 4 Spe
+- Accelerock
+- Absorb
+- Scratch
+
+Rattata-Alola
+Level: 9
+Relaxed Nature
+Ability: Hustle
+IVs: 30 HP / 21 Atk / 1 Def / 27 SpA / 26 SpD / 12 Spe
+- Tackle
+- Tail Whip
+- Quick Attack
+- Focus Energy
