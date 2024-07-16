@@ -604,7 +604,7 @@ MultipleForms.register(:SINISTEA, {
 })
 
 MultipleForms.copy(:SINISTEA, :POLTEAGEIST)
-
+=begin
 # A Milcery will always have the same flavor, but it is randomly chosen.
 MultipleForms.register(:MILCERY, {
   "getForm" => proc { |pkmn|
@@ -625,7 +625,7 @@ MultipleForms.register(:ALCREMIE, {
     next rand(num_flavors * num_sweets)
   }
 })
-
+=end
 MultipleForms.register(:EISCUE, {
   "getFormOnLeavingBattle" => proc { |pkmn, battle, usedInBattle, endBattle|
     next 0 if pkmn.fainted? || endBattle
