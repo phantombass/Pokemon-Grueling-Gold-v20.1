@@ -754,7 +754,10 @@ def pbShowCommands(msgwindow, commands = nil, cmdIfCancel = 0, defaultCmd = 0)
     msgwindow&.update if !msgwindow.is_a?(String) && $pc == false
     yield if block_given?
     if Input.trigger?(Input::BACK)
-      if cmdIfCancel > 0
+      if !cmdIfCancel
+        command = -1
+        break
+      elsif cmdIfCancel > 0
         command = cmdIfCancel - 1
         break
       elsif cmdIfCancel < 0
