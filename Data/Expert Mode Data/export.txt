@@ -1,70 +1,118 @@
 
-Chimecho @ Oran Berry
+Chimecho
 Level: 15
-Adamant Nature
-Ability: Prankster
-IVs: 27 HP / 17 Atk / 31 Def / 12 SpA / 31 SpD / 2 Spe
+Relaxed Nature
+Ability: Hopeful Toll
+IVs: 3 HP / 11 Atk / 17 Def / 29 SpA / 17 SpD / 20 Spe
 - Confusion
 - Draining Kiss
 - Mach Pulse
 - Yawn
 
-Cyndaquil @ Oran Berry
-Level: 15
-Naive Nature
-Ability: Unshaken
-IVs: 31 HP / 22 Atk / 11 Def / 31 SpA / 31 SpD / 31 Spe
-- Tackle
-- Quick Attack
-- Ember
-- Incinerate
-
-Fomantis @ Oran Berry
-Level: 15
-Hasty Nature
-Ability: Unshaken
-IVs: 8 HP / 24 Atk / 19 Def / 22 SpA / 18 SpD / 26 Spe
-- Leafage
-- Fury Cutter
-- Ingrain
-- Razor Leaf
-
-Dubwool @ Oran Berry
+Butterfree
 Level: 15
 Bold Nature
-Ability: Fluffy
-IVs: 23 HP / 17 Atk / 18 Def / 0 SpA / 21 SpD / 12 Spe
-- Headbutt
-- Growl
-- Double Kick
-- Tackle
+Ability: Compound Eyes
+IVs: 16 HP / 5 Atk / 19 Def / 0 SpA / 26 SpD / 21 Spe
+- Sleep Powder
+- Confusion
+- Gust
+- Bug Bite
 
-Skrelp @ Oran Berry
+Teddiursa @ Silk Scarf
 Level: 15
-Rash Nature
-Ability: Adaptability
-IVs: 22 HP / 27 Atk / 3 Def / 14 SpA / 22 SpD / 8 Spe
+Sassy Nature
+Ability: Quick Feet
+IVs: 20 HP / 27 Atk / 26 Def / 21 SpA / 23 SpD / 12 Spe
+- Baby-Doll Eyes
+- Feint Attack
+- Covet
+- Fury Swipes
+
+Hoppip
+Level: 15
+Adamant Nature
+Ability: Aerilate
+IVs: 28 HP / 27 Atk / 4 Def / 11 SpA / 5 SpD / 31 Spe
+- Tail Whip
+- Quick Attack
+- Fairy Wind
+- Poison Powder
+
+Squirtle
+Level: 15
+Adamant Nature
+Ability: Torrent
+IVs: 31 HP / 27 Atk / 31 Def / 31 SpA / 15 SpD / 14 Spe
+- Tackle
+- Bite
 - Water Pulse
-- Sludge
-- Smokescreen
-- Tackle
+- Rapid Spin
 
-Duskull @ Oran Berry
+Sandygast @ Oran Berry
 Level: 15
-Naughty Nature
-Ability: Levitate
-IVs: 1 HP / 4 Atk / 31 Def / 28 SpA / 23 SpD / 30 Spe
-- Shadow Sneak
-- Confuse Ray
-- Disable
-- Astonish
+Gentle Nature
+Ability: Sand Force
+IVs: 16 HP / 28 Atk / 26 Def / 6 SpA / 29 SpD / 27 Spe
+- Will-O-Wisp
+- Ominous Wind
+- Mud Shot
+- Mega Drain
 
-Tandemaus
+Poochyena @ Oran Berry
+Level: 15
+Quirky Nature
+Ability: Run Away
+IVs: 16 HP / 13 Atk / 8 Def / 31 SpA / 14 SpD / 9 Spe
+- Tackle
+- Bite
+
+Kricketune @ Oran Berry
+Level: 15
+Adamant Nature
+Ability: Technician
+IVs: 16 HP / 5 Atk / 28 Def / 11 SpA / 0 SpD / 4 Spe
+- Absorb
+- Rock Tomb
+- Struggle Bug
+- Fury Cutter
+
+Purrloin
 Level: 15
 Docile Nature
-Ability: Own Tempo
-IVs: 1 HP / 16 Atk / 21 Def / 23 SpA / 25 SpD / 11 Spe
-- Baby-Doll Eyes
-- Double Hit
-- Helping Hand
-- Super Fang
+Ability: Prankster
+IVs: 16 HP / 13 Atk / 25 Def / 22 SpA / 18 SpD / 2 Spe
+- Fury Swipes
+- Growl
+- Sand Attack
+- Fake Out
+
+Poltchageist
+Level: 15
+Serious Nature
+Ability: Hospitality
+IVs: 16 HP / 2 Atk / 23 Def / 29 SpA / 2 SpD / 19 Spe
+- Stun Spore
+- Astonish
+- Absorb
+- Life Dew
+
+Snover
+Level: 15
+Hasty Nature
+Ability: Soundproof
+IVs: 16 HP / 2 Atk / 14 Def / 10 SpA / 27 SpD / 19 Spe
+- Icicle Spear
+- Leer
+- Leafage
+- Ice Shard
+
+Skrelp
+Level: 15
+Naive Nature
+Ability: Poison Point
+IVs: 16 HP / 17 Atk / 9 Def / 3 SpA / 0 SpD / 2 Spe
+- Tackle
+- Smokescreen
+- Sludge
+- Water Pulse
