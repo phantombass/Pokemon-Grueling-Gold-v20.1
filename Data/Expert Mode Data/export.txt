@@ -1,118 +1,40 @@
 
-Chimecho
-Level: 15
-Relaxed Nature
-Ability: Hopeful Toll
-IVs: 3 HP / 11 Atk / 17 Def / 29 SpA / 17 SpD / 20 Spe
-- Confusion
-- Draining Kiss
-- Mach Pulse
-- Yawn
+Swoobat
+Level: 25
+Timid Nature
+Ability: Adaptability
+IVs: 1 HP / 3 Atk / 5 Def / 25 SpA / 7 SpD / 12 Spe
+- Doldrums
+- Endeavor
+- Psybeam
+- Roost
 
-Butterfree
-Level: 15
-Bold Nature
-Ability: Compound Eyes
-IVs: 16 HP / 5 Atk / 19 Def / 0 SpA / 26 SpD / 21 Spe
-- Sleep Powder
-- Confusion
-- Gust
-- Bug Bite
-
-Teddiursa @ Silk Scarf
-Level: 15
-Sassy Nature
-Ability: Quick Feet
-IVs: 20 HP / 27 Atk / 26 Def / 21 SpA / 23 SpD / 12 Spe
-- Baby-Doll Eyes
-- Feint Attack
-- Covet
-- Fury Swipes
-
-Hoppip
-Level: 15
-Adamant Nature
-Ability: Aerilate
-IVs: 28 HP / 27 Atk / 4 Def / 11 SpA / 5 SpD / 31 Spe
-- Tail Whip
-- Quick Attack
-- Fairy Wind
-- Poison Powder
-
-Squirtle
-Level: 15
-Adamant Nature
-Ability: Torrent
-IVs: 31 HP / 27 Atk / 31 Def / 31 SpA / 15 SpD / 14 Spe
-- Tackle
-- Bite
-- Water Pulse
-- Rapid Spin
-
-Sandygast @ Oran Berry
-Level: 15
-Gentle Nature
-Ability: Sand Force
-IVs: 16 HP / 28 Atk / 26 Def / 6 SpA / 29 SpD / 27 Spe
-- Will-O-Wisp
-- Ominous Wind
-- Mud Shot
-- Mega Drain
-
-Poochyena @ Oran Berry
-Level: 15
-Quirky Nature
-Ability: Run Away
-IVs: 16 HP / 13 Atk / 8 Def / 31 SpA / 14 SpD / 9 Spe
-- Tackle
-- Bite
-
-Kricketune @ Oran Berry
-Level: 15
-Adamant Nature
-Ability: Technician
-IVs: 16 HP / 5 Atk / 28 Def / 11 SpA / 0 SpD / 4 Spe
-- Absorb
-- Rock Tomb
-- Struggle Bug
-- Fury Cutter
-
-Purrloin
-Level: 15
-Docile Nature
-Ability: Prankster
-IVs: 16 HP / 13 Atk / 25 Def / 22 SpA / 18 SpD / 2 Spe
-- Fury Swipes
-- Growl
-- Sand Attack
-- Fake Out
-
-Poltchageist
-Level: 15
+Poltchageist @ Oran Berry
+Level: 25
 Serious Nature
 Ability: Hospitality
-IVs: 16 HP / 2 Atk / 23 Def / 29 SpA / 2 SpD / 19 Spe
+IVs: 12 HP / 2 Atk / 23 Def / 29 SpA / 2 SpD / 19 Spe
 - Stun Spore
 - Astonish
-- Absorb
-- Life Dew
+- Mega Drain
+- Foul Play
 
-Snover
-Level: 15
-Hasty Nature
-Ability: Soundproof
-IVs: 16 HP / 2 Atk / 14 Def / 10 SpA / 27 SpD / 19 Spe
-- Icicle Spear
-- Leer
-- Leafage
-- Ice Shard
+Chimecho @ Wise Glasses
+Level: 25
+Relaxed Nature
+Ability: Hopeful Toll
+IVs: 31 HP / 11 Atk / 17 Def / 29 SpA / 17 SpD / 20 Spe
+- Extrasensory
+- Draining Kiss
+- Mach Pulse
+- Icy Wind
 
-Skrelp
-Level: 15
-Naive Nature
-Ability: Poison Point
-IVs: 16 HP / 17 Atk / 9 Def / 3 SpA / 0 SpD / 2 Spe
-- Tackle
-- Smokescreen
-- Sludge
-- Water Pulse
+Liepard @ Oran Berry
+Level: 25
+Docile Nature
+Ability: Prankster
+IVs: 25 HP / 13 Atk / 25 Def / 22 SpA / 18 SpD / 2 Spe
+- Fury Swipes
+- Assurance
+- Fake Out
+- Sand Attack
