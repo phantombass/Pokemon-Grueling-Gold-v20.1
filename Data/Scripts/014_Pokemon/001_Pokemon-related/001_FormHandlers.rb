@@ -684,12 +684,13 @@ MultipleForms.register(:ZAMAZENTA, {
   }
 })
 
+=begin
 MultipleForms.register(:URSHIFU, {
   "getFormOnCreation" => proc { |pkmn|
     next rand(2)
   }
 })
-
+=end
 MultipleForms.register(:CALYREX, {
   "onSetForm" => proc { |pkmn, form, oldForm|
     form_moves = [
