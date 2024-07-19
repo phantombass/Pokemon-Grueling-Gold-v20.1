@@ -1,40 +1,120 @@
 
-Swoobat
-Level: 25
-Timid Nature
-Ability: Adaptability
-IVs: 1 HP / 3 Atk / 5 Def / 25 SpA / 7 SpD / 12 Spe
-- Doldrums
-- Endeavor
-- Psybeam
-- Roost
-
-Poltchageist @ Oran Berry
-Level: 25
-Serious Nature
-Ability: Hospitality
-IVs: 12 HP / 2 Atk / 23 Def / 29 SpA / 2 SpD / 19 Spe
-- Stun Spore
-- Astonish
-- Mega Drain
-- Foul Play
-
 Chimecho @ Wise Glasses
 Level: 25
-Relaxed Nature
+Modest Nature
 Ability: Hopeful Toll
-IVs: 31 HP / 11 Atk / 17 Def / 29 SpA / 17 SpD / 20 Spe
+IVs: 21 HP / 1 Atk / 7 Def / 26 SpA / 4 SpD / 17 Spe
 - Extrasensory
 - Draining Kiss
 - Mach Pulse
-- Icy Wind
+- Recover
 
-Liepard @ Oran Berry
+Poliwhirl @ Oran Berry
+Level: 25
+Hardy Nature
+Ability: Water Absorb
+IVs: 25 HP / 6 Atk / 8 Def / 20 SpA / 7 SpD / 13 Spe
+- Bubble Beam
+- Hypnosis
+- Aurora Beam
+- Mud Shot
+
+Quilava @ Oran Berry
+Level: 25
+Relaxed Nature
+Ability: Blaze
+IVs: 31 HP / 17 Atk / 22 Def / 31 SpA / 31 SpD / 4 Spe
+- Tackle
+- Quick Attack
+- Ember
+- Incinerate
+
+Exeggutor @ Oran Berry
 Level: 25
 Docile Nature
-Ability: Prankster
-IVs: 25 HP / 13 Atk / 25 Def / 22 SpA / 18 SpD / 2 Spe
-- Fury Swipes
-- Assurance
+Ability: Chlorophyll
+IVs: 18 HP / 0 Atk / 21 Def / 20 SpA / 21 SpD / 15 Spe
+- Psyshock
+- Giga Drain
+- Synthesis
+- Reflect
+
+Leavanny @ Oran Berry
+Level: 25
+Adamant Nature
+Ability: Sharpness
+IVs: 13 HP / 27 Atk / 11 Def / 0 SpA / 25 SpD / 30 Spe
+- Slash
+- Razor Leaf
+- Bug Bite
+- Grass Whistle
+
+Frosmoth
+Level: 25
+Serious Nature
+Ability: Ice Scales
+IVs: 4 HP / 31 Atk / 26 Def / 31 SpA / 30 SpD / 0 Spe
+- Infestation
+- Struggle Bug
+- Icy Wind
+- Aurora Beam
+
+Butterfree @ Sharp Beak
+Level: 25
+Hardy Nature
+Ability: Tinted Lens
+IVs: 4 HP / 18 Atk / 10 Def / 0 SpA / 20 SpD / 20 Spe
+- Sleep Powder
+- Psybeam
+- Bug Bite
+- Air Slash
+
+Charjabug
+Level: 25
+Impish Nature
+Ability: Battery
+IVs: 4 HP / 2 Atk / 9 Def / 7 SpA / 29 SpD / 27 Spe
+- Vise Grip
+- Bite
+- Spark
+- Bug Bite
+
+Swinub @ Oran Berry
+Level: 25
+Gentle Nature
+Ability: Oblivious
+IVs: 4 HP / 9 Atk / 7 Def / 5 SpA / 10 SpD / 21 Spe
+- Tackle
+- Mud-Slap
+- Icicle Spear
+- Ice Shard
+
+Vanillite @ Oran Berry
+Level: 25
+Lonely Nature
+Ability: Unshaken
+IVs: 4 HP / 3 Atk / 24 Def / 25 SpA / 12 SpD / 23 Spe
+- Astonish
+- Mist
+- Icy Wind
+- Icicle Spear
+
+Parasect @ Oran Berry
+Level: 25
+Quiet Nature
+Ability: Sharpness
+IVs: 4 HP / 1 Atk / 23 Def / 12 SpA / 10 SpD / 25 Spe
+- Spore
+- Cross Poison
+- Leech Life
+- Razor Leaf
+
+Lopunny @ Silk Scarf
+Level: 25
+Gentle Nature
+Ability: Limber
+IVs: 4 HP / 11 Atk / 28 Def / 23 SpA / 12 SpD / 30 Spe
 - Fake Out
-- Sand Attack
+- Double Kick
+- Mirror Coat
+- Quick Attack
