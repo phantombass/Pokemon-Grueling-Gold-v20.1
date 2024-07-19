@@ -1,26 +1,26 @@
 
 Chimecho @ Wise Glasses
-Level: 25
+Level: 28
 Modest Nature
 Ability: Hopeful Toll
-IVs: 21 HP / 1 Atk / 7 Def / 26 SpA / 4 SpD / 17 Spe
+IVs: 21 HP / 1 Atk / 7 Def / 26 SpA / 4 SpD / 31 Spe
 - Extrasensory
 - Draining Kiss
 - Mach Pulse
 - Recover
 
-Poliwhirl @ Oran Berry
-Level: 25
-Hardy Nature
-Ability: Water Absorb
-IVs: 25 HP / 6 Atk / 8 Def / 20 SpA / 7 SpD / 13 Spe
-- Bubble Beam
-- Hypnosis
-- Aurora Beam
-- Mud Shot
+Leavanny @ Miracle Seed
+Level: 28
+Adamant Nature
+Ability: Sharpness
+IVs: 13 HP / 27 Atk / 11 Def / 0 SpA / 25 SpD / 30 Spe
+- Slash
+- Razor Leaf
+- Bug Bite
+- Bullet Seed
 
-Quilava @ Oran Berry
-Level: 25
+Quilava
+Level: 28
 Relaxed Nature
 Ability: Blaze
 IVs: 31 HP / 17 Atk / 22 Def / 31 SpA / 31 SpD / 4 Spe
@@ -29,92 +29,92 @@ IVs: 31 HP / 17 Atk / 22 Def / 31 SpA / 31 SpD / 4 Spe
 - Ember
 - Incinerate
 
-Exeggutor @ Oran Berry
-Level: 25
+Parasect @ Pecha Berry
+Level: 28
+Quiet Nature
+Ability: Sharpness
+IVs: 9 HP / 1 Atk / 23 Def / 12 SpA / 10 SpD / 25 Spe
+- Spore
+- Cross Poison
+- Leech Life
+- Razor Leaf
+
+Poliwhirl
+Level: 28
+Hardy Nature
+Ability: Damp
+IVs: 25 HP / 6 Atk / 8 Def / 20 SpA / 7 SpD / 13 Spe
+- Bubble Beam
+- Hypnosis
+- Aurora Beam
+- Mud Shot
+
+Exeggutor @ Pecha Berry
+Level: 28
 Docile Nature
 Ability: Chlorophyll
 IVs: 18 HP / 0 Atk / 21 Def / 20 SpA / 21 SpD / 15 Spe
 - Psyshock
 - Giga Drain
 - Synthesis
-- Reflect
-
-Leavanny @ Oran Berry
-Level: 25
-Adamant Nature
-Ability: Sharpness
-IVs: 13 HP / 27 Atk / 11 Def / 0 SpA / 25 SpD / 30 Spe
-- Slash
-- Razor Leaf
-- Bug Bite
-- Grass Whistle
-
-Frosmoth
-Level: 25
-Serious Nature
-Ability: Ice Scales
-IVs: 4 HP / 31 Atk / 26 Def / 31 SpA / 30 SpD / 0 Spe
-- Infestation
-- Struggle Bug
-- Icy Wind
-- Aurora Beam
+- Solar Beam
 
 Butterfree @ Sharp Beak
-Level: 25
+Level: 28
 Hardy Nature
 Ability: Tinted Lens
-IVs: 4 HP / 18 Atk / 10 Def / 0 SpA / 20 SpD / 20 Spe
+IVs: 18 HP / 18 Atk / 10 Def / 0 SpA / 20 SpD / 20 Spe
 - Sleep Powder
 - Psybeam
 - Bug Bite
 - Air Slash
 
+Lopunny @ Silk Scarf
+Level: 28
+Gentle Nature
+Ability: Limber
+IVs: 18 HP / 11 Atk / 28 Def / 23 SpA / 12 SpD / 30 Spe
+- Fake Out
+- Double Kick
+- Mirror Coat
+- Quick Attack
+
 Charjabug
-Level: 25
+Level: 28
 Impish Nature
 Ability: Battery
-IVs: 4 HP / 2 Atk / 9 Def / 7 SpA / 29 SpD / 27 Spe
+IVs: 18 HP / 2 Atk / 9 Def / 7 SpA / 29 SpD / 27 Spe
 - Vise Grip
 - Bite
 - Spark
 - Bug Bite
 
 Swinub @ Oran Berry
-Level: 25
+Level: 28
 Gentle Nature
 Ability: Oblivious
-IVs: 4 HP / 9 Atk / 7 Def / 5 SpA / 10 SpD / 21 Spe
+IVs: 18 HP / 9 Atk / 7 Def / 5 SpA / 10 SpD / 21 Spe
 - Tackle
 - Mud-Slap
 - Icicle Spear
 - Ice Shard
 
-Vanillite @ Oran Berry
-Level: 25
+Vanillish @ Oran Berry
+Level: 28
 Lonely Nature
 Ability: Unshaken
-IVs: 4 HP / 3 Atk / 24 Def / 25 SpA / 12 SpD / 23 Spe
+IVs: 18 HP / 3 Atk / 24 Def / 25 SpA / 12 SpD / 23 Spe
 - Astonish
-- Mist
+- Uproar
 - Icy Wind
 - Icicle Spear
 
-Parasect @ Oran Berry
-Level: 25
-Quiet Nature
-Ability: Sharpness
-IVs: 4 HP / 1 Atk / 23 Def / 12 SpA / 10 SpD / 25 Spe
-- Spore
-- Cross Poison
-- Leech Life
-- Razor Leaf
-
-Lopunny @ Silk Scarf
-Level: 25
-Gentle Nature
-Ability: Limber
-IVs: 4 HP / 11 Atk / 28 Def / 23 SpA / 12 SpD / 30 Spe
-- Fake Out
-- Double Kick
-- Mirror Coat
-- Quick Attack
+Frosmoth @ Oran Berry
+Level: 28
+Serious Nature
+Ability: Ice Scales
+IVs: 18 HP / 31 Atk / 26 Def / 31 SpA / 30 SpD / 0 Spe
+- Infestation
+- Struggle Bug
+- Icy Wind
+- Aurora Beam
