@@ -1,4 +1,24 @@
 
+Sandslash @ Sitrus Berry
+Level: 28
+Lonely Nature
+Ability: Sand Force
+IVs: 14 HP / 23 Atk / 19 Def / 19 SpA / 12 SpD / 30 Spe
+- Rock Tomb
+- Bulldoze
+- Spiky Shield
+- Rapid Spin
+
+Wigglytuff
+Level: 28
+Naughty Nature
+Ability: Unshaken
+IVs: 24 HP / 11 Atk / 29 Def / 5 SpA / 13 SpD / 20 Spe
+- Hyper Voice
+- Disarming Voice
+- Disable
+- Rest
+
 Chimecho @ Wise Glasses
 Level: 28
 Modest Nature
@@ -9,17 +29,7 @@ IVs: 21 HP / 1 Atk / 7 Def / 26 SpA / 4 SpD / 31 Spe
 - Mach Pulse
 - Recover
 
-Leavanny @ Miracle Seed
-Level: 28
-Adamant Nature
-Ability: Sharpness
-IVs: 13 HP / 27 Atk / 11 Def / 0 SpA / 25 SpD / 30 Spe
-- Slash
-- Razor Leaf
-- Bug Bite
-- Bullet Seed
-
-Quilava
+Quilava @ Sitrus Berry
 Level: 28
 Relaxed Nature
 Ability: Blaze
@@ -29,61 +39,51 @@ IVs: 31 HP / 17 Atk / 22 Def / 31 SpA / 31 SpD / 4 Spe
 - Ember
 - Incinerate
 
-Parasect @ Pecha Berry
+Leavanny @ Muscle Band
 Level: 28
-Quiet Nature
+Adamant Nature
 Ability: Sharpness
-IVs: 9 HP / 1 Atk / 23 Def / 12 SpA / 10 SpD / 25 Spe
-- Spore
-- Cross Poison
-- Leech Life
+IVs: 13 HP / 27 Atk / 11 Def / 0 SpA / 25 SpD / 30 Spe
+- Slash
 - Razor Leaf
+- Bug Bite
+- Aerial Ace
 
-Poliwhirl
+Frosmoth @ Cheri Berry
 Level: 28
-Hardy Nature
-Ability: Damp
-IVs: 25 HP / 6 Atk / 8 Def / 20 SpA / 7 SpD / 13 Spe
-- Bubble Beam
-- Hypnosis
+Serious Nature
+Ability: Ice Scales
+IVs: 4 HP / 31 Atk / 26 Def / 31 SpA / 30 SpD / 0 Spe
+- Signal Beam
+- Struggle Bug
+- Roost
 - Aurora Beam
-- Mud Shot
-
-Exeggutor @ Pecha Berry
-Level: 28
-Docile Nature
-Ability: Chlorophyll
-IVs: 18 HP / 0 Atk / 21 Def / 20 SpA / 21 SpD / 15 Spe
-- Psyshock
-- Giga Drain
-- Synthesis
-- Solar Beam
 
 Butterfree @ Sharp Beak
 Level: 28
 Hardy Nature
 Ability: Tinted Lens
-IVs: 18 HP / 18 Atk / 10 Def / 0 SpA / 20 SpD / 20 Spe
-- Sleep Powder
-- Psybeam
-- Bug Bite
+IVs: 4 HP / 18 Atk / 10 Def / 0 SpA / 20 SpD / 20 Spe
 - Air Slash
+- Psybeam
+- Signal Beam
+- Sleep Powder
 
-Lopunny @ Silk Scarf
+Exeggutor @ Sitrus Berry
 Level: 28
-Gentle Nature
-Ability: Limber
-IVs: 18 HP / 11 Atk / 28 Def / 23 SpA / 12 SpD / 30 Spe
-- Fake Out
-- Double Kick
-- Mirror Coat
-- Quick Attack
+Docile Nature
+Ability: Chlorophyll
+IVs: 4 HP / 0 Atk / 21 Def / 20 SpA / 21 SpD / 15 Spe
+- Psyshock
+- Giga Drain
+- Synthesis
+- Leaf Storm
 
 Charjabug
 Level: 28
 Impish Nature
 Ability: Battery
-IVs: 18 HP / 2 Atk / 9 Def / 7 SpA / 29 SpD / 27 Spe
+IVs: 4 HP / 2 Atk / 9 Def / 7 SpA / 29 SpD / 27 Spe
 - Vise Grip
 - Bite
 - Spark
@@ -93,28 +93,68 @@ Swinub @ Oran Berry
 Level: 28
 Gentle Nature
 Ability: Oblivious
-IVs: 18 HP / 9 Atk / 7 Def / 5 SpA / 10 SpD / 21 Spe
-- Tackle
-- Mud-Slap
+IVs: 4 HP / 9 Atk / 7 Def / 5 SpA / 10 SpD / 21 Spe
 - Icicle Spear
 - Ice Shard
+- Mud-Slap
+- Tackle
 
 Vanillish @ Oran Berry
 Level: 28
 Lonely Nature
 Ability: Unshaken
-IVs: 18 HP / 3 Atk / 24 Def / 25 SpA / 12 SpD / 23 Spe
+IVs: 4 HP / 3 Atk / 24 Def / 25 SpA / 12 SpD / 23 Spe
 - Astonish
 - Uproar
 - Icy Wind
 - Icicle Spear
 
-Frosmoth @ Oran Berry
+Lokix @ Coba Berry
 Level: 28
-Serious Nature
-Ability: Ice Scales
-IVs: 18 HP / 31 Atk / 26 Def / 31 SpA / 30 SpD / 0 Spe
-- Infestation
-- Struggle Bug
-- Icy Wind
+Jolly Nature
+Ability: Swarm
+IVs: 4 HP / 28 Atk / 25 Def / 27 SpA / 23 SpD / 15 Spe
+- Lunge
+- Assurance
+- Double Kick
+- Detect
+
+Psyduck @ Mystic Water
+Level: 28
+Brave Nature
+Ability: Cloud Nine
+IVs: 4 HP / 26 Atk / 20 Def / 28 SpA / 13 SpD / 26 Spe
+- Disable
+- Zen Headbutt
+- Aerial Ace
+- Aqua Tail
+
+Joltik
+Level: 28
+Lax Nature
+Ability: Compound Eyes
+IVs: 4 HP / 15 Atk / 26 Def / 4 SpA / 12 SpD / 20 Spe
+- Bug Bite
+- String Shot
+- Thunder Wave
+- Electroweb
+
+Poliwhirl
+Level: 28
+Hardy Nature
+Ability: Damp
+IVs: 4 HP / 6 Atk / 8 Def / 20 SpA / 7 SpD / 13 Spe
+- Bubble Beam
+- Hypnosis
 - Aurora Beam
+- Mud Shot
+
+Slowpoke-Galar
+Level: 28
+Impish Nature
+Ability: Gluttony
+IVs: 4 HP / 30 Atk / 24 Def / 25 SpA / 21 SpD / 14 Spe
+- Confusion
+- Yawn
+- Water Pulse
+- Headbutt
