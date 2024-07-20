@@ -174,7 +174,7 @@ MultipleForms.register(:KYOGRE, {
     next
   }
 })
-
+=begin
 MultipleForms.register(:BURMY, {
   "getFormOnCreation" => proc { |pkmn|
     case pbGetEnvironment
@@ -211,7 +211,7 @@ MultipleForms.register(:WORMADAM, {
     end
   }
 })
-
+=end
 MultipleForms.register(:CHERRIM, {
   "getFormOnLeavingBattle" => proc { |pkmn, battle, usedInBattle, endBattle|
     next 0
