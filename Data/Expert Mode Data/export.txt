@@ -1,4 +1,14 @@
 
+Beedrill @ Beedrillite
+Level: 55
+Hardy Nature
+Ability: Sniper
+IVs: 21 HP / 29 Atk / 8 Def / 9 SpA / 1 SpD / 25 Spe
+- Drill Run
+- U-turn
+- Knock Off
+- Poison Jab
+
 Chimecho @ Chimechonite
 Level: 55
 Modest Nature
@@ -8,6 +18,36 @@ IVs: 21 HP / 1 Atk / 7 Def / 26 SpA / 4 SpD / 31 Spe
 - Hyper Voice
 - Mach Pulse
 - Recover
+
+Aerodactyl @ Muscle Band
+Level: 55
+Gentle Nature
+Ability: Rock Head
+IVs: 6 HP / 26 Atk / 28 Def / 23 SpA / 31 SpD / 31 Spe
+- Roost
+- Dual Wingbeat
+- Iron Head
+- Rock Slide
+
+Empoleon @ Shuca Berry
+Level: 55
+Naughty Nature
+Ability: Torrent
+IVs: 25 HP / 27 Atk / 7 Def / 11 SpA / 27 SpD / 6 Spe
+- Scald
+- Icy Wind
+- Roost
+- Flip Turn
+
+Ceruledge @ Colbur Berry
+Level: 55
+Jolly Nature
+Ability: Sharpness
+IVs: 21 HP / 19 Atk / 6 Def / 14 SpA / 29 SpD / 14 Spe
+- Shadow Claw
+- Will-O-Wisp
+- Bitter Blade
+- Twin Blades
 
 Exeggutor @ Miracle Seed
 Level: 55
@@ -19,15 +59,15 @@ IVs: 21 HP / 0 Atk / 21 Def / 20 SpA / 21 SpD / 15 Spe
 - Synthesis
 - Solar Beam
 
-Beedrill @ Poison Barb
+Poliwrath @ Roseli Berry
 Level: 55
 Hardy Nature
-Ability: Sniper
-IVs: 21 HP / 29 Atk / 8 Def / 9 SpA / 1 SpD / 25 Spe
-- Drill Run
-- U-turn
-- Pin Missile
-- Poison Jab
+Ability: Iron Fist
+IVs: 21 HP / 6 Atk / 8 Def / 20 SpA / 7 SpD / 13 Spe
+- Hydro Pump
+- Flip Turn
+- Ice Punch
+- Low Sweep
 
 Vikavolt
 Level: 55
@@ -39,17 +79,17 @@ IVs: 21 HP / 2 Atk / 9 Def / 7 SpA / 29 SpD / 27 Spe
 - Volt Switch
 - Roost
 
-Ceruledge
+Mamoswine
 Level: 55
-Jolly Nature
-Ability: Sharpness
-IVs: 21 HP / 19 Atk / 6 Def / 14 SpA / 29 SpD / 14 Spe
-- Shadow Claw
-- Will-O-Wisp
-- Bitter Blade
-- Cut
+Gentle Nature
+Ability: Oblivious
+IVs: 21 HP / 9 Atk / 7 Def / 5 SpA / 10 SpD / 21 Spe
+- Icicle Spear
+- Ice Shard
+- Earthquake
+- Knock Off
 
-Rapidash-Galar @ Wise Glasses
+Rapidash-Galar
 Level: 55
 Bashful Nature
 Ability: Composure
@@ -119,15 +159,15 @@ IVs: 21 HP / 17 Atk / 22 Def / 31 SpA / 31 SpD / 4 Spe
 - Flamethrower
 - Hidden Power
 
-Mamoswine @ Muscle Band
+Banette @ Banettite
 Level: 55
-Gentle Nature
-Ability: Oblivious
-IVs: 21 HP / 9 Atk / 7 Def / 5 SpA / 10 SpD / 21 Spe
-- Icicle Spear
-- Ice Shard
-- Earthquake
+Hardy Nature
+Ability: Tough Claws
+IVs: 21 HP / 4 Atk / 27 Def / 23 SpA / 1 SpD / 31 Spe
+- Spirit Sap
 - Knock Off
+- Facade
+- Will-O-Wisp
 
 Wailord @ Rindo Berry
 Level: 55
@@ -159,22 +199,12 @@ IVs: 21 HP / 28 Atk / 25 Def / 27 SpA / 23 SpD / 15 Spe
 - Knock Off
 - Sucker Punch
 
-Aerodactyl @ Metal Coat
+Sandaconda
 Level: 55
-Gentle Nature
-Ability: Rock Head
-IVs: 21 HP / 26 Atk / 28 Def / 23 SpA / 31 SpD / 31 Spe
-- Roost
-- Dual Wingbeat
-- Iron Head
-- Rock Slide
-
-Poliwrath @ Roseli Berry
-Level: 55
-Hardy Nature
-Ability: Iron Fist
-IVs: 21 HP / 6 Atk / 8 Def / 20 SpA / 7 SpD / 13 Spe
-- Hydro Pump
-- Flip Turn
-- Ice Punch
-- Low Sweep
+Quirky Nature
+Ability: Medusoid
+IVs: 21 HP / 12 Atk / 24 Def / 23 SpA / 12 SpD / 15 Spe
+- Glare
+- Dig
+- Slam
+- Shore Up
