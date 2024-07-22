@@ -1,5 +1,45 @@
 
-Chimecho @ Chimechonite
+Electivire @ Punching Glove
+Level: 58
+Modest Nature
+Ability: Iron Fist
+IVs: 24 HP / 6 Atk / 19 Def / 31 SpA / 31 SpD / 31 Spe
+- Thunder
+- Ice Punch
+- Mach Punch
+- Volt Switch
+
+Leavanny @ Charti Berry
+Level: 58
+Adamant Nature
+Ability: Sharpness
+IVs: 13 HP / 27 Atk / 11 Def / 0 SpA / 25 SpD / 30 Spe
+- Slash
+- Leaf Blade
+- X-Scissor
+- Sacred Sword
+
+Empoleon @ Shuca Berry
+Level: 58
+Naughty Nature
+Ability: Torrent
+IVs: 25 HP / 27 Atk / 7 Def / 11 SpA / 27 SpD / 6 Spe
+- Scald
+- Flash Cannon
+- Roost
+- Flip Turn
+
+Aerodactyl
+Level: 58
+Gentle Nature
+Ability: Rock Head
+IVs: 6 HP / 26 Atk / 28 Def / 23 SpA / 31 SpD / 31 Spe
+- Roost
+- Dual Wingbeat
+- Iron Head
+- Rock Slide
+
+Chimecho @ Leftovers
 Level: 58
 Modest Nature
 Ability: Hopeful Toll
@@ -7,23 +47,33 @@ IVs: 21 HP / 1 Atk / 7 Def / 26 SpA / 4 SpD / 31 Spe
 - Extrasensory
 - Hyper Voice
 - Mach Pulse
-- Recover
+- Defog
 
-Leavanny
+Gorebyss
 Level: 58
-Adamant Nature
-Ability: Sharpness
-IVs: 21 HP / 27 Atk / 11 Def / 0 SpA / 25 SpD / 30 Spe
-- Slash
-- Leaf Blade
-- X-Scissor
-- Sacred Sword
+Brave Nature
+Ability: Vampiric
+IVs: 27 HP / 3 Atk / 19 Def / 21 SpA / 23 SpD / 17 Spe
+- Fairy's Haunt
+- Bouncy Bubble
+- Baton Pass
+- Aurora Beam
+
+Beedrill @ Beedrillite
+Level: 58
+Hardy Nature
+Ability: Sniper
+IVs: 27 HP / 29 Atk / 8 Def / 9 SpA / 1 SpD / 25 Spe
+- Drill Run
+- U-turn
+- Knock Off
+- Pin Missile
 
 Wailord
 Level: 58
 Timid Nature
 Ability: Pressure
-IVs: 21 HP / 17 Atk / 31 Def / 28 SpA / 21 SpD / 2 Spe
+IVs: 27 HP / 17 Atk / 31 Def / 28 SpA / 21 SpD / 2 Spe
 - Heavy Slam
 - Brine
 - Rest
@@ -33,27 +83,27 @@ Gyarados
 Level: 58
 Modest Nature
 Ability: Intimidate
-IVs: 21 HP / 31 Atk / 15 Def / 3 SpA / 9 SpD / 20 Spe
+IVs: 27 HP / 31 Atk / 15 Def / 3 SpA / 9 SpD / 20 Spe
 - Aqua Tail
 - Tackle
 - Flail
 - Bite
 
-Aerodactyl @ Hard Stone
+Lokix @ Rawst Berry
 Level: 58
-Gentle Nature
-Ability: Rock Head
-IVs: 21 HP / 26 Atk / 28 Def / 23 SpA / 31 SpD / 31 Spe
-- Roost
-- Dual Wingbeat
-- Iron Head
-- Stone Edge
+Jolly Nature
+Ability: Swarm
+IVs: 27 HP / 28 Atk / 25 Def / 27 SpA / 23 SpD / 15 Spe
+- U-turn
+- First Impression
+- Knock Off
+- Sucker Punch
 
 Rapidash-Galar
 Level: 58
 Bashful Nature
 Ability: Composure
-IVs: 21 HP / 7 Atk / 20 Def / 5 SpA / 14 SpD / 9 Spe
+IVs: 27 HP / 7 Atk / 20 Def / 5 SpA / 14 SpD / 9 Spe
 - Psychic
 - Dazzling Gleam
 - Stomping Tantrum
@@ -63,27 +113,17 @@ Vanilluxe
 Level: 58
 Lonely Nature
 Ability: Unshaken
-IVs: 21 HP / 3 Atk / 24 Def / 25 SpA / 12 SpD / 23 Spe
+IVs: 27 HP / 3 Atk / 24 Def / 25 SpA / 12 SpD / 23 Spe
 - Freeze-Dry
 - Weather Ball
 - Mirror Coat
 - Ice Beam
 
-Frosmoth
-Level: 58
-Serious Nature
-Ability: Ice Scales
-IVs: 21 HP / 31 Atk / 26 Def / 31 SpA / 30 SpD / 0 Spe
-- Aurora Beam
-- Bug Buzz
-- Giga Drain
-- Roost
-
 Typhlosion-Hisui @ Shuca Berry
 Level: 58
 Relaxed Nature
 Ability: Blaze
-IVs: 21 HP / 17 Atk / 22 Def / 31 SpA / 31 SpD / 4 Spe
+IVs: 27 HP / 17 Atk / 22 Def / 31 SpA / 31 SpD / 4 Spe
 - Infernal Parade
 - Will-O-Wisp
 - Flamethrower
@@ -93,47 +133,37 @@ Xatu
 Level: 58
 Adamant Nature
 Ability: Synchronize
-IVs: 21 HP / 27 Atk / 0 Def / 27 SpA / 17 SpD / 23 Spe
+IVs: 27 HP / 27 Atk / 0 Def / 27 SpA / 17 SpD / 23 Spe
 - Psycho Shift
 - Power Swap
 - Guard Swap
 - Psychic
 
-Electivire @ Punching Glove
+Frosmoth @ Charti Berry
 Level: 58
-Modest Nature
-Ability: Iron Fist
-IVs: 21 HP / 6 Atk / 19 Def / 31 SpA / 31 SpD / 31 Spe
-- Thunder Punch
-- Ice Punch
-- Mach Punch
-- Dynamic Punch
+Serious Nature
+Ability: Ice Scales
+IVs: 27 HP / 31 Atk / 26 Def / 31 SpA / 30 SpD / 0 Spe
+- Aurora Beam
+- Bug Buzz
+- Giga Drain
+- Roost
 
 Cacturne
 Level: 58
 Careful Nature
 Ability: Sand Force
-IVs: 21 HP / 5 Atk / 15 Def / 20 SpA / 14 SpD / 24 Spe
+IVs: 27 HP / 5 Atk / 15 Def / 20 SpA / 14 SpD / 24 Spe
 - Sucker Punch
 - Earth Power
 - Energy Ball
 - Thousand Arrows
 
-Beedrill @ Beedrillite
-Level: 58
-Hardy Nature
-Ability: Sniper
-IVs: 21 HP / 29 Atk / 8 Def / 9 SpA / 1 SpD / 25 Spe
-- Drill Run
-- U-turn
-- Knock Off
-- Pin Missile
-
 Poliwrath
 Level: 58
 Hardy Nature
 Ability: Iron Fist
-IVs: 21 HP / 6 Atk / 8 Def / 20 SpA / 7 SpD / 13 Spe
+IVs: 27 HP / 6 Atk / 8 Def / 20 SpA / 7 SpD / 13 Spe
 - Jet Punch
 - Flip Turn
 - Ice Punch
@@ -143,27 +173,17 @@ Umbreon @ Sitrus Berry
 Level: 58
 Serious Nature
 Ability: Synchronize
-IVs: 21 HP / 14 Atk / 22 Def / 28 SpA / 26 SpD / 28 Spe
+IVs: 27 HP / 14 Atk / 22 Def / 28 SpA / 26 SpD / 28 Spe
 - Baton Pass
 - Dark Pulse
 - Snarl
 - Moonlight
 
-Lokix @ Chilan Berry
-Level: 58
-Jolly Nature
-Ability: Swarm
-IVs: 21 HP / 28 Atk / 25 Def / 27 SpA / 23 SpD / 15 Spe
-- U-turn
-- First Impression
-- Knock Off
-- Sucker Punch
-
 Ceruledge
 Level: 58
 Jolly Nature
 Ability: Sharpness
-IVs: 21 HP / 19 Atk / 6 Def / 14 SpA / 29 SpD / 14 Spe
+IVs: 27 HP / 19 Atk / 6 Def / 14 SpA / 29 SpD / 14 Spe
 - Shadow Claw
 - Psycho Cut
 - Bitter Blade
@@ -173,7 +193,7 @@ Banette @ Banettite
 Level: 58
 Hardy Nature
 Ability: Tough Claws
-IVs: 21 HP / 4 Atk / 27 Def / 23 SpA / 1 SpD / 31 Spe
+IVs: 27 HP / 4 Atk / 27 Def / 23 SpA / 1 SpD / 31 Spe
 - Spirit Sap
 - Knock Off
 - Facade
@@ -183,7 +203,7 @@ Vikavolt
 Level: 58
 Impish Nature
 Ability: Levitate
-IVs: 21 HP / 2 Atk / 9 Def / 7 SpA / 29 SpD / 27 Spe
+IVs: 27 HP / 2 Atk / 9 Def / 7 SpA / 29 SpD / 27 Spe
 - Thunderbolt
 - Bug Buzz
 - Hidden Power
@@ -193,7 +213,7 @@ Exeggutor @ Aspear Berry
 Level: 58
 Docile Nature
 Ability: Chlorophyll
-IVs: 21 HP / 0 Atk / 21 Def / 20 SpA / 21 SpD / 31 Spe
+IVs: 27 HP / 0 Atk / 21 Def / 20 SpA / 21 SpD / 31 Spe
 - Psyshock
 - Hidden Power
 - Giga Drain
@@ -203,7 +223,7 @@ Mamoswine @ Never-Melt Ice
 Level: 58
 Gentle Nature
 Ability: Oblivious
-IVs: 21 HP / 9 Atk / 7 Def / 5 SpA / 10 SpD / 21 Spe
+IVs: 27 HP / 9 Atk / 7 Def / 5 SpA / 10 SpD / 21 Spe
 - Icicle Spear
 - Ice Shard
 - Earthquake
@@ -213,18 +233,8 @@ Sandaconda
 Level: 58
 Quirky Nature
 Ability: Medusoid
-IVs: 21 HP / 12 Atk / 24 Def / 23 SpA / 12 SpD / 15 Spe
+IVs: 27 HP / 12 Atk / 24 Def / 23 SpA / 12 SpD / 15 Spe
 - Glare
 - High Horsepower
 - Slam
 - Shore Up
-
-Empoleon
-Level: 58
-Naughty Nature
-Ability: Torrent
-IVs: 21 HP / 27 Atk / 7 Def / 11 SpA / 27 SpD / 6 Spe
-- Scald
-- Flash Cannon
-- Roost
-- Flip Turn
