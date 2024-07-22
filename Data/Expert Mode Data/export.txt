@@ -1,16 +1,6 @@
 
-Beedrill @ Beedrillite
-Level: 55
-Hardy Nature
-Ability: Sniper
-IVs: 21 HP / 29 Atk / 8 Def / 9 SpA / 1 SpD / 25 Spe
-- Drill Run
-- U-turn
-- Knock Off
-- Poison Jab
-
 Chimecho @ Chimechonite
-Level: 55
+Level: 58
 Modest Nature
 Ability: Hopeful Toll
 IVs: 21 HP / 1 Atk / 7 Def / 26 SpA / 4 SpD / 31 Spe
@@ -19,88 +9,58 @@ IVs: 21 HP / 1 Atk / 7 Def / 26 SpA / 4 SpD / 31 Spe
 - Mach Pulse
 - Recover
 
-Aerodactyl @ Muscle Band
-Level: 55
+Leavanny
+Level: 58
+Adamant Nature
+Ability: Sharpness
+IVs: 21 HP / 27 Atk / 11 Def / 0 SpA / 25 SpD / 30 Spe
+- Slash
+- Leaf Blade
+- X-Scissor
+- Sacred Sword
+
+Wailord
+Level: 58
+Timid Nature
+Ability: Pressure
+IVs: 21 HP / 17 Atk / 31 Def / 28 SpA / 21 SpD / 2 Spe
+- Heavy Slam
+- Brine
+- Rest
+- Water Spout
+
+Gyarados
+Level: 58
+Modest Nature
+Ability: Intimidate
+IVs: 21 HP / 31 Atk / 15 Def / 3 SpA / 9 SpD / 20 Spe
+- Aqua Tail
+- Tackle
+- Flail
+- Bite
+
+Aerodactyl @ Hard Stone
+Level: 58
 Gentle Nature
 Ability: Rock Head
-IVs: 6 HP / 26 Atk / 28 Def / 23 SpA / 31 SpD / 31 Spe
+IVs: 21 HP / 26 Atk / 28 Def / 23 SpA / 31 SpD / 31 Spe
 - Roost
 - Dual Wingbeat
 - Iron Head
-- Rock Slide
-
-Empoleon @ Shuca Berry
-Level: 55
-Naughty Nature
-Ability: Torrent
-IVs: 25 HP / 27 Atk / 7 Def / 11 SpA / 27 SpD / 6 Spe
-- Scald
-- Icy Wind
-- Roost
-- Flip Turn
-
-Ceruledge @ Colbur Berry
-Level: 55
-Jolly Nature
-Ability: Sharpness
-IVs: 21 HP / 19 Atk / 6 Def / 14 SpA / 29 SpD / 14 Spe
-- Shadow Claw
-- Will-O-Wisp
-- Bitter Blade
-- Twin Blades
-
-Exeggutor @ Miracle Seed
-Level: 55
-Docile Nature
-Ability: Chlorophyll
-IVs: 21 HP / 0 Atk / 21 Def / 20 SpA / 21 SpD / 15 Spe
-- Psyshock
-- Hidden Power
-- Synthesis
-- Solar Beam
-
-Poliwrath @ Roseli Berry
-Level: 55
-Hardy Nature
-Ability: Iron Fist
-IVs: 21 HP / 6 Atk / 8 Def / 20 SpA / 7 SpD / 13 Spe
-- Hydro Pump
-- Flip Turn
-- Ice Punch
-- Low Sweep
-
-Vikavolt
-Level: 55
-Impish Nature
-Ability: Levitate
-IVs: 21 HP / 2 Atk / 9 Def / 7 SpA / 29 SpD / 27 Spe
-- Thunderbolt
-- Bug Buzz
-- Volt Switch
-- Roost
-
-Mamoswine
-Level: 55
-Gentle Nature
-Ability: Oblivious
-IVs: 21 HP / 9 Atk / 7 Def / 5 SpA / 10 SpD / 21 Spe
-- Icicle Spear
-- Ice Shard
-- Earthquake
-- Knock Off
+- Stone Edge
 
 Rapidash-Galar
-Level: 55
+Level: 58
 Bashful Nature
 Ability: Composure
 IVs: 21 HP / 7 Atk / 20 Def / 5 SpA / 14 SpD / 9 Spe
-- Expanding Force
+- Psychic
 - Dazzling Gleam
 - Stomping Tantrum
 - Mystical Fire
 
 Vanilluxe
-Level: 55
+Level: 58
 Lonely Nature
 Ability: Unshaken
 IVs: 21 HP / 3 Atk / 24 Def / 25 SpA / 12 SpD / 23 Spe
@@ -110,7 +70,7 @@ IVs: 21 HP / 3 Atk / 24 Def / 25 SpA / 12 SpD / 23 Spe
 - Ice Beam
 
 Frosmoth
-Level: 55
+Level: 58
 Serious Nature
 Ability: Ice Scales
 IVs: 21 HP / 31 Atk / 26 Def / 31 SpA / 30 SpD / 0 Spe
@@ -119,18 +79,18 @@ IVs: 21 HP / 31 Atk / 26 Def / 31 SpA / 30 SpD / 0 Spe
 - Giga Drain
 - Roost
 
-Leavanny
-Level: 55
-Adamant Nature
-Ability: Sharpness
-IVs: 21 HP / 27 Atk / 11 Def / 0 SpA / 25 SpD / 30 Spe
-- Slash
-- Leaf Blade
-- X-Scissor
-- Sacred Sword
+Typhlosion-Hisui @ Shuca Berry
+Level: 58
+Relaxed Nature
+Ability: Blaze
+IVs: 21 HP / 17 Atk / 22 Def / 31 SpA / 31 SpD / 4 Spe
+- Infernal Parade
+- Will-O-Wisp
+- Flamethrower
+- Hidden Power
 
 Xatu
-Level: 55
+Level: 58
 Adamant Nature
 Ability: Synchronize
 IVs: 21 HP / 27 Atk / 0 Def / 27 SpA / 17 SpD / 23 Spe
@@ -140,7 +100,7 @@ IVs: 21 HP / 27 Atk / 0 Def / 27 SpA / 17 SpD / 23 Spe
 - Psychic
 
 Electivire @ Punching Glove
-Level: 55
+Level: 58
 Modest Nature
 Ability: Iron Fist
 IVs: 21 HP / 6 Atk / 19 Def / 31 SpA / 31 SpD / 31 Spe
@@ -149,48 +109,48 @@ IVs: 21 HP / 6 Atk / 19 Def / 31 SpA / 31 SpD / 31 Spe
 - Mach Punch
 - Dynamic Punch
 
-Typhlosion-Hisui @ Shuca Berry
-Level: 55
-Relaxed Nature
-Ability: Blaze
-IVs: 21 HP / 17 Atk / 22 Def / 31 SpA / 31 SpD / 4 Spe
-- Hex
-- Will-O-Wisp
-- Flamethrower
-- Hidden Power
+Cacturne
+Level: 58
+Careful Nature
+Ability: Sand Force
+IVs: 21 HP / 5 Atk / 15 Def / 20 SpA / 14 SpD / 24 Spe
+- Sucker Punch
+- Earth Power
+- Energy Ball
+- Thousand Arrows
 
-Banette @ Banettite
-Level: 55
+Beedrill @ Beedrillite
+Level: 58
 Hardy Nature
-Ability: Tough Claws
-IVs: 21 HP / 4 Atk / 27 Def / 23 SpA / 1 SpD / 31 Spe
-- Spirit Sap
+Ability: Sniper
+IVs: 21 HP / 29 Atk / 8 Def / 9 SpA / 1 SpD / 25 Spe
+- Drill Run
+- U-turn
 - Knock Off
-- Facade
-- Will-O-Wisp
+- Pin Missile
 
-Wailord @ Rindo Berry
-Level: 55
-Timid Nature
-Ability: Pressure
-IVs: 21 HP / 17 Atk / 31 Def / 28 SpA / 21 SpD / 2 Spe
-- Heavy Slam
-- Brine
-- Rest
-- Water Spout
+Poliwrath
+Level: 58
+Hardy Nature
+Ability: Iron Fist
+IVs: 21 HP / 6 Atk / 8 Def / 20 SpA / 7 SpD / 13 Spe
+- Jet Punch
+- Flip Turn
+- Ice Punch
+- Low Sweep
 
 Umbreon @ Sitrus Berry
-Level: 55
+Level: 58
 Serious Nature
 Ability: Synchronize
 IVs: 21 HP / 14 Atk / 22 Def / 28 SpA / 26 SpD / 28 Spe
-- Baby-Doll Eyes
+- Baton Pass
 - Dark Pulse
 - Snarl
 - Moonlight
 
 Lokix @ Chilan Berry
-Level: 55
+Level: 58
 Jolly Nature
 Ability: Swarm
 IVs: 21 HP / 28 Atk / 25 Def / 27 SpA / 23 SpD / 15 Spe
@@ -199,12 +159,72 @@ IVs: 21 HP / 28 Atk / 25 Def / 27 SpA / 23 SpD / 15 Spe
 - Knock Off
 - Sucker Punch
 
+Ceruledge
+Level: 58
+Jolly Nature
+Ability: Sharpness
+IVs: 21 HP / 19 Atk / 6 Def / 14 SpA / 29 SpD / 14 Spe
+- Shadow Claw
+- Psycho Cut
+- Bitter Blade
+- Twin Blades
+
+Banette @ Banettite
+Level: 58
+Hardy Nature
+Ability: Tough Claws
+IVs: 21 HP / 4 Atk / 27 Def / 23 SpA / 1 SpD / 31 Spe
+- Spirit Sap
+- Knock Off
+- Facade
+- Will-O-Wisp
+
+Vikavolt
+Level: 58
+Impish Nature
+Ability: Levitate
+IVs: 21 HP / 2 Atk / 9 Def / 7 SpA / 29 SpD / 27 Spe
+- Thunderbolt
+- Bug Buzz
+- Hidden Power
+- Roost
+
+Exeggutor @ Aspear Berry
+Level: 58
+Docile Nature
+Ability: Chlorophyll
+IVs: 21 HP / 0 Atk / 21 Def / 20 SpA / 21 SpD / 31 Spe
+- Psyshock
+- Hidden Power
+- Giga Drain
+- Leaf Storm
+
+Mamoswine @ Never-Melt Ice
+Level: 58
+Gentle Nature
+Ability: Oblivious
+IVs: 21 HP / 9 Atk / 7 Def / 5 SpA / 10 SpD / 21 Spe
+- Icicle Spear
+- Ice Shard
+- Earthquake
+- Knock Off
+
 Sandaconda
-Level: 55
+Level: 58
 Quirky Nature
 Ability: Medusoid
 IVs: 21 HP / 12 Atk / 24 Def / 23 SpA / 12 SpD / 15 Spe
 - Glare
-- Dig
+- High Horsepower
 - Slam
 - Shore Up
+
+Empoleon
+Level: 58
+Naughty Nature
+Ability: Torrent
+IVs: 21 HP / 27 Atk / 7 Def / 11 SpA / 27 SpD / 6 Spe
+- Scald
+- Flash Cannon
+- Roost
+- Flip Turn
