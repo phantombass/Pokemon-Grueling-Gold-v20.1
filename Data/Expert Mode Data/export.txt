@@ -1,290 +1,320 @@
 
-Ceruledge @ Charti Berry
-Level: 68
+Sandaconda @ Choice Band
+Level: 72
+Quirky Nature
+Ability: Medusoid
+IVs: 27 HP / 12 Atk / 24 Def / 23 SpA / 12 SpD / 15 Spe
+- Thousand Arrows
+- Dragon Darts
+- Glare
+- Shore Up
+
+Ceruledge @ Colbur Berry
+Level: 72
 Jolly Nature
 Ability: Sharpness
 IVs: 21 HP / 19 Atk / 6 Def / 14 SpA / 29 SpD / 14 Spe
 - Shadow Claw
-- Solar Blade
+- Psycho Cut
 - Bitter Blade
 - Sacred Sword
 
-Aerodactyl @ Choice Scarf
-Level: 68
-Gentle Nature
-Ability: Rock Head
-IVs: 6 HP / 26 Atk / 28 Def / 23 SpA / 31 SpD / 31 Spe
-- Roost
-- Dual Wingbeat
-- Iron Head
-- Rock Slide
-
-Tentacruel
-Level: 68
-Adamant Nature
-Ability: Liquid Ooze
-IVs: 8 HP / 25 Atk / 31 Def / 14 SpA / 31 SpD / 11 Spe
-- Bouncy Bubble
-- Poison Jab
-- Rapid Spin
+Empoleon @ Leftovers
+Level: 72
+Naughty Nature
+Ability: Unshaken
+IVs: 25 HP / 27 Atk / 7 Def / 11 SpA / 27 SpD / 6 Spe
 - Scald
+- Flash Cannon
+- Roost
+- Wind Drill
 
 Haxorus
-Level: 68
+Level: 72
 Lonely Nature
 Ability: Sharpness
-IVs: 16 HP / 28 Atk / 24 Def / 7 SpA / 28 SpD / 18 Spe
+IVs: 16 HP / 28 Atk / 24 Def / 7 SpA / 28 SpD / 31 Spe
 - Dual Chop
 - Mighty Cleave
-- Twin Blades
+- X-Scissor
 - Brick Break
 
+Chimecho @ Chimechonite
+Level: 72
+Modest Nature
+Ability: Hopeful Toll
+IVs: 21 HP / 1 Atk / 31 Def / 26 SpA / 4 SpD / 31 Spe
+- Extrasensory
+- Hyper Voice
+- Mach Pulse
+- Defog
+
+Electrode
+Level: 72
+Hasty Nature
+Ability: Composure
+IVs: 20 HP / 0 Atk / 19 Def / 19 SpA / 5 SpD / 1 Spe
+- Thunderbolt
+- Boomburst
+- Chilling Cry
+- Volt Switch
+
 Milotic
-Level: 68
+Level: 72
 Lax Nature
 Ability: Marvel Scale
-IVs: 25 HP / 11 Atk / 26 Def / 2 SpA / 2 SpD / 18 Spe
-- Bouncy Bubble
+IVs: 20 HP / 11 Atk / 26 Def / 2 SpA / 2 SpD / 18 Spe
+- Icy Wind
 - Fairy's Haunt
 - Flip Turn
-- Hidden Power Fire
-
-Gorebyss
-Level: 68
-Brave Nature
-Ability: Vampiric
-IVs: 27 HP / 3 Atk / 19 Def / 21 SpA / 23 SpD / 17 Spe
-- Fairy's Haunt
-- Bouncy Bubble
-- Baton Pass
-- Aurora Beam
-
-Rapidash-Galar @ Wise Glasses
-Level: 68
-Bashful Nature
-Ability: Composure
-IVs: 27 HP / 7 Atk / 20 Def / 31 SpA / 14 SpD / 31 Spe
-- Psychic
-- Dazzling Gleam
-- Quick Attack
-- Mystical Fire
+- Hidden Power Electric
 
 Vikavolt
-Level: 68
+Level: 72
 Impish Nature
 Ability: Levitate
-IVs: 27 HP / 2 Atk / 9 Def / 7 SpA / 29 SpD / 27 Spe
+IVs: 20 HP / 2 Atk / 9 Def / 7 SpA / 29 SpD / 27 Spe
 - Rising Voltage
 - Bug Buzz
 - Hidden Power Ice
 - Roost
 
 Cyclizar
-Level: 68
+Level: 72
 Lonely Nature
 Ability: Shed Skin
-IVs: 27 HP / 17 Atk / 26 Def / 22 SpA / 5 SpD / 31 Spe
+IVs: 20 HP / 17 Atk / 26 Def / 22 SpA / 5 SpD / 31 Spe
 - U-turn
 - Dragon Claw
 - Dragon Pulse
 - Double-Edge
 
 Frosmoth
-Level: 68
+Level: 72
 Serious Nature
 Ability: Ice Scales
-IVs: 27 HP / 31 Atk / 26 Def / 31 SpA / 30 SpD / 0 Spe
+IVs: 20 HP / 31 Atk / 26 Def / 31 SpA / 30 SpD / 0 Spe
 - Mirror Coat
 - Raging Swarm
 - Giga Drain
 - U-turn
 
-Mamoswine @ Soft Sand
-Level: 68
+Aerodactyl
+Level: 72
 Gentle Nature
-Ability: Oblivious
-IVs: 27 HP / 31 Atk / 7 Def / 5 SpA / 10 SpD / 21 Spe
-- Icicle Crash
-- Ice Shard
-- Earthquake
-- Knock Off
+Ability: Rock Head
+IVs: 20 HP / 26 Atk / 28 Def / 23 SpA / 31 SpD / 31 Spe
+- Roost
+- Dual Wingbeat
+- Iron Head
+- Rock Slide
 
 Vanilluxe
-Level: 68
+Level: 72
 Lonely Nature
 Ability: Unshaken
-IVs: 27 HP / 3 Atk / 24 Def / 25 SpA / 12 SpD / 23 Spe
+IVs: 20 HP / 3 Atk / 24 Def / 25 SpA / 12 SpD / 23 Spe
 - Freeze-Dry
 - Weather Ball
 - Mirror Coat
 - Ice Beam
 
 Typhlosion-Hisui
-Level: 68
+Level: 72
 Relaxed Nature
 Ability: Blaze
-IVs: 27 HP / 17 Atk / 22 Def / 31 SpA / 31 SpD / 4 Spe
+IVs: 20 HP / 17 Atk / 22 Def / 31 SpA / 31 SpD / 4 Spe
 - Infernal Parade
 - Will-O-Wisp
 - Flamethrower
 - Hidden Power Ground
 
 Lokix @ Rawst Berry
-Level: 68
+Level: 72
 Jolly Nature
 Ability: Swarm
-IVs: 27 HP / 28 Atk / 25 Def / 27 SpA / 23 SpD / 15 Spe
+IVs: 20 HP / 28 Atk / 25 Def / 27 SpA / 23 SpD / 15 Spe
 - U-turn
 - First Impression
 - Knock Off
 - Sucker Punch
 
 Xatu
-Level: 68
+Level: 72
 Adamant Nature
 Ability: Synchronize
-IVs: 27 HP / 27 Atk / 0 Def / 27 SpA / 17 SpD / 23 Spe
+IVs: 20 HP / 27 Atk / 0 Def / 27 SpA / 17 SpD / 23 Spe
 - Psycho Shift
 - Power Swap
 - Guard Swap
 - Psychic
 
-Gyarados
-Level: 68
-Modest Nature
-Ability: Intimidate
-IVs: 27 HP / 31 Atk / 15 Def / 3 SpA / 9 SpD / 20 Spe
-- Aqua Tail
-- Facade
-- Flail
-- Ice Fang
+Gorebyss @ Wise Glasses
+Level: 72
+Brave Nature
+Ability: Vampiric
+IVs: 20 HP / 3 Atk / 19 Def / 21 SpA / 23 SpD / 17 Spe
+- Fairy's Haunt
+- Bouncy Bubble
+- Baton Pass
+- Aurora Beam
 
 Houndoom @ Sitrus Berry
-Level: 68
+Level: 72
 Mild Nature
 Ability: Unnerve
-IVs: 27 HP / 29 Atk / 0 Def / 31 SpA / 24 SpD / 13 Spe
+IVs: 20 HP / 29 Atk / 0 Def / 31 SpA / 24 SpD / 13 Spe
 - Foul Play
 - Flamethrower
 - Crunch
 - Inferno
 
-Electivire @ Sitrus Berry
-Level: 68
-Modest Nature
-Ability: Iron Fist
-IVs: 27 HP / 6 Atk / 19 Def / 31 SpA / 31 SpD / 31 Spe
-- Thunder
-- Ice Punch
-- Mach Punch
-- Close Combat
+Cacturne @ Sitrus Berry
+Level: 72
+Careful Nature
+Ability: Sand Force
+IVs: 20 HP / 5 Atk / 15 Def / 20 SpA / 14 SpD / 24 Spe
+- Sucker Punch
+- Spiky Shield
+- Seed Bomb
+- Thousand Arrows
 
-Beedrill @ Beedrillite
-Level: 68
-Hardy Nature
-Ability: Sniper
-IVs: 27 HP / 29 Atk / 8 Def / 9 SpA / 1 SpD / 25 Spe
-- Drill Run
-- U-turn
+Mamoswine
+Level: 72
+Gentle Nature
+Ability: Oblivious
+IVs: 20 HP / 31 Atk / 7 Def / 5 SpA / 10 SpD / 21 Spe
+- Icicle Crash
+- Ice Shard
+- Earthquake
 - Knock Off
-- Poison Jab
 
 Umbreon @ Sitrus Berry
-Level: 68
+Level: 72
 Serious Nature
 Ability: Synchronize
-IVs: 27 HP / 14 Atk / 22 Def / 28 SpA / 26 SpD / 28 Spe
+IVs: 20 HP / 14 Atk / 22 Def / 28 SpA / 26 SpD / 28 Spe
 - Baton Pass
 - Dark Pulse
 - Snarl
 - Moonlight
 
-Sandaconda @ Leftovers
-Level: 68
-Quirky Nature
-Ability: Medusoid
-IVs: 27 HP / 12 Atk / 24 Def / 23 SpA / 12 SpD / 15 Spe
-- Glare
-- Thousand Arrows
-- Dragon Darts
-- Shore Up
+Tentacruel
+Level: 72
+Adamant Nature
+Ability: Liquid Ooze
+IVs: 20 HP / 25 Atk / 31 Def / 14 SpA / 31 SpD / 11 Spe
+- Bouncy Bubble
+- Poison Jab
+- Rapid Spin
+- Haze
 
 Starmie
-Level: 68
+Level: 72
 Timid Nature
 Ability: Illuminate
-IVs: 27 HP / 15 Atk / 3 Def / 15 SpA / 16 SpD / 27 Spe
+IVs: 20 HP / 15 Atk / 3 Def / 15 SpA / 16 SpD / 27 Spe
 - Power Gem
 - Psychic
 - Surf
 - Recover
 
-Empoleon @ Sitrus Berry
-Level: 68
-Naughty Nature
-Ability: Torrent
-IVs: 27 HP / 27 Atk / 7 Def / 11 SpA / 27 SpD / 6 Spe
-- Icy Wind
-- Flash Cannon
-- Roost
-- Flip Turn
+Electivire @ Roseli Berry
+Level: 72
+Modest Nature
+Ability: Iron Fist
+IVs: 20 HP / 6 Atk / 19 Def / 31 SpA / 31 SpD / 31 Spe
+- Thunder
+- Ice Punch
+- Mach Punch
+- Close Combat
 
-Overqwil
-Level: 68
-Mild Nature
-Ability: Intimidate
-IVs: 27 HP / 16 Atk / 19 Def / 3 SpA / 30 SpD / 24 Spe
-- Barb Barrage
-- Sucker Punch
-- Night Slash
+Dragalge
+Level: 72
+Bold Nature
+Ability: Poison Touch
+IVs: 20 HP / 3 Atk / 13 Def / 31 SpA / 28 SpD / 1 Spe
+- Dragon Pulse
 - Aqua Tail
+- Sludge Bomb
+- Hydro Pump
+
+Toedscruel @ Soft Sand
+Level: 72
+Adamant Nature
+Ability: Resurgence
+IVs: 20 HP / 4 Atk / 12 Def / 11 SpA / 25 SpD / 29 Spe
+- Spore
+- Giga Drain
+- Earth Power
+- Rapid Spin
 
 Noivern
-Level: 68
+Level: 72
 Timid Nature
 Ability: Punk Rock
-IVs: 27 HP / 14 Atk / 16 Def / 19 SpA / 4 SpD / 1 Spe
+IVs: 20 HP / 14 Atk / 16 Def / 19 SpA / 4 SpD / 1 Spe
 - Dragon Pulse
 - Air Cannon
 - Spectral Shriek
 - Boomburst
 
 Leavanny @ Miracle Seed
-Level: 68
+Level: 72
 Adamant Nature
 Ability: Sharpness
-IVs: 27 HP / 27 Atk / 11 Def / 0 SpA / 25 SpD / 30 Spe
+IVs: 20 HP / 27 Atk / 11 Def / 0 SpA / 25 SpD / 30 Spe
 - Slash
 - Leaf Blade
 - X-Scissor
 - Sacred Sword
 
+Gyarados
+Level: 72
+Modest Nature
+Ability: Intimidate
+IVs: 20 HP / 31 Atk / 15 Def / 3 SpA / 9 SpD / 20 Spe
+- Aqua Tail
+- Facade
+- Thunder Wave
+- Ice Fang
+
+Rapidash-Galar @ Choice Scarf
+Level: 72
+Bashful Nature
+Ability: Composure
+IVs: 20 HP / 7 Atk / 20 Def / 31 SpA / 14 SpD / 31 Spe
+- Psychic
+- Dazzling Gleam
+- Quick Attack
+- Mystical Fire
+
 Arbok
-Level: 68
+Level: 72
 Adamant Nature
 Ability: Strong Jaw
-IVs: 27 HP / 8 Atk / 4 Def / 2 SpA / 16 SpD / 11 Spe
+IVs: 20 HP / 8 Atk / 4 Def / 2 SpA / 16 SpD / 11 Spe
 - Corrosive Jaw
 - Crunch
 - Fire Fang
 - Haze
 
-Cacturne
-Level: 68
-Careful Nature
-Ability: Sand Force
-IVs: 27 HP / 5 Atk / 15 Def / 20 SpA / 14 SpD / 24 Spe
-- Sucker Punch
-- Spiky Shield
-- Seed Bomb
-- Thousand Arrows
+Beedrill @ Beedrillite
+Level: 72
+Hardy Nature
+Ability: Sniper
+IVs: 20 HP / 29 Atk / 8 Def / 9 SpA / 31 SpD / 25 Spe
+- Drill Run
+- U-turn
+- Knock Off
+- Poison Jab
 
-Chimecho @ Chimechonite
-Level: 68
-Modest Nature
-Ability: Hopeful Toll
-IVs: 27 HP / 1 Atk / 31 Def / 26 SpA / 4 SpD / 31 Spe
-- Extrasensory
-- Hyper Voice
-- Mach Pulse
-- Defog
+Overqwil
+Level: 72
+Mild Nature
+Ability: Intimidate
+IVs: 20 HP / 16 Atk / 19 Def / 3 SpA / 30 SpD / 24 Spe
+- Barb Barrage
+- Flip Turn
+- Night Slash
+- Aqua Tail
