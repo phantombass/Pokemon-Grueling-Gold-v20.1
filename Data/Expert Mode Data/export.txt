@@ -1,23 +1,173 @@
 
-Aerodactyl @ Aerodactylite
+Chimecho @ Chimechonite
 Level: 85
-Gentle Nature
-Ability: Unnerve
-IVs: 31 HP / 31 Atk / 28 Def / 23 SpA / 31 SpD / 31 Spe
-- Head Smash
-- Brave Bird
-- Iron Head
-- Roost
+Modest Nature
+Ability: Hopeful Toll
+IVs: 21 HP / 1 Atk / 31 Def / 26 SpA / 4 SpD / 31 Spe
+- Psystrike
+- Hyper Voice
+- Mach Pulse
+- Recover
 
-Flygon @ Leftovers
+Haxorus
+Level: 85
+Lonely Nature
+Ability: Sharpness
+IVs: 21 HP / 28 Atk / 24 Def / 7 SpA / 28 SpD / 31 Spe
+- Dual Chop
+- Mighty Cleave
+- Twin Blades
+- Brick Break
+
+Gyarados
+Level: 85
+Modest Nature
+Ability: Intimidate
+IVs: 21 HP / 31 Atk / 15 Def / 3 SpA / 9 SpD / 20 Spe
+- Gill Gash
+- Facade
+- Thunder Wave
+- Ice Fang
+
+Overqwil
+Level: 85
+Mild Nature
+Ability: Intimidate
+IVs: 21 HP / 16 Atk / 19 Def / 3 SpA / 30 SpD / 24 Spe
+- Barb Barrage
+- Night Rush
+- Aqua Tail
+- Flip Turn
+
+Frosmoth
 Level: 85
 Serious Nature
-Ability: Punk Rock
-IVs: 19 HP / 29 Atk / 24 Def / 26 SpA / 0 SpD / 29 Spe
+Ability: Ice Scales
+IVs: 21 HP / 31 Atk / 26 Def / 31 SpA / 30 SpD / 0 Spe
+- Ice Beam
+- Raging Swarm
+- Giga Drain
+- U-turn
+
+Toedscruel
+Level: 85
+Adamant Nature
+Ability: Resurgence
+IVs: 21 HP / 4 Atk / 12 Def / 11 SpA / 25 SpD / 29 Spe
+- Spore
+- Giga Drain
 - Earth Power
-- Ancient Cry
+- Rapid Spin
+
+Noivern
+Level: 85
+Timid Nature
+Ability: Punk Rock
+IVs: 21 HP / 14 Atk / 16 Def / 19 SpA / 4 SpD / 1 Spe
+- Clanging Scales
+- Air Cannon
+- Flamethrower
 - Boomburst
-- Fissure
+
+Dewgong
+Level: 85
+Gentle Nature
+Ability: Ice Scales
+IVs: 21 HP / 1 Atk / 1 Def / 31 SpA / 11 SpD / 9 Spe
+- Dive
+- Aqua Tail
+- Ice Beam
+- Safeguard
+
+Lokix
+Level: 85
+Jolly Nature
+Ability: Swarm
+IVs: 21 HP / 28 Atk / 25 Def / 27 SpA / 23 SpD / 15 Spe
+- U-turn
+- First Impression
+- Knock Off
+- Sucker Punch
+
+Cacturne
+Level: 85
+Careful Nature
+Ability: Sand Force
+IVs: 21 HP / 5 Atk / 15 Def / 20 SpA / 14 SpD / 24 Spe
+- Sucker Punch
+- Spiky Shield
+- Seed Bomb
+- Thousand Arrows
+
+Leavanny
+Level: 85
+Adamant Nature
+Ability: Sharpness
+IVs: 21 HP / 27 Atk / 11 Def / 0 SpA / 25 SpD / 30 Spe
+- Bullet Seed
+- Leaf Blade
+- X-Scissor
+- Sacred Sword
+
+Glalie
+Level: 85
+Careful Nature
+Ability: Ice Body
+IVs: 21 HP / 23 Atk / 31 Def / 10 SpA / 3 SpD / 14 Spe
+- Freeze-Dry
+- Fake Out
+- Crunch
+- Blizzard
+
+Cyclizar
+Level: 85
+Lonely Nature
+Ability: Regenerator
+IVs: 21 HP / 17 Atk / 26 Def / 22 SpA / 5 SpD / 31 Spe
+- U-turn
+- Power Whip
+- Knock Off
+- Dragon Claw
+
+Gorebyss
+Level: 85
+Brave Nature
+Ability: Vampiric
+IVs: 21 HP / 3 Atk / 19 Def / 21 SpA / 23 SpD / 17 Spe
+- Fairy's Haunt
+- Bouncy Bubble
+- Baton Pass
+- Aurora Beam
+
+Umbreon
+Level: 85
+Serious Nature
+Ability: Synchronize
+IVs: 21 HP / 14 Atk / 22 Def / 28 SpA / 26 SpD / 28 Spe
+- Baton Pass
+- Dark Pulse
+- Snarl
+- Moonlight
+
+Beartic
+Level: 85
+Brave Nature
+Ability: Ice Body
+IVs: 21 HP / 28 Atk / 0 Def / 24 SpA / 4 SpD / 24 Spe
+- Superpower
+- Hammer Arm
+- Ice Hammer
+- Close Combat
+
+Kingdra
+Level: 85
+Careful Nature
+Ability: Tight Focus
+IVs: 21 HP / 22 Atk / 11 Def / 10 SpA / 15 SpD / 30 Spe
+- Snipe Shot
+- Ice Beam
+- Dragon Pulse
+- Flip Turn
 
 Ceruledge
 Level: 85
@@ -29,201 +179,11 @@ IVs: 21 HP / 19 Atk / 6 Def / 14 SpA / 29 SpD / 14 Spe
 - Bitter Blade
 - Sacred Sword
 
-Frosmoth @ Assault Vest
-Level: 85
-Serious Nature
-Ability: Ice Scales
-IVs: 4 HP / 31 Atk / 26 Def / 31 SpA / 30 SpD / 0 Spe
-- Ice Beam
-- Raging Swarm
-- Giga Drain
-- U-turn
-
-Electrode @ Life Orb
-Level: 85
-Hasty Nature
-Ability: Composure
-IVs: 20 HP / 0 Atk / 19 Def / 31 SpA / 5 SpD / 1 Spe
-- Thunderbolt
-- Boomburst
-- Chilling Cry
-- Volt Switch
-
-Dudunsparce
-Level: 85
-Quirky Nature
-Ability: Rattled
-IVs: 16 HP / 13 Atk / 17 Def / 17 SpA / 21 SpD / 28 Spe
-- Boomburst
-- Spectral Shriek
-- Earth Power
-- Roost
-
-Electivire
-Level: 85
-Modest Nature
-Ability: Iron Fist
-IVs: 16 HP / 6 Atk / 19 Def / 31 SpA / 31 SpD / 31 Spe
-- Thunder
-- Ice Punch
-- Hammer Arm
-- Mach Punch
-
-Gyarados
-Level: 85
-Modest Nature
-Ability: Intimidate
-IVs: 16 HP / 31 Atk / 15 Def / 3 SpA / 9 SpD / 20 Spe
-- Gill Gash
-- Facade
-- Thunder Wave
-- Ice Fang
-
-Cyclizar
-Level: 85
-Lonely Nature
-Ability: Shed Skin
-IVs: 16 HP / 17 Atk / 26 Def / 22 SpA / 5 SpD / 31 Spe
-- U-turn
-- Dragon Claw
-- Dragon Pulse
-- Double-Edge
-
-Toedscruel
-Level: 85
-Adamant Nature
-Ability: Resurgence
-IVs: 16 HP / 4 Atk / 12 Def / 11 SpA / 25 SpD / 29 Spe
-- Spore
-- Giga Drain
-- Earth Power
-- Rapid Spin
-
-Noivern
-Level: 85
-Timid Nature
-Ability: Punk Rock
-IVs: 16 HP / 14 Atk / 16 Def / 19 SpA / 4 SpD / 1 Spe
-- Clanging Scales
-- Air Cannon
-- Flamethrower
-- Boomburst
-
-Milotic
-Level: 85
-Lax Nature
-Ability: Marvel Scale
-IVs: 16 HP / 11 Atk / 26 Def / 2 SpA / 2 SpD / 18 Spe
-- Bouncy Bubble
-- Fairy's Haunt
-- Scald
-- Haze
-
-Lokix
-Level: 85
-Jolly Nature
-Ability: Swarm
-IVs: 16 HP / 28 Atk / 25 Def / 27 SpA / 23 SpD / 15 Spe
-- U-turn
-- First Impression
-- Knock Off
-- Sucker Punch
-
-Xatu
-Level: 85
-Adamant Nature
-Ability: Synchronize
-IVs: 16 HP / 27 Atk / 0 Def / 27 SpA / 17 SpD / 23 Spe
-- Psycho Shift
-- Power Swap
-- Guard Swap
-- Psychic
-
-Leavanny
-Level: 85
-Adamant Nature
-Ability: Sharpness
-IVs: 16 HP / 27 Atk / 11 Def / 0 SpA / 25 SpD / 30 Spe
-- Bullet Seed
-- Leaf Blade
-- X-Scissor
-- Sacred Sword
-
-Glalie
-Level: 85
-Careful Nature
-Ability: Ice Body
-IVs: 16 HP / 23 Atk / 31 Def / 10 SpA / 3 SpD / 14 Spe
-- Freeze-Dry
-- Fake Out
-- Crunch
-- Blizzard
-
-Cacturne
-Level: 85
-Careful Nature
-Ability: Sand Force
-IVs: 16 HP / 5 Atk / 15 Def / 20 SpA / 14 SpD / 24 Spe
-- Sucker Punch
-- Spiky Shield
-- Seed Bomb
-- Thousand Arrows
-
-Gorebyss
-Level: 85
-Brave Nature
-Ability: Vampiric
-IVs: 16 HP / 3 Atk / 19 Def / 21 SpA / 23 SpD / 17 Spe
-- Fairy's Haunt
-- Bouncy Bubble
-- Baton Pass
-- Aurora Beam
-
-Umbreon
-Level: 85
-Serious Nature
-Ability: Synchronize
-IVs: 16 HP / 14 Atk / 22 Def / 28 SpA / 26 SpD / 28 Spe
-- Baton Pass
-- Dark Pulse
-- Snarl
-- Moonlight
-
-Beartic
-Level: 85
-Brave Nature
-Ability: Ice Body
-IVs: 16 HP / 28 Atk / 0 Def / 24 SpA / 4 SpD / 24 Spe
-- Superpower
-- Hammer Arm
-- Ice Hammer
-- Close Combat
-
-Kingdra
-Level: 85
-Careful Nature
-Ability: Tight Focus
-IVs: 16 HP / 22 Atk / 11 Def / 10 SpA / 15 SpD / 30 Spe
-- Snipe Shot
-- Ice Beam
-- Dragon Pulse
-- Flip Turn
-
-Dewgong
-Level: 85
-Gentle Nature
-Ability: Ice Scales
-IVs: 16 HP / 1 Atk / 1 Def / 31 SpA / 11 SpD / 9 Spe
-- Dive
-- Aqua Tail
-- Ice Beam
-- Safeguard
-
 Dragalge
 Level: 85
 Bold Nature
 Ability: Poison Touch
-IVs: 16 HP / 3 Atk / 13 Def / 31 SpA / 28 SpD / 1 Spe
+IVs: 21 HP / 3 Atk / 13 Def / 31 SpA / 28 SpD / 1 Spe
 - Dragon Pulse
 - Aqua Tail
 - Sludge Bomb
@@ -233,7 +193,7 @@ Mamoswine
 Level: 85
 Gentle Nature
 Ability: Oblivious
-IVs: 16 HP / 31 Atk / 7 Def / 5 SpA / 10 SpD / 21 Spe
+IVs: 21 HP / 31 Atk / 7 Def / 5 SpA / 10 SpD / 21 Spe
 - Icicle Crash
 - Ice Shard
 - Earthquake
@@ -243,87 +203,107 @@ Typhlosion-Hisui
 Level: 85
 Relaxed Nature
 Ability: Blaze
-IVs: 16 HP / 17 Atk / 22 Def / 31 SpA / 31 SpD / 4 Spe
+IVs: 21 HP / 17 Atk / 22 Def / 31 SpA / 31 SpD / 4 Spe
 - Infernal Parade
 - Magma Trek
 - Flamethrower
 - Hidden Power Ground
 
-Chimecho @ Chimechonite
+Sandaconda
 Level: 85
-Modest Nature
-Ability: Hopeful Toll
-IVs: 16 HP / 1 Atk / 31 Def / 26 SpA / 4 SpD / 31 Spe
-- Psystrike
-- Hyper Voice
-- Mach Pulse
-- Recover
+Quirky Nature
+Ability: Medusoid
+IVs: 21 HP / 31 Atk / 24 Def / 23 SpA / 12 SpD / 15 Spe
+- Thousand Arrows
+- Dragon Darts
+- Shore Up
+- Glare
 
-Haxorus
+Flygon
 Level: 85
-Lonely Nature
-Ability: Sharpness
-IVs: 16 HP / 28 Atk / 24 Def / 7 SpA / 28 SpD / 31 Spe
-- Dual Chop
-- Mighty Cleave
-- Twin Blades
-- Brick Break
+Serious Nature
+Ability: Punk Rock
+IVs: 21 HP / 29 Atk / 24 Def / 26 SpA / 31 SpD / 29 Spe
+- Earth Power
+- Ancient Cry
+- Boomburst
+- U-turn
 
-Vanilluxe
+Empoleon
 Level: 85
-Lonely Nature
+Naughty Nature
 Ability: Unshaken
-IVs: 16 HP / 3 Atk / 24 Def / 25 SpA / 12 SpD / 23 Spe
-- Freeze-Dry
-- Weather Ball
-- Mirror Coat
-- Ice Beam
+IVs: 21 HP / 27 Atk / 7 Def / 11 SpA / 27 SpD / 6 Spe
+- Scald
+- Polarity Pulse
+- Knock Off
+- Wind Drill
 
-Overqwil
+Milotic
 Level: 85
-Mild Nature
-Ability: Intimidate
-IVs: 16 HP / 16 Atk / 19 Def / 3 SpA / 30 SpD / 24 Spe
-- Barb Barrage
-- Night Rush
-- Aqua Tail
-- Flip Turn
-
-Rapidash-Galar
-Level: 85
-Bashful Nature
-Ability: Composure
-IVs: 16 HP / 7 Atk / 20 Def / 31 SpA / 14 SpD / 31 Spe
-- Psychic
+Lax Nature
+Ability: Marvel Scale
+IVs: 21 HP / 11 Atk / 26 Def / 2 SpA / 2 SpD / 18 Spe
+- Bouncy Bubble
+- Haze
+- Recover
 - Moonblast
-- Quick Attack
-- Mystical Fire
+
+Dudunsparce
+Level: 85
+Quirky Nature
+Ability: Composure
+IVs: 21 HP / 13 Atk / 17 Def / 17 SpA / 21 SpD / 28 Spe
+- Boomburst
+- Spectral Shriek
+- Earth Power
+- Roost
 
 Vikavolt
 Level: 85
 Impish Nature
 Ability: Levitate
-IVs: 16 HP / 2 Atk / 9 Def / 7 SpA / 29 SpD / 27 Spe
+IVs: 21 HP / 2 Atk / 9 Def / 7 SpA / 29 SpD / 27 Spe
 - Volt Switch
 - Bug Buzz
 - Hidden Power Ice
 - Defog
 
+Electrode
+Level: 85
+Hasty Nature
+Ability: Composure
+IVs: 21 HP / 0 Atk / 19 Def / 31 SpA / 5 SpD / 1 Spe
+- Thunderbolt
+- Boomburst
+- Chilling Cry
+- Volt Switch
+
 Arbok
 Level: 85
 Adamant Nature
 Ability: Strong Jaw
-IVs: 16 HP / 8 Atk / 4 Def / 2 SpA / 16 SpD / 11 Spe
+IVs: 21 HP / 8 Atk / 4 Def / 2 SpA / 16 SpD / 11 Spe
 - Corrosive Jaw
 - Crunch
 - Fire Fang
 - Haze
 
+Rapidash-Galar
+Level: 85
+Bashful Nature
+Ability: Composure
+IVs: 21 HP / 7 Atk / 20 Def / 31 SpA / 14 SpD / 31 Spe
+- Psychic
+- Moonblast
+- Quick Attack
+- Mystical Fire
+
 Starmie
 Level: 85
 Timid Nature
 Ability: Illuminate
-IVs: 16 HP / 15 Atk / 3 Def / 15 SpA / 16 SpD / 27 Spe
+IVs: 21 HP / 15 Atk / 3 Def / 15 SpA / 16 SpD / 27 Spe
 - Flip Turn
 - Psychic
 - Hydro Pump
@@ -333,7 +313,7 @@ Beedrill @ Beedrillite
 Level: 85
 Hardy Nature
 Ability: Sniper
-IVs: 16 HP / 29 Atk / 8 Def / 9 SpA / 31 SpD / 25 Spe
+IVs: 21 HP / 29 Atk / 8 Def / 9 SpA / 31 SpD / 25 Spe
 - Poison Jab
 - Twineedle
 - Drill Run
@@ -343,28 +323,28 @@ Abomasnow
 Level: 85
 Bold Nature
 Ability: Ice Body
-IVs: 16 HP / 15 Atk / 2 Def / 21 SpA / 16 SpD / 12 Spe
+IVs: 21 HP / 15 Atk / 2 Def / 21 SpA / 16 SpD / 12 Spe
 - Ingrain
 - Wood Hammer
 - Blizzard
 - Sheer Cold
 
-Empoleon
+Electivire
 Level: 85
-Naughty Nature
-Ability: Unshaken
-IVs: 16 HP / 27 Atk / 7 Def / 11 SpA / 27 SpD / 6 Spe
-- Scald
-- Polarity Pulse
-- Flip Turn
-- Wind Drill
+Modest Nature
+Ability: Iron Fist
+IVs: 21 HP / 6 Atk / 19 Def / 31 SpA / 31 SpD / 31 Spe
+- Thunder
+- Ice Punch
+- Hammer Arm
+- Mach Punch
 
-Sandaconda
+Aerodactyl @ Aerodactylite
 Level: 85
-Quirky Nature
-Ability: Medusoid
-IVs: 16 HP / 12 Atk / 24 Def / 23 SpA / 12 SpD / 15 Spe
-- Thousand Arrows
-- Dragon Darts
-- Shore Up
-- Glare
+Gentle Nature
+Ability: Unnerve
+IVs: 21 HP / 31 Atk / 28 Def / 23 SpA / 31 SpD / 31 Spe
+- Head Smash
+- Brave Bird
+- Earthquake
+- Dual Wingbeat
