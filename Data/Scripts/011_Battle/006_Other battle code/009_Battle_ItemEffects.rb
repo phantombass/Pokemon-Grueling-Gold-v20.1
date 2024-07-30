@@ -1086,7 +1086,7 @@ Battle::ItemEffects::DamageCalcFromUser.add(:WISEGLASSES,
 
 Battle::ItemEffects::DamageCalcFromTarget.add(:ASSAULTVEST,
   proc { |item, user, target, move, mults, baseDmg, type|
-    mults[:defense_multiplier] *= 1.5 if move.specialMove?
+    mults[:defense_multiplier] *= 1.5 if move.specialMove? && move.function != "UseTargetDefenseInsteadOfTargetSpDef"
   }
 )
 
