@@ -671,7 +671,7 @@ class PokemonBagScreen
       $PokemonGlobal.pcItemStorage = PCItemStorage.new
     end
     storage = $PokemonGlobal.pcItemStorage
-    @scene.pbStartScene(storage)
+    @scene.pbStartScene(storage,$player.pokemon_party)
     loop do
       item = @scene.pbChooseItem
       break if !item
