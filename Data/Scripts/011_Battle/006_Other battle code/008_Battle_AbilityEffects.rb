@@ -1767,6 +1767,7 @@ Battle::AbilityEffects::OnBeingHit.add(:CUTECHARM,
   proc { |ability, user, target, move, battle|
     next if target.fainted?
     next if !move.pbContactMove?(user)
+    next if $test_trigger == true
     next if battle.pbRandom(100) >= 30
     if user.pbCanAttract?(target, Battle::Scene::USE_ABILITY_SPLASH) &&
        user.affectedByContactEffect?(Battle::Scene::USE_ABILITY_SPLASH)
