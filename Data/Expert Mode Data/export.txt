@@ -1,0 +1,80 @@
+
+Kommo-o @ Sitrus Berry
+Level: 28
+Jolly Nature
+Ability: Full Metal Body
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Headbutt
+- Clanging Scales
+- Dragon Tail
+- Protect
+
+Fezandipiti @ Sitrus Berry
+Level: 28
+Jolly Nature
+Ability: Beads of Ruin
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Double Kick
+- Peck
+- Septic Shot
+- Disarming Voice
+
+Bisharp @ Sitrus Berry
+Level: 28
+Adamant Nature
+Ability: Hopeful Toll
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Scratch
+- Assurance
+- Fury Cutter
+- Metal Claw
+
+Miltank
+Level: 28
+Adamant Nature
+Ability: Rough Skin
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tackle
+- Growl
+- Rollout
+- Defense Curl
+
+Stantler
+Level: 28
+Timid Nature
+Ability: Hadron Engine
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Leer
+- Astonish
+- Hypnosis
+- Stomp
+
+Bewear
+Level: 28
+Impish Nature
+Ability: Own Tempo
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Payback
+- Brutal Swing
+- Endure
+- Strength
+
+Grapploct
+Level: 28
+Sassy Nature
+Ability: Unshaken
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Smash
+- Brick Break
+- Feint
+- Bulk Up
+
+Beedrill
+Level: 28
+Hardy Nature
+Ability: Storm Drain
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Poison Sting
+- String Shot
+- Twineedle
+- Pursuit
