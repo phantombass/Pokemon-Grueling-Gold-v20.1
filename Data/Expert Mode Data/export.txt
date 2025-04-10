@@ -1,0 +1,108 @@
+
+Machop
+Level: 23
+Calm Nature
+Ability: Guts
+IVs: 16 HP / 14 Atk / 16 Def / 11 SpA / 24 SpD / 19 Spe
+- Focus Energy
+- Revenge
+- Low Sweep
+- Knock Off
+
+Scraggy
+Level: 23
+Bashful Nature
+Ability: Shed Skin
+IVs: 26 HP / 14 Atk / 7 Def / 28 SpA / 16 SpD / 24 Spe
+- Low Kick
+- Facade
+- Payback
+- Headbutt
+
+Azumarill
+Level: 23
+Naive Nature
+Ability: Huge Power
+IVs: 25 HP / 24 Atk / 26 Def / 28 SpA / 20 SpD / 11 Spe
+- Slam
+- Covet
+- Aqua Tail
+- Charm
+
+Furret
+Level: 23
+Impish Nature
+Ability: Frisk
+IVs: 10 HP / 19 Atk / 9 Def / 17 SpA / 14 SpD / 15 Spe
+- Covet
+- Foresight
+- Quick Attack
+- Fury Swipes
+
+Crocalor
+Level: 23
+Calm Nature
+Ability: Blaze
+IVs: 31 HP / 14 Atk / 21 Def / 31 SpA / 31 SpD / 12 Spe
+- Incinerate
+- Bite
+- Round
+- Yawn
+
+Meowth-Galar
+Level: 23
+Adamant Nature
+Ability: Unnerve
+IVs: 16 HP / 13 Atk / 29 Def / 29 SpA / 22 SpD / 14 Spe
+- Fake Out
+- Metal Claw
+- Scratch
+- Bullet Punch
+
+Nymble
+Level: 23
+Bold Nature
+Ability: Swarm
+IVs: 16 HP / 0 Atk / 1 Def / 31 SpA / 28 SpD / 23 Spe
+- Struggle Bug
+- Astonish
+- Assurance
+- Double Kick
+
+Roggenrola
+Level: 23
+Gentle Nature
+Ability: Sturdy
+IVs: 16 HP / 1 Atk / 18 Def / 12 SpA / 11 SpD / 27 Spe
+- Sand Attack
+- Tackle
+
+Bergmite
+Level: 23
+Serious Nature
+Ability: Sturdy
+IVs: 16 HP / 17 Atk / 13 Def / 9 SpA / 15 SpD / 23 Spe
+- Rapid Spin
+- Tackle
+- Powder Snow
+- Icy Wind
+
+Natu
+Level: 23
+Gentle Nature
+Ability: Early Bird
+IVs: 16 HP / 21 Atk / 14 Def / 2 SpA / 21 SpD / 26 Spe
+- Leer
+- Stored Power
+- Teleport
+- Confuse Ray
+
+Shellder
+Level: 23
+Jolly Nature
+Ability: Shell Armor
+IVs: 16 HP / 26 Atk / 10 Def / 30 SpA / 28 SpD / 22 Spe
+- Tackle
+- Water Gun
+- Ice Shard
+- Leer
