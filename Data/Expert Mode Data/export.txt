@@ -1,100 +1,60 @@
 
-Azumarill @ Muscle Band
-Level: 32
-Naive Nature
-Ability: Huge Power
-IVs: 25 HP / 31 Atk / 26 Def / 28 SpA / 20 SpD / 11 Spe
-- Aqua Tail
-- Play Rough
-- Slam
-- Charm
+Piplup @ Oran Berry
+Level: 15
+Adamant Nature
+Ability: Torrent
+IVs: 26 HP / 31 Atk / 10 Def / 31 SpA / 5 SpD / 31 Spe
+- Bubble
+- Peck
+- Pound
+- Growl
 
-Crocalor
-Level: 32
-Calm Nature
-Ability: Blaze
-IVs: 31 HP / 14 Atk / 21 Def / 31 SpA / 31 SpD / 12 Spe
-- Flamethrower
-- Bite
-- Round
-- Yawn
+Furret
+Level: 15
+Gentle Nature
+Ability: Run Away
+IVs: 20 HP / 10 Atk / 24 Def / 31 SpA / 24 SpD / 16 Spe
+- Scratch
+- Foresight
+- Quick Attack
+- Fury Swipes
 
-Mightyena
-Level: 32
+Scraggy
+Level: 15
 Docile Nature
-Ability: Strong Jaw
-IVs: 30 HP / 16 Atk / 20 Def / 11 SpA / 19 SpD / 13 Spe
-- Crunch
-- Fire Fang
-- Thunder Fang
-- Ice Fang
-
-Machoke
-Level: 32
-Calm Nature
-Ability: Guts
-IVs: 16 HP / 14 Atk / 16 Def / 11 SpA / 24 SpD / 19 Spe
-- Focus Energy
-- Revenge
-- Low Sweep
-- Knock Off
-
-Scrafty
-Level: 32
-Bashful Nature
-Ability: Shed Skin
-IVs: 26 HP / 14 Atk / 7 Def / 28 SpA / 16 SpD / 24 Spe
-- Brick Break
-- Facade
+Ability: Intimidate
+IVs: 23 HP / 21 Atk / 25 Def / 3 SpA / 10 SpD / 17 Spe
+- Low Kick
+- Leer
 - Payback
 - Headbutt
 
-Lokix
-Level: 32
-Bold Nature
-Ability: Swarm
-IVs: 29 HP / 31 Atk / 1 Def / 31 SpA / 28 SpD / 23 Spe
-- Lunge
-- Astonish
-- Assurance
-- Double Kick
+Marill
+Level: 15
+Calm Nature
+Ability: Huge Power
+IVs: 20 HP / 8 Atk / 3 Def / 23 SpA / 4 SpD / 8 Spe
+- Slam
+- Helping Hand
+- Bubble Beam
+- Charm
 
-Bergmite
-Level: 32
-Serious Nature
-Ability: Sturdy
-IVs: 29 HP / 17 Atk / 13 Def / 9 SpA / 15 SpD / 23 Spe
-- Rapid Spin
-- Tackle
-- Avalanche
-- Ice Fang
-
-Boldore @ Eviolite
-Level: 32
-Gentle Nature
-Ability: Sturdy
-IVs: 29 HP / 1 Atk / 18 Def / 12 SpA / 11 SpD / 27 Spe
-- Rock Slide
-- Tackle
-- Smack Down
-- Headbutt
-
-Shellder
-Level: 32
-Jolly Nature
-Ability: Shell Armor
-IVs: 29 HP / 26 Atk / 10 Def / 30 SpA / 28 SpD / 22 Spe
-- Tackle
+Lombre
+Level: 15
+Calm Nature
+Ability: Own Tempo
+IVs: 16 HP / 17 Atk / 26 Def / 30 SpA / 29 SpD / 2 Spe
+- Aurora Beam
+- Mega Drain
 - Water Gun
-- Ice Shard
-- Leer
+- Fake Out
 
-Weepinbell
-Level: 32
-Bold Nature
-Ability: Chlorophyll
-IVs: 29 HP / 2 Atk / 1 Def / 24 SpA / 18 SpD / 20 Spe
-- Septic Shot
-- Sleep Powder
-- Poison Powder
-- Knock Off
+Dustox
+Level: 15
+Lax Nature
+Ability: Shield Dust
+IVs: 9 HP / 15 Atk / 1 Def / 28 SpA / 11 SpD / 27 Spe
+- Confusion
+- Gust
+- Poison Sting
+- Bug Bite
