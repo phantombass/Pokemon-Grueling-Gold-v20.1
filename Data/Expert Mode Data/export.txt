@@ -1,46 +1,56 @@
 
-Piplup @ Oran Berry
-Level: 15
-Adamant Nature
-Ability: Torrent
-IVs: 26 HP / 31 Atk / 10 Def / 31 SpA / 5 SpD / 31 Spe
-- Bubble
-- Peck
-- Pound
-- Growl
-
-Furret
-Level: 15
-Gentle Nature
-Ability: Run Away
-IVs: 20 HP / 10 Atk / 24 Def / 31 SpA / 24 SpD / 16 Spe
-- Scratch
-- Foresight
-- Quick Attack
-- Fury Swipes
-
-Scraggy
-Level: 15
+Scraggy @ Oran Berry
+Level: 19
 Docile Nature
 Ability: Intimidate
 IVs: 23 HP / 21 Atk / 25 Def / 3 SpA / 10 SpD / 17 Spe
 - Low Kick
-- Leer
+- Facade
 - Payback
 - Headbutt
 
-Marill
-Level: 15
+Furret @ Silk Scarf
+Level: 19
+Gentle Nature
+Ability: Run Away
+IVs: 20 HP / 10 Atk / 24 Def / 31 SpA / 24 SpD / 16 Spe
+- Scratch
+- Covet
+- Quick Attack
+- Fury Swipes
+
+Prinplup @ Oran Berry
+Level: 19
+Adamant Nature
+Ability: Torrent
+IVs: 26 HP / 31 Atk / 10 Def / 31 SpA / 5 SpD / 31 Spe
+- Bubble Beam
+- Peck
+- Metal Claw
+- Growl
+
+Azumarill
+Level: 19
 Calm Nature
 Ability: Huge Power
 IVs: 20 HP / 8 Atk / 3 Def / 23 SpA / 4 SpD / 8 Spe
 - Slam
-- Helping Hand
-- Bubble Beam
+- Covet
+- Aqua Tail
 - Charm
 
-Lombre
-Level: 15
+Geodude-Alola @ Oran Berry
+Level: 19
+Hasty Nature
+Ability: Magnet Pull
+IVs: 10 HP / 8 Atk / 31 Def / 14 SpA / 29 SpD / 18 Spe
+- Tackle
+- Rollout
+- Spark
+- Smack Down
+
+Lombre @ Oran Berry
+Level: 19
 Calm Nature
 Ability: Own Tempo
 IVs: 16 HP / 17 Atk / 26 Def / 30 SpA / 29 SpD / 2 Spe
@@ -50,11 +60,81 @@ IVs: 16 HP / 17 Atk / 26 Def / 30 SpA / 29 SpD / 2 Spe
 - Fake Out
 
 Dustox
-Level: 15
+Level: 19
 Lax Nature
 Ability: Shield Dust
-IVs: 9 HP / 15 Atk / 1 Def / 28 SpA / 11 SpD / 27 Spe
+IVs: 16 HP / 15 Atk / 1 Def / 28 SpA / 11 SpD / 27 Spe
 - Confusion
-- Gust
+- Moonlight
 - Poison Sting
 - Bug Bite
+
+Snorunt @ Oran Berry
+Level: 19
+Lonely Nature
+Ability: Inner Focus
+IVs: 16 HP / 13 Atk / 6 Def / 15 SpA / 0 SpD / 16 Spe
+- Ice Shard
+- Rock Tomb
+- Icicle Spear
+- Headbutt
+
+Nymble
+Level: 19
+Brave Nature
+Ability: Swarm
+IVs: 16 HP / 19 Atk / 31 Def / 24 SpA / 9 SpD / 24 Spe
+- Double Kick
+- Struggle Bug
+- Astonish
+- Assurance
+
+Phantump
+Level: 19
+Rash Nature
+Ability: Harvest
+IVs: 16 HP / 20 Atk / 11 Def / 24 SpA / 14 SpD / 21 Spe
+- Shadow Sneak
+- Tackle
+- Branch Poke
+- Confuse Ray
+
+Wooper
+Level: 19
+Hardy Nature
+Ability: Damp
+IVs: 16 HP / 28 Atk / 6 Def / 22 SpA / 20 SpD / 13 Spe
+- Tail Whip
+- Mud Shot
+- Mist
+- Haze
+
+Natu
+Level: 19
+Bashful Nature
+Ability: Magic Guard
+IVs: 16 HP / 24 Atk / 9 Def / 14 SpA / 20 SpD / 23 Spe
+- Peck
+- Leer
+- Stored Power
+- Teleport
+
+Pancham
+Level: 19
+Naive Nature
+Ability: Scrappy
+IVs: 16 HP / 15 Atk / 22 Def / 6 SpA / 30 SpD / 29 Spe
+- Leer
+- Arm Thrust
+- Circle Throw
+- Rock Tomb
+
+Mankey
+Level: 19
+Gentle Nature
+Ability: Unshaken
+IVs: 16 HP / 24 Atk / 23 Def / 22 SpA / 18 SpD / 5 Spe
+- Focus Energy
+- Fury Swipes
+- Karate Chop
+- Pursuit
