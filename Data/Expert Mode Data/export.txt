@@ -1,5 +1,5 @@
 
-Azumarill @ Mystic Water
+Azumarill @ Chesto Berry
 Level: 23
 Calm Nature
 Ability: Huge Power
@@ -9,17 +9,17 @@ IVs: 20 HP / 31 Atk / 3 Def / 23 SpA / 4 SpD / 8 Spe
 - Aqua Tail
 - Charm
 
-Geodude-Alola
+Snorunt
 Level: 23
-Hasty Nature
-Ability: Magnet Pull
-IVs: 10 HP / 8 Atk / 31 Def / 14 SpA / 29 SpD / 18 Spe
-- Tackle
-- Rollout
-- Thunder Punch
-- Smack Down
+Lonely Nature
+Ability: Inner Focus
+IVs: 5 HP / 13 Atk / 6 Def / 15 SpA / 0 SpD / 16 Spe
+- Ice Shard
+- Rock Tomb
+- Icicle Spear
+- Headbutt
 
-Scraggy
+Scraggy @ Eviolite
 Level: 23
 Docile Nature
 Ability: Intimidate
@@ -29,17 +29,17 @@ IVs: 23 HP / 21 Atk / 25 Def / 3 SpA / 10 SpD / 17 Spe
 - Payback
 - Headbutt
 
-Pancham @ Eviolite
+Quagsire @ Pecha Berry
 Level: 23
-Naive Nature
-Ability: Scrappy
-IVs: 23 HP / 15 Atk / 22 Def / 6 SpA / 30 SpD / 29 Spe
-- Leer
-- Arm Thrust
-- Low Sweep
-- Rock Tomb
+Hardy Nature
+Ability: Damp
+IVs: 11 HP / 28 Atk / 6 Def / 22 SpA / 20 SpD / 13 Spe
+- Yawn
+- Mud Shot
+- Water Gun
+- Icy Wind
 
-Prinplup
+Prinplup @ Oran Berry
 Level: 23
 Adamant Nature
 Ability: Torrent
@@ -49,31 +49,61 @@ IVs: 26 HP / 31 Atk / 10 Def / 31 SpA / 5 SpD / 31 Spe
 - Metal Claw
 - Growl
 
-Quagsire
+Pancham @ Oran Berry
 Level: 23
-Hardy Nature
-Ability: Damp
-IVs: 11 HP / 28 Atk / 6 Def / 22 SpA / 20 SpD / 13 Spe
-- Yawn
-- Mud Shot
-- Water Gun
-- Haze
+Naive Nature
+Ability: Scrappy
+IVs: 23 HP / 15 Atk / 22 Def / 6 SpA / 30 SpD / 29 Spe
+- Leer
+- Arm Thrust
+- Low Sweep
+- Rock Tomb
+
+Geodude-Alola
+Level: 23
+Hasty Nature
+Ability: Magnet Pull
+IVs: 23 HP / 8 Atk / 31 Def / 14 SpA / 29 SpD / 18 Spe
+- Tackle
+- Rollout
+- Thunder Punch
+- Smack Down
+
+Impidimp
+Level: 23
+Quirky Nature
+Ability: Mind Games
+IVs: 23 HP / 25 Atk / 17 Def / 24 SpA / 26 SpD / 1 Spe
+- Flatter
+- Fake Tears
+- Assurance
+- Swagger
 
 Nymble
 Level: 23
 Brave Nature
 Ability: Swarm
-IVs: 11 HP / 19 Atk / 31 Def / 24 SpA / 9 SpD / 24 Spe
+IVs: 23 HP / 19 Atk / 31 Def / 24 SpA / 9 SpD / 24 Spe
 - Double Kick
 - Struggle Bug
 - Astonish
 - Assurance
 
+Shellder
+Level: 23
+Gentle Nature
+Ability: Shell Armor
+IVs: 23 HP / 17 Atk / 15 Def / 27 SpA / 23 SpD / 7 Spe
+- Water Gun
+- Ice Shard
+- Leer
+- Whirlpool
+
 Natu
 Level: 23
 Bashful Nature
 Ability: Magic Guard
-IVs: 11 HP / 24 Atk / 9 Def / 14 SpA / 20 SpD / 23 Spe
+IVs: 23 HP / 24 Atk / 9 Def / 14 SpA / 20 SpD / 23 Spe
 - Peck
 - Leer
 - Stored Power
@@ -83,38 +113,28 @@ Mankey
 Level: 23
 Gentle Nature
 Ability: Unshaken
-IVs: 11 HP / 24 Atk / 23 Def / 22 SpA / 18 SpD / 5 Spe
+IVs: 23 HP / 24 Atk / 23 Def / 22 SpA / 18 SpD / 5 Spe
 - Focus Energy
 - Fury Swipes
 - Karate Chop
 - Pursuit
 
-Snorunt
-Level: 23
-Lonely Nature
-Ability: Inner Focus
-IVs: 11 HP / 13 Atk / 6 Def / 15 SpA / 0 SpD / 16 Spe
-- Ice Shard
-- Rock Tomb
-- Icicle Spear
-- Headbutt
-
-Furret
+Furret @ Silk Scarf
 Level: 23
 Gentle Nature
 Ability: Run Away
-IVs: 11 HP / 10 Atk / 24 Def / 31 SpA / 24 SpD / 16 Spe
+IVs: 23 HP / 10 Atk / 24 Def / 31 SpA / 24 SpD / 16 Spe
 - Scratch
 - Covet
 - Quick Attack
 - Fury Swipes
 
-Dustox
+Dustox @ Oran Berry
 Level: 23
 Lax Nature
 Ability: Shield Dust
-IVs: 11 HP / 15 Atk / 1 Def / 28 SpA / 11 SpD / 27 Spe
-- Confusion
+IVs: 23 HP / 15 Atk / 1 Def / 28 SpA / 11 SpD / 27 Spe
+- Psybeam
 - Moonlight
-- Poison Sting
+- Venoshock
 - Bug Bite
