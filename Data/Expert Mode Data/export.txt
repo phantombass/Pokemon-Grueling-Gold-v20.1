@@ -1,46 +1,16 @@
 
-Pinsir
-Level: 36
-Adamant Nature
-Ability: Mold Breaker
-IVs: 29 HP / 21 Atk / 20 Def / 12 SpA / 29 SpD / 11 Spe
-- Storm Throw
-- Rock Tomb
-- Vital Throw
-- X-Scissor
-
-Coalossal @ Pecha Berry
-Level: 36
-Hasty Nature
-Ability: Flash Fire
-IVs: 13 HP / 9 Atk / 28 Def / 13 SpA / 20 SpD / 27 Spe
-- Incinerate
-- Heat Crash
-- Ancient Power
-- Rapid Spin
-
 Empoleon
-Level: 36
+Level: 38
 Adamant Nature
 Ability: Torrent
 IVs: 26 HP / 31 Atk / 10 Def / 31 SpA / 5 SpD / 31 Spe
 - Bubble Beam
 - Fury Attack
 - Roost
-- Metal Claw
-
-Azumarill
-Level: 36
-Calm Nature
-Ability: Huge Power
-IVs: 20 HP / 31 Atk / 3 Def / 23 SpA / 4 SpD / 8 Spe
-- Slam
-- Play Rough
-- Aqua Tail
-- Charm
+- Aqua Jet
 
 Scrafty
-Level: 36
+Level: 38
 Docile Nature
 Ability: Intimidate
 IVs: 23 HP / 21 Atk / 25 Def / 3 SpA / 10 SpD / 17 Spe
@@ -49,38 +19,18 @@ IVs: 23 HP / 21 Atk / 25 Def / 3 SpA / 10 SpD / 17 Spe
 - Payback
 - Rock Tomb
 
-Cloyster
-Level: 36
-Gentle Nature
-Ability: Shell Armor
-IVs: 1 HP / 17 Atk / 15 Def / 27 SpA / 23 SpD / 7 Spe
-- Razor Shell
-- Ice Shard
-- Icicle Spear
-- Whirlpool
+Azumarill
+Level: 38
+Calm Nature
+Ability: Huge Power
+IVs: 20 HP / 31 Atk / 3 Def / 23 SpA / 4 SpD / 8 Spe
+- Slam
+- Play Rough
+- Aqua Tail
+- Charm
 
-Pangoro
-Level: 36
-Naive Nature
-Ability: Scrappy
-IVs: 23 HP / 15 Atk / 22 Def / 6 SpA / 30 SpD / 29 Spe
-- Night Slash
-- Bullet Punch
-- Low Sweep
-- Rock Tomb
-
-Dustox
-Level: 36
-Lax Nature
-Ability: Shield Dust
-IVs: 9 HP / 15 Atk / 1 Def / 28 SpA / 11 SpD / 27 Spe
-- Psybeam
-- Moonlight
-- Toxoplasm
-- Bug Buzz
-
-Naclstack
-Level: 36
+Garganacl
+Level: 38
 Modest Nature
 Ability: Clear Body
 IVs: 4 HP / 14 Atk / 24 Def / 18 SpA / 22 SpD / 2 Spe
@@ -89,48 +39,18 @@ IVs: 4 HP / 14 Atk / 24 Def / 18 SpA / 22 SpD / 2 Spe
 - Recover
 - Rock Slide
 
-Arbok
-Level: 36
-Relaxed Nature
-Ability: Medusoid
-IVs: 14 HP / 14 Atk / 1 Def / 6 SpA / 0 SpD / 15 Spe
-- Poison Fang
-- Glare
-- Crunch
-- Mud Bomb
-
-Snorunt
-Level: 36
-Lonely Nature
-Ability: Inner Focus
-IVs: 5 HP / 13 Atk / 6 Def / 15 SpA / 0 SpD / 16 Spe
-- Ice Shard
+Pinsir
+Level: 38
+Adamant Nature
+Ability: Mold Breaker
+IVs: 29 HP / 21 Atk / 20 Def / 12 SpA / 29 SpD / 11 Spe
+- Storm Throw
 - Rock Tomb
-- Icicle Spear
-- Headbutt
+- Vital Throw
+- X-Scissor
 
-Lokix
-Level: 36
-Brave Nature
-Ability: Swarm
-IVs: 14 HP / 19 Atk / 31 Def / 24 SpA / 9 SpD / 24 Spe
-- Double Kick
-- Lunge
-- Detect
-- Assurance
-
-Bergmite
-Level: 36
-Naive Nature
-Ability: Sturdy
-IVs: 2 HP / 11 Atk / 0 Def / 3 SpA / 8 SpD / 23 Spe
-- Icy Wind
-- Avalanche
-- Bite
-- Ice Fang
-
-Furret @ Sitrus Berry
-Level: 36
+Furret
+Level: 38
 Gentle Nature
 Ability: Huge Power
 IVs: 20 HP / 10 Atk / 24 Def / 31 SpA / 24 SpD / 16 Spe
@@ -139,8 +59,68 @@ IVs: 20 HP / 10 Atk / 24 Def / 31 SpA / 24 SpD / 16 Spe
 - Quick Attack
 - Sucker Punch
 
+Pangoro
+Level: 38
+Naive Nature
+Ability: Scrappy
+IVs: 23 HP / 15 Atk / 22 Def / 6 SpA / 30 SpD / 29 Spe
+- Crunch
+- Bullet Punch
+- Low Sweep
+- Rock Tomb
+
+Dustox
+Level: 38
+Lax Nature
+Ability: Shield Dust
+IVs: 9 HP / 15 Atk / 1 Def / 28 SpA / 11 SpD / 27 Spe
+- Psybeam
+- Moonlight
+- Toxoplasm
+- Bug Buzz
+
+Lokix
+Level: 38
+Brave Nature
+Ability: Swarm
+IVs: 14 HP / 19 Atk / 31 Def / 24 SpA / 9 SpD / 24 Spe
+- Double Kick
+- Lunge
+- Detect
+- Throat Chop
+
+Arbok
+Level: 38
+Relaxed Nature
+Ability: Medusoid
+IVs: 14 HP / 14 Atk / 1 Def / 6 SpA / 0 SpD / 15 Spe
+- Poison Fang
+- Glare
+- Crunch
+- Fire Fang
+
+Snorunt
+Level: 38
+Lonely Nature
+Ability: Inner Focus
+IVs: 5 HP / 13 Atk / 6 Def / 15 SpA / 0 SpD / 16 Spe
+- Ice Shard
+- Rock Tomb
+- Icicle Spear
+- Headbutt
+
+Bergmite
+Level: 38
+Naive Nature
+Ability: Sturdy
+IVs: 2 HP / 11 Atk / 0 Def / 3 SpA / 8 SpD / 23 Spe
+- Rapid Spin
+- Avalanche
+- Crunch
+- Recover
+
 Mothim
-Level: 36
+Level: 38
 Lax Nature
 Ability: Swarm
 IVs: 5 HP / 8 Atk / 19 Def / 25 SpA / 19 SpD / 13 Spe
@@ -150,11 +130,11 @@ IVs: 5 HP / 8 Atk / 19 Def / 25 SpA / 19 SpD / 13 Spe
 - Psybeam
 
 Primeape
-Level: 36
+Level: 38
 Gentle Nature
 Ability: Gorilla Tactics
 IVs: 2 HP / 24 Atk / 23 Def / 22 SpA / 18 SpD / 5 Spe
 - Cross Chop
-- Fury Swipes
+- Rock Tomb
 - Karate Chop
 - Pursuit
