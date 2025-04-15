@@ -1,36 +1,6 @@
 
-Scraggy @ Eviolite
-Level: 27
-Docile Nature
-Ability: Intimidate
-IVs: 23 HP / 21 Atk / 25 Def / 3 SpA / 10 SpD / 17 Spe
-- Low Sweep
-- Facade
-- Payback
-- Headbutt
-
-Lokix
-Level: 27
-Brave Nature
-Ability: Swarm
-IVs: 14 HP / 19 Atk / 31 Def / 24 SpA / 9 SpD / 24 Spe
-- Double Kick
-- Lunge
-- Detect
-- Assurance
-
-Furret @ Silk Scarf
-Level: 27
-Gentle Nature
-Ability: Run Away
-IVs: 20 HP / 10 Atk / 24 Def / 31 SpA / 24 SpD / 16 Spe
-- Scratch
-- Covet
-- Quick Attack
-- Fury Swipes
-
-Azumarill @ Cheri Berry
-Level: 27
+Azumarill @ Muscle Band
+Level: 32
 Calm Nature
 Ability: Huge Power
 IVs: 20 HP / 31 Atk / 3 Def / 23 SpA / 4 SpD / 8 Spe
@@ -39,102 +9,132 @@ IVs: 20 HP / 31 Atk / 3 Def / 23 SpA / 4 SpD / 8 Spe
 - Aqua Tail
 - Charm
 
-Graveler-Alola
-Level: 27
-Hasty Nature
-Ability: Magnet Pull
-IVs: 10 HP / 8 Atk / 31 Def / 14 SpA / 29 SpD / 18 Spe
-- Tackle
-- Rollout
-- Thunder Punch
-- Smack Down
-
-Xatu @ Oran Berry
-Level: 27
-Bashful Nature
-Ability: Magic Guard
-IVs: 24 HP / 24 Atk / 9 Def / 14 SpA / 20 SpD / 23 Spe
-- Air Slash
-- Night Shade
-- Stored Power
-- Tailwind
-
-Impidimp
-Level: 27
-Quirky Nature
-Ability: Mind Games
-IVs: 24 HP / 25 Atk / 17 Def / 24 SpA / 26 SpD / 1 Spe
-- Fake Out
-- Fake Tears
-- Bite
-- Swagger
-
-Snorunt
-Level: 27
-Lonely Nature
-Ability: Inner Focus
-IVs: 24 HP / 13 Atk / 6 Def / 15 SpA / 0 SpD / 16 Spe
-- Ice Shard
-- Rock Tomb
-- Icicle Spear
-- Headbutt
-
-Shellder
-Level: 27
-Gentle Nature
-Ability: Shell Armor
-IVs: 24 HP / 17 Atk / 15 Def / 27 SpA / 23 SpD / 7 Spe
-- Water Gun
-- Ice Shard
-- Aurora Beam
-- Whirlpool
-
-Pancham @ Oran Berry
-Level: 27
-Naive Nature
-Ability: Scrappy
-IVs: 24 HP / 15 Atk / 22 Def / 6 SpA / 30 SpD / 29 Spe
-- Leer
-- Arm Thrust
-- Low Sweep
-- Rock Tomb
-
-Quagsire @ Pecha Berry
-Level: 27
-Hardy Nature
-Ability: Damp
-IVs: 24 HP / 28 Atk / 6 Def / 22 SpA / 20 SpD / 13 Spe
-- Yawn
-- Mud Shot
-- Water Gun
-- Icy Wind
-
-Mankey
-Level: 27
-Gentle Nature
-Ability: Unshaken
-IVs: 24 HP / 24 Atk / 23 Def / 22 SpA / 18 SpD / 5 Spe
-- Focus Energy
-- Fury Swipes
-- Karate Chop
-- Pursuit
-
-Dustox @ Oran Berry
-Level: 27
+Dustox
+Level: 32
 Lax Nature
 Ability: Shield Dust
-IVs: 24 HP / 15 Atk / 1 Def / 28 SpA / 11 SpD / 27 Spe
+IVs: 20 HP / 15 Atk / 1 Def / 28 SpA / 11 SpD / 27 Spe
 - Psybeam
 - Moonlight
 - Venoshock
 - Bug Bite
 
-Prinplup
-Level: 27
+Shellder
+Level: 32
+Gentle Nature
+Ability: Shell Armor
+IVs: 20 HP / 17 Atk / 15 Def / 27 SpA / 23 SpD / 7 Spe
+- Water Gun
+- Ice Shard
+- Aurora Beam
+- Whirlpool
+
+Scrafty
+Level: 32
+Docile Nature
+Ability: Intimidate
+IVs: 20 HP / 21 Atk / 25 Def / 3 SpA / 10 SpD / 17 Spe
+- Brick Break
+- Facade
+- Payback
+- Headbutt
+
+Lokix
+Level: 32
+Brave Nature
+Ability: Swarm
+IVs: 20 HP / 19 Atk / 31 Def / 24 SpA / 9 SpD / 24 Spe
+- Double Kick
+- Lunge
+- Detect
+- Assurance
+
+Xatu @ Sharp Beak
+Level: 32
+Bashful Nature
+Ability: Magic Guard
+IVs: 20 HP / 24 Atk / 9 Def / 31 SpA / 20 SpD / 23 Spe
+- Air Slash
+- Night Shade
+- Stored Power
+- Tailwind
+
+Pangoro @ Oran Berry
+Level: 32
+Naive Nature
+Ability: Scrappy
+IVs: 20 HP / 15 Atk / 22 Def / 6 SpA / 30 SpD / 29 Spe
+- Night Slash
+- Bullet Punch
+- Low Sweep
+- Rock Tomb
+
+Primeape
+Level: 32
+Gentle Nature
+Ability: Gorilla Tactics
+IVs: 20 HP / 24 Atk / 23 Def / 22 SpA / 18 SpD / 5 Spe
+- Cross Chop
+- Fury Swipes
+- Karate Chop
+- Pursuit
+
+Weepinbell
+Level: 32
+Quiet Nature
+Ability: Chlorophyll
+IVs: 20 HP / 19 Atk / 0 Def / 29 SpA / 5 SpD / 12 Spe
+- Bullet Seed
+- Toxoplasm
+- Knock Off
+- Sleep Powder
+
+Graveler-Alola
+Level: 32
+Hasty Nature
+Ability: Magnet Pull
+IVs: 20 HP / 8 Atk / 31 Def / 14 SpA / 29 SpD / 18 Spe
+- Tackle
+- Rollout
+- Thunder Punch
+- Smack Down
+
+Quagsire @ Sitrus Berry
+Level: 32
+Hardy Nature
+Ability: Damp
+IVs: 20 HP / 28 Atk / 6 Def / 22 SpA / 20 SpD / 13 Spe
+- Yawn
+- Mud Shot
+- Aqua Tail
+- Icy Wind
+
+Furret @ Silk Scarf
+Level: 32
+Gentle Nature
+Ability: Run Away
+IVs: 20 HP / 10 Atk / 24 Def / 31 SpA / 24 SpD / 16 Spe
+- Slam
+- Covet
+- Quick Attack
+- Fury Swipes
+
+Prinplup @ Mystic Water
+Level: 32
 Adamant Nature
 Ability: Torrent
-IVs: 24 HP / 31 Atk / 10 Def / 31 SpA / 5 SpD / 31 Spe
+IVs: 20 HP / 31 Atk / 10 Def / 31 SpA / 5 SpD / 31 Spe
 - Bubble Beam
-- Peck
+- Fury Attack
 - Metal Claw
 - Icy Wind
+
+Snorunt @ Eviolite
+Level: 32
+Lonely Nature
+Ability: Inner Focus
+IVs: 20 HP / 13 Atk / 6 Def / 15 SpA / 0 SpD / 16 Spe
+- Ice Shard
+- Rock Tomb
+- Icicle Spear
+- Headbutt
