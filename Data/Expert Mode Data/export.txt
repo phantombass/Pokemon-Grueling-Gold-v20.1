@@ -1,6 +1,36 @@
 
-Azumarill @ Muscle Band
-Level: 32
+Pinsir
+Level: 36
+Adamant Nature
+Ability: Mold Breaker
+IVs: 29 HP / 21 Atk / 20 Def / 12 SpA / 29 SpD / 11 Spe
+- Storm Throw
+- Rock Tomb
+- Vital Throw
+- X-Scissor
+
+Coalossal @ Pecha Berry
+Level: 36
+Hasty Nature
+Ability: Flash Fire
+IVs: 13 HP / 9 Atk / 28 Def / 13 SpA / 20 SpD / 27 Spe
+- Incinerate
+- Heat Crash
+- Ancient Power
+- Rapid Spin
+
+Empoleon
+Level: 36
+Adamant Nature
+Ability: Torrent
+IVs: 26 HP / 31 Atk / 10 Def / 31 SpA / 5 SpD / 31 Spe
+- Bubble Beam
+- Fury Attack
+- Roost
+- Metal Claw
+
+Azumarill
+Level: 36
 Calm Nature
 Ability: Huge Power
 IVs: 20 HP / 31 Atk / 3 Def / 23 SpA / 4 SpD / 8 Spe
@@ -9,58 +39,28 @@ IVs: 20 HP / 31 Atk / 3 Def / 23 SpA / 4 SpD / 8 Spe
 - Aqua Tail
 - Charm
 
-Dustox
-Level: 32
-Lax Nature
-Ability: Shield Dust
-IVs: 9 HP / 15 Atk / 1 Def / 28 SpA / 11 SpD / 27 Spe
-- Psybeam
-- Moonlight
-- Venoshock
-- Bug Bite
-
-Shellder
-Level: 32
-Gentle Nature
-Ability: Shell Armor
-IVs: 1 HP / 17 Atk / 15 Def / 27 SpA / 23 SpD / 7 Spe
-- Water Gun
-- Ice Shard
-- Aurora Beam
-- Whirlpool
-
 Scrafty
-Level: 32
+Level: 36
 Docile Nature
 Ability: Intimidate
 IVs: 23 HP / 21 Atk / 25 Def / 3 SpA / 10 SpD / 17 Spe
 - Brick Break
 - Facade
 - Payback
-- Headbutt
+- Rock Tomb
 
-Lokix
-Level: 32
-Brave Nature
-Ability: Swarm
-IVs: 14 HP / 19 Atk / 31 Def / 24 SpA / 9 SpD / 24 Spe
-- Double Kick
-- Lunge
-- Detect
-- Assurance
+Cloyster
+Level: 36
+Gentle Nature
+Ability: Shell Armor
+IVs: 1 HP / 17 Atk / 15 Def / 27 SpA / 23 SpD / 7 Spe
+- Razor Shell
+- Ice Shard
+- Icicle Spear
+- Whirlpool
 
-Xatu @ Sharp Beak
-Level: 32
-Bashful Nature
-Ability: Magic Guard
-IVs: 24 HP / 24 Atk / 9 Def / 31 SpA / 20 SpD / 23 Spe
-- Air Slash
-- Night Shade
-- Stored Power
-- Tailwind
-
-Pangoro @ Oran Berry
-Level: 32
+Pangoro
+Level: 36
 Naive Nature
 Ability: Scrappy
 IVs: 23 HP / 15 Atk / 22 Def / 6 SpA / 30 SpD / 29 Spe
@@ -69,68 +69,38 @@ IVs: 23 HP / 15 Atk / 22 Def / 6 SpA / 30 SpD / 29 Spe
 - Low Sweep
 - Rock Tomb
 
-Primeape
-Level: 32
-Gentle Nature
-Ability: Gorilla Tactics
-IVs: 2 HP / 24 Atk / 23 Def / 22 SpA / 18 SpD / 5 Spe
-- Cross Chop
-- Fury Swipes
-- Karate Chop
-- Pursuit
-
-Weepinbell
-Level: 32
-Quiet Nature
-Ability: Chlorophyll
-IVs: 2 HP / 19 Atk / 0 Def / 29 SpA / 5 SpD / 12 Spe
-- Bullet Seed
+Dustox
+Level: 36
+Lax Nature
+Ability: Shield Dust
+IVs: 9 HP / 15 Atk / 1 Def / 28 SpA / 11 SpD / 27 Spe
+- Psybeam
+- Moonlight
 - Toxoplasm
-- Knock Off
-- Sleep Powder
+- Bug Buzz
 
-Graveler-Alola
-Level: 32
-Hasty Nature
-Ability: Magnet Pull
-IVs: 10 HP / 8 Atk / 31 Def / 14 SpA / 29 SpD / 18 Spe
-- Tackle
-- Rollout
-- Thunder Punch
-- Smack Down
+Naclstack
+Level: 36
+Modest Nature
+Ability: Clear Body
+IVs: 4 HP / 14 Atk / 24 Def / 18 SpA / 22 SpD / 2 Spe
+- Heavy Slam
+- Salt Cure
+- Recover
+- Rock Slide
 
-Quagsire @ Sitrus Berry
-Level: 32
-Hardy Nature
-Ability: Damp
-IVs: 11 HP / 28 Atk / 6 Def / 22 SpA / 20 SpD / 13 Spe
-- Yawn
-- Mud Shot
-- Aqua Tail
-- Icy Wind
+Arbok
+Level: 36
+Relaxed Nature
+Ability: Medusoid
+IVs: 14 HP / 14 Atk / 1 Def / 6 SpA / 0 SpD / 15 Spe
+- Poison Fang
+- Glare
+- Crunch
+- Mud Bomb
 
-Furret @ Silk Scarf
-Level: 32
-Gentle Nature
-Ability: Run Away
-IVs: 20 HP / 10 Atk / 24 Def / 31 SpA / 24 SpD / 16 Spe
-- Slam
-- Covet
-- Quick Attack
-- Fury Swipes
-
-Prinplup @ Mystic Water
-Level: 32
-Adamant Nature
-Ability: Torrent
-IVs: 26 HP / 31 Atk / 10 Def / 31 SpA / 5 SpD / 31 Spe
-- Bubble Beam
-- Fury Attack
-- Metal Claw
-- Icy Wind
-
-Snorunt @ Eviolite
-Level: 32
+Snorunt
+Level: 36
 Lonely Nature
 Ability: Inner Focus
 IVs: 5 HP / 13 Atk / 6 Def / 15 SpA / 0 SpD / 16 Spe
@@ -138,3 +108,53 @@ IVs: 5 HP / 13 Atk / 6 Def / 15 SpA / 0 SpD / 16 Spe
 - Rock Tomb
 - Icicle Spear
 - Headbutt
+
+Lokix
+Level: 36
+Brave Nature
+Ability: Swarm
+IVs: 14 HP / 19 Atk / 31 Def / 24 SpA / 9 SpD / 24 Spe
+- Double Kick
+- Lunge
+- Detect
+- Assurance
+
+Bergmite
+Level: 36
+Naive Nature
+Ability: Sturdy
+IVs: 2 HP / 11 Atk / 0 Def / 3 SpA / 8 SpD / 23 Spe
+- Icy Wind
+- Avalanche
+- Bite
+- Ice Fang
+
+Furret @ Sitrus Berry
+Level: 36
+Gentle Nature
+Ability: Huge Power
+IVs: 20 HP / 10 Atk / 24 Def / 31 SpA / 24 SpD / 16 Spe
+- Slam
+- Covet
+- Quick Attack
+- Sucker Punch
+
+Mothim
+Level: 36
+Lax Nature
+Ability: Swarm
+IVs: 5 HP / 8 Atk / 19 Def / 25 SpA / 19 SpD / 13 Spe
+- Signal Beam
+- Tackle
+- Gust
+- Psybeam
+
+Primeape
+Level: 36
+Gentle Nature
+Ability: Gorilla Tactics
+IVs: 2 HP / 24 Atk / 23 Def / 22 SpA / 18 SpD / 5 Spe
+- Cross Chop
+- Fury Swipes
+- Karate Chop
+- Pursuit
