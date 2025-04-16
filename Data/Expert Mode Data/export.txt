@@ -1,66 +1,66 @@
 
-Empoleon
-Level: 38
-Adamant Nature
-Ability: Torrent
-IVs: 26 HP / 31 Atk / 10 Def / 31 SpA / 5 SpD / 31 Spe
-- Bubble Beam
-- Fury Attack
-- Roost
-- Aqua Jet
+Garganacl @ Rindo Berry
+Level: 42
+Modest Nature
+Ability: Purifying Salt
+IVs: 4 HP / 14 Atk / 24 Def / 18 SpA / 22 SpD / 2 Spe
+- Rock Blast
+- Body Press
+- Stomping Tantrum
+- Recover
 
-Scrafty
-Level: 38
+Scrafty @ Lum Berry
+Level: 42
 Docile Nature
 Ability: Intimidate
 IVs: 23 HP / 21 Atk / 25 Def / 3 SpA / 10 SpD / 17 Spe
 - Brick Break
 - Facade
-- Payback
-- Rock Tomb
+- Crunch
+- Ice Punch
 
-Azumarill
-Level: 38
-Calm Nature
-Ability: Huge Power
-IVs: 20 HP / 31 Atk / 3 Def / 23 SpA / 4 SpD / 8 Spe
-- Slam
-- Play Rough
-- Aqua Tail
-- Charm
-
-Garganacl
-Level: 38
-Modest Nature
-Ability: Clear Body
-IVs: 4 HP / 14 Atk / 24 Def / 18 SpA / 22 SpD / 2 Spe
-- Heavy Slam
-- Salt Cure
-- Recover
-- Rock Slide
-
-Pinsir
-Level: 38
+Empoleon @ Chople Berry
+Level: 42
 Adamant Nature
-Ability: Mold Breaker
-IVs: 29 HP / 21 Atk / 20 Def / 12 SpA / 29 SpD / 11 Spe
-- Storm Throw
-- Rock Tomb
-- Vital Throw
-- X-Scissor
+Ability: Torrent
+IVs: 26 HP / 31 Atk / 10 Def / 31 SpA / 5 SpD / 31 Spe
+- Brine
+- Icy Wind
+- Roost
+- Aqua Jet
 
-Furret
-Level: 38
+Dustox @ Coba Berry
+Level: 42
+Lax Nature
+Ability: Shield Dust
+IVs: 9 HP / 15 Atk / 1 Def / 28 SpA / 11 SpD / 27 Spe
+- Psybeam
+- Electroweb
+- Toxoplasm
+- Bug Buzz
+
+Primeape @ Eviolite
+Level: 43
 Gentle Nature
-Ability: Huge Power
-IVs: 20 HP / 10 Atk / 24 Def / 31 SpA / 24 SpD / 16 Spe
-- Slam
-- Covet
-- Quick Attack
-- Sucker Punch
+Ability: Gorilla Tactics
+IVs: 2 HP / 24 Atk / 23 Def / 22 SpA / 18 SpD / 5 Spe
+- Close Combat
+- Ice Punch
+- Facade
+- U-turn
+
+Froslass @ Lum Berry
+Level: 42
+Lonely Nature
+Ability: Adaptability
+IVs: 5 HP / 13 Atk / 6 Def / 15 SpA / 0 SpD / 16 Spe
+- Ice Shard
+- Thunder Wave
+- Ice Punch
+- Hex
 
 Pangoro
-Level: 38
+Level: 42
 Naive Nature
 Ability: Scrappy
 IVs: 23 HP / 15 Atk / 22 Def / 6 SpA / 30 SpD / 29 Spe
@@ -69,18 +69,8 @@ IVs: 23 HP / 15 Atk / 22 Def / 6 SpA / 30 SpD / 29 Spe
 - Low Sweep
 - Rock Tomb
 
-Dustox
-Level: 38
-Lax Nature
-Ability: Shield Dust
-IVs: 9 HP / 15 Atk / 1 Def / 28 SpA / 11 SpD / 27 Spe
-- Psybeam
-- Moonlight
-- Toxoplasm
-- Bug Buzz
-
 Lokix
-Level: 38
+Level: 42
 Brave Nature
 Ability: Swarm
 IVs: 14 HP / 19 Atk / 31 Def / 24 SpA / 9 SpD / 24 Spe
@@ -89,28 +79,28 @@ IVs: 14 HP / 19 Atk / 31 Def / 24 SpA / 9 SpD / 24 Spe
 - Detect
 - Throat Chop
 
-Arbok
-Level: 38
-Relaxed Nature
-Ability: Medusoid
-IVs: 14 HP / 14 Atk / 1 Def / 6 SpA / 0 SpD / 15 Spe
-- Poison Fang
-- Glare
-- Crunch
-- Fire Fang
+Furret
+Level: 42
+Gentle Nature
+Ability: Huge Power
+IVs: 20 HP / 10 Atk / 24 Def / 31 SpA / 24 SpD / 16 Spe
+- Slam
+- Covet
+- Quick Attack
+- Sucker Punch
 
-Snorunt
-Level: 38
-Lonely Nature
-Ability: Inner Focus
-IVs: 5 HP / 13 Atk / 6 Def / 15 SpA / 0 SpD / 16 Spe
-- Ice Shard
+Pinsir @ Muscle Band
+Level: 42
+Adamant Nature
+Ability: Mold Breaker
+IVs: 29 HP / 21 Atk / 20 Def / 12 SpA / 29 SpD / 11 Spe
+- Storm Throw
 - Rock Tomb
-- Icicle Spear
-- Headbutt
+- Vital Throw
+- X-Scissor
 
 Bergmite
-Level: 38
+Level: 42
 Naive Nature
 Ability: Sturdy
 IVs: 2 HP / 11 Atk / 0 Def / 3 SpA / 8 SpD / 23 Spe
@@ -120,7 +110,7 @@ IVs: 2 HP / 11 Atk / 0 Def / 3 SpA / 8 SpD / 23 Spe
 - Recover
 
 Mothim
-Level: 38
+Level: 42
 Lax Nature
 Ability: Swarm
 IVs: 5 HP / 8 Atk / 19 Def / 25 SpA / 19 SpD / 13 Spe
@@ -129,12 +119,12 @@ IVs: 5 HP / 8 Atk / 19 Def / 25 SpA / 19 SpD / 13 Spe
 - Gust
 - Psybeam
 
-Primeape
-Level: 38
-Gentle Nature
-Ability: Gorilla Tactics
-IVs: 2 HP / 24 Atk / 23 Def / 22 SpA / 18 SpD / 5 Spe
-- Cross Chop
-- Rock Tomb
-- Karate Chop
-- Pursuit
+Azumarill
+Level: 42
+Calm Nature
+Ability: Huge Power
+IVs: 20 HP / 31 Atk / 3 Def / 23 SpA / 4 SpD / 8 Spe
+- Ice Punch
+- Play Rough
+- Aqua Tail
+- Charm
