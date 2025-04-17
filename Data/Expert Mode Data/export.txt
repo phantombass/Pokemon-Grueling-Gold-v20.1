@@ -1,86 +1,46 @@
 
-Froslass
-Level: 45
-Lonely Nature
-Ability: Adaptability
-IVs: 5 HP / 13 Atk / 6 Def / 15 SpA / 0 SpD / 16 Spe
-- Ice Shard
-- Thunder Wave
-- Triple Axel
-- Hex
-
-Garganacl
-Level: 45
-Modest Nature
-Ability: Purifying Salt
-IVs: 4 HP / 14 Atk / 24 Def / 18 SpA / 22 SpD / 2 Spe
-- Rock Blast
-- Salt Cure
-- Fire Punch
-- Recover
-
-Pinsir
-Level: 45
-Adamant Nature
-Ability: Mold Breaker
-IVs: 29 HP / 21 Atk / 20 Def / 12 SpA / 29 SpD / 11 Spe
-- Storm Throw
-- Rock Tomb
-- Vital Throw
-- X-Scissor
-
-Scrafty
-Level: 45
-Docile Nature
-Ability: Intimidate
-IVs: 23 HP / 21 Atk / 25 Def / 3 SpA / 10 SpD / 17 Spe
-- Brick Break
-- Facade
-- Crunch
-- Ice Punch
-
-Primeape
-Level: 45
+Annihilape
+Level: 52
 Gentle Nature
 Ability: Gorilla Tactics
 IVs: 2 HP / 24 Atk / 23 Def / 22 SpA / 18 SpD / 5 Spe
 - Close Combat
 - Ice Punch
-- Stomping Tantrum
+- Thunder Punch
 - U-turn
 
-Empoleon
-Level: 45
-Adamant Nature
-Ability: Torrent
-IVs: 26 HP / 31 Atk / 10 Def / 31 SpA / 5 SpD / 31 Spe
-- Flip Turn
-- Aqua Jet
-- Flash Cannon
-- Roost
+Lokix
+Level: 52
+Brave Nature
+Ability: Swarm
+IVs: 14 HP / 19 Atk / 31 Def / 24 SpA / 9 SpD / 24 Spe
+- First Impression
+- Sucker Punch
+- Detect
+- Throat Chop
 
 Avalugg-Hisui
-Level: 45
+Level: 52
 Naive Nature
 Ability: Sturdy
 IVs: 2 HP / 11 Atk / 0 Def / 3 SpA / 8 SpD / 23 Spe
-- Rapid Spin
+- Body Press
 - Mountain Gale
 - Rock Slide
 - Recover
 
-Pangoro
-Level: 45
-Naive Nature
-Ability: Scrappy
-IVs: 23 HP / 15 Atk / 22 Def / 6 SpA / 30 SpD / 29 Spe
-- Crunch
-- Fire Punch
-- Arm Thrust
-- Ice Punch
+Froslass
+Level: 52
+Lonely Nature
+Ability: Adaptability
+IVs: 5 HP / 13 Atk / 6 Def / 15 SpA / 0 SpD / 16 Spe
+- Ice Shard
+- Will-O-Wisp
+- Triple Axel
+- Hex
 
 Azumarill
-Level: 45
+Level: 52
 Calm Nature
 Ability: Huge Power
 IVs: 20 HP / 31 Atk / 3 Def / 23 SpA / 4 SpD / 8 Spe
@@ -89,12 +49,52 @@ IVs: 20 HP / 31 Atk / 3 Def / 23 SpA / 4 SpD / 8 Spe
 - Aqua Tail
 - Charm
 
-Lokix
-Level: 45
-Brave Nature
-Ability: Swarm
-IVs: 14 HP / 19 Atk / 31 Def / 24 SpA / 9 SpD / 24 Spe
-- Double Kick
-- Lunge
-- Detect
-- Throat Chop
+Scrafty
+Level: 52
+Docile Nature
+Ability: Intimidate
+IVs: 23 HP / 21 Atk / 25 Def / 3 SpA / 10 SpD / 17 Spe
+- Brick Break
+- Thunder Punch
+- Crunch
+- Ice Punch
+
+Pinsir
+Level: 52
+Adamant Nature
+Ability: Mold Breaker
+IVs: 29 HP / 21 Atk / 20 Def / 12 SpA / 29 SpD / 11 Spe
+- Storm Throw
+- Rock Tomb
+- Vital Throw
+- X-Scissor
+
+Pangoro
+Level: 52
+Naive Nature
+Ability: Scrappy
+IVs: 23 HP / 15 Atk / 22 Def / 6 SpA / 30 SpD / 29 Spe
+- Crunch
+- Fire Punch
+- Arm Thrust
+- Ice Punch
+
+Togekiss
+Level: 52
+Bashful Nature
+Ability: Super Luck
+IVs: 31 HP / 31 Atk / 2 Def / 31 SpA / 30 SpD / 4 Spe
+- Charm
+- Air Slash
+- Aura Sphere
+- Rolling Fog
+
+Banette
+Level: 52
+Naive Nature
+Ability: Insomnia
+IVs: 27 HP / 10 Atk / 8 Def / 17 SpA / 15 SpD / 2 Spe
+- Shadow Sneak
+- Knock Off
+- Spirit Sap
+- Will-O-Wisp
