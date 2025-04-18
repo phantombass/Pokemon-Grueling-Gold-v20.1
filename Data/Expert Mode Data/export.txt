@@ -1,15 +1,25 @@
 
-Annihilape
+Froslass @ Wide Lens
 Level: 52
-Gentle Nature
-Ability: Gorilla Tactics
-IVs: 2 HP / 24 Atk / 23 Def / 22 SpA / 18 SpD / 5 Spe
-- Close Combat
-- Ice Punch
-- Thunder Punch
-- U-turn
+Lonely Nature
+Ability: Adaptability
+IVs: 5 HP / 13 Atk / 6 Def / 15 SpA / 0 SpD / 16 Spe
+- Ice Shard
+- Will-O-Wisp
+- Triple Axel
+- Hex
 
-Lokix
+Scrafty @ Sitrus Berry
+Level: 52
+Docile Nature
+Ability: Intimidate
+IVs: 23 HP / 21 Atk / 25 Def / 3 SpA / 10 SpD / 17 Spe
+- Brick Break
+- Thunder Punch
+- Crunch
+- Ice Punch
+
+Lokix @ Roseli Berry
 Level: 52
 Brave Nature
 Ability: Swarm
@@ -18,6 +28,36 @@ IVs: 14 HP / 19 Atk / 31 Def / 24 SpA / 9 SpD / 24 Spe
 - Sucker Punch
 - Detect
 - Throat Chop
+
+Annihilape
+Level: 52
+Gentle Nature
+Ability: Gorilla Tactics
+IVs: 2 HP / 24 Atk / 23 Def / 22 SpA / 18 SpD / 31 Spe
+- Close Combat
+- Ice Punch
+- Thunder Punch
+- U-turn
+
+Togekiss @ Sitrus Berry
+Level: 52
+Bashful Nature
+Ability: Super Luck
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 30 SpD / 4 Spe
+- Charm
+- Air Slash
+- Aura Sphere
+- Rolling Fog
+
+Basculegion
+Level: 52
+Impish Nature
+Ability: Rock Head
+IVs: 11 HP / 31 Atk / 24 Def / 16 SpA / 3 SpD / 24 Spe
+- Wave Crash
+- Spirit Shackle
+- Aqua Jet
+- Ice Fang
 
 Avalugg-Hisui
 Level: 52
@@ -28,36 +68,6 @@ IVs: 2 HP / 11 Atk / 0 Def / 3 SpA / 8 SpD / 23 Spe
 - Mountain Gale
 - Rock Slide
 - Recover
-
-Froslass
-Level: 52
-Lonely Nature
-Ability: Adaptability
-IVs: 5 HP / 13 Atk / 6 Def / 15 SpA / 0 SpD / 16 Spe
-- Ice Shard
-- Will-O-Wisp
-- Triple Axel
-- Hex
-
-Azumarill
-Level: 52
-Calm Nature
-Ability: Huge Power
-IVs: 20 HP / 31 Atk / 3 Def / 23 SpA / 4 SpD / 8 Spe
-- Ice Punch
-- Play Rough
-- Aqua Tail
-- Charm
-
-Scrafty
-Level: 52
-Docile Nature
-Ability: Intimidate
-IVs: 23 HP / 21 Atk / 25 Def / 3 SpA / 10 SpD / 17 Spe
-- Brick Break
-- Thunder Punch
-- Crunch
-- Ice Punch
 
 Pinsir
 Level: 52
@@ -79,15 +89,15 @@ IVs: 23 HP / 15 Atk / 22 Def / 6 SpA / 30 SpD / 29 Spe
 - Arm Thrust
 - Ice Punch
 
-Togekiss
+Azumarill
 Level: 52
-Bashful Nature
-Ability: Super Luck
-IVs: 31 HP / 31 Atk / 2 Def / 31 SpA / 30 SpD / 4 Spe
+Calm Nature
+Ability: Huge Power
+IVs: 20 HP / 31 Atk / 3 Def / 23 SpA / 4 SpD / 8 Spe
+- Ice Punch
+- Play Rough
+- Aqua Tail
 - Charm
-- Air Slash
-- Aura Sphere
-- Rolling Fog
 
 Banette
 Level: 52
