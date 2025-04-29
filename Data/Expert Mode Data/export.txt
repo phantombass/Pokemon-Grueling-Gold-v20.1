@@ -1,5 +1,5 @@
 
-Froslass @ Wide Lens
+Froslass @ Spell Tag
 Level: 52
 Lonely Nature
 Ability: Adaptability
@@ -15,27 +15,27 @@ Docile Nature
 Ability: Intimidate
 IVs: 23 HP / 21 Atk / 25 Def / 3 SpA / 10 SpD / 17 Spe
 - Brick Break
-- Thunder Punch
+- Rock Tomb
 - Crunch
-- Ice Punch
+- Rock Slide
 
-Lokix @ Roseli Berry
+Azumarill @ Rawst Berry
 Level: 52
-Brave Nature
-Ability: Swarm
-IVs: 14 HP / 19 Atk / 31 Def / 24 SpA / 9 SpD / 24 Spe
-- First Impression
-- Sucker Punch
-- Detect
-- Throat Chop
+Calm Nature
+Ability: Huge Power
+IVs: 20 HP / 31 Atk / 3 Def / 23 SpA / 4 SpD / 8 Spe
+- Ice Punch
+- Play Rough
+- Aqua Tail
+- Charm
 
-Annihilape
+Annihilape @ Sitrus Berry
 Level: 52
 Gentle Nature
 Ability: Gorilla Tactics
 IVs: 2 HP / 24 Atk / 23 Def / 22 SpA / 18 SpD / 31 Spe
 - Close Combat
-- Ice Punch
+- Rock Slide
 - Thunder Punch
 - U-turn
 
@@ -44,22 +44,12 @@ Level: 52
 Bashful Nature
 Ability: Super Luck
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 30 SpD / 4 Spe
-- Charm
 - Air Slash
-- Aura Sphere
 - Rolling Fog
+- Aura Sphere
+- Roost
 
-Basculegion
-Level: 52
-Impish Nature
-Ability: Rock Head
-IVs: 11 HP / 31 Atk / 24 Def / 16 SpA / 3 SpD / 24 Spe
-- Wave Crash
-- Spirit Shackle
-- Aqua Jet
-- Ice Fang
-
-Avalugg-Hisui
+Avalugg-Hisui @ Sitrus Berry
 Level: 52
 Naive Nature
 Ability: Sturdy
@@ -68,6 +58,16 @@ IVs: 2 HP / 11 Atk / 0 Def / 3 SpA / 8 SpD / 23 Spe
 - Mountain Gale
 - Rock Slide
 - Recover
+
+Pangoro @ Sitrus Berry
+Level: 52
+Naive Nature
+Ability: Scrappy
+IVs: 23 HP / 15 Atk / 22 Def / 6 SpA / 30 SpD / 29 Spe
+- Knock Off
+- Rock Slide
+- Fire Punch
+- Parting Shot
 
 Pinsir
 Level: 52
@@ -79,25 +79,25 @@ IVs: 29 HP / 21 Atk / 20 Def / 12 SpA / 29 SpD / 11 Spe
 - Vital Throw
 - X-Scissor
 
-Pangoro
+Basculegion
 Level: 52
-Naive Nature
-Ability: Scrappy
-IVs: 23 HP / 15 Atk / 22 Def / 6 SpA / 30 SpD / 29 Spe
-- Crunch
-- Fire Punch
-- Arm Thrust
-- Ice Punch
+Impish Nature
+Ability: Rock Head
+IVs: 11 HP / 31 Atk / 24 Def / 16 SpA / 3 SpD / 24 Spe
+- Wave Crash
+- Spirit Shackle
+- Aqua Jet
+- Ice Fang
 
-Azumarill
+Lokix @ Roseli Berry
 Level: 52
-Calm Nature
-Ability: Huge Power
-IVs: 20 HP / 31 Atk / 3 Def / 23 SpA / 4 SpD / 8 Spe
-- Ice Punch
-- Play Rough
-- Aqua Tail
-- Charm
+Brave Nature
+Ability: Swarm
+IVs: 14 HP / 19 Atk / 31 Def / 24 SpA / 9 SpD / 24 Spe
+- First Impression
+- Sucker Punch
+- Detect
+- Throat Chop
 
 Banette
 Level: 52
@@ -108,3 +108,13 @@ IVs: 27 HP / 10 Atk / 8 Def / 17 SpA / 15 SpD / 2 Spe
 - Knock Off
 - Spirit Sap
 - Will-O-Wisp
+
+Magcargo
+Level: 52
+Timid Nature
+Ability: Magma Armor
+IVs: 28 HP / 1 Atk / 13 Def / 0 SpA / 5 SpD / 10 Spe
+- Scald
+- Flamethrower
+- Earth Power
+- Recover
