@@ -1,46 +1,36 @@
 
-Froslass @ Spell Tag
-Level: 52
+Froslass @ Loaded Dice
+Level: 55
 Lonely Nature
 Ability: Adaptability
-IVs: 5 HP / 13 Atk / 6 Def / 15 SpA / 0 SpD / 16 Spe
+IVs: 5 HP / 31 Atk / 6 Def / 15 SpA / 0 SpD / 31 Spe
 - Ice Shard
 - Will-O-Wisp
 - Triple Axel
 - Hex
 
-Scrafty @ Sitrus Berry
-Level: 52
-Docile Nature
-Ability: Intimidate
-IVs: 23 HP / 21 Atk / 25 Def / 3 SpA / 10 SpD / 17 Spe
-- Brick Break
-- Rock Tomb
-- Crunch
-- Rock Slide
-
-Azumarill @ Rawst Berry
-Level: 52
-Calm Nature
-Ability: Huge Power
-IVs: 20 HP / 31 Atk / 3 Def / 23 SpA / 4 SpD / 8 Spe
-- Ice Punch
-- Play Rough
-- Aqua Tail
-- Charm
-
-Annihilape @ Sitrus Berry
-Level: 52
+Annihilape @ Safety Goggles
+Level: 55
 Gentle Nature
 Ability: Gorilla Tactics
 IVs: 2 HP / 24 Atk / 23 Def / 22 SpA / 18 SpD / 31 Spe
 - Close Combat
-- Rock Slide
-- Thunder Punch
+- Ice Punch
+- Shadow Punch
 - U-turn
 
-Togekiss @ Sitrus Berry
-Level: 52
+Basculegion
+Level: 55
+Impish Nature
+Ability: Rock Head
+IVs: 11 HP / 31 Atk / 24 Def / 16 SpA / 3 SpD / 24 Spe
+- Wave Crash
+- Spirit Shackle
+- Aqua Jet
+- Ice Fang
+
+Togekiss @ Zoom Lens
+Level: 55
 Bashful Nature
 Ability: Super Luck
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 30 SpD / 4 Spe
@@ -49,8 +39,18 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 30 SpD / 4 Spe
 - Aura Sphere
 - Roost
 
-Avalugg-Hisui @ Sitrus Berry
-Level: 52
+Banette @ Banettite
+Level: 55
+Naive Nature
+Ability: Insomnia
+IVs: 27 HP / 10 Atk / 8 Def / 17 SpA / 15 SpD / 2 Spe
+- Spirit Sap
+- Knock Off
+- Shadow Sneak
+- Return
+
+Avalugg-Hisui @ Leftovers
+Level: 55
 Naive Nature
 Ability: Sturdy
 IVs: 2 HP / 11 Atk / 0 Def / 3 SpA / 8 SpD / 23 Spe
@@ -59,8 +59,8 @@ IVs: 2 HP / 11 Atk / 0 Def / 3 SpA / 8 SpD / 23 Spe
 - Rock Slide
 - Recover
 
-Pangoro @ Sitrus Berry
-Level: 52
+Pangoro
+Level: 55
 Naive Nature
 Ability: Scrappy
 IVs: 23 HP / 15 Atk / 22 Def / 6 SpA / 30 SpD / 29 Spe
@@ -70,7 +70,7 @@ IVs: 23 HP / 15 Atk / 22 Def / 6 SpA / 30 SpD / 29 Spe
 - Parting Shot
 
 Pinsir
-Level: 52
+Level: 55
 Adamant Nature
 Ability: Mold Breaker
 IVs: 29 HP / 21 Atk / 20 Def / 12 SpA / 29 SpD / 11 Spe
@@ -79,38 +79,18 @@ IVs: 29 HP / 21 Atk / 20 Def / 12 SpA / 29 SpD / 11 Spe
 - Vital Throw
 - X-Scissor
 
-Basculegion
-Level: 52
-Impish Nature
-Ability: Rock Head
-IVs: 11 HP / 31 Atk / 24 Def / 16 SpA / 3 SpD / 24 Spe
-- Wave Crash
-- Spirit Shackle
-- Aqua Jet
-- Ice Fang
-
-Lokix @ Roseli Berry
-Level: 52
-Brave Nature
-Ability: Swarm
-IVs: 14 HP / 19 Atk / 31 Def / 24 SpA / 9 SpD / 24 Spe
-- First Impression
-- Sucker Punch
-- Detect
-- Throat Chop
-
-Banette
-Level: 52
-Naive Nature
-Ability: Insomnia
-IVs: 27 HP / 10 Atk / 8 Def / 17 SpA / 15 SpD / 2 Spe
-- Shadow Sneak
-- Knock Off
-- Spirit Sap
-- Will-O-Wisp
+Scrafty @ Shed Shell
+Level: 55
+Docile Nature
+Ability: Intimidate
+IVs: 23 HP / 21 Atk / 25 Def / 3 SpA / 10 SpD / 17 Spe
+- Brick Break
+- Rock Tomb
+- Crunch
+- Rock Slide
 
 Magcargo
-Level: 52
+Level: 55
 Timid Nature
 Ability: Magma Armor
 IVs: 28 HP / 1 Atk / 13 Def / 0 SpA / 5 SpD / 10 Spe
@@ -118,3 +98,23 @@ IVs: 28 HP / 1 Atk / 13 Def / 0 SpA / 5 SpD / 10 Spe
 - Flamethrower
 - Earth Power
 - Recover
+
+Stunfisk-Galar
+Level: 55
+Rash Nature
+Ability: Unshaken
+IVs: 13 HP / 20 Atk / 1 Def / 5 SpA / 5 SpD / 26 Spe
+- Sucker Punch
+- Bounce
+- Muddy Water
+- Snap Trap
+
+Lokix
+Level: 55
+Brave Nature
+Ability: Swarm
+IVs: 14 HP / 19 Atk / 31 Def / 24 SpA / 9 SpD / 24 Spe
+- First Impression
+- Sucker Punch
+- Detect
+- Throat Chop
