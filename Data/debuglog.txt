@@ -7157,3 +7157,2132 @@ Your other Pokémon also gained Exp. Points!
 You defeated Sailor Jeff!
 Wow. You're great!
 You got $1,792 for winning!
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for ELECTIVIRE: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for ROTOM: [:SPECIALBREAKER, :OFFENSIVEPIVOT, :SPEEDCONTROL]
+Roles for ARCHALUDON: [:SPECIALBREAKER]
+Roles for GRENINJA: [:SPECIALBREAKER, :OFFENSIVEPIVOT]
+Roles for DREDNAW: [:PHYSICALBREAKER]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Sailor Jacob!
+Sailor Jacob sent out Electivire!
+Go! Basculegion!
+It is raining.
+[Round order] The opposing Electivire (1), Basculegion (0)
+
+***Round 1***
+
+     move will not affect Basculegion (0)
+Set up score for Electivire (1): 0
+Set up score for Electivire (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Basculegion (0): 0
+     Threat Score for Basculegion (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Electivire (1) is considering using Thunder Punch (1) against Basculegion (0)...
+     Electivire (1)'s highest damaging move vs Basculegion: Thunder Punch
+     + 4 to prioritize highest damaging move
+[AI] Electivire (1) is considering using Drain Punch (1) against Basculegion (0)...
+     Electivire (1)'s highest damaging move vs Basculegion: Thunder Punch
+     move will not affect Basculegion (0)
+     -  1: move will fail
+[AI] Electivire (1) is considering using Ice Punch (1) against Basculegion (0)...
+     Electivire (1)'s highest damaging move vs Basculegion: Thunder Punch
+[AI] Electivire (1) is considering using Volt Switch (1) against Basculegion (0)...
+     Electivire (1)'s highest damaging move vs Basculegion: Thunder Punch
+     + 9 for switch initiative against a bad matchup
+[AI] Move choices for Electivire (1):
+   *   0.0% to use Thunder Punch (target 0): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   * 100.0% to use Volt Switch (target 0): score 10
+   => will use Volt Switch (target 0)
+
+
+[Round order] The opposing Electivire (1), Basculegion (0)
+Basculegion, switch out! Come back!
+You're in charge, Excadrill!
+[Move usage] The opposing Electivire started using Volt Switch
+The opposing Electivire used Volt Switch!
+[Target immune] Excadrill's type immunity
+It doesn't affect Excadrill...
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 2***
+
+     move will not affect Excadrill (0)
+     move will not affect Excadrill (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Electivire (1): 0
+Set up score for Electivire (1): 0
+     [Switch AI] +5 Party member [Rotom] is immune to strongest move against Electivire (1)
+[AI] Switch out Score (-2) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Excadrill (0): 0
+     Threat Score for Excadrill (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Electivire (1) is considering using Thunder Punch (1) against Excadrill (0)...
+     Electivire (1)'s highest damaging move vs Excadrill: Drain Punch
+     move will not affect Excadrill (0)
+     -  1: move will fail
+[AI] Electivire (1) is considering using Drain Punch (1) against Excadrill (0)...
+     Electivire (1)'s highest damaging move vs Excadrill: Drain Punch
+      + 20 for fast kill
+[AI] Electivire (1) is considering using Ice Punch (1) against Excadrill (0)...
+     Electivire (1)'s highest damaging move vs Excadrill: Drain Punch
+[AI] Electivire (1) is considering using Volt Switch (1) against Excadrill (0)...
+     Electivire (1)'s highest damaging move vs Excadrill: Drain Punch
+     move will not affect Excadrill (0)
+     -  1: move will fail
+[AI] Move choices for Electivire (1):
+   *   0.0% to use Thunder Punch (target 0): score 0
+   * 100.0% to use Drain Punch (target 0): score 21
+   *   0.0% to use Ice Punch (target 0): score 0
+   *   0.0% to use Volt Switch (target 0): score 0
+   => will use Drain Punch (target 0)
+
+
+[Round order] The opposing Electivire (1), Excadrill (0)
+[Move usage] The opposing Electivire started using Drain Punch
+The opposing Electivire used Drain Punch!
+[HP change] Excadrill lost 210 HP (210=>0)
+[Move damage] Excadrill lost 210 HP (210=>0)
+It's super effective!
+Excadrill fainted!
+Excadrill had its energy drained!
+
+[End of round]
+Trick Room Turns: 0
+You're in charge, Annihilape!
+
+***Round 3***
+
+     move will not affect Annihilape (0)
+Set up score for Electivire (1): 0
+Set up score for Electivire (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Annihilape (0): 0
+     Threat Score for Annihilape (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Electivire (1) is considering using Thunder Punch (1) against Annihilape (0)...
+     Electivire (1)'s highest damaging move vs Annihilape: Thunder Punch
+     + 4 to prioritize highest damaging move
+[AI] Electivire (1) is considering using Drain Punch (1) against Annihilape (0)...
+     Electivire (1)'s highest damaging move vs Annihilape: Thunder Punch
+     move will not affect Annihilape (0)
+     -  1: move will fail
+[AI] Electivire (1) is considering using Ice Punch (1) against Annihilape (0)...
+     Electivire (1)'s highest damaging move vs Annihilape: Thunder Punch
+[AI] Electivire (1) is considering using Volt Switch (1) against Annihilape (0)...
+     Electivire (1)'s highest damaging move vs Annihilape: Thunder Punch
+     + 9 for switch initiative against a bad matchup
+[AI] Move choices for Electivire (1):
+   *   0.0% to use Thunder Punch (target 0): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   * 100.0% to use Volt Switch (target 0): score 10
+   => will use Volt Switch (target 0)
+
+
+[Round order] The opposing Electivire (1), Annihilape (0)
+[Move usage] The opposing Electivire started using Volt Switch
+The opposing Electivire used Volt Switch!
+[HP change] Annihilape lost 43 HP (196=>153)
+[Move damage] Annihilape lost 43 HP (196=>153)
+The opposing Electivire went back to Sailor Jacob!
+     move will not affect Annihilape (0)
+==============================
+     [Rotom] using Thunder vs Annihilape does a max of 86/153 damage
+     [Rotom] using Volt Switch vs Annihilape does a max of 56/153 damage
+     [Rotom] using Leaf Storm vs Annihilape does a max of 101/153 damage
+     Annihilape (0)'s best move: Close Combat for 150/137 damage
+==============================
+     Annihilape (0) speed (127) vs Rotom speed: 127
+     [Rotom] - 20: for us being killed on switch in
+     [Rotom] final Switch score: -20
+==============================
+     [Archaludon] using Polarity Pulse vs Annihilape does a max of 86/153 damage
+     [Archaludon] using Electro Shot vs Annihilape does a max of 78/153 damage
+     [Archaludon] using Dragon Pulse vs Annihilape does a max of 77/153 damage
+     [Archaludon] using Dark Pulse vs Annihilape does a max of 48/153 damage
+     Annihilape (0)'s best move: Close Combat for 252/181 damage
+==============================
+     Annihilape (0) speed (127) vs Archaludon speed: 126
+     [Archaludon] - 20: for us being killed on switch in
+     [Archaludon] final Switch score: -20
+==============================
+     [Greninja] using Surf vs Annihilape does a max of 129/153 damage
+     [Greninja] using Ice Beam vs Annihilape does a max of 57/153 damage
+     [Greninja] using Dark Pulse vs Annihilape does a max of 76/153 damage
+     [Greninja] using U-turn vs Annihilape does a max of 12/153 damage
+     Annihilape (0)'s best move: Close Combat for 441/158 damage
+==============================
+     Annihilape (0) speed (127) vs Greninja speed: 168
+     [Greninja] - 20: for us being killed on switch in
+     [Greninja] final Switch score: -20
+==============================
+     [Drednaw] using Liquidation vs Annihilape does a max of 158/153 damage
+     [Drednaw] using Stone Edge vs Annihilape does a max of 62/153 damage
+     [Drednaw] using Earthquake vs Annihilape does a max of 82/153 damage
+     [Drednaw] using Ice Fang vs Annihilape does a max of 80/153 damage
+     Annihilape (0)'s best move: Close Combat for 339/184 damage
+==============================
+     Annihilape (0) speed (127) vs Drednaw speed: 105
+     [Drednaw] - 20: for us being killed on switch in
+     [Drednaw] final Switch score: -20
+[AI] Highest move score (10) vs Switch In Score (-20)
+Sailor Jacob sent out Rotom!
+[Move usage] Annihilape started using Close Combat
+Annihilape used Close Combat!
+[HP change] The opposing Rotom lost 137 HP (137=>0)
+[Move damage] The opposing Rotom lost 137 HP (137=>0)
+[Stat change] Annihilape's Defense: 0 -> -1 (-1)
+Annihilape's Defense fell!
+[Stat change] Annihilape's Special Defense: 0 -> -1 (-1)
+Annihilape's Special Defense fell!
+The opposing Rotom fainted!
+Your other Pokémon also gained Exp. Points!
+
+[End of round]
+Trick Room Turns: 0
+==============================
+     [Electivire] using Thunder Punch vs Annihilape does a max of 156/153 damage
+     [Electivire] using Ice Punch vs Annihilape does a max of 104/153 damage
+     [Electivire] using Volt Switch vs Annihilape does a max of 69/153 damage
+     Annihilape (0)'s best move: Close Combat for 219/164 damage
+==============================
+     Annihilape (0) speed (127) vs Electivire speed: 138
+     [Electivire] + 12: for fast kill
+     [Electivire] final Switch score: 12
+==============================
+     [Archaludon] using Polarity Pulse vs Annihilape does a max of 129/153 damage
+     [Archaludon] using Electro Shot vs Annihilape does a max of 117/153 damage
+     [Archaludon] using Dragon Pulse vs Annihilape does a max of 116/153 damage
+     [Archaludon] using Dark Pulse vs Annihilape does a max of 72/153 damage
+     Annihilape (0)'s best move: Close Combat for 252/181 damage
+==============================
+     Annihilape (0) speed (127) vs Archaludon speed: 126
+     [Archaludon] -  9: for target fast kill
+     [Archaludon] final Switch score: -9
+==============================
+     [Greninja] using Surf vs Annihilape does a max of 190/153 damage
+     [Greninja] using Ice Beam vs Annihilape does a max of 85/153 damage
+     [Greninja] using Dark Pulse vs Annihilape does a max of 113/153 damage
+     [Greninja] using U-turn vs Annihilape does a max of 18/153 damage
+     Annihilape (0)'s best move: Close Combat for 441/158 damage
+==============================
+     Annihilape (0) speed (127) vs Greninja speed: 168
+     [Greninja] + 12: for fast kill
+     [Greninja] final Switch score: 12
+==============================
+     [Drednaw] using Liquidation vs Annihilape does a max of 234/153 damage
+     [Drednaw] using Stone Edge vs Annihilape does a max of 92/153 damage
+     [Drednaw] using Earthquake vs Annihilape does a max of 122/153 damage
+     [Drednaw] using Ice Fang vs Annihilape does a max of 120/153 damage
+     Annihilape (0)'s best move: Close Combat for 339/184 damage
+==============================
+     Annihilape (0) speed (127) vs Drednaw speed: 105
+     [Drednaw] -  9: for target fast kill
+     [Drednaw] final Switch score: -9
+[AI] Highest move score (10) vs Switch In Score (12)
+Sailor Jacob sent out Electivire!
+
+***Round 4***
+
+     move will not affect Annihilape (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Electivire (1): 0
+Set up score for Electivire (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Annihilape (0): -2
+     Threat Score for Annihilape (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Electivire (1) is considering using Thunder Punch (1) against Annihilape (0)...
+     Electivire (1)'s highest damaging move vs Annihilape: Thunder Punch
+     + 4 to prioritize highest damaging move
+[AI] Electivire (1) is considering using Drain Punch (1) against Annihilape (0)...
+     Electivire (1)'s highest damaging move vs Annihilape: Thunder Punch
+     move will not affect Annihilape (0)
+     -  1: move will fail
+[AI] Electivire (1) is considering using Ice Punch (1) against Annihilape (0)...
+     Electivire (1)'s highest damaging move vs Annihilape: Thunder Punch
+[AI] Electivire (1) is considering using Volt Switch (1) against Annihilape (0)...
+     Electivire (1)'s highest damaging move vs Annihilape: Thunder Punch
+     + 9 for switch initiative against a bad matchup
+[AI] Move choices for Electivire (1):
+   *   0.0% to use Thunder Punch (target 0): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   * 100.0% to use Volt Switch (target 0): score 10
+   => will use Volt Switch (target 0)
+
+
+[Round order] The opposing Electivire (1), Annihilape (0)
+[Move usage] The opposing Electivire started using Volt Switch
+The opposing Electivire used Volt Switch!
+[HP change] Annihilape lost 95 HP (153=>58)
+[Move damage] Annihilape lost 95 HP (153=>58)
+A critical hit!
+The opposing Electivire went back to Sailor Jacob!
+     move will not affect Annihilape (0)
+==============================
+     [Archaludon] using Polarity Pulse vs Annihilape does a max of 129/58 damage
+     [Archaludon] using Electro Shot vs Annihilape does a max of 117/58 damage
+     [Archaludon] using Dragon Pulse vs Annihilape does a max of 116/58 damage
+     [Archaludon] using Dark Pulse vs Annihilape does a max of 72/58 damage
+     Annihilape (0)'s best move: Close Combat for 252/181 damage
+==============================
+     Annihilape (0) speed (127) vs Archaludon speed: 126
+     [Archaludon] - 20: for us being killed on switch in
+     [Archaludon] final Switch score: -20
+==============================
+     [Greninja] using Surf vs Annihilape does a max of 190/58 damage
+     [Greninja] using Ice Beam vs Annihilape does a max of 85/58 damage
+     [Greninja] using Dark Pulse vs Annihilape does a max of 113/58 damage
+     [Greninja] using U-turn vs Annihilape does a max of 18/58 damage
+     Annihilape (0)'s best move: Close Combat for 441/158 damage
+==============================
+     Annihilape (0) speed (127) vs Greninja speed: 168
+     [Greninja] + 12: for fast kill
+     [Greninja] final Switch score: 12
+==============================
+     [Drednaw] using Liquidation vs Annihilape does a max of 234/58 damage
+     [Drednaw] using Stone Edge vs Annihilape does a max of 92/58 damage
+     [Drednaw] using Earthquake vs Annihilape does a max of 122/58 damage
+     [Drednaw] using Ice Fang vs Annihilape does a max of 120/58 damage
+     Annihilape (0)'s best move: Close Combat for 339/184 damage
+==============================
+     Annihilape (0) speed (127) vs Drednaw speed: 105
+     [Drednaw] - 20: for us being killed on switch in
+     [Drednaw] final Switch score: -20
+[AI] Highest move score (30) vs Switch In Score (12)
+Sailor Jacob sent out Greninja!
+[Move usage] Annihilape started using Close Combat
+Annihilape used Close Combat!
+[HP change] The opposing Greninja lost 158 HP (158=>0)
+[Move damage] The opposing Greninja lost 158 HP (158=>0)
+It's super effective!
+[Stat change] Annihilape's Defense: -1 -> -2 (-1)
+Annihilape's Defense fell!
+[Stat change] Annihilape's Special Defense: -1 -> -2 (-1)
+Annihilape's Special Defense fell!
+The opposing Greninja fainted!
+Your other Pokémon also gained Exp. Points!
+
+[End of round]
+Trick Room Turns: 0
+==============================
+     [Electivire] using Thunder Punch vs Annihilape does a max of 210/58 damage
+     [Electivire] using Ice Punch vs Annihilape does a max of 140/58 damage
+     [Electivire] using Volt Switch vs Annihilape does a max of 90/58 damage
+     Annihilape (0)'s best move: Close Combat for 219/164 damage
+==============================
+     Annihilape (0) speed (127) vs Electivire speed: 138
+     [Electivire] + 12: for fast kill
+     [Electivire] final Switch score: 12
+==============================
+     [Archaludon] using Polarity Pulse vs Annihilape does a max of 170/58 damage
+     [Archaludon] using Electro Shot vs Annihilape does a max of 154/58 damage
+     [Archaludon] using Dragon Pulse vs Annihilape does a max of 152/58 damage
+     [Archaludon] using Dark Pulse vs Annihilape does a max of 95/58 damage
+     Annihilape (0)'s best move: Close Combat for 252/181 damage
+==============================
+     Annihilape (0) speed (127) vs Archaludon speed: 126
+     [Archaludon] -  9: for target fast kill
+     [Archaludon] final Switch score: -9
+==============================
+     [Drednaw] using Liquidation vs Annihilape does a max of 315/58 damage
+     [Drednaw] using Stone Edge vs Annihilape does a max of 123/58 damage
+     [Drednaw] using Earthquake vs Annihilape does a max of 164/58 damage
+     [Drednaw] using Ice Fang vs Annihilape does a max of 161/58 damage
+     Annihilape (0)'s best move: Close Combat for 339/184 damage
+==============================
+     Annihilape (0) speed (127) vs Drednaw speed: 105
+     [Drednaw] -  9: for target fast kill
+     [Drednaw] final Switch score: -9
+[AI] Highest move score (18) vs Switch In Score (12)
+Sailor Jacob sent out Electivire!
+
+***Round 5***
+
+     move will not affect Annihilape (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Electivire (1): 0
+Set up score for Electivire (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (30)
+[AI] The AI will not try to switch.
+Set up score for Annihilape (0): -4
+     Threat Score for Annihilape (0): -5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Electivire (1) is considering using Thunder Punch (1) against Annihilape (0)...
+     Electivire (1)'s highest damaging move vs Annihilape: Thunder Punch
+      + 20 for fast kill
+[AI] Electivire (1) is considering using Drain Punch (1) against Annihilape (0)...
+     Electivire (1)'s highest damaging move vs Annihilape: Thunder Punch
+     move will not affect Annihilape (0)
+     -  1: move will fail
+[AI] Electivire (1) is considering using Ice Punch (1) against Annihilape (0)...
+     Electivire (1)'s highest damaging move vs Annihilape: Thunder Punch
+      + 20 for fast kill
+[AI] Electivire (1) is considering using Volt Switch (1) against Annihilape (0)...
+     Electivire (1)'s highest damaging move vs Annihilape: Thunder Punch
+     + 9 for switch initiative against a bad matchup
+      + 20 for fast kill
+[AI] Move choices for Electivire (1):
+   *   0.0% to use Thunder Punch (target 0): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   * 100.0% to use Volt Switch (target 0): score 30
+   => will use Volt Switch (target 0)
+
+
+[Round order] The opposing Electivire (1), Annihilape (0)
+[Move usage] The opposing Electivire started using Volt Switch
+The opposing Electivire used Volt Switch!
+[HP change] Annihilape lost 58 HP (58=>0)
+[Move damage] Annihilape lost 58 HP (58=>0)
+Annihilape fainted!
+The opposing Electivire went back to Sailor Jacob!
+     [Archaludon] final Switch score: 0
+     [Drednaw] final Switch score: 0
+[AI] Highest move score () vs Switch In Score (0)
+Sailor Jacob sent out Archaludon!
+
+[End of round]
+Trick Room Turns: 0
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for ELECTIVIRE: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for ROTOM: [:SPECIALBREAKER, :OFFENSIVEPIVOT, :SPEEDCONTROL]
+Roles for ARCHALUDON: [:SPECIALBREAKER]
+Roles for GRENINJA: [:SPECIALBREAKER, :OFFENSIVEPIVOT]
+Roles for DREDNAW: [:PHYSICALBREAKER]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Sailor Jacob!
+Sailor Jacob sent out Electivire!
+Go! Basculegion!
+It is raining.
+[Round order] The opposing Electivire (1), Basculegion (0)
+
+***Round 1***
+
+     move will not affect Basculegion (0)
+
+**Exception: undefined method `rough_damage' for #<Battle::Move::ParalyzeTarget>
+[Phantombass AI] 01_AI_Move_Scoring.rb:625:in `block in <main>'
+[Phantombass AI] 01_AI_Move_Scoring.rb:89:in `block in trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:87:in `each'
+[Phantombass AI] 01_AI_Move_Scoring.rb:87:in `trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:108:in `trigger_damaging_moves'
+[Phantombass AI] 03_AI_Moves.rb:309:in `pbGetMoveScoreAgainstTarget'
+[Phantombass AI] 03_AI_Moves.rb:254:in `block in pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:247:in `each'
+[Phantombass AI] 03_AI_Moves.rb:247:in `pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:103:in `block (3 levels) in pbGetMoveScores'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+[Phantombass AI] 03_AI_Moves.rb:103:in `block (2 levels) in pbGetMoveScores'
+[Phantombass AI] 03_AI_Moves.rb:97:in `each'
+[Phantombass AI] 03_AI_Moves.rb:97:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:461:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:461:in `each'
+001_Battle_Battler.rb:461:in `each_with_index'
+001_Battle_Battler.rb:461:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:58:in `pbGetMoveScores'
+[Phantombass AI] 02_AI_Switching.rb:29:in `pbChooseToSwitchOut'
+[Phantombass AI] 01_AI_Main.rb:61:in `block in pbDefaultChooseEnemyCommand'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+[Phantombass AI] 01_AI_Main.rb:61:in `pbDefaultChooseEnemyCommand'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:597:in `block in pbCommandPhaseLoop'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:588:in `loop'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:588:in `pbCommandPhaseLoop'
+[Essentials Deluxe] Battle.rb:242:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:335:in `block (2 levels) in pbBattleLoop'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+002_Battle_StartAndEnd.rb:335:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:323:in `loop'
+002_Battle_StartAndEnd.rb:323:in `pbBattleLoop'
+[Pokemon Grueling Gold Scripts] 12_Item_Mechanics.rb:270:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:271:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:513:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:512:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:130:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:511:in `start_core'
+001_Overworld_BattleStarting.rb:477:in `start'
+(eval):1:in `execute_script'
+003_Interpreter.rb:143:in `eval'
+003_Interpreter.rb:143:in `execute_script'
+004_Interpreter_Commands.rb:428:in `command_111'
+004_Interpreter_Commands.rb:29:in `execute_command'
+003_Interpreter.rb:133:in `block in update'
+003_Interpreter.rb:90:in `loop'
+003_Interpreter.rb:90:in `update'
+[Following Pokemon EX] Refresh.rb:268:in `update'
+002_Scene_Map.rb:160:in `block in update'
+002_Scene_Map.rb:159:in `loop'
+002_Scene_Map.rb:159:in `update'
+[Pokemon Grueling Gold Scripts] 22_Unreal_Time.rb:199:in `update'
+[Following Pokemon EX] Refresh.rb:178:in `update'
+[v20.1 Hotfixes] Overworld bug fixes.rb:28:in `block in main'
+[v20.1 Hotfixes] Overworld bug fixes.rb:25:in `loop'
+[v20.1 Hotfixes] Overworld bug fixes.rb:25:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+Set up score for Electivire (1): 0
+Set up score for Electivire (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Basculegion (0): 0
+     Threat Score for Basculegion (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Electivire (1) is considering using Thunder Punch (1) against Basculegion (0)...
+     Electivire (1)'s highest damaging move vs Basculegion: Thunder Punch
+     + 4 to prioritize highest damaging move
+[AI] Electivire (1) is considering using Drain Punch (1) against Basculegion (0)...
+     Electivire (1)'s highest damaging move vs Basculegion: Thunder Punch
+     move will not affect Basculegion (0)
+     -  1: move will fail
+[AI] Electivire (1) is considering using Ice Punch (1) against Basculegion (0)...
+     Electivire (1)'s highest damaging move vs Basculegion: Thunder Punch
+[AI] Electivire (1) is considering using Volt Switch (1) against Basculegion (0)...
+     Electivire (1)'s highest damaging move vs Basculegion: Thunder Punch
+
+**Exception: undefined method `rough_damage' for #<Battle::Move::ParalyzeTarget>
+[Phantombass AI] 01_AI_Move_Scoring.rb:625:in `block in <main>'
+[Phantombass AI] 01_AI_Move_Scoring.rb:89:in `block in trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:87:in `each'
+[Phantombass AI] 01_AI_Move_Scoring.rb:87:in `trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:108:in `trigger_damaging_moves'
+[Phantombass AI] 03_AI_Moves.rb:309:in `pbGetMoveScoreAgainstTarget'
+[Phantombass AI] 03_AI_Moves.rb:254:in `block in pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:247:in `each'
+[Phantombass AI] 03_AI_Moves.rb:247:in `pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:103:in `block (3 levels) in pbGetMoveScores'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+[Phantombass AI] 03_AI_Moves.rb:103:in `block (2 levels) in pbGetMoveScores'
+[Phantombass AI] 03_AI_Moves.rb:97:in `each'
+[Phantombass AI] 03_AI_Moves.rb:97:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:461:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:461:in `each'
+001_Battle_Battler.rb:461:in `each_with_index'
+001_Battle_Battler.rb:461:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:58:in `pbGetMoveScores'
+[Phantombass AI] 01_AI_Main.rb:82:in `pbDefaultChooseEnemyCommand'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:597:in `block in pbCommandPhaseLoop'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:588:in `loop'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:588:in `pbCommandPhaseLoop'
+[Essentials Deluxe] Battle.rb:242:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:335:in `block (2 levels) in pbBattleLoop'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+002_Battle_StartAndEnd.rb:335:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:323:in `loop'
+002_Battle_StartAndEnd.rb:323:in `pbBattleLoop'
+[Pokemon Grueling Gold Scripts] 12_Item_Mechanics.rb:270:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:271:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:513:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:512:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:130:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:511:in `start_core'
+001_Overworld_BattleStarting.rb:477:in `start'
+(eval):1:in `execute_script'
+003_Interpreter.rb:143:in `eval'
+003_Interpreter.rb:143:in `execute_script'
+004_Interpreter_Commands.rb:428:in `command_111'
+004_Interpreter_Commands.rb:29:in `execute_command'
+003_Interpreter.rb:133:in `block in update'
+003_Interpreter.rb:90:in `loop'
+003_Interpreter.rb:90:in `update'
+[Following Pokemon EX] Refresh.rb:268:in `update'
+002_Scene_Map.rb:160:in `block in update'
+002_Scene_Map.rb:159:in `loop'
+002_Scene_Map.rb:159:in `update'
+[Pokemon Grueling Gold Scripts] 22_Unreal_Time.rb:199:in `update'
+[Following Pokemon EX] Refresh.rb:178:in `update'
+[v20.1 Hotfixes] Overworld bug fixes.rb:28:in `block in main'
+[v20.1 Hotfixes] Overworld bug fixes.rb:25:in `loop'
+[v20.1 Hotfixes] Overworld bug fixes.rb:25:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for ELECTIVIRE: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for ROTOM: [:SPECIALBREAKER, :OFFENSIVEPIVOT, :SPEEDCONTROL]
+Roles for ARCHALUDON: [:SPECIALBREAKER]
+Roles for GRENINJA: [:SPECIALBREAKER, :OFFENSIVEPIVOT]
+Roles for DREDNAW: [:PHYSICALBREAKER]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Sailor Jacob!
+Sailor Jacob sent out Electivire!
+Go! Basculegion!
+It is raining.
+[Round order] The opposing Electivire (1), Basculegion (0)
+
+***Round 1***
+
+     move will not affect Basculegion (0)
+Set up score for Electivire (1): 0
+Set up score for Electivire (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Basculegion (0): 0
+     Threat Score for Basculegion (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Electivire (1) is considering using Thunder Punch (1) against Basculegion (0)...
+     Electivire (1)'s highest damaging move vs Basculegion: Thunder Punch
+     + 4 to prioritize highest damaging move
+[AI] Electivire (1) is considering using Drain Punch (1) against Basculegion (0)...
+     Electivire (1)'s highest damaging move vs Basculegion: Thunder Punch
+     move will not affect Basculegion (0)
+     -  1: move will fail
+[AI] Electivire (1) is considering using Ice Punch (1) against Basculegion (0)...
+     Electivire (1)'s highest damaging move vs Basculegion: Thunder Punch
+[AI] Electivire (1) is considering using Volt Switch (1) against Basculegion (0)...
+     Electivire (1)'s highest damaging move vs Basculegion: Thunder Punch
+     + 9 for switch initiative against a bad matchup
+[AI] Move choices for Electivire (1):
+   *   0.0% to use Thunder Punch (target 0): score 0
+   *   0.0% to use Drain Punch (target 0): score 0
+   *   0.0% to use Ice Punch (target 0): score 0
+   * 100.0% to use Volt Switch (target 0): score 10
+   => will use Volt Switch (target 0)
+
+
+[Round order] The opposing Electivire (1), Basculegion (0)
+[Move usage] The opposing Electivire started using Volt Switch
+The opposing Electivire used Volt Switch!
+[HP change] Basculegion lost 113 HP (213=>100)
+[Move damage] Basculegion lost 113 HP (213=>100)
+It's super effective!
+The opposing Electivire went back to Sailor Jacob!
+     move will not affect Basculegion (0)
+     - 9 to prevent switching when we have a kill with another move
+==============================
+     [Rotom] using Thunder vs Basculegion does a max of 237/100 damage
+     [Rotom] using Volt Switch vs Basculegion does a max of 153/100 damage
+     [Rotom] using Leaf Storm vs Basculegion does a max of 279/100 damage
+     Basculegion (0)'s best move: Wave Crash for 75/137 damage
+==============================
+     Basculegion (0) speed (109) vs Rotom speed: 127
+     [Rotom] + 12: for fast kill
+     [Rotom] final Switch score: 12
+==============================
+     [Archaludon] using Polarity Pulse vs Basculegion does a max of 59/100 damage
+     [Archaludon] using Electro Shot vs Basculegion does a max of 216/100 damage
+     [Archaludon] using Dragon Pulse vs Basculegion does a max of 107/100 damage
+     [Archaludon] using Dark Pulse vs Basculegion does a max of 134/100 damage
+     Basculegion (0)'s best move: Wave Crash for 64/181 damage
+==============================
+     Basculegion (0) speed (109) vs Archaludon speed: 126
+     [Archaludon] + 12: for fast kill
+     [Archaludon] final Switch score: 12
+==============================
+     [Greninja] using Surf vs Basculegion does a max of 88/100 damage
+     [Greninja] using Ice Beam vs Basculegion does a max of 39/100 damage
+     [Greninja] using Dark Pulse vs Basculegion does a max of 211/100 damage
+     [Greninja] using U-turn vs Basculegion does a max of 23/100 damage
+     Basculegion (0)'s best move: Wave Crash for 111/158 damage
+==============================
+     Basculegion (0) speed (109) vs Greninja speed: 168
+     [Greninja] + 12: for fast kill
+     [Greninja] final Switch score: 12
+==============================
+     [Drednaw] using Liquidation vs Basculegion does a max of 75/100 damage
+     [Drednaw] using Stone Edge vs Basculegion does a max of 119/100 damage
+     [Drednaw] using Earthquake vs Basculegion does a max of 79/100 damage
+     [Drednaw] using Ice Fang vs Basculegion does a max of 39/100 damage
+     Basculegion (0)'s best move: Wave Crash for 171/184 damage
+==============================
+     Basculegion (0) speed (109) vs Drednaw speed: 105
+     [Drednaw] +  9: for slow kill
+     [Drednaw] final Switch score: 9
+[AI] Highest move score (21) vs Switch In Score (12)
+Sailor Jacob sent out Rotom!
+[Move usage] Basculegion started using Spirit Shackle
+Basculegion used Spirit Shackle!
+[HP change] The opposing Rotom lost 65 HP (137=>72)
+[Move damage] The opposing Rotom lost 65 HP (137=>72)
+The opposing Rotom can no longer escape!
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 2***
+
+Set up score for Basculegion (0): 0
+     Threat Score for Basculegion (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunder (1) against Basculegion (0)...
+     Rotom (1)'s highest damaging move vs Basculegion: Leaf Storm
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Volt Switch (1) against Basculegion (0)...
+     Rotom (1)'s highest damaging move vs Basculegion: Leaf Storm
+     - 9 to prevent switching when we have a kill with another move
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Leaf Storm (1) against Basculegion (0)...
+     Rotom (1)'s highest damaging move vs Basculegion: Leaf Storm
+      + 20 for fast kill
+[AI] Rotom (1) is considering using Thunder Wave (4) against Basculegion (0)...
+     Rotom (1)'s highest damaging move vs Basculegion: Leaf Storm
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Move choices for Rotom (1):
+   *  50.0% to use Thunder (target 0): score 21
+   *   0.0% to use Volt Switch (target 0): score 0
+   *  50.0% to use Leaf Storm (target 0): score 21
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Thunder (target 0)
+
+
+[Round order] The opposing Rotom (1), Basculegion (0)
+[Move usage] The opposing Rotom started using Thunder
+The opposing Rotom used Thunder!
+[HP change] Basculegion lost 100 HP (100=>0)
+[Move damage] Basculegion lost 100 HP (100=>0)
+It's super effective!
+Basculegion fainted!
+
+[End of round]
+Trick Room Turns: 0
+Go for it, Annihilape!
+
+***Round 3***
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Annihilape (0): 0
+     Threat Score for Annihilape (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunder (1) against Annihilape (0)...
+     Rotom (1)'s highest damaging move vs Annihilape: Leaf Storm
+[AI] Rotom (1) is considering using Volt Switch (1) against Annihilape (0)...
+     Rotom (1)'s highest damaging move vs Annihilape: Leaf Storm
+     + 9 for switch initiative against a bad matchup
+[AI] Rotom (1) is considering using Leaf Storm (1) against Annihilape (0)...
+     Rotom (1)'s highest damaging move vs Annihilape: Leaf Storm
+     + 4 to prioritize highest damaging move
+[AI] Rotom (1) is considering using Thunder Wave (4) against Annihilape (0)...
+     Rotom (1)'s highest damaging move vs Annihilape: Leaf Storm
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+[AI] Move choices for Rotom (1):
+   *   0.0% to use Thunder (target 0): score 0
+   * 100.0% to use Volt Switch (target 0): score 10
+   *   0.0% to use Leaf Storm (target 0): score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Volt Switch (target 0)
+
+
+[Round order] The opposing Rotom (1), Annihilape (0)
+[Move usage] The opposing Rotom started using Volt Switch
+The opposing Rotom used Volt Switch!
+[HP change] Annihilape lost 54 HP (196=>142)
+[Move damage] Annihilape lost 54 HP (196=>142)
+The opposing Rotom went back to Sailor Jacob!
+==============================
+     [Electivire] using Thunder Punch vs Annihilape does a max of 105/142 damage
+     [Electivire] using Ice Punch vs Annihilape does a max of 70/142 damage
+     [Electivire] using Volt Switch vs Annihilape does a max of 47/142 damage
+     Annihilape (0)'s best move: Close Combat for 219/164 damage
+==============================
+     Annihilape (0) speed (127) vs Electivire speed: 138
+     [Electivire] - 20: for us being killed on switch in
+     [Electivire] final Switch score: -20
+==============================
+     [Archaludon] using Polarity Pulse vs Annihilape does a max of 86/142 damage
+     [Archaludon] using Electro Shot vs Annihilape does a max of 78/142 damage
+     [Archaludon] using Dragon Pulse vs Annihilape does a max of 77/142 damage
+     [Archaludon] using Dark Pulse vs Annihilape does a max of 48/142 damage
+     Annihilape (0)'s best move: Close Combat for 252/181 damage
+==============================
+     Annihilape (0) speed (127) vs Archaludon speed: 126
+     [Archaludon] - 20: for us being killed on switch in
+     [Archaludon] final Switch score: -20
+==============================
+     [Greninja] using Surf vs Annihilape does a max of 129/142 damage
+     [Greninja] using Ice Beam vs Annihilape does a max of 57/142 damage
+     [Greninja] using Dark Pulse vs Annihilape does a max of 76/142 damage
+     [Greninja] using U-turn vs Annihilape does a max of 12/142 damage
+     Annihilape (0)'s best move: Close Combat for 441/158 damage
+==============================
+     Annihilape (0) speed (127) vs Greninja speed: 168
+     [Greninja] - 20: for us being killed on switch in
+     [Greninja] final Switch score: -20
+==============================
+     [Drednaw] using Liquidation vs Annihilape does a max of 158/142 damage
+     [Drednaw] using Stone Edge vs Annihilape does a max of 62/142 damage
+     [Drednaw] using Earthquake vs Annihilape does a max of 82/142 damage
+     [Drednaw] using Ice Fang vs Annihilape does a max of 80/142 damage
+     Annihilape (0)'s best move: Close Combat for 339/184 damage
+==============================
+     Annihilape (0) speed (127) vs Drednaw speed: 105
+     [Drednaw] - 20: for us being killed on switch in
+     [Drednaw] final Switch score: -20
+[AI] Highest move score (10) vs Switch In Score (-20)
+Sailor Jacob sent out Electivire!
+[Move usage] Annihilape started using Close Combat
+Annihilape used Close Combat!
+[HP change] The opposing Electivire lost 164 HP (164=>0)
+[Move damage] The opposing Electivire lost 164 HP (164=>0)
+[Stat change] Annihilape's Defense: 0 -> -1 (-1)
+Annihilape's Defense fell!
+[Stat change] Annihilape's Special Defense: 0 -> -1 (-1)
+Annihilape's Special Defense fell!
+The opposing Electivire fainted!
+Your other Pokémon also gained Exp. Points!
+
+[End of round]
+Trick Room Turns: 0
+     move will not affect Annihilape (0)
+==============================
+     [Rotom] using Thunder vs Annihilape does a max of 129/142 damage
+     [Rotom] using Volt Switch vs Annihilape does a max of 83/142 damage
+     [Rotom] using Leaf Storm vs Annihilape does a max of 152/142 damage
+     Annihilape (0)'s best move: Close Combat for 150/72 damage
+==============================
+     Annihilape (0) speed (127) vs Rotom speed: 127
+     [Rotom] +  3: for outdamage
+     [Rotom] final Switch score: 3
+==============================
+     [Archaludon] using Polarity Pulse vs Annihilape does a max of 129/142 damage
+     [Archaludon] using Electro Shot vs Annihilape does a max of 117/142 damage
+     [Archaludon] using Dragon Pulse vs Annihilape does a max of 116/142 damage
+     [Archaludon] using Dark Pulse vs Annihilape does a max of 72/142 damage
+     Annihilape (0)'s best move: Close Combat for 252/181 damage
+==============================
+     Annihilape (0) speed (127) vs Archaludon speed: 126
+     [Archaludon] -  9: for target fast kill
+     [Archaludon] final Switch score: -9
+==============================
+     [Greninja] using Surf vs Annihilape does a max of 190/142 damage
+     [Greninja] using Ice Beam vs Annihilape does a max of 85/142 damage
+     [Greninja] using Dark Pulse vs Annihilape does a max of 113/142 damage
+     [Greninja] using U-turn vs Annihilape does a max of 18/142 damage
+     Annihilape (0)'s best move: Close Combat for 441/158 damage
+==============================
+     Annihilape (0) speed (127) vs Greninja speed: 168
+     [Greninja] + 12: for fast kill
+     [Greninja] final Switch score: 12
+==============================
+     [Drednaw] using Liquidation vs Annihilape does a max of 234/142 damage
+     [Drednaw] using Stone Edge vs Annihilape does a max of 92/142 damage
+     [Drednaw] using Earthquake vs Annihilape does a max of 122/142 damage
+     [Drednaw] using Ice Fang vs Annihilape does a max of 120/142 damage
+     Annihilape (0)'s best move: Close Combat for 339/184 damage
+==============================
+     Annihilape (0) speed (127) vs Drednaw speed: 105
+     [Drednaw] -  9: for target fast kill
+     [Drednaw] final Switch score: -9
+[AI] Highest move score (10) vs Switch In Score (12)
+Sailor Jacob sent out Greninja!
+
+***Round 4***
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -7 We have fast kill
+Set up score for Greninja (1): 0
+Set up score for Greninja (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Annihilape (0): -2
+     Threat Score for Annihilape (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Greninja (1) is considering using Surf (1)...
+     Greninja (1)'s highest damaging move vs Annihilape: Surf
+      + 20 for fast kill
+[AI] Greninja (1) is considering using Ice Beam (1) against Annihilape (0)...
+     Greninja (1)'s highest damaging move vs Annihilape: Surf
+[AI] Greninja (1) is considering using Dark Pulse (1) against Annihilape (0)...
+     Greninja (1)'s highest damaging move vs Annihilape: Surf
+[AI] Greninja (1) is considering using U-turn (1) against Annihilape (0)...
+     Greninja (1)'s highest damaging move vs Annihilape: Surf
+     - 9 to prevent switching when we have a kill with another move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Greninja (1):
+   * 100.0% to use Surf: score 21
+   *   0.0% to use Ice Beam (target 0): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Surf
+
+
+[Round order] The opposing Greninja (1), Annihilape (0)
+Annihilape, come back!
+You're in charge, Goodra!
+[Move usage] The opposing Greninja started using Surf
+The opposing Greninja used Surf!
+[HP change] Goodra lost 44 HP (176=>132)
+[Move damage] Goodra lost 44 HP (176=>132)
+It's not very effective...
+[Item triggered] The opposing Greninja's Life Orb (recoil)
+[HP change] The opposing Greninja lost 15 HP (158=>143)
+The opposing Greninja lost some of its HP!
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 5***
+
+Set up score for Greninja (1): 0
+Set up score for Greninja (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Goodra (0): 0
+     Threat Score for Goodra (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Greninja (1) is considering using Surf (1)...
+     Greninja (1)'s highest damaging move vs Goodra: Dark Pulse
+[AI] Greninja (1) is considering using Ice Beam (1) against Goodra (0)...
+     Greninja (1)'s highest damaging move vs Goodra: Dark Pulse
+[AI] Greninja (1) is considering using Dark Pulse (1) against Goodra (0)...
+     Greninja (1)'s highest damaging move vs Goodra: Dark Pulse
+     + 4 to prioritize highest damaging move
+[AI] Greninja (1) is considering using U-turn (1) against Goodra (0)...
+     Greninja (1)'s highest damaging move vs Goodra: Dark Pulse
+[AI] Move choices for Greninja (1):
+   *   0.0% to use Surf: score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   * 100.0% to use Dark Pulse (target 0): score 5
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Dark Pulse (target 0)
+
+
+[Round order] The opposing Greninja (1), Goodra (0)
+[Move usage] The opposing Greninja started using Dark Pulse
+The opposing Greninja used Dark Pulse!
+[HP change] Goodra lost 49 HP (132=>83)
+[Move damage] Goodra lost 49 HP (132=>83)
+[Item triggered] The opposing Greninja's Life Orb (recoil)
+[HP change] The opposing Greninja lost 15 HP (143=>128)
+The opposing Greninja lost some of its HP!
+[Move usage] Goodra started using Dragon Pulse
+Goodra flinched and couldn't move!
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 6***
+
+Set up score for Greninja (1): 0
+Set up score for Greninja (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Goodra (0): 0
+     Threat Score for Goodra (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Greninja (1) is considering using Surf (1)...
+     Greninja (1)'s highest damaging move vs Goodra: Dark Pulse
+[AI] Greninja (1) is considering using Ice Beam (1) against Goodra (0)...
+     Greninja (1)'s highest damaging move vs Goodra: Dark Pulse
+[AI] Greninja (1) is considering using Dark Pulse (1) against Goodra (0)...
+     Greninja (1)'s highest damaging move vs Goodra: Dark Pulse
+     + 4 to prioritize highest damaging move
+[AI] Greninja (1) is considering using U-turn (1) against Goodra (0)...
+     Greninja (1)'s highest damaging move vs Goodra: Dark Pulse
+[AI] Move choices for Greninja (1):
+   *   0.0% to use Surf: score 0
+   *   0.0% to use Ice Beam (target 0): score 0
+   * 100.0% to use Dark Pulse (target 0): score 5
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Dark Pulse (target 0)
+
+
+[Round order] The opposing Greninja (1), Goodra (0)
+[Move usage] The opposing Greninja started using Dark Pulse
+The opposing Greninja used Dark Pulse!
+[HP change] Goodra lost 53 HP (83=>30)
+[Move damage] Goodra lost 53 HP (83=>30)
+[Item triggered] The opposing Greninja's Life Orb (recoil)
+[HP change] The opposing Greninja lost 15 HP (128=>113)
+The opposing Greninja lost some of its HP!
+[Move usage] Goodra started using Dragon Pulse
+Goodra used Dragon Pulse!
+[HP change] The opposing Greninja lost 91 HP (113=>22)
+[Move damage] The opposing Greninja lost 91 HP (113=>22)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 7***
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -7 We have fast kill
+Set up score for Greninja (1): 0
+Set up score for Greninja (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Goodra (0): 0
+     Threat Score for Goodra (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Greninja (1) is considering using Surf (1)...
+     Greninja (1)'s highest damaging move vs Goodra: Surf
+      + 20 for fast kill
+[AI] Greninja (1) is considering using Ice Beam (1) against Goodra (0)...
+     Greninja (1)'s highest damaging move vs Goodra: Surf
+      + 20 for fast kill
+[AI] Greninja (1) is considering using Dark Pulse (1) against Goodra (0)...
+     Greninja (1)'s highest damaging move vs Goodra: Surf
+      + 20 for fast kill
+[AI] Greninja (1) is considering using U-turn (1) against Goodra (0)...
+     Greninja (1)'s highest damaging move vs Goodra: Surf
+     - 9 to prevent switching when we have a kill with another move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Greninja (1):
+   *  33.3% to use Surf: score 21
+   *  33.3% to use Ice Beam (target 0): score 21
+   *  33.3% to use Dark Pulse (target 0): score 21
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Surf
+
+
+[Round order] Goodra (0), the opposing Greninja (1)
+[Move usage] Goodra started using King's Shield
+Goodra used King's Shield!
+Goodra protected itself!
+[Move usage] The opposing Greninja started using Surf
+The opposing Greninja used Surf!
+Goodra protected itself!
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 8***
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -7 We have fast kill
+Set up score for Greninja (1): 0
+Set up score for Greninja (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Goodra (0): 0
+     Threat Score for Goodra (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Greninja (1) is considering using Surf (1)...
+     Greninja (1)'s highest damaging move vs Goodra: Surf
+      + 20 for fast kill
+[AI] Greninja (1) is considering using Ice Beam (1) against Goodra (0)...
+     Greninja (1)'s highest damaging move vs Goodra: Surf
+      + 20 for fast kill
+[AI] Greninja (1) is considering using Dark Pulse (1) against Goodra (0)...
+     Greninja (1)'s highest damaging move vs Goodra: Surf
+      + 20 for fast kill
+[AI] Greninja (1) is considering using U-turn (1) against Goodra (0)...
+     Greninja (1)'s highest damaging move vs Goodra: Surf
+     - 9 to prevent switching when we have a kill with another move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Greninja (1):
+   *  33.3% to use Surf: score 21
+   *  33.3% to use Ice Beam (target 0): score 21
+   *  33.3% to use Dark Pulse (target 0): score 21
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Ice Beam (target 0)
+
+
+[Round order] The opposing Greninja (1), Goodra (0)
+[Move usage] The opposing Greninja started using Ice Beam
+The opposing Greninja used Ice Beam!
+[HP change] Goodra lost 30 HP (30=>0)
+[Move damage] Goodra lost 30 HP (30=>0)
+Goodra fainted!
+[Item triggered] The opposing Greninja's Life Orb (recoil)
+[HP change] The opposing Greninja lost 15 HP (22=>7)
+The opposing Greninja lost some of its HP!
+
+[End of round]
+Trick Room Turns: 0
+Your opponent's weak! Get 'em, Froslass!
+
+***Round 9***
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -7 We have fast kill
+Set up score for Greninja (1): 0
+Set up score for Greninja (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-17) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Froslass (0): 0
+     Threat Score for Froslass (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Greninja (1) is considering using Surf (1)...
+     Greninja (1)'s highest damaging move vs Froslass: Surf
+      + 20 for fast kill
+[AI] Greninja (1) is considering using Ice Beam (1) against Froslass (0)...
+     Greninja (1)'s highest damaging move vs Froslass: Surf
+[AI] Greninja (1) is considering using Dark Pulse (1) against Froslass (0)...
+     Greninja (1)'s highest damaging move vs Froslass: Surf
+      + 20 for fast kill
+[AI] Greninja (1) is considering using U-turn (1) against Froslass (0)...
+     Greninja (1)'s highest damaging move vs Froslass: Surf
+     - 9 to prevent switching when we have a kill with another move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Greninja (1):
+   *  50.0% to use Surf: score 21
+   *   0.0% to use Ice Beam (target 0): score 0
+   *  50.0% to use Dark Pulse (target 0): score 21
+   *   0.0% to use U-turn (target 0): score 0
+   => will use Surf
+
+
+[Round order] Froslass (0), the opposing Greninja (1)
+[Move usage] Froslass started using Ice Shard
+Froslass used Ice Shard!
+[HP change] The opposing Greninja lost 7 HP (7=>0)
+[Move damage] The opposing Greninja lost 7 HP (7=>0)
+It's not very effective...
+The opposing Greninja fainted!
+Your other Pokémon also gained Exp. Points!
+
+[End of round]
+Trick Room Turns: 0
+==============================
+     [Rotom] using Thunder vs Froslass does a max of 129/152 damage
+     [Rotom] using Volt Switch vs Froslass does a max of 83/152 damage
+     [Rotom] using Leaf Storm vs Froslass does a max of 152/152 damage
+     Froslass (0)'s best move: Triple Axel for 268/72 damage
+==============================
+     Froslass (0) speed (150) vs Rotom speed: 127
+     [Rotom] -  9: for target fast kill
+     [Rotom] final Switch score: -9
+==============================
+     [Archaludon] using Polarity Pulse vs Froslass does a max of 258/152 damage
+     [Archaludon] using Electro Shot vs Froslass does a max of 117/152 damage
+     [Archaludon] using Dragon Pulse vs Froslass does a max of 116/152 damage
+     [Archaludon] using Dark Pulse vs Froslass does a max of 144/152 damage
+     Froslass (0)'s best move: Triple Axel for 112/181 damage
+==============================
+     Froslass (0) speed (150) vs Archaludon speed: 126
+     [Archaludon] +  9: for slow kill
+     [Archaludon] final Switch score: 9
+==============================
+     [Drednaw] using Liquidation vs Froslass does a max of 194/152 damage
+     [Drednaw] using Stone Edge vs Froslass does a max of 303/152 damage
+     [Drednaw] using Earthquake vs Froslass does a max of 101/152 damage
+     [Drednaw] using Ice Fang vs Froslass does a max of 50/152 damage
+     Froslass (0)'s best move: Triple Axel for 75/184 damage
+==============================
+     Froslass (0) speed (150) vs Drednaw speed: 105
+     [Drednaw] +  9: for slow kill
+     [Drednaw] final Switch score: 9
+[AI] Highest move score (5) vs Switch In Score (9)
+Sailor Jacob sent out Archaludon!
+
+***Round 10***
+
+     [Switch AI] -5 We have slow kill
+Set up score for Archaludon (1): 0
+Set up score for Archaludon (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (18)
+[AI] The AI will not try to switch.
+Set up score for Froslass (0): 0
+     Threat Score for Froslass (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Archaludon (1) is considering using Polarity Pulse (1)...
+     Archaludon (1)'s highest damaging move vs Froslass: Polarity Pulse
+      + 17 for slow kill
+[AI] Archaludon (1) is considering using Electro Shot (1) against Froslass (0)...
+     Archaludon (1)'s highest damaging move vs Froslass: Polarity Pulse
+[AI] Archaludon (1) is considering using Dragon Pulse (1) against Froslass (0)...
+     Archaludon (1)'s highest damaging move vs Froslass: Polarity Pulse
+[AI] Archaludon (1) is considering using Dark Pulse (1) against Froslass (0)...
+     Archaludon (1)'s highest damaging move vs Froslass: Polarity Pulse
+[AI] Move choices for Archaludon (1):
+   * 100.0% to use Polarity Pulse: score 18
+   *   0.0% to use Electro Shot (target 0): score 0
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   => will use Polarity Pulse
+
+
+[Round order] Froslass (0), the opposing Archaludon (1)
+[Move usage] Froslass started using Hex
+Froslass used Hex!
+[HP change] The opposing Archaludon lost 50 HP (181=>131)
+[Move damage] The opposing Archaludon lost 50 HP (181=>131)
+[Move usage] The opposing Archaludon started using Polarity Pulse
+The opposing Archaludon used Polarity Pulse!
+[HP change] Froslass lost 152 HP (152=>0)
+[Move damage] Froslass lost 152 HP (152=>0)
+It's super effective!
+Froslass fainted!
+
+[End of round]
+Trick Room Turns: 0
+Go for it, Annihilape!
+
+***Round 11***
+
+     [Switch AI] +2 Target has fast kill
+Set up score for Archaludon (1): 0
+Set up score for Archaludon (1): 0
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Annihilape (0): 0
+     Threat Score for Annihilape (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Archaludon (1) is considering using Polarity Pulse (1)...
+     Archaludon (1)'s highest damaging move vs Annihilape: Polarity Pulse
+     + 4 to prioritize highest damaging move
+[AI] Archaludon (1) is considering using Electro Shot (1) against Annihilape (0)...
+     Archaludon (1)'s highest damaging move vs Annihilape: Polarity Pulse
+[AI] Archaludon (1) is considering using Dragon Pulse (1) against Annihilape (0)...
+     Archaludon (1)'s highest damaging move vs Annihilape: Polarity Pulse
+[AI] Archaludon (1) is considering using Dark Pulse (1) against Annihilape (0)...
+     Archaludon (1)'s highest damaging move vs Annihilape: Polarity Pulse
+[AI] Move choices for Archaludon (1):
+   * 100.0% to use Polarity Pulse: score 5
+   *   0.0% to use Electro Shot (target 0): score 0
+   *   0.0% to use Dragon Pulse (target 0): score 0
+   *   0.0% to use Dark Pulse (target 0): score 0
+   => will use Polarity Pulse
+
+
+[Round order] Annihilape (0), the opposing Archaludon (1)
+[Move usage] Annihilape started using Close Combat
+Annihilape used Close Combat!
+[HP change] The opposing Archaludon lost 131 HP (131=>0)
+[Move damage] The opposing Archaludon lost 131 HP (131=>0)
+It's super effective!
+[Stat change] Annihilape's Defense: 0 -> -1 (-1)
+Annihilape's Defense fell!
+[Stat change] Annihilape's Special Defense: 0 -> -1 (-1)
+Annihilape's Special Defense fell!
+The opposing Archaludon fainted!
+Your other Pokémon also gained Exp. Points!
+
+[End of round]
+Trick Room Turns: 0
+==============================
+     [Rotom] using Thunder vs Annihilape does a max of 129/142 damage
+     [Rotom] using Volt Switch vs Annihilape does a max of 83/142 damage
+     [Rotom] using Leaf Storm vs Annihilape does a max of 152/142 damage
+     Annihilape (0)'s best move: Close Combat for 150/72 damage
+==============================
+     Annihilape (0) speed (127) vs Rotom speed: 127
+     [Rotom] +  3: for outdamage
+     [Rotom] final Switch score: 3
+==============================
+     [Drednaw] using Liquidation vs Annihilape does a max of 234/142 damage
+     [Drednaw] using Stone Edge vs Annihilape does a max of 92/142 damage
+     [Drednaw] using Earthquake vs Annihilape does a max of 122/142 damage
+     [Drednaw] using Ice Fang vs Annihilape does a max of 120/142 damage
+     Annihilape (0)'s best move: Close Combat for 339/184 damage
+==============================
+     Annihilape (0) speed (127) vs Drednaw speed: 105
+     [Drednaw] -  9: for target fast kill
+     [Drednaw] final Switch score: -9
+[AI] Highest move score (5) vs Switch In Score (3)
+Sailor Jacob sent out Rotom!
+
+***Round 12***
+
+     - 9 to prevent switching when we have a kill with another move
+     [Switch AI] -5 We have slow kill
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Annihilape (0): -2
+     Threat Score for Annihilape (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunder (1) against Annihilape (0)...
+     Rotom (1)'s highest damaging move vs Annihilape: Leaf Storm
+[AI] Rotom (1) is considering using Volt Switch (1) against Annihilape (0)...
+     Rotom (1)'s highest damaging move vs Annihilape: Leaf Storm
+     - 9 to prevent switching when we have a kill with another move
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Rotom (1) is considering using Leaf Storm (1) against Annihilape (0)...
+     Rotom (1)'s highest damaging move vs Annihilape: Leaf Storm
+     + 4 to prioritize highest damaging move
+[AI] Rotom (1) is considering using Thunder Wave (4) against Annihilape (0)...
+     Rotom (1)'s highest damaging move vs Annihilape: Leaf Storm
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+[AI] Move choices for Rotom (1):
+   *   0.0% to use Thunder (target 0): score 0
+   *   0.0% to use Volt Switch (target 0): score 0
+   * 100.0% to use Leaf Storm (target 0): score 5
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Leaf Storm (target 0)
+
+
+[Round order] The opposing Rotom (1), Annihilape (0)
+[Move usage] The opposing Rotom started using Leaf Storm
+The opposing Rotom used Leaf Storm!
+[HP change] Annihilape lost 142 HP (142=>0)
+[Move damage] Annihilape lost 142 HP (142=>0)
+[Stat change] The opposing Rotom's Special Attack: 0 -> -2 (-2)
+The opposing Rotom's Special Attack harshly fell!
+Annihilape fainted!
+The opposing Rotom returned its status to normal using its White Herb!
+[Item consumed] The opposing Rotom consumed its held White Herb
+
+[End of round]
+Trick Room Turns: 0
+Go for it, Togekiss!
+
+***Round 13***
+
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (6)
+[AI] The AI will not try to switch.
+Set up score for Togekiss (0): 0
+     Threat Score for Togekiss (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunder (1) against Togekiss (0)...
+     Rotom (1)'s highest damaging move vs Togekiss: Thunder
+     + 4 to prioritize highest damaging move
+[AI] Rotom (1) is considering using Volt Switch (1) against Togekiss (0)...
+     Rotom (1)'s highest damaging move vs Togekiss: Thunder
+[AI] Rotom (1) is considering using Leaf Storm (1) against Togekiss (0)...
+     Rotom (1)'s highest damaging move vs Togekiss: Thunder
+[AI] Rotom (1) is considering using Thunder Wave (4) against Togekiss (0)...
+     Rotom (1)'s highest damaging move vs Togekiss: Thunder
+     + 1 for being a Speed Control Role
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Rotom (1):
+   *   0.0% to use Thunder (target 0): score 0
+   *   0.0% to use Volt Switch (target 0): score 0
+   *   0.0% to use Leaf Storm (target 0): score 0
+   * 100.0% to use Thunder Wave (target 0): score 6
+   => will use Thunder Wave (target 0)
+
+
+[Round order] The opposing Rotom (1), Togekiss (0)
+[Move usage] The opposing Rotom started using Thunder Wave
+The opposing Rotom used Thunder Wave!
+Togekiss is paralyzed! It may be unable to move!
+[Move usage] Togekiss started using Air Slash
+Togekiss used Air Slash!
+[HP change] The opposing Rotom lost 65 HP (72=>7)
+[Move damage] The opposing Rotom lost 65 HP (72=>7)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 14***
+
+     move will not affect Togekiss (0)
+Set up score for Rotom (1): 0
+Set up score for Rotom (1): 0
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (10)
+[AI] The AI will not try to switch.
+Set up score for Togekiss (0): 0
+     Threat Score for Togekiss (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rotom (1) is considering using Thunder (1) against Togekiss (0)...
+     Rotom (1)'s highest damaging move vs Togekiss: Thunder
+     + 4 to prioritize highest damaging move
+[AI] Rotom (1) is considering using Volt Switch (1) against Togekiss (0)...
+     Rotom (1)'s highest damaging move vs Togekiss: Thunder
+     + 9 for switch initiative against a bad matchup
+[AI] Rotom (1) is considering using Leaf Storm (1) against Togekiss (0)...
+     Rotom (1)'s highest damaging move vs Togekiss: Thunder
+[AI] Rotom (1) is considering using Thunder Wave (4) against Togekiss (0)...
+     Rotom (1)'s highest damaging move vs Togekiss: Thunder
+     move will not affect Togekiss (0)
+     -  4: move will fail
+[AI] Move choices for Rotom (1):
+   *   0.0% to use Thunder (target 0): score 0
+   * 100.0% to use Volt Switch (target 0): score 10
+   *   0.0% to use Leaf Storm (target 0): score 0
+   *   0.0% to use Thunder Wave (target 0): score 0
+   => will use Volt Switch (target 0)
+
+
+[Round order] The opposing Rotom (1), Togekiss (0)
+[Move usage] The opposing Rotom started using Volt Switch
+The opposing Rotom used Volt Switch!
+[HP change] Togekiss lost 89 HP (184=>95)
+[Move damage] Togekiss lost 89 HP (184=>95)
+It's super effective!
+The opposing Rotom went back to Sailor Jacob!
+     - 9 to prevent switching when we have a kill with another move
+     move will not affect Togekiss (0)
+==============================
+     [Drednaw] using Liquidation vs Togekiss does a max of 117/95 damage
+     [Drednaw] using Stone Edge vs Togekiss does a max of 183/95 damage
+     [Drednaw] using Ice Fang vs Togekiss does a max of 120/95 damage
+     Togekiss (0)'s best move: Aura Sphere for 136/184 damage
+==============================
+     Togekiss (0) speed (50) vs Drednaw speed: 105
+     [Drednaw] + 12: for fast kill
+     [Drednaw] final Switch score: 12
+[AI] Highest move score (21) vs Switch In Score (12)
+Sailor Jacob sent out Drednaw!
+[Move usage] Togekiss started using Rolling Fog
+Togekiss used Rolling Fog!
+[HP change] The opposing Drednaw lost 76 HP (184=>108)
+[Move damage] The opposing Drednaw lost 76 HP (184=>108)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 15***
+
+     move will not affect Togekiss (0)
+     [Switch AI] -7 We have fast kill
+Set up score for Drednaw (1): 0
+Set up score for Drednaw (1): 0
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+[AI] Drednaw (1) will Mega Evolve
+Set up score for Togekiss (0): 0
+     Threat Score for Togekiss (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drednaw (1) is considering using Liquidation (1) against Togekiss (0)...
+     Drednaw (1)'s highest damaging move vs Togekiss: Stone Edge
+      + 20 for fast kill
+[AI] Drednaw (1) is considering using Stone Edge (1) against Togekiss (0)...
+     Drednaw (1)'s highest damaging move vs Togekiss: Stone Edge
+      + 20 for fast kill
+[AI] Drednaw (1) is considering using Earthquake (1)...
+     Drednaw (1)'s highest damaging move vs Togekiss: Stone Edge
+     move will not affect Togekiss (0)
+     -  1: move will fail
+[AI] Drednaw (1) is considering using Ice Fang (1) against Togekiss (0)...
+     Drednaw (1)'s highest damaging move vs Togekiss: Stone Edge
+      + 20 for fast kill
+[AI] Move choices for Drednaw (1):
+   *  33.3% to use Liquidation (target 0): score 21
+   *  33.3% to use Stone Edge (target 0): score 21
+   *   0.0% to use Earthquake: score 0
+   *  33.3% to use Ice Fang (target 0): score 21
+   => will use Liquidation (target 0)
+
+
+[Round order] The opposing Drednaw (1), Togekiss (0)
+The opposing Drednaw's Drednawite is reacting to Sailor Jacob's Mega Ring!
+The opposing Drednaw has Mega Evolved into Mega Drednaw!
+[Move usage] The opposing Drednaw started using Liquidation
+The opposing Drednaw used Liquidation!
+[HP change] Togekiss lost 95 HP (95=>0)
+[Move damage] Togekiss lost 95 HP (95=>0)
+Togekiss fainted!
+
+[End of round]
+Trick Room Turns: 0
+Go for it, Excadrill!
+
+***Round 16***
+
+     [Switch AI] -7 We have fast kill
+Set up score for Drednaw (1): 0
+Set up score for Drednaw (1): 0
+     [Switch AI] +5 Party member [Rotom] is immune to strongest move against Drednaw (1)
+[AI] Switch out Score (-2) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+Set up score for Excadrill (0): 0
+     Threat Score for Excadrill (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drednaw (1) is considering using Liquidation (1) against Excadrill (0)...
+     Drednaw (1)'s highest damaging move vs Excadrill: Liquidation
+      + 20 for fast kill
+[AI] Drednaw (1) is considering using Stone Edge (1) against Excadrill (0)...
+     Drednaw (1)'s highest damaging move vs Excadrill: Liquidation
+[AI] Drednaw (1) is considering using Earthquake (1)...
+     Drednaw (1)'s highest damaging move vs Excadrill: Liquidation
+[AI] Drednaw (1) is considering using Ice Fang (1) against Excadrill (0)...
+     Drednaw (1)'s highest damaging move vs Excadrill: Liquidation
+[AI] Move choices for Drednaw (1):
+   * 100.0% to use Liquidation (target 0): score 21
+   *   0.0% to use Stone Edge (target 0): score 0
+   *   0.0% to use Earthquake: score 0
+   *   0.0% to use Ice Fang (target 0): score 0
+   => will use Liquidation (target 0)
+
+
+[Round order] The opposing Drednaw (1), Excadrill (0)
+[Move usage] The opposing Drednaw started using Liquidation
+The opposing Drednaw used Liquidation!
+[HP change] Excadrill lost 210 HP (210=>0)
+[Move damage] Excadrill lost 210 HP (210=>0)
+A critical hit!
+It's super effective!
+Excadrill fainted!
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for HUNTAIL: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for CLOYSTER: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for GOREBYSS: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for STARMIE: [:SPECIALBREAKER]
+
+******************************************
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+You are challenged by Swimmer Angela and Swimmer Nash!
+Swimmer Angela sent out Gorebyss!
+Swimmer Nash sent out Huntail!
+Go! Basculegion and Annihilape!
+It is raining.
+[Round order] The opposing Huntail (3), the opposing Gorebyss (1), Annihilape (2), Basculegion (0)
+
+***Round 1***
+
+
+**Exception: undefined method `statUp' for #<Battle::Move::LowerUserDefSpDef1RaiseUserAtkSpAtkSpd2>
+[AI Backbone] 002_AI_MoveEffects_BattlerStats.rb:377:in `block in <main>'
+005_Event_Handlers.rb:138:in `trigger'
+[AI Backbone] 001_Battle_AI.rb:321:in `move_will_fail?'
+[Phantombass AI] 03_AI_Moves.rb:20:in `pbPredictMoveFailure'
+[Phantombass AI] 03_AI_Moves.rb:74:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:461:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:461:in `each'
+001_Battle_Battler.rb:461:in `each_with_index'
+001_Battle_Battler.rb:461:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:58:in `pbGetMoveScores'
+[Phantombass AI] 02_AI_Switching.rb:29:in `pbChooseToSwitchOut'
+[Phantombass AI] 01_AI_Main.rb:61:in `block in pbDefaultChooseEnemyCommand'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+[Phantombass AI] 01_AI_Main.rb:61:in `pbDefaultChooseEnemyCommand'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:597:in `block in pbCommandPhaseLoop'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:588:in `loop'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:588:in `pbCommandPhaseLoop'
+[Essentials Deluxe] Battle.rb:242:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:335:in `block (2 levels) in pbBattleLoop'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+002_Battle_StartAndEnd.rb:335:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:323:in `loop'
+002_Battle_StartAndEnd.rb:323:in `pbBattleLoop'
+[Pokemon Grueling Gold Scripts] 12_Item_Mechanics.rb:270:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:271:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:513:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:512:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:130:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:511:in `start_core'
+001_Overworld_BattleStarting.rb:473:in `start'
+(eval):1:in `execute_script'
+003_Interpreter.rb:143:in `eval'
+003_Interpreter.rb:143:in `execute_script'
+004_Interpreter_Commands.rb:428:in `command_111'
+004_Interpreter_Commands.rb:29:in `execute_command'
+003_Interpreter.rb:133:in `block in update'
+003_Interpreter.rb:90:in `loop'
+003_Interpreter.rb:90:in `update'
+[Following Pokemon EX] Refresh.rb:268:in `update'
+002_Scene_Map.rb:160:in `block in update'
+002_Scene_Map.rb:159:in `loop'
+002_Scene_Map.rb:159:in `update'
+[Pokemon Grueling Gold Scripts] 22_Unreal_Time.rb:199:in `update'
+[Following Pokemon EX] Refresh.rb:178:in `update'
+[v20.1 Hotfixes] Overworld bug fixes.rb:28:in `block in main'
+[v20.1 Hotfixes] Overworld bug fixes.rb:25:in `loop'
+[v20.1 Hotfixes] Overworld bug fixes.rb:25:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+Set up score for Basculegion (0): 0
+     Threat Score for Basculegion (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+Set up score for Annihilape (2): 0
+     Threat Score for Annihilape (2): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Annihilape (2) has been assigned No Priority flag
+     End flag assignment.
+[AI] Gorebyss (1) is considering using Hydro Pump (1) against Basculegion (0)...
+     Gorebyss (1)'s highest damaging move vs Basculegion: Hydro Pump
+     + 4 to prioritize highest damaging move
+[AI] Gorebyss (1) is considering using Hydro Pump (1) against Annihilape (2)...
+     Gorebyss (1)'s highest damaging move vs Annihilape: Hydro Pump
+     + 4 to prioritize highest damaging move
+[AI] Gorebyss (1) is considering using Blizzard (1)...
+     Gorebyss (1)'s highest damaging move vs Basculegion: Hydro Pump
+     Gorebyss (1)'s highest damaging move vs Annihilape: Hydro Pump
+     +  2: affects multiple battlers
+[AI] Gorebyss (1) is considering using Fairy's Haunt (1) against Basculegion (0)...
+     Gorebyss (1)'s highest damaging move vs Basculegion: Hydro Pump
+[AI] Gorebyss (1) is considering using Fairy's Haunt (1) against Annihilape (2)...
+     Gorebyss (1)'s highest damaging move vs Annihilape: Hydro Pump
+
+**Exception: undefined method `statUp' for #<Battle::Move::LowerUserDefSpDef1RaiseUserAtkSpAtkSpd2>
+[AI Backbone] 002_AI_MoveEffects_BattlerStats.rb:377:in `block in <main>'
+005_Event_Handlers.rb:138:in `trigger'
+[AI Backbone] 001_Battle_AI.rb:321:in `move_will_fail?'
+[Phantombass AI] 03_AI_Moves.rb:20:in `pbPredictMoveFailure'
+[Phantombass AI] 03_AI_Moves.rb:74:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:461:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:461:in `each'
+001_Battle_Battler.rb:461:in `each_with_index'
+001_Battle_Battler.rb:461:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:58:in `pbGetMoveScores'
+[Phantombass AI] 01_AI_Main.rb:82:in `pbDefaultChooseEnemyCommand'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:597:in `block in pbCommandPhaseLoop'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:588:in `loop'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:588:in `pbCommandPhaseLoop'
+[Essentials Deluxe] Battle.rb:242:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:335:in `block (2 levels) in pbBattleLoop'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+002_Battle_StartAndEnd.rb:335:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:323:in `loop'
+002_Battle_StartAndEnd.rb:323:in `pbBattleLoop'
+[Pokemon Grueling Gold Scripts] 12_Item_Mechanics.rb:270:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:271:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:513:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:512:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:130:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:511:in `start_core'
+001_Overworld_BattleStarting.rb:473:in `start'
+(eval):1:in `execute_script'
+003_Interpreter.rb:143:in `eval'
+003_Interpreter.rb:143:in `execute_script'
+004_Interpreter_Commands.rb:428:in `command_111'
+004_Interpreter_Commands.rb:29:in `execute_command'
+003_Interpreter.rb:133:in `block in update'
+003_Interpreter.rb:90:in `loop'
+003_Interpreter.rb:90:in `update'
+[Following Pokemon EX] Refresh.rb:268:in `update'
+002_Scene_Map.rb:160:in `block in update'
+002_Scene_Map.rb:159:in `loop'
+002_Scene_Map.rb:159:in `update'
+[Pokemon Grueling Gold Scripts] 22_Unreal_Time.rb:199:in `update'
+[Following Pokemon EX] Refresh.rb:178:in `update'
+[v20.1 Hotfixes] Overworld bug fixes.rb:28:in `block in main'
+[v20.1 Hotfixes] Overworld bug fixes.rb:25:in `loop'
+[v20.1 Hotfixes] Overworld bug fixes.rb:25:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for HUNTAIL: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for CLOYSTER: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for GOREBYSS: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for STARMIE: [:SPECIALBREAKER]
+
+******************************************
+[Started battle] Double trainer battle (1 trainer(s) vs. 2 trainer(s))
+You are challenged by Swimmer Angela and Swimmer Nash!
+Swimmer Angela sent out Gorebyss!
+Swimmer Nash sent out Huntail!
+Go! Basculegion and Annihilape!
+It is raining.
+[Round order] The opposing Huntail (3), the opposing Gorebyss (1), Annihilape (2), Basculegion (0)
+
+***Round 1***
+
+Set up score for Basculegion (0): 0
+     Threat Score for Basculegion (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+Set up score for Annihilape (2): 0
+     Threat Score for Annihilape (2): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Annihilape (2) has been assigned No Priority flag
+     End flag assignment.
+[AI] Gorebyss (1) is considering using Hydro Pump (1) against Basculegion (0)...
+     Gorebyss (1)'s highest damaging move vs Basculegion: Hydro Pump
+     + 4 to prioritize highest damaging move
+[AI] Gorebyss (1) is considering using Hydro Pump (1) against Annihilape (2)...
+     Gorebyss (1)'s highest damaging move vs Annihilape: Hydro Pump
+     + 4 to prioritize highest damaging move
+[AI] Gorebyss (1) is considering using Blizzard (1)...
+     Gorebyss (1)'s highest damaging move vs Basculegion: Hydro Pump
+     Gorebyss (1)'s highest damaging move vs Annihilape: Hydro Pump
+     +  2: affects multiple battlers
+[AI] Gorebyss (1) is considering using Fairy's Haunt (1) against Basculegion (0)...
+     Gorebyss (1)'s highest damaging move vs Basculegion: Hydro Pump
+[AI] Gorebyss (1) is considering using Fairy's Haunt (1) against Annihilape (2)...
+     Gorebyss (1)'s highest damaging move vs Annihilape: Hydro Pump
+[AI] Gorebyss (1) is considering using Shell Smash (4)...
+[AI] Move choices for Gorebyss (1):
+   *  50.0% to use Hydro Pump (target 0): score 5
+   *  50.0% to use Hydro Pump (target 2): score 5
+   *   0.0% to use Blizzard: score 0
+   *   0.0% to use Fairy's Haunt (target 0): score 0
+   *   0.0% to use Fairy's Haunt (target 2): score 0
+   *   0.0% to use Shell Smash: score 0
+   => will use Hydro Pump (target 0)
+
+Set up score for Basculegion (0): 0
+     Threat Score for Basculegion (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Annihilape (2): 0
+     Threat Score for Annihilape (2): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Huntail (3) is considering using Crunch (1) against Basculegion (0)...
+     Huntail (3)'s highest damaging move vs Basculegion: Crunch
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Huntail (3) is considering using Crunch (1) against Annihilape (2)...
+     Huntail (3)'s highest damaging move vs Annihilape: Gill Gash
+     + 2 to factor in threat scoring.
+[AI] Huntail (3) is considering using Gill Gash (1) against Basculegion (0)...
+     Huntail (3)'s highest damaging move vs Basculegion: Crunch
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Huntail (3) is considering using Gill Gash (1) against Annihilape (2)...
+     Huntail (3)'s highest damaging move vs Annihilape: Gill Gash
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Huntail (3) is considering using Ice Fang (1) against Basculegion (0)...
+     Huntail (3)'s highest damaging move vs Basculegion: Crunch
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Huntail (3) is considering using Ice Fang (1) against Annihilape (2)...
+     Huntail (3)'s highest damaging move vs Annihilape: Gill Gash
+     + 2 to factor in threat scoring.
+[AI] Huntail (3) is considering using Flip Turn (1) against Basculegion (0)...
+     Huntail (3)'s highest damaging move vs Basculegion: Crunch
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Huntail (3) is considering using Flip Turn (1) against Annihilape (2)...
+     Huntail (3)'s highest damaging move vs Annihilape: Gill Gash
+     + 4 for switch initiative against a bad matchup
+     + 2 to factor in threat scoring.
+[AI] Move choices for Huntail (3):
+   *   0.0% to use Crunch (target 0): score 0
+   *   0.0% to use Crunch (target 2): score 0
+   *   0.0% to use Gill Gash (target 0): score 0
+   *  50.0% to use Gill Gash (target 2): score 7
+   *   0.0% to use Ice Fang (target 0): score 0
+   *   0.0% to use Ice Fang (target 2): score 0
+   *   0.0% to use Flip Turn (target 0): score 0
+   *  50.0% to use Flip Turn (target 2): score 7
+   => will use Gill Gash (target 2)
+
+
+[Round order] The opposing Huntail (3), the opposing Gorebyss (1), Annihilape (2), Basculegion (0)
+[Move usage] The opposing Huntail started using Gill Gash
+The opposing Huntail used Gill Gash!
+[HP change] Annihilape lost 123 HP (196=>73)
+[Move damage] Annihilape lost 123 HP (196=>73)
+[Move usage] The opposing Gorebyss started using Hydro Pump
+The opposing Gorebyss used Hydro Pump!
+[Move failed] Failed pbAccuracyCheck or target is semi-invulnerable
+The opposing Gorebyss's attack missed!
+[Move usage] Annihilape started using Close Combat
+Annihilape used Close Combat!
+[HP change] The opposing Huntail lost 144 HP (144=>0)
+[Move damage] The opposing Huntail lost 144 HP (144=>0)
+It's super effective!
+[Stat change] Annihilape's Defense: 0 -> -1 (-1)
+Annihilape's Defense fell!
+[Stat change] Annihilape's Special Defense: 0 -> -1 (-1)
+Annihilape's Special Defense fell!
+The opposing Huntail fainted!
+Your other Pokémon also gained Exp. Points!
+[Move usage] Basculegion started using Spirit Shackle
+Basculegion used Spirit Shackle!
+[HP change] The opposing Gorebyss lost 92 HP (144=>52)
+[Move damage] The opposing Gorebyss lost 92 HP (144=>52)
+A critical hit!
+The opposing Gorebyss can no longer escape!
+
+[End of round]
+Trick Room Turns: 0
+     - 9 to prevent switching when we have a kill with another move
+==============================
+     [Cloyster] using Liquidation vs Basculegion does a max of 59/213 damage
+     [Cloyster] using Liquidation vs Annihilape does a max of 182/73 damage
+     [Cloyster] using Icicle Spear vs Basculegion does a max of 35/213 damage
+     [Cloyster] using Icicle Spear vs Annihilape does a max of 110/73 damage
+     [Cloyster] using Rock Blast vs Basculegion does a max of 47/213 damage
+     [Cloyster] using Rock Blast vs Annihilape does a max of 37/73 damage
+     Basculegion (0)'s best move: Wave Crash for 47/139 damage
+==============================
+     Basculegion (0) speed (109) vs Cloyster speed: 110
+     [Cloyster] + 12: for fast kill
+==============================
+     [Cloyster] using Liquidation vs Basculegion does a max of 59/213 damage
+     [Cloyster] using Liquidation vs Annihilape does a max of 182/73 damage
+     [Cloyster] using Icicle Spear vs Basculegion does a max of 35/213 damage
+     [Cloyster] using Icicle Spear vs Annihilape does a max of 110/73 damage
+     [Cloyster] using Rock Blast vs Basculegion does a max of 47/213 damage
+     [Cloyster] using Rock Blast vs Annihilape does a max of 37/73 damage
+     Basculegion (0)'s best move: Wave Crash for 47/139 damage
+==============================     Annihilape (2)'s best move: Close Combat for 189/139 damage
+==============================
+     Annihilape (2) speed (127) vs Cloyster speed: 110
+     [Cloyster] -  9: for target fast kill
+     [Cloyster] final Switch score: 3
+[AI] Highest move score (20) vs Switch In Score (3)
+Swimmer Nash sent out Cloyster!
+
+***Round 2***
+
+Set up score for Basculegion (0): 0
+     Threat Score for Basculegion (0): 2
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Annihilape (2): -2
+     Threat Score for Annihilape (2): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Gorebyss (1) is considering using Hydro Pump (1) against Basculegion (0)...
+     Gorebyss (1)'s highest damaging move vs Basculegion: Hydro Pump
+     + 2 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Gorebyss (1) is considering using Hydro Pump (1) against Annihilape (2)...
+     Gorebyss (1)'s highest damaging move vs Annihilape: Hydro Pump
+     + -3 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Gorebyss (1) is considering using Blizzard (1)...
+     Gorebyss (1)'s highest damaging move vs Basculegion: Hydro Pump
+     + 2 to factor in threat scoring.
+     Gorebyss (1)'s highest damaging move vs Annihilape: Hydro Pump
+     + -3 to factor in threat scoring.
+      + 20 for fast kill
+     +  2: affects multiple battlers
+[AI] Gorebyss (1) is considering using Fairy's Haunt (1) against Basculegion (0)...
+     Gorebyss (1)'s highest damaging move vs Basculegion: Hydro Pump
+     + 2 to factor in threat scoring.
+[AI] Gorebyss (1) is considering using Fairy's Haunt (1) against Annihilape (2)...
+     Gorebyss (1)'s highest damaging move vs Annihilape: Hydro Pump
+     + -3 to factor in threat scoring.
+      + 20 for fast kill
+[AI] Gorebyss (1) is considering using Shell Smash (4)...
+[AI] Move choices for Gorebyss (1):
+   *   0.0% to use Hydro Pump (target 0): score 0
+   *  50.0% to use Hydro Pump (target 2): score 18
+   *   0.0% to use Blizzard: score 0
+   *   0.0% to use Fairy's Haunt (target 0): score 0
+   *  50.0% to use Fairy's Haunt (target 2): score 18
+   *   0.0% to use Shell Smash: score 0
+   => will use Hydro Pump (target 2)
+
+Set up score for Basculegion (0): 0
+     Threat Score for Basculegion (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Annihilape (2): -2
+     Threat Score for Annihilape (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cloyster (3) is considering using Liquidation (1) against Basculegion (0)...
+     Cloyster (3)'s highest damaging move vs Basculegion: Liquidation
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Cloyster (3) is considering using Liquidation (1) against Annihilape (2)...
+     Cloyster (3)'s highest damaging move vs Annihilape: Liquidation
+     + 1 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Cloyster (3) is considering using Icicle Spear (1) against Basculegion (0)...
+     Cloyster (3)'s highest damaging move vs Basculegion: Liquidation
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Cloyster (3) is considering using Icicle Spear (1) against Annihilape (2)...
+     Cloyster (3)'s highest damaging move vs Annihilape: Liquidation
+     + 1 to factor in threat scoring.
+      + 17 for slow kill
+[AI] Cloyster (3) is considering using Rock Blast (1) against Basculegion (0)...
+     Cloyster (3)'s highest damaging move vs Basculegion: Liquidation
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Cloyster (3) is considering using Rock Blast (1) against Annihilape (2)...
+     Cloyster (3)'s highest damaging move vs Annihilape: Liquidation
+     + 1 to factor in threat scoring.
+[AI] Cloyster (3) is considering using Shell Smash (4)...
+[AI] Move choices for Cloyster (3):
+   *   0.0% to use Liquidation (target 0): score 0
+   *  50.0% to use Liquidation (target 2): score 19
+   *   0.0% to use Icicle Spear (target 0): score 0
+   *  50.0% to use Icicle Spear (target 2): score 19
+   *   0.0% to use Rock Blast (target 0): score 0
+   *   0.0% to use Rock Blast (target 2): score 0
+   *   0.0% to use Shell Smash: score 0
+   => will use Icicle Spear (target 2)
+
+
+[Round order] The opposing Gorebyss (1), Annihilape (2), the opposing Cloyster (3), Basculegion (0)
+OK, Annihilape! Come back!
+Just a little more! Hang in there, Goodra!
+[Move usage] The opposing Gorebyss started using Hydro Pump
+The opposing Gorebyss used Hydro Pump!
+[HP change] Goodra lost 53 HP (176=>123)
+[Move damage] Goodra lost 53 HP (176=>123)
+It's not very effective...
+[Move usage] The opposing Cloyster started using Icicle Spear
+The opposing Cloyster used Icicle Spear!
+[HP change] Goodra lost 19 HP (123=>104)
+[Move damage] Goodra lost 19 HP (123=>104)
+[HP change] Goodra lost 19 HP (104=>85)
+[Move damage] Goodra lost 19 HP (104=>85)
+Hit 2 times!
+[Move usage] Basculegion started using Spirit Shackle
+Basculegion used Spirit Shackle!
+[HP change] The opposing Gorebyss lost 52 HP (52=>0)
+[Move damage] The opposing Gorebyss lost 52 HP (52=>0)
+The opposing Gorebyss fainted!
+Your other Pokémon also gained Exp. Points!
+
+[End of round]
+Trick Room Turns: 0
+==============================
+     [Starmie] using Hydro Pump vs Basculegion does a max of 114/213 damage
+     [Starmie] using Hydro Pump vs Goodra does a max of 59/85 damage
+     [Starmie] using Blizzard vs Basculegion does a max of 38/213 damage
+     [Starmie] using Blizzard vs Goodra does a max of 39/85 damage
+     [Starmie] using Thunder vs Basculegion does a max of 203/213 damage
+     [Starmie] using Thunder vs Goodra does a max of 26/85 damage
+     [Starmie] using Psychic vs Basculegion does a max of 125/213 damage
+     [Starmie] using Psychic vs Goodra does a max of 32/85 damage
+     Basculegion (0)'s best move: Spirit Shackle for 159/150 damage
+==============================
+     Basculegion (0) speed (109) vs Starmie speed: 166
+     [Starmie] +  5: for fast outdamage
+==============================
+     [Starmie] using Hydro Pump vs Basculegion does a max of 114/213 damage
+     [Starmie] using Hydro Pump vs Goodra does a max of 59/85 damage
+     [Starmie] using Blizzard vs Basculegion does a max of 38/213 damage
+     [Starmie] using Blizzard vs Goodra does a max of 39/85 damage
+     [Starmie] using Thunder vs Basculegion does a max of 203/213 damage
+     [Starmie] using Thunder vs Goodra does a max of 26/85 damage
+     [Starmie] using Psychic vs Basculegion does a max of 125/213 damage
+     [Starmie] using Psychic vs Goodra does a max of 32/85 damage
+     Basculegion (0)'s best move: Spirit Shackle for 159/150 damage
+==============================     Goodra (2)'s best move: Dragon Pulse for 89/150 damage
+==============================
+     Goodra (2) speed (82) vs Starmie speed: 166
+     [Starmie] +  6: for fast 2HKO
+     [Starmie] final Switch score: 11
+[AI] Highest move score (7) vs Switch In Score (11)
+Swimmer Angela sent out Starmie!
+[Ability triggered] The opposing Starmie's Illuminate
+[Stat change] The opposing Starmie's accuracy: 0 -> 1 (+1)
+The opposing Starmie's accuracy rose!
+
+***Round 3***
+
+Set up score for Basculegion (0): 0
+     Threat Score for Basculegion (0): 0
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Goodra (2): 0
+     Threat Score for Goodra (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Starmie (1) is considering using Hydro Pump (1) against Basculegion (0)...
+     Starmie (1)'s highest damaging move vs Basculegion: Thunder
+     + 0 to factor in threat scoring.
+[AI] Starmie (1) is considering using Hydro Pump (1) against Goodra (2)...
+     Starmie (1)'s highest damaging move vs Goodra: Hydro Pump
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Starmie (1) is considering using Blizzard (1)...
+     Starmie (1)'s highest damaging move vs Basculegion: Thunder
+     + 0 to factor in threat scoring.
+     Starmie (1)'s highest damaging move vs Goodra: Hydro Pump
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+     +  2: affects multiple battlers
+[AI] Starmie (1) is considering using Thunder (1) against Basculegion (0)...
+     Starmie (1)'s highest damaging move vs Basculegion: Thunder
+     + 0 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Starmie (1) is considering using Thunder (1) against Goodra (2)...
+     Starmie (1)'s highest damaging move vs Goodra: Hydro Pump
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Starmie (1) is considering using Psychic (1) against Basculegion (0)...
+     Starmie (1)'s highest damaging move vs Basculegion: Thunder
+     + 0 to factor in threat scoring.
+[AI] Starmie (1) is considering using Psychic (1) against Goodra (2)...
+     Starmie (1)'s highest damaging move vs Goodra: Hydro Pump
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Starmie (1):
+   *   0.0% to use Hydro Pump (target 0): score 0
+   *   0.0% to use Hydro Pump (target 2): score 0
+   *   0.0% to use Blizzard: score 0
+   * 100.0% to use Thunder (target 0): score 5
+   *   0.0% to use Thunder (target 2): score 0
+   *   0.0% to use Psychic (target 0): score 0
+   *   0.0% to use Psychic (target 2): score 0
+   => will use Thunder (target 0)
+
+Set up score for Basculegion (0): 0
+     Threat Score for Basculegion (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Goodra (2): 0
+     Threat Score for Goodra (2): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Cloyster (3) is considering using Liquidation (1) against Basculegion (0)...
+     Cloyster (3)'s highest damaging move vs Basculegion: Liquidation
+     + 4 to prioritize highest damaging move
+[AI] Cloyster (3) is considering using Liquidation (1) against Goodra (2)...
+     Cloyster (3)'s highest damaging move vs Goodra: Icicle Spear
+[AI] Cloyster (3) is considering using Icicle Spear (1) against Basculegion (0)...
+     Cloyster (3)'s highest damaging move vs Basculegion: Liquidation
+[AI] Cloyster (3) is considering using Icicle Spear (1) against Goodra (2)...
+     Cloyster (3)'s highest damaging move vs Goodra: Icicle Spear
+     + 4 to prioritize highest damaging move
+[AI] Cloyster (3) is considering using Rock Blast (1) against Basculegion (0)...
+     Cloyster (3)'s highest damaging move vs Basculegion: Liquidation
+[AI] Cloyster (3) is considering using Rock Blast (1) against Goodra (2)...
+     Cloyster (3)'s highest damaging move vs Goodra: Icicle Spear
+[AI] Cloyster (3) is considering using Shell Smash (4)...
+[AI] Move choices for Cloyster (3):
+   *  50.0% to use Liquidation (target 0): score 5
+   *   0.0% to use Liquidation (target 2): score 0
+   *   0.0% to use Icicle Spear (target 0): score 0
+   *  50.0% to use Icicle Spear (target 2): score 5
+   *   0.0% to use Rock Blast (target 0): score 0
+   *   0.0% to use Rock Blast (target 2): score 0
+   *   0.0% to use Shell Smash: score 0
+   => will use Liquidation (target 0)
+
+
+[Round order] Goodra (2), the opposing Starmie (1), the opposing Cloyster (3), Basculegion (0)
+[Move usage] Goodra started using King's Shield
+Goodra used King's Shield!
+Goodra protected itself!
+[Move usage] The opposing Starmie started using Thunder
+The opposing Starmie used Thunder!
+[HP change] Basculegion lost 193 HP (213=>20)
+[Move damage] Basculegion lost 193 HP (213=>20)
+It's super effective!
+[Item triggered] The opposing Starmie's Life Orb (recoil)
+[HP change] The opposing Starmie lost 15 HP (150=>135)
+The opposing Starmie lost some of its HP!
+[Move usage] The opposing Cloyster started using Liquidation
+The opposing Cloyster used Liquidation!
+[HP change] Basculegion lost 20 HP (20=>0)
+[Move damage] Basculegion lost 20 HP (20=>0)
+It's not very effective...
+Basculegion fainted!
+
+[End of round]
+Trick Room Turns: 0
