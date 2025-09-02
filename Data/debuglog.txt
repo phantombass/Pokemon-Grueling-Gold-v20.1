@@ -9286,3 +9286,4701 @@ Basculegion fainted!
 
 [End of round]
 Trick Room Turns: 0
+Will: Single battles
+Koga: Single battles
+Bruno: Double battles
+Karen: Double battles
+Clearing randomizer options...
+Clearing restrictions...
+Clearing randomizer options...
+Clearing restrictions...
+
+******************************************
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+Oh! A wild Ledyba appeared!
+Go! Fuecoco!
+[Round order] Fuecoco (0), the wild Ledyba (1)
+
+***Round 1***
+
+You got away safely!
+Roles for ZUBAT: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rival Silver!
+Rival Silver sent out Zubat!
+Go! Fuecoco!
+[Round order] Fuecoco (0), the opposing Zubat (1)
+
+***Round 1***
+
+Set up score for Fuecoco (0): 0
+     Threat Score for Fuecoco (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Fuecoco (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Zubat (1) is considering using Bite (1) against Fuecoco (0)...
+     Zubat (1)'s highest damaging move vs Fuecoco: Bite
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Zubat (1):
+   * 100.0% to use Bite (target 0): score 5
+   => will use Bite (target 0)
+
+
+[Round order] Fuecoco (0), the opposing Zubat (1)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Zubat lost 29 HP (31=>2)
+[Move damage] The opposing Zubat lost 29 HP (31=>2)
+[Move usage] The opposing Zubat started using Bite
+The opposing Zubat used Bite!
+[HP change] Fuecoco lost 6 HP (49=>43)
+[Move damage] Fuecoco lost 6 HP (49=>43)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 2***
+
+Roles for ZUBAT: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rival Silver!
+Rival Silver sent out Zubat!
+Go! Fuecoco!
+[Round order] Fuecoco (0), the opposing Zubat (1)
+
+***Round 1***
+
+Set up score for Fuecoco (0): 0
+     Threat Score for Fuecoco (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Fuecoco (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Zubat (1) is considering using Bite (1) against Fuecoco (0)...
+     Zubat (1)'s highest damaging move vs Fuecoco: Bite
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Zubat (1):
+   * 100.0% to use Bite (target 0): score 5
+   => will use Bite (target 0)
+
+
+[Round order] Fuecoco (0), the opposing Zubat (1)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Zubat lost 29 HP (31=>2)
+[Move damage] The opposing Zubat lost 29 HP (31=>2)
+[Move usage] The opposing Zubat started using Bite
+The opposing Zubat used Bite!
+[HP change] Fuecoco lost 5 HP (49=>44)
+[Move damage] Fuecoco lost 5 HP (49=>44)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 2***
+
+Roles for ZUBAT: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rival Silver!
+Rival Silver sent out Zubat!
+Go! Fuecoco!
+[Round order] Fuecoco (0), the opposing Zubat (1)
+
+***Round 1***
+
+Set up score for Fuecoco (0): 0
+     Threat Score for Fuecoco (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Fuecoco (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Zubat (1) is considering using Bite (1) against Fuecoco (0)...
+     Zubat (1)'s highest damaging move vs Fuecoco: Bite
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Zubat (1):
+   * 100.0% to use Bite (target 0): score 5
+   => will use Bite (target 0)
+
+
+[Round order] Fuecoco (0), the opposing Zubat (1)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Zubat lost 29 HP (31=>2)
+[Move damage] The opposing Zubat lost 29 HP (31=>2)
+[Move usage] The opposing Zubat started using Bite
+The opposing Zubat used Bite!
+[HP change] Fuecoco lost 5 HP (49=>44)
+[Move damage] Fuecoco lost 5 HP (49=>44)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 2***
+
+Roles for ZUBAT: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rival Silver!
+Rival Silver sent out Zubat!
+Go! Fuecoco!
+[Round order] Fuecoco (0), the opposing Zubat (1)
+
+***Round 1***
+
+Roles for ZUBAT: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rival Silver!
+Rival Silver sent out Zubat!
+Go! Fuecoco!
+[Round order] Fuecoco (0), the opposing Zubat (1)
+
+***Round 1***
+
+Roles for ZUBAT: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rival Silver!
+Rival Silver sent out Zubat!
+Go! Fuecoco!
+[Round order] Fuecoco (0), the opposing Zubat (1)
+
+***Round 1***
+
+Roles for ZUBAT: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rival Silver!
+Rival Silver sent out Zubat!
+Go! Fuecoco!
+[Round order] Fuecoco (0), the opposing Zubat (1)
+
+***Round 1***
+
+Roles for ZUBAT: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rival Silver!
+Rival Silver sent out Zubat!
+Go! Fuecoco!
+[Round order] Fuecoco (0), the opposing Zubat (1)
+
+***Round 1***
+
+Set up score for Fuecoco (0): 0
+     Threat Score for Fuecoco (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Fuecoco (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Zubat (1) is considering using Bite (1) against Fuecoco (0)...
+     Zubat (1)'s highest damaging move vs Fuecoco: Bite
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Zubat (1):
+   * 100.0% to use Bite (target 0): score 5
+   => will use Bite (target 0)
+
+
+[Round order] Fuecoco (0), the opposing Zubat (1)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Zubat lost 28 HP (31=>3)
+[Move damage] The opposing Zubat lost 28 HP (31=>3)
+[Move usage] The opposing Zubat started using Bite
+The opposing Zubat used Bite!
+[HP change] Fuecoco lost 6 HP (49=>43)
+[Move damage] Fuecoco lost 6 HP (49=>43)
+[Ability triggered] The opposing Zubat's Vampiric
+[HP change] The opposing Zubat gained 3 HP (3=>6)
+The opposing Zubat sapped some HP.
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 2***
+
+Set up score for Fuecoco (0): 0
+     Threat Score for Fuecoco (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Zubat (1) is considering using Bite (1) against Fuecoco (0)...
+     Zubat (1)'s highest damaging move vs Fuecoco: Bite
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Zubat (1):
+   * 100.0% to use Bite (target 0): score 5
+   => will use Bite (target 0)
+
+
+[Round order] Fuecoco (0), the opposing Zubat (1)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Zubat lost 6 HP (6=>0)
+[Move damage] The opposing Zubat lost 6 HP (6=>0)
+The opposing Zubat fainted!
+Fuecoco got 1 Exp. Points!
+
+***Player won***
+You defeated Rival Silver!
+Ugh.
+You got $160 for winning!
+Will: Single battles
+Koga: Double battles
+Bruno: Single battles
+Karen: Double battles
+Clearing randomizer options...
+Clearing restrictions...
+Clearing randomizer options...
+Restricting abilities...
+Restricting moves...
+Will: Single battles
+Koga: Double battles
+Bruno: Double battles
+Karen: Single battles
+
+******************************************
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+Oh! A wild Lechonk appeared!
+Go! Fuecoco!
+[Round order] Fuecoco (0), the wild Lechonk (1)
+
+***Round 1***
+
+You got away safely!
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for ZIGZAGOON: [:NONE]
+Roles for TAILLOW: [:NONE]
+Roles for RATTATA: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Joey!
+Youngster Joey sent out Zigzagoon!
+Go! Fuecoco!
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+
+***Round 1***
+
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for ZIGZAGOON: [:NONE]
+Roles for TAILLOW: [:NONE]
+Roles for RATTATA: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Joey!
+Youngster Joey sent out Zigzagoon!
+Go! Fuecoco!
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+
+***Round 1***
+
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for ZIGZAGOON: [:NONE]
+Roles for TAILLOW: [:NONE]
+Roles for RATTATA: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Joey!
+Youngster Joey sent out Zigzagoon!
+Go! Fuecoco!
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+
+***Round 1***
+
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for ZIGZAGOON: [:NONE]
+Roles for TAILLOW: [:NONE]
+Roles for RATTATA: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Joey!
+Youngster Joey sent out Zigzagoon!
+Go! Fuecoco!
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+
+***Round 1***
+
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for ZIGZAGOON: [:NONE]
+Roles for TAILLOW: [:NONE]
+Roles for RATTATA: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Joey!
+Youngster Joey sent out Zigzagoon!
+Go! Fuecoco!
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+
+***Round 1***
+
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for ZIGZAGOON: [:NONE]
+Roles for TAILLOW: [:NONE]
+Roles for RATTATA: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Joey!
+Youngster Joey sent out Zigzagoon!
+Go! Fuecoco!
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+
+***Round 1***
+
+Set up score for Zigzagoon (1): 0
+Set up score for Zigzagoon (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Fuecoco (0): 0
+     Threat Score for Fuecoco (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Fuecoco (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Zigzagoon (1) is considering using Tackle (1) against Fuecoco (0)...
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+[AI] Zigzagoon (1) is considering using Bite (1) against Fuecoco (0)...
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     + 4 to prioritize highest damaging move
+[AI] Zigzagoon (1) is considering using Swagger (4) against Fuecoco (0)...
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     - 3 because this will be pointless
+[AI] Move choices for Zigzagoon (1):
+   *   0.0% to use Tackle (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Swagger (target 0): score 0
+   => will use Bite (target 0)
+
+
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+[Move usage] The opposing Zigzagoon started using Bite
+The opposing Zigzagoon used Bite!
+[HP change] Fuecoco lost 5 HP (49=>44)
+[Move damage] Fuecoco lost 5 HP (49=>44)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Zigzagoon lost 24 HP (24=>0)
+[Move damage] The opposing Zigzagoon lost 24 HP (24=>0)
+The opposing Zigzagoon's Oran Berry was incinerated!
+The opposing Zigzagoon fainted!
+Fuecoco got 1 Exp. Points!
+
+[End of round]
+Trick Room Turns: 0
+==============================
+     [Taillow] using Peck vs Fuecoco does a max of 1/44 damage
+     [Taillow] using Quick Attack vs Fuecoco does a max of 1/44 damage
+     Fuecoco (0)'s best move: Incinerate for 36/26 damage
+==============================
+     Fuecoco (0) speed (15) vs Taillow speed: 23
+     [Taillow] -  7: for target slow kill
+     [Taillow] final Switch score: -7
+==============================
+     [Rattata] using Quick Attack vs Fuecoco does a max of 1/44 damage
+     [Rattata] using Bite vs Fuecoco does a max of 1/44 damage
+     Fuecoco (0)'s best move: Incinerate for 4/25 damage
+==============================
+     Fuecoco (0) speed (15) vs Rattata speed: 20
+     [Rattata] final Switch score: 0
+[AI] Highest move score (5) vs Switch In Score (0)
+Youngster Joey sent out Rattata!
+
+***Round 2***
+
+Set up score for Rattata (1): 0
+Set up score for Rattata (1): 0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+Set up score for Fuecoco (0): 0
+     Threat Score for Fuecoco (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rattata (1) is considering using Quick Attack (1) against Fuecoco (0)...
+     Rattata (1)'s highest damaging move vs Fuecoco: Bite
+[AI] Rattata (1) is considering using Bite (1) against Fuecoco (0)...
+     Rattata (1)'s highest damaging move vs Fuecoco: Bite
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Rattata (1):
+   *   0.0% to use Quick Attack (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   => will use Bite (target 0)
+
+
+[Round order] The opposing Rattata (1), Fuecoco (0)
+[Move usage] The opposing Rattata started using Bite
+The opposing Rattata used Bite!
+[HP change] Fuecoco lost 5 HP (44=>39)
+[Move damage] Fuecoco lost 5 HP (44=>39)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Rattata lost 25 HP (25=>0)
+[Move damage] The opposing Rattata lost 25 HP (25=>0)
+The opposing Rattata's Oran Berry was incinerated!
+The opposing Rattata fainted!
+
+[End of round]
+Trick Room Turns: 0
+==============================
+     [Taillow] using Peck vs Fuecoco does a max of 1/39 damage
+     [Taillow] using Quick Attack vs Fuecoco does a max of 1/39 damage
+     Fuecoco (0)'s best move: Incinerate for 36/26 damage
+==============================
+     Fuecoco (0) speed (15) vs Taillow speed: 23
+     [Taillow] -  7: for target slow kill
+     [Taillow] final Switch score: -7
+[AI] Highest move score (10) vs Switch In Score (-7)
+Youngster Joey sent out Taillow!
+[Ability triggered] The opposing Taillow's Keen Eye
+The opposing Taillow is getting pumped!
+
+***Round 3***
+
+Set up score for Fuecoco (0): 0
+     Threat Score for Fuecoco (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Taillow (1) is considering using Peck (1) against Fuecoco (0)...
+     Taillow (1)'s highest damaging move vs Fuecoco: Quick Attack
+[AI] Taillow (1) is considering using Quick Attack (1) against Fuecoco (0)...
+     Taillow (1)'s highest damaging move vs Fuecoco: Quick Attack
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Taillow (1):
+   *   0.0% to use Peck (target 0): score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   => will use Quick Attack (target 0)
+
+
+[Round order] The opposing Taillow (1), Fuecoco (0)
+[Move usage] The opposing Taillow started using Quick Attack
+The opposing Taillow used Quick Attack!
+[HP change] Fuecoco lost 9 HP (39=>30)
+[Move damage] Fuecoco lost 9 HP (39=>30)
+A critical hit!
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Taillow lost 26 HP (26=>0)
+[Move damage] The opposing Taillow lost 26 HP (26=>0)
+A critical hit!
+The opposing Taillow's Oran Berry was incinerated!
+The opposing Taillow fainted!
+
+***Player won***
+You defeated Youngster Joey!
+Wow. You're great!
+You got $128 for winning!
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for ZIGZAGOON: [:NONE]
+Roles for TAILLOW: [:NONE]
+Roles for RATTATA: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Joey!
+Youngster Joey sent out Zigzagoon!
+Go! Fuecoco!
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+
+***Round 1***
+
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Fuecoco (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Fuecoco (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Zigzagoon (1) is considering using Tackle (1) against Fuecoco (0)...
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+[AI] Zigzagoon (1) is considering using Bite (1) against Fuecoco (0)...
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     + 4 to prioritize highest damaging move
+[AI] Zigzagoon (1) is considering using Swagger (4) against Fuecoco (0)...
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     - 3 because this will be pointless
+[AI] Move choices for Zigzagoon (1):
+   *   0.0% to use Tackle (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Swagger (target 0): score 0
+   => will use Bite (target 0)
+
+
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+[Move usage] The opposing Zigzagoon started using Bite
+The opposing Zigzagoon used Bite!
+[HP change] Fuecoco lost 4 HP (49=>45)
+[Move damage] Fuecoco lost 4 HP (49=>45)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco flinched and couldn't move!
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 2***
+
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Fuecoco (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Zigzagoon (1) is considering using Tackle (1) against Fuecoco (0)...
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+[AI] Zigzagoon (1) is considering using Bite (1) against Fuecoco (0)...
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     + 4 to prioritize highest damaging move
+[AI] Zigzagoon (1) is considering using Swagger (4) against Fuecoco (0)...
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     - 3 because this will be pointless
+[AI] Move choices for Zigzagoon (1):
+   *   0.0% to use Tackle (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Swagger (target 0): score 0
+   => will use Bite (target 0)
+
+
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+[Move usage] The opposing Zigzagoon started using Bite
+The opposing Zigzagoon used Bite!
+[HP change] Fuecoco lost 4 HP (45=>41)
+[Move damage] Fuecoco lost 4 HP (45=>41)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Zigzagoon lost 24 HP (24=>0)
+[Move damage] The opposing Zigzagoon lost 24 HP (24=>0)
+The opposing Zigzagoon's Oran Berry was incinerated!
+The opposing Zigzagoon fainted!
+Fuecoco got 1 Exp. Points!
+
+[End of round]
+Trick Room Turns: 0
+     -> Fuecoco (0)'s damage with Round vs Taillow: 24/26
+     -> Fuecoco (0)'s damage with Bite vs Taillow: 20/26
+     -> Fuecoco (0)'s damage with Ember vs Taillow: 24/26
+     -> Fuecoco (0)'s damage with Incinerate vs Taillow: 36/26
+==============================
+     [Taillow] using Peck vs Fuecoco does a max of 1/41 damage
+     [Taillow] using Quick Attack vs Fuecoco does a max of 1/41 damage
+     Fuecoco (0)'s best move: Incinerate for 36/26 damage
+==============================
+     Fuecoco (0) speed (15) vs Taillow speed: 23
+     [Taillow] -  7: for target slow kill
+     [Taillow] final Switch score: -7
+     -> Fuecoco (0)'s damage with Round vs Rattata: 3/25
+     -> Fuecoco (0)'s damage with Bite vs Rattata: 2/25
+     -> Fuecoco (0)'s damage with Ember vs Rattata: 3/25
+     -> Fuecoco (0)'s damage with Incinerate vs Rattata: 4/25
+==============================
+     [Rattata] using Quick Attack vs Fuecoco does a max of 1/41 damage
+     [Rattata] using Bite vs Fuecoco does a max of 1/41 damage
+     Fuecoco (0)'s best move: Incinerate for 4/25 damage
+==============================
+     Fuecoco (0) speed (15) vs Rattata speed: 20
+     [Rattata] final Switch score: 0
+[AI] Highest move score (5) vs Switch In Score (0)
+Youngster Joey sent out Rattata!
+
+***Round 3***
+
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for ZIGZAGOON: [:NONE]
+Roles for TAILLOW: [:NONE]
+Roles for RATTATA: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Joey!
+Youngster Joey sent out Zigzagoon!
+Go! Fuecoco!
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+
+***Round 1***
+
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.17625
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.174375
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.159375
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.159375
+     ==> Damage: 1 / 24
+     Stats for calcing Fuecoco's Round against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 0.97
+     ==> Damage: 23 / 49
+     Stats for calcing Fuecoco's Bite against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 23
+     ==> Def: 12
+     ==> Typemod: 32.0
+     ==> Final Damage Mult: 0.49
+     ==> Damage: 10 / 49
+     Stats for calcing Fuecoco's Ember against Zigzagoon:
+     ==> Base damage: 40
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 1.5
+     ==> Damage: 24 / 49
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.17250000000000001
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.165
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.16875
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.16125
+     ==> Damage: 1 / 24
+     Stats for calcing Fuecoco's Round against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 1.0
+     ==> Damage: 24 / 49
+     Stats for calcing Fuecoco's Round against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 0.85
+     ==> Damage: 20 / 49
+     Stats for calcing Fuecoco's Bite against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 23
+     ==> Def: 12
+     ==> Typemod: 32.0
+     ==> Final Damage Mult: 0.485
+     ==> Damage: 10 / 49
+     Stats for calcing Fuecoco's Ember against Zigzagoon:
+     ==> Base damage: 40
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 1.44
+     ==> Damage: 23 / 49
+     Stats for calcing Fuecoco's Incinerate against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 1.4249999999999998
+     ==> Damage: 34 / 49
+     Stats for calcing Fuecoco's Round against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 0.93
+     ==> Damage: 22 / 49
+     Stats for calcing Fuecoco's Bite against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 23
+     ==> Def: 12
+     ==> Typemod: 32.0
+     ==> Final Damage Mult: 0.46
+     ==> Damage: 9 / 49
+     Stats for calcing Fuecoco's Ember against Zigzagoon:
+     ==> Base damage: 40
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 1.32
+     ==> Damage: 21 / 49
+     Stats for calcing Fuecoco's Incinerate against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 1.47
+     ==> Damage: 35 / 49
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.18
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.163125
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.159375
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.165
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.1875
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.170625
+     ==> Damage: 1 / 24
+     Stats for calcing Fuecoco's Round against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 0.88
+     ==> Damage: 21 / 49
+     Stats for calcing Fuecoco's Bite against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 23
+     ==> Def: 12
+     ==> Typemod: 32.0
+     ==> Final Damage Mult: 0.44
+     ==> Damage: 9 / 49
+     Stats for calcing Fuecoco's Ember against Zigzagoon:
+     ==> Base damage: 40
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 1.4849999999999999
+     ==> Damage: 24 / 49
+     Stats for calcing Fuecoco's Round against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 0.86
+     ==> Damage: 21 / 49
+     Stats for calcing Fuecoco's Bite against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 23
+     ==> Def: 12
+     ==> Typemod: 32.0
+     ==> Final Damage Mult: 0.445
+     ==> Damage: 9 / 49
+     Stats for calcing Fuecoco's Ember against Zigzagoon:
+     ==> Base damage: 40
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 1.395
+     ==> Damage: 22 / 49
+     Stats for calcing Fuecoco's Incinerate against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 1.455
+     ==> Damage: 35 / 49
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.18375
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.170625
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.17625
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.165
+     ==> Damage: 1 / 24
+     Stats for calcing Fuecoco's Round against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 0.87
+     ==> Damage: 21 / 49
+     Stats for calcing Fuecoco's Bite against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 23
+     ==> Def: 12
+     ==> Typemod: 32.0
+     ==> Final Damage Mult: 0.47
+     ==> Damage: 9 / 49
+     Stats for calcing Fuecoco's Ember against Zigzagoon:
+     ==> Base damage: 40
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 1.4849999999999999
+     ==> Damage: 24 / 49
+     Stats for calcing Fuecoco's Round against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 0.91
+     ==> Damage: 22 / 49
+     Stats for calcing Fuecoco's Bite against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 23
+     ==> Def: 12
+     ==> Typemod: 32.0
+     ==> Final Damage Mult: 0.48
+     ==> Damage: 10 / 49
+     Stats for calcing Fuecoco's Ember against Zigzagoon:
+     ==> Base damage: 40
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 1.47
+     ==> Damage: 24 / 49
+     Stats for calcing Fuecoco's Round against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 0.96
+     ==> Damage: 23 / 49
+     Stats for calcing Fuecoco's Bite against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 23
+     ==> Def: 12
+     ==> Typemod: 32.0
+     ==> Final Damage Mult: 0.5
+     ==> Damage: 10 / 49
+     Stats for calcing Fuecoco's Ember against Zigzagoon:
+     ==> Base damage: 40
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 1.41
+     ==> Damage: 23 / 49
+     Stats for calcing Fuecoco's Incinerate against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 1.305
+     ==> Damage: 31 / 49
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.181875
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.16875
+     ==> Damage: 1 / 24
+     Stats for calcing Fuecoco's Round against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 1.0
+     ==> Damage: 24 / 49
+     Threat Score for Fuecoco (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Fuecoco (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Zigzagoon (1) is considering using Tackle (1) against Fuecoco (0)...
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.17625
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.17625
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.17250000000000001
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.17625
+     ==> Damage: 1 / 24
+     Stats for calcing Fuecoco's Round against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 0.92
+     ==> Damage: 22 / 49
+     Stats for calcing Fuecoco's Bite against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 23
+     ==> Def: 12
+     ==> Typemod: 32.0
+     ==> Final Damage Mult: 0.47
+     ==> Damage: 9 / 49
+     Stats for calcing Fuecoco's Ember against Zigzagoon:
+     ==> Base damage: 40
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 1.44
+     ==> Damage: 23 / 49
+     Stats for calcing Fuecoco's Incinerate against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 1.35
+     ==> Damage: 32 / 49
+[AI] Zigzagoon (1) is considering using Bite (1) against Fuecoco (0)...
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.174375
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.159375
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.18
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.159375
+     ==> Damage: 1 / 24
+     Stats for calcing Fuecoco's Round against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 0.86
+     ==> Damage: 21 / 49
+     Stats for calcing Fuecoco's Bite against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 23
+     ==> Def: 12
+     ==> Typemod: 32.0
+     ==> Final Damage Mult: 0.5
+     ==> Damage: 10 / 49
+     Stats for calcing Fuecoco's Ember against Zigzagoon:
+     ==> Base damage: 40
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 1.4249999999999998
+     ==> Damage: 23 / 49
+     Stats for calcing Fuecoco's Incinerate against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 1.275
+     ==> Damage: 31 / 49
+     + 4 to prioritize highest damaging move
+[AI] Zigzagoon (1) is considering using Swagger (4) against Fuecoco (0)...
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     Stats for calcing Fuecoco's Round against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 0.93
+     ==> Damage: 22 / 49
+     Stats for calcing Fuecoco's Bite against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 23
+     ==> Def: 12
+     ==> Typemod: 32.0
+     ==> Final Damage Mult: 0.47
+     ==> Damage: 9 / 49
+     Stats for calcing Fuecoco's Ember against Zigzagoon:
+     ==> Base damage: 40
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 1.41
+     ==> Damage: 23 / 49
+     Stats for calcing Fuecoco's Incinerate against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 1.395
+     ==> Damage: 33 / 49
+     Stats for calcing Fuecoco's Round against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 0.88
+     ==> Damage: 21 / 49
+     Stats for calcing Fuecoco's Bite against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 23
+     ==> Def: 12
+     ==> Typemod: 32.0
+     ==> Final Damage Mult: 0.455
+     ==> Damage: 9 / 49
+     Stats for calcing Fuecoco's Ember against Zigzagoon:
+     ==> Base damage: 40
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 1.4249999999999998
+     ==> Damage: 23 / 49
+     Stats for calcing Fuecoco's Incinerate against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 1.4249999999999998
+     ==> Damage: 34 / 49
+     - 3 because this will be pointless
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.1875
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.163125
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.170625
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.170625
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.174375
+     ==> Damage: 1 / 24
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.16875
+     ==> Damage: 1 / 24
+     Stats for calcing Fuecoco's Round against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 0.96
+     ==> Damage: 23 / 49
+     Stats for calcing Fuecoco's Bite against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 23
+     ==> Def: 12
+     ==> Typemod: 32.0
+     ==> Final Damage Mult: 0.495
+     ==> Damage: 10 / 49
+     Stats for calcing Fuecoco's Ember against Zigzagoon:
+     ==> Base damage: 40
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 1.365
+     ==> Damage: 22 / 49
+     Stats for calcing Fuecoco's Incinerate against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 1.395
+     ==> Damage: 33 / 49
+[AI] Move choices for Zigzagoon (1):
+   *   0.0% to use Tackle (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Swagger (target 0): score 0
+   => will use Bite (target 0)
+
+
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+[Move usage] The opposing Zigzagoon started using Bite
+The opposing Zigzagoon used Bite!
+[HP change] Fuecoco lost 4 HP (49=>45)
+[Move damage] Fuecoco lost 4 HP (49=>45)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Zigzagoon lost 24 HP (24=>0)
+[Move damage] The opposing Zigzagoon lost 24 HP (24=>0)
+The opposing Zigzagoon's Oran Berry was incinerated!
+The opposing Zigzagoon fainted!
+Fuecoco got 1 Exp. Points!
+
+[End of round]
+Trick Room Turns: 0
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.163125
+     ==> Damage: 1 / 0
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.18375
+     ==> Damage: 1 / 0
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.166875
+     ==> Damage: 1 / 0
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.174375
+     ==> Damage: 1 / 0
+     Stats for calcing Fuecoco's Round against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 0.99
+     ==> Damage: 24 / 45
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.16875
+     ==> Damage: 1 / 0
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.159375
+     ==> Damage: 1 / 0
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.16125
+     ==> Damage: 1 / 0
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.174375
+     ==> Damage: 1 / 0
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.18375
+     ==> Damage: 1 / 0
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.170625
+     ==> Damage: 1 / 0
+     Stats for calcing Fuecoco's Round against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 0.88
+     ==> Damage: 21 / 45
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.1875
+     ==> Damage: 1 / 0
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.17812499999999998
+     ==> Damage: 1 / 0
+     Stats for calcing Fuecoco's Round against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 0.96
+     ==> Damage: 23 / 45
+     Stats for calcing Fuecoco's Round against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 0.93
+     ==> Damage: 22 / 45
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.163125
+     ==> Damage: 1 / 0
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.166875
+     ==> Damage: 1 / 0
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.18375
+     ==> Damage: 1 / 0
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.163125
+     ==> Damage: 1 / 0
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.18
+     ==> Damage: 1 / 0
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.18375
+     ==> Damage: 1 / 0
+     Stats for calcing Fuecoco's Round against Zigzagoon:
+     ==> Base damage: 60
+     ==> Atk: 28
+     ==> Def: 12
+     ==> Typemod: 64.0
+     ==> Final Damage Mult: 0.94
+     ==> Damage: 23 / 45
+     Stats for calcing Zigzagoon's Tackle against Fuecoco:
+     ==> Base damage: 40
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.174375
+     ==> Damage: 1 / 0
+     Stats for calcing Zigzagoon's Bite against Fuecoco:
+     ==> Base damage: 60
+     ==> Atk: 11
+     ==> Def: 28
+     ==> Typemod: 8.0
+     ==> Final Damage Mult: 0.170625
+     ==> Damage: 1 / 0
+==============================
+     [Taillow] using Peck vs Fuecoco does a max of 1/45 damage
+     [Taillow] using Quick Attack vs Fuecoco does a max of 1/45 damage
+     Fuecoco (0)'s best move: Incinerate for 36/26 damage
+==============================
+     Fuecoco (0) speed (15) vs Taillow speed: 23
+     [Taillow] -  7: for target slow kill
+     [Taillow] final Switch score: -7
+==============================
+     [Rattata] using Quick Attack vs Fuecoco does a max of 1/45 damage
+     [Rattata] using Bite vs Fuecoco does a max of 1/45 damage
+     Fuecoco (0)'s best move: Incinerate for 4/25 damage
+==============================
+     Fuecoco (0) speed (15) vs Rattata speed: 20
+     [Rattata] final Switch score: 0
+[AI] Highest move score (5) vs Switch In Score (0)
+Youngster Joey sent out Rattata!
+
+***Round 2***
+
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for ZIGZAGOON: [:NONE]
+Roles for TAILLOW: [:NONE]
+Roles for RATTATA: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Joey!
+Youngster Joey sent out Zigzagoon!
+Go! Fuecoco!
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+
+***Round 1***
+
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Taillow: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Rattata: 8.0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     Threat Score for Fuecoco (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Fuecoco (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Zigzagoon (1) is considering using Tackle (1) against Fuecoco (0)...
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+[AI] Zigzagoon (1) is considering using Bite (1) against Fuecoco (0)...
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     + 4 to prioritize highest damaging move
+[AI] Zigzagoon (1) is considering using Swagger (4) against Fuecoco (0)...
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     - 3 because this will be pointless
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+[AI] Move choices for Zigzagoon (1):
+   *   0.0% to use Tackle (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Swagger (target 0): score 0
+   => will use Bite (target 0)
+
+
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+[Move usage] The opposing Zigzagoon started using Bite
+The opposing Zigzagoon used Bite!
+[HP change] Fuecoco lost 4 HP (49=>45)
+[Move damage] Fuecoco lost 4 HP (49=>45)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Zigzagoon lost 24 HP (24=>0)
+[Move damage] The opposing Zigzagoon lost 24 HP (24=>0)
+A critical hit!
+The opposing Zigzagoon's Oran Berry was incinerated!
+The opposing Zigzagoon fainted!
+Fuecoco got 1 Exp. Points!
+
+[End of round]
+Trick Room Turns: 0
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Taillow's Peck vs Fuecoco: 8.0
+     -> Type Mod for Taillow's Quick Attack vs Fuecoco: 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Taillow: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Taillow: 64.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Taillow: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Taillow: 64.0
+==============================
+     [Taillow] using Peck vs Fuecoco does a max of 1/45 damage
+     [Taillow] using Quick Attack vs Fuecoco does a max of 1/45 damage
+     Fuecoco (0)'s best move: Incinerate for 36/26 damage
+==============================
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Taillow: 64.0
+     Fuecoco (0) speed (15) vs Taillow speed: 23
+     [Taillow] -  7: for target slow kill
+     [Taillow] final Switch score: -7
+     -> Type Mod for Rattata's Quick Attack vs Fuecoco: 8.0
+     -> Type Mod for Rattata's Bite vs Fuecoco: 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Rattata: 8.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Rattata: 8.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Rattata: 8.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Rattata: 8.0
+==============================
+     [Rattata] using Quick Attack vs Fuecoco does a max of 1/45 damage
+     [Rattata] using Bite vs Fuecoco does a max of 1/45 damage
+     Fuecoco (0)'s best move: Incinerate for 4/25 damage
+==============================
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Rattata: 8.0
+     Fuecoco (0) speed (15) vs Rattata speed: 20
+     [Rattata] final Switch score: 0
+[AI] Highest move score (5) vs Switch In Score (0)
+Youngster Joey sent out Rattata!
+
+***Round 2***
+
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for ZIGZAGOON: [:NONE]
+Roles for TAILLOW: [:NONE]
+Roles for RATTATA: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Joey!
+Youngster Joey sent out Zigzagoon!
+Go! Fuecoco!
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+
+***Round 1***
+
+
+**Exception: undefined local variable or method `battler' for #<Battle::Battler>
+[Phantombass AI] 04_AI_Battler.rb:561:in `effectiveness_of_type_against_battler'
+[Phantombass AI] 03_AI_Moves.rb:749:in `rough_damage'
+[Phantombass AI] 04_AI_Battler.rb:476:in `block in user_highest_damaging_move_non_explosive'
+[Phantombass AI] 04_AI_Battler.rb:471:in `each'
+[Phantombass AI] 04_AI_Battler.rb:471:in `user_highest_damaging_move_non_explosive'
+[Phantombass AI] 04_AI_Battler.rb:21:in `calc_highest_damage'
+[Phantombass AI] 03_AI_Moves.rb:224:in `set_up_move_check_target'
+[Phantombass AI] 03_AI_Moves.rb:249:in `block in pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:247:in `each'
+[Phantombass AI] 03_AI_Moves.rb:247:in `pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:103:in `block (3 levels) in pbGetMoveScores'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+[Phantombass AI] 03_AI_Moves.rb:103:in `block (2 levels) in pbGetMoveScores'
+[Phantombass AI] 03_AI_Moves.rb:97:in `each'
+[Phantombass AI] 03_AI_Moves.rb:97:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:461:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:461:in `each'
+001_Battle_Battler.rb:461:in `each_with_index'
+001_Battle_Battler.rb:461:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:58:in `pbGetMoveScores'
+[Phantombass AI] 02_AI_Switching.rb:29:in `pbChooseToSwitchOut'
+[Phantombass AI] 01_AI_Main.rb:61:in `block in pbDefaultChooseEnemyCommand'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+[Phantombass AI] 01_AI_Main.rb:61:in `pbDefaultChooseEnemyCommand'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:597:in `block in pbCommandPhaseLoop'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:588:in `loop'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:588:in `pbCommandPhaseLoop'
+[Essentials Deluxe] Battle.rb:242:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:335:in `block (2 levels) in pbBattleLoop'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+002_Battle_StartAndEnd.rb:335:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:323:in `loop'
+002_Battle_StartAndEnd.rb:323:in `pbBattleLoop'
+[Pokemon Grueling Gold Scripts] 12_Item_Mechanics.rb:270:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:271:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:513:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:512:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:130:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:511:in `start_core'
+001_Overworld_BattleStarting.rb:477:in `start'
+(eval):1:in `execute_script'
+003_Interpreter.rb:143:in `eval'
+003_Interpreter.rb:143:in `execute_script'
+004_Interpreter_Commands.rb:428:in `command_111'
+004_Interpreter_Commands.rb:29:in `execute_command'
+003_Interpreter.rb:133:in `block in update'
+003_Interpreter.rb:90:in `loop'
+003_Interpreter.rb:90:in `update'
+[Following Pokemon EX] Refresh.rb:268:in `update'
+002_Scene_Map.rb:160:in `block in update'
+002_Scene_Map.rb:159:in `loop'
+002_Scene_Map.rb:159:in `update'
+[Pokemon Grueling Gold Scripts] 22_Unreal_Time.rb:199:in `update'
+[Following Pokemon EX] Refresh.rb:178:in `update'
+[v20.1 Hotfixes] Overworld bug fixes.rb:28:in `block in main'
+[v20.1 Hotfixes] Overworld bug fixes.rb:25:in `loop'
+[v20.1 Hotfixes] Overworld bug fixes.rb:25:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+
+**Exception: undefined local variable or method `battler' for #<Battle::Battler>
+[Phantombass AI] 04_AI_Battler.rb:561:in `effectiveness_of_type_against_battler'
+[Phantombass AI] 03_AI_Moves.rb:749:in `rough_damage'
+[Phantombass AI] 04_AI_Battler.rb:476:in `block in user_highest_damaging_move_non_explosive'
+[Phantombass AI] 04_AI_Battler.rb:471:in `each'
+[Phantombass AI] 04_AI_Battler.rb:471:in `user_highest_damaging_move_non_explosive'
+[Phantombass AI] 04_AI_Battler.rb:21:in `calc_highest_damage'
+[Phantombass AI] 03_AI_Moves.rb:224:in `set_up_move_check_target'
+[Phantombass AI] 03_AI_Moves.rb:249:in `block in pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:247:in `each'
+[Phantombass AI] 03_AI_Moves.rb:247:in `pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:103:in `block (3 levels) in pbGetMoveScores'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+[Phantombass AI] 03_AI_Moves.rb:103:in `block (2 levels) in pbGetMoveScores'
+[Phantombass AI] 03_AI_Moves.rb:97:in `each'
+[Phantombass AI] 03_AI_Moves.rb:97:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:461:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:461:in `each'
+001_Battle_Battler.rb:461:in `each_with_index'
+001_Battle_Battler.rb:461:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:58:in `pbGetMoveScores'
+[Phantombass AI] 02_AI_Switching.rb:29:in `pbChooseToSwitchOut'
+[Phantombass AI] 01_AI_Main.rb:61:in `block in pbDefaultChooseEnemyCommand'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+[Phantombass AI] 01_AI_Main.rb:61:in `pbDefaultChooseEnemyCommand'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:597:in `block in pbCommandPhaseLoop'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:588:in `loop'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:588:in `pbCommandPhaseLoop'
+[Essentials Deluxe] Battle.rb:242:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:335:in `block (2 levels) in pbBattleLoop'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+002_Battle_StartAndEnd.rb:335:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:323:in `loop'
+002_Battle_StartAndEnd.rb:323:in `pbBattleLoop'
+[Pokemon Grueling Gold Scripts] 12_Item_Mechanics.rb:270:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:271:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:513:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:512:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:130:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:511:in `start_core'
+001_Overworld_BattleStarting.rb:477:in `start'
+(eval):1:in `execute_script'
+003_Interpreter.rb:143:in `eval'
+003_Interpreter.rb:143:in `execute_script'
+004_Interpreter_Commands.rb:428:in `command_111'
+004_Interpreter_Commands.rb:29:in `execute_command'
+003_Interpreter.rb:133:in `block in update'
+003_Interpreter.rb:90:in `loop'
+003_Interpreter.rb:90:in `update'
+[Following Pokemon EX] Refresh.rb:268:in `update'
+002_Scene_Map.rb:160:in `block in update'
+002_Scene_Map.rb:159:in `loop'
+002_Scene_Map.rb:159:in `update'
+[Pokemon Grueling Gold Scripts] 22_Unreal_Time.rb:199:in `update'
+[Following Pokemon EX] Refresh.rb:178:in `update'
+[v20.1 Hotfixes] Overworld bug fixes.rb:28:in `block in main'
+[v20.1 Hotfixes] Overworld bug fixes.rb:25:in `loop'
+[v20.1 Hotfixes] Overworld bug fixes.rb:25:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for ZIGZAGOON: [:NONE]
+Roles for TAILLOW: [:NONE]
+Roles for RATTATA: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Joey!
+Youngster Joey sent out Zigzagoon!
+Go! Fuecoco!
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+
+***Round 1***
+
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Taillow: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Rattata: 8.0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     Threat Score for Fuecoco (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Fuecoco (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Zigzagoon (1) is considering using Tackle (1) against Fuecoco (0)...
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+[AI] Zigzagoon (1) is considering using Bite (1) against Fuecoco (0)...
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     + 4 to prioritize highest damaging move
+[AI] Zigzagoon (1) is considering using Swagger (4) against Fuecoco (0)...
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     - 3 because this will be pointless
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+[AI] Move choices for Zigzagoon (1):
+   *   0.0% to use Tackle (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Swagger (target 0): score 0
+   => will use Bite (target 0)
+
+
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+[Move usage] The opposing Zigzagoon started using Bite
+The opposing Zigzagoon used Bite!
+[HP change] Fuecoco lost 4 HP (49=>45)
+[Move damage] Fuecoco lost 4 HP (49=>45)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco flinched and couldn't move!
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 2***
+
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for ZIGZAGOON: [:NONE]
+Roles for TAILLOW: [:NONE]
+Roles for RATTATA: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Joey!
+Youngster Joey sent out Zigzagoon!
+Go! Fuecoco!
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+
+***Round 1***
+
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Taillow: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Rattata: 8.0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     Threat Score for Fuecoco (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Fuecoco (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Zigzagoon (1) is considering using Tackle (1) against Fuecoco (0)...
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+[AI] Zigzagoon (1) is considering using Bite (1) against Fuecoco (0)...
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     + 4 to prioritize highest damaging move
+[AI] Zigzagoon (1) is considering using Swagger (4) against Fuecoco (0)...
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     - 3 because this will be pointless
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+[AI] Move choices for Zigzagoon (1):
+   *   0.0% to use Tackle (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Swagger (target 0): score 0
+   => will use Bite (target 0)
+
+
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+[Move usage] The opposing Zigzagoon started using Bite
+The opposing Zigzagoon used Bite!
+[HP change] Fuecoco lost 4 HP (49=>45)
+[Move damage] Fuecoco lost 4 HP (49=>45)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Zigzagoon lost 24 HP (24=>0)
+[Move damage] The opposing Zigzagoon lost 24 HP (24=>0)
+The opposing Zigzagoon's Oran Berry was incinerated!
+The opposing Zigzagoon fainted!
+Fuecoco got 1 Exp. Points!
+
+[End of round]
+Trick Room Turns: 0
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Taillow's Peck vs Fuecoco: 8.0
+     -> Type Mod for Taillow's Quick Attack vs Fuecoco: 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Taillow: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Taillow: 64.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Taillow: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Taillow: 64.0
+==============================
+     [Taillow] using Peck vs Fuecoco does a max of 1/45 damage
+     [Taillow] using Quick Attack vs Fuecoco does a max of 1/45 damage
+     Fuecoco (0)'s best move: Incinerate for 36/26 damage
+==============================
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Taillow: 64.0
+     Fuecoco (0) speed (15) vs Taillow speed: 23
+     [Taillow] -  7: for target slow kill
+     [Taillow] final Switch score: -7
+     -> Type Mod for Rattata's Quick Attack vs Fuecoco: 8.0
+     -> Type Mod for Rattata's Bite vs Fuecoco: 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Rattata: 8.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Rattata: 8.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Rattata: 8.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Rattata: 8.0
+==============================
+     [Rattata] using Quick Attack vs Fuecoco does a max of 1/45 damage
+     [Rattata] using Bite vs Fuecoco does a max of 1/45 damage
+     Fuecoco (0)'s best move: Incinerate for 4/25 damage
+==============================
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Rattata: 8.0
+     Fuecoco (0) speed (15) vs Rattata speed: 20
+     [Rattata] final Switch score: 0
+[AI] Highest move score (5) vs Switch In Score (0)
+Youngster Joey sent out Rattata!
+
+***Round 2***
+
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for ZIGZAGOON: [:NONE]
+Roles for TAILLOW: [:NONE]
+Roles for RATTATA: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Joey!
+Youngster Joey sent out Zigzagoon!
+Go! Fuecoco!
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+
+***Round 1***
+
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 32.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Taillow: 64.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Rattata: 8.0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     Threat Score for Fuecoco (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Fuecoco (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Zigzagoon (1) is considering using Tackle (1) against Fuecoco (0)...
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+[AI] Zigzagoon (1) is considering using Bite (1) against Fuecoco (0)...
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     + 4 to prioritize highest damaging move
+[AI] Zigzagoon (1) is considering using Swagger (4) against Fuecoco (0)...
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 8.0
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+     - 3 because this will be pointless
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 8.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 8.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 64.0
+[AI] Move choices for Zigzagoon (1):
+   *   0.0% to use Tackle (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Swagger (target 0): score 0
+   => will use Bite (target 0)
+
+
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+[Move usage] The opposing Zigzagoon started using Bite
+The opposing Zigzagoon used Bite!
+[HP change] Fuecoco lost 4 HP (49=>45)
+[Move damage] Fuecoco lost 4 HP (49=>45)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Zigzagoon lost 24 HP (24=>0)
+[Move damage] The opposing Zigzagoon lost 24 HP (24=>0)
+The opposing Zigzagoon's Oran Berry was incinerated!
+The opposing Zigzagoon fainted!
+Fuecoco got 1 Exp. Points!
+
+[End of round]
+Trick Room Turns: 0
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 8.0
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for ZIGZAGOON: [:NONE]
+Roles for TAILLOW: [:NONE]
+Roles for RATTATA: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Joey!
+Youngster Joey sent out Zigzagoon!
+Go! Fuecoco!
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+
+***Round 1***
+
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 1.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 1.0
+
+**Exception: undefined local variable or method `type_count' for #<Battle::NewAI::AIBattler>
+[Phantombass AI] 04_AI_Battler.rb:521:in `effectiveness_of_type_against_battler'
+[Phantombass AI] 03_AI_Moves.rb:749:in `rough_damage'
+[Phantombass AI] 04_AI_Battler.rb:271:in `block in has_killing_move?'
+[Phantombass AI] 04_AI_Battler.rb:269:in `each'
+[Phantombass AI] 04_AI_Battler.rb:269:in `has_killing_move?'
+[Phantombass AI] 01_AI_Move_Scoring.rb:756:in `block in <main>'
+[Phantombass AI] 01_AI_Move_Scoring.rb:89:in `block in trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:87:in `each'
+[Phantombass AI] 01_AI_Move_Scoring.rb:87:in `trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:112:in `trigger_final'
+[Phantombass AI] 03_AI_Moves.rb:312:in `pbGetMoveScoreAgainstTarget'
+[Phantombass AI] 03_AI_Moves.rb:254:in `block in pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:247:in `each'
+[Phantombass AI] 03_AI_Moves.rb:247:in `pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:103:in `block (3 levels) in pbGetMoveScores'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+[Phantombass AI] 03_AI_Moves.rb:103:in `block (2 levels) in pbGetMoveScores'
+[Phantombass AI] 03_AI_Moves.rb:97:in `each'
+[Phantombass AI] 03_AI_Moves.rb:97:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:461:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:461:in `each'
+001_Battle_Battler.rb:461:in `each_with_index'
+001_Battle_Battler.rb:461:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:58:in `pbGetMoveScores'
+[Phantombass AI] 02_AI_Switching.rb:29:in `pbChooseToSwitchOut'
+[Phantombass AI] 01_AI_Main.rb:61:in `block in pbDefaultChooseEnemyCommand'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+[Phantombass AI] 01_AI_Main.rb:61:in `pbDefaultChooseEnemyCommand'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:597:in `block in pbCommandPhaseLoop'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:588:in `loop'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:588:in `pbCommandPhaseLoop'
+[Essentials Deluxe] Battle.rb:242:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:335:in `block (2 levels) in pbBattleLoop'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+002_Battle_StartAndEnd.rb:335:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:323:in `loop'
+002_Battle_StartAndEnd.rb:323:in `pbBattleLoop'
+[Pokemon Grueling Gold Scripts] 12_Item_Mechanics.rb:270:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:271:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:513:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:512:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:130:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:511:in `start_core'
+001_Overworld_BattleStarting.rb:477:in `start'
+(eval):1:in `execute_script'
+003_Interpreter.rb:143:in `eval'
+003_Interpreter.rb:143:in `execute_script'
+004_Interpreter_Commands.rb:428:in `command_111'
+004_Interpreter_Commands.rb:29:in `execute_command'
+003_Interpreter.rb:133:in `block in update'
+003_Interpreter.rb:90:in `loop'
+003_Interpreter.rb:90:in `update'
+[Following Pokemon EX] Refresh.rb:268:in `update'
+002_Scene_Map.rb:160:in `block in update'
+002_Scene_Map.rb:159:in `loop'
+002_Scene_Map.rb:159:in `update'
+[Pokemon Grueling Gold Scripts] 22_Unreal_Time.rb:199:in `update'
+[Following Pokemon EX] Refresh.rb:178:in `update'
+[v20.1 Hotfixes] Overworld bug fixes.rb:28:in `block in main'
+[v20.1 Hotfixes] Overworld bug fixes.rb:25:in `loop'
+[v20.1 Hotfixes] Overworld bug fixes.rb:25:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 1.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 1.0
+
+**Exception: undefined local variable or method `type_count' for #<Battle::NewAI::AIBattler>
+[Phantombass AI] 04_AI_Battler.rb:521:in `effectiveness_of_type_against_battler'
+[Phantombass AI] 03_AI_Moves.rb:749:in `rough_damage'
+[Phantombass AI] 04_AI_Battler.rb:271:in `block in has_killing_move?'
+[Phantombass AI] 04_AI_Battler.rb:269:in `each'
+[Phantombass AI] 04_AI_Battler.rb:269:in `has_killing_move?'
+[Phantombass AI] 01_AI_Move_Scoring.rb:756:in `block in <main>'
+[Phantombass AI] 01_AI_Move_Scoring.rb:89:in `block in trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:87:in `each'
+[Phantombass AI] 01_AI_Move_Scoring.rb:87:in `trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:112:in `trigger_final'
+[Phantombass AI] 03_AI_Moves.rb:312:in `pbGetMoveScoreAgainstTarget'
+[Phantombass AI] 03_AI_Moves.rb:254:in `block in pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:247:in `each'
+[Phantombass AI] 03_AI_Moves.rb:247:in `pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:103:in `block (3 levels) in pbGetMoveScores'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+[Phantombass AI] 03_AI_Moves.rb:103:in `block (2 levels) in pbGetMoveScores'
+[Phantombass AI] 03_AI_Moves.rb:97:in `each'
+[Phantombass AI] 03_AI_Moves.rb:97:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:461:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:461:in `each'
+001_Battle_Battler.rb:461:in `each_with_index'
+001_Battle_Battler.rb:461:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:58:in `pbGetMoveScores'
+[Phantombass AI] 02_AI_Switching.rb:29:in `pbChooseToSwitchOut'
+[Phantombass AI] 01_AI_Main.rb:61:in `block in pbDefaultChooseEnemyCommand'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+[Phantombass AI] 01_AI_Main.rb:61:in `pbDefaultChooseEnemyCommand'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:597:in `block in pbCommandPhaseLoop'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:588:in `loop'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:588:in `pbCommandPhaseLoop'
+[Essentials Deluxe] Battle.rb:242:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:335:in `block (2 levels) in pbBattleLoop'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+002_Battle_StartAndEnd.rb:335:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:323:in `loop'
+002_Battle_StartAndEnd.rb:323:in `pbBattleLoop'
+[Pokemon Grueling Gold Scripts] 12_Item_Mechanics.rb:270:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:271:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:513:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:512:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:130:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:511:in `start_core'
+001_Overworld_BattleStarting.rb:477:in `start'
+(eval):1:in `execute_script'
+003_Interpreter.rb:143:in `eval'
+003_Interpreter.rb:143:in `execute_script'
+004_Interpreter_Commands.rb:428:in `command_111'
+004_Interpreter_Commands.rb:29:in `execute_command'
+003_Interpreter.rb:133:in `block in update'
+003_Interpreter.rb:90:in `loop'
+003_Interpreter.rb:90:in `update'
+[Following Pokemon EX] Refresh.rb:268:in `update'
+002_Scene_Map.rb:160:in `block in update'
+002_Scene_Map.rb:159:in `loop'
+002_Scene_Map.rb:159:in `update'
+[Pokemon Grueling Gold Scripts] 22_Unreal_Time.rb:199:in `update'
+[Following Pokemon EX] Refresh.rb:178:in `update'
+[v20.1 Hotfixes] Overworld bug fixes.rb:28:in `block in main'
+[v20.1 Hotfixes] Overworld bug fixes.rb:25:in `loop'
+[v20.1 Hotfixes] Overworld bug fixes.rb:25:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for ZIGZAGOON: [:NONE]
+Roles for TAILLOW: [:NONE]
+Roles for RATTATA: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Joey!
+Youngster Joey sent out Zigzagoon!
+Go! Fuecoco!
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+
+***Round 1***
+
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 1.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 0.5
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 1.0
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 1.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 0.5
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 1.0
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 1.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 0.5
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 0.5
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 0.5
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 0.5
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Rattata: 1.0
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 0.5
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 0.5
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 0.5
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 1.0
+     Threat Score for Fuecoco (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Fuecoco (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Zigzagoon (1) is considering using Tackle (1) against Fuecoco (0)...
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 1.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 1.0
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 0.5
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 1.0
+[AI] Zigzagoon (1) is considering using Bite (1) against Fuecoco (0)...
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 1.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 1.0
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 0.5
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 1.0
+     + 4 to prioritize highest damaging move
+[AI] Zigzagoon (1) is considering using Swagger (4) against Fuecoco (0)...
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 1.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 1.0
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 0.5
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 1.0
+     - 3 because this will be pointless
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Zigzagoon: 0.5
+     -> Type Mod for Fuecoco (0)'s Ember vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Zigzagoon: 1.0
+[AI] Move choices for Zigzagoon (1):
+   *   0.0% to use Tackle (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Swagger (target 0): score 0
+   => will use Bite (target 0)
+
+
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+[Move usage] The opposing Zigzagoon started using Bite
+The opposing Zigzagoon used Bite!
+[HP change] Fuecoco lost 4 HP (49=>45)
+[Move damage] Fuecoco lost 4 HP (49=>45)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Zigzagoon lost 24 HP (24=>0)
+[Move damage] The opposing Zigzagoon lost 24 HP (24=>0)
+The opposing Zigzagoon's Oran Berry was incinerated!
+The opposing Zigzagoon fainted!
+Fuecoco got 1 Exp. Points!
+
+[End of round]
+Trick Room Turns: 0
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 1.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 1.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon's Tackle vs Fuecoco: 1.0
+     -> Type Mod for Zigzagoon's Bite vs Fuecoco: 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Zigzagoon: 1.0
+     -> Type Mod for Zigzagoon (1)'s Tackle vs Fuecoco (0): 1.0
+     -> Type Mod for Zigzagoon (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow's Peck vs Fuecoco: 1.0
+     -> Type Mod for Taillow's Quick Attack vs Fuecoco: 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Taillow: 1.0
+==============================
+     [Taillow] using Peck vs Fuecoco does a max of 6/45 damage
+     [Taillow] using Quick Attack vs Fuecoco does a max of 6/45 damage
+     Fuecoco (0)'s best move: Incinerate for 36/26 damage
+==============================
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Taillow: 1.0
+     Fuecoco (0) speed (15) vs Taillow speed: 23
+     [Taillow] -  7: for target slow kill
+     [Taillow] final Switch score: -7
+     -> Type Mod for Rattata's Quick Attack vs Fuecoco: 1.0
+     -> Type Mod for Rattata's Bite vs Fuecoco: 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Rattata: 1.0
+==============================
+     [Rattata] using Quick Attack vs Fuecoco does a max of 6/45 damage
+     [Rattata] using Bite vs Fuecoco does a max of 5/45 damage
+     Fuecoco (0)'s best move: Incinerate for 33/25 damage
+==============================
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Rattata: 1.0
+     Fuecoco (0) speed (15) vs Rattata speed: 20
+     [Rattata] -  7: for target slow kill
+     [Rattata] final Switch score: -7
+[AI] Highest move score (5) vs Switch In Score (-7)
+Youngster Joey sent out Taillow!
+[Ability triggered] The opposing Taillow's Keen Eye
+The opposing Taillow is getting pumped!
+
+***Round 2***
+
+     -> Type Mod for Taillow's Peck vs Fuecoco: 1.0
+     -> Type Mod for Taillow's Quick Attack vs Fuecoco: 1.0
+     -> Type Mod for Taillow (1)'s Peck vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Peck vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Taillow: 1.0
+     -> Type Mod for Taillow's Peck vs Fuecoco: 1.0
+     -> Type Mod for Taillow's Quick Attack vs Fuecoco: 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Taillow (1): 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Taillow (1): 1.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Taillow (1): 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Taillow (1): 1.0
+     -> Type Mod for Taillow (1)'s Peck vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Peck vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Taillow: 1.0
+     -> Type Mod for Taillow (1)'s Peck vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Peck vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Rattata: 1.0
+     [Switch AI] -5 Do not switch to avoid negating Focus Energy
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     -> Type Mod for Taillow (1)'s Peck vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Peck vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Taillow: 1.0
+     -> Type Mod for Taillow (1)'s Peck vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Taillow: 1.0
+     Threat Score for Fuecoco (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Taillow (1) is considering using Peck (1) against Fuecoco (0)...
+     -> Type Mod for Taillow's Peck vs Fuecoco: 1.0
+     -> Type Mod for Taillow's Quick Attack vs Fuecoco: 1.0
+     Taillow (1)'s highest damaging move vs Fuecoco: Quick Attack
+     -> Type Mod for Taillow (1)'s Peck vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Peck vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Taillow: 1.0
+[AI] Taillow (1) is considering using Quick Attack (1) against Fuecoco (0)...
+     -> Type Mod for Taillow's Peck vs Fuecoco: 1.0
+     -> Type Mod for Taillow's Quick Attack vs Fuecoco: 1.0
+     Taillow (1)'s highest damaging move vs Fuecoco: Quick Attack
+     -> Type Mod for Fuecoco (0)'s Round vs Taillow (1): 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Taillow (1): 1.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Taillow (1): 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Taillow (1): 1.0
+     -> Type Mod for Taillow (1)'s Peck vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Peck vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Taillow: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Taillow: 1.0
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Taillow (1):
+   *   0.0% to use Peck (target 0): score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   => will use Quick Attack (target 0)
+
+
+[Round order] The opposing Taillow (1), Fuecoco (0)
+[Move usage] The opposing Taillow started using Quick Attack
+The opposing Taillow used Quick Attack!
+[HP change] Fuecoco lost 8 HP (45=>37)
+[Move damage] Fuecoco lost 8 HP (45=>37)
+A critical hit!
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Taillow lost 26 HP (26=>0)
+[Move damage] The opposing Taillow lost 26 HP (26=>0)
+The opposing Taillow's Oran Berry was incinerated!
+The opposing Taillow fainted!
+
+[End of round]
+Trick Room Turns: 0
+     -> Type Mod for Taillow's Peck vs Fuecoco: 1.0
+     -> Type Mod for Taillow's Quick Attack vs Fuecoco: 1.0
+     -> Type Mod for Taillow (1)'s Peck vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Peck vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Taillow: 1.0
+     -> Type Mod for Taillow (1)'s Peck vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow's Peck vs Fuecoco: 1.0
+     -> Type Mod for Taillow's Quick Attack vs Fuecoco: 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Taillow (1): 1.0
+     -> Type Mod for Taillow (1)'s Peck vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Peck vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Taillow: 1.0
+     -> Type Mod for Taillow (1)'s Peck vs Fuecoco (0): 1.0
+     -> Type Mod for Taillow (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Rattata's Quick Attack vs Fuecoco: 1.0
+     -> Type Mod for Rattata's Bite vs Fuecoco: 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Rattata: 1.0
+==============================
+     [Rattata] using Quick Attack vs Fuecoco does a max of 6/37 damage
+     [Rattata] using Bite vs Fuecoco does a max of 5/37 damage
+     Fuecoco (0)'s best move: Incinerate for 33/25 damage
+==============================
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Rattata: 1.0
+     Fuecoco (0) speed (15) vs Rattata speed: 20
+     [Rattata] -  7: for target slow kill
+     [Rattata] final Switch score: -7
+[AI] Highest move score (14) vs Switch In Score (-7)
+Youngster Joey sent out Rattata!
+
+***Round 3***
+
+     -> Type Mod for Rattata (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Rattata (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Rattata (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Rattata (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Rattata: 1.0
+     -> Type Mod for Rattata (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Rattata (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Rattata: 1.0
+     Threat Score for Fuecoco (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rattata (1) is considering using Quick Attack (1) against Fuecoco (0)...
+     -> Type Mod for Rattata's Quick Attack vs Fuecoco: 1.0
+     -> Type Mod for Rattata's Bite vs Fuecoco: 1.0
+     Rattata (1)'s highest damaging move vs Fuecoco: Quick Attack
+     -> Type Mod for Fuecoco (0)'s Round vs Rattata (1): 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Rattata (1): 1.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Rattata (1): 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Rattata (1): 1.0
+     -> Type Mod for Rattata (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Rattata (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Rattata (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Rattata (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Rattata: 1.0
+     + 4 to prioritize highest damaging move
+[AI] Rattata (1) is considering using Bite (1) against Fuecoco (0)...
+     -> Type Mod for Rattata's Quick Attack vs Fuecoco: 1.0
+     -> Type Mod for Rattata's Bite vs Fuecoco: 1.0
+     Rattata (1)'s highest damaging move vs Fuecoco: Quick Attack
+     -> Type Mod for Rattata (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Rattata (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Rattata (1)'s Quick Attack vs Fuecoco (0): 1.0
+     -> Type Mod for Rattata (1)'s Bite vs Fuecoco (0): 1.0
+     -> Type Mod for Fuecoco (0)'s Round vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Bite vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Ember vs Rattata: 1.0
+     -> Type Mod for Fuecoco (0)'s Incinerate vs Rattata: 1.0
+[AI] Move choices for Rattata (1):
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   => will use Quick Attack (target 0)
+
+
+[Round order] The opposing Rattata (1), Fuecoco (0)
+[Move usage] The opposing Rattata started using Quick Attack
+The opposing Rattata used Quick Attack!
+[HP change] Fuecoco lost 6 HP (37=>31)
+[Move damage] Fuecoco lost 6 HP (37=>31)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Rattata lost 25 HP (25=>0)
+[Move damage] The opposing Rattata lost 25 HP (25=>0)
+The opposing Rattata's Oran Berry was incinerated!
+The opposing Rattata fainted!
+
+***Player won***
+You defeated Youngster Joey!
+Wow. You're great!
+You got $128 for winning!
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for ZIGZAGOON: [:NONE]
+Roles for TAILLOW: [:NONE]
+Roles for RATTATA: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Joey!
+Youngster Joey sent out Zigzagoon!
+Go! Fuecoco!
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+
+***Round 1***
+
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Fuecoco (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Fuecoco (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Zigzagoon (1) is considering using Tackle (1) against Fuecoco (0)...
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+[AI] Zigzagoon (1) is considering using Bite (1) against Fuecoco (0)...
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     + 4 to prioritize highest damaging move
+[AI] Zigzagoon (1) is considering using Swagger (4) against Fuecoco (0)...
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     - 3 because this will be pointless
+[AI] Move choices for Zigzagoon (1):
+   *   0.0% to use Tackle (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Swagger (target 0): score 0
+   => will use Bite (target 0)
+
+
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+[Move usage] The opposing Zigzagoon started using Bite
+The opposing Zigzagoon used Bite!
+[HP change] Fuecoco lost 4 HP (49=>45)
+[Move damage] Fuecoco lost 4 HP (49=>45)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco flinched and couldn't move!
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 2***
+
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Fuecoco (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Zigzagoon (1) is considering using Tackle (1) against Fuecoco (0)...
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+[AI] Zigzagoon (1) is considering using Bite (1) against Fuecoco (0)...
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     + 4 to prioritize highest damaging move
+[AI] Zigzagoon (1) is considering using Swagger (4) against Fuecoco (0)...
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     - 3 because this will be pointless
+[AI] Move choices for Zigzagoon (1):
+   *   0.0% to use Tackle (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Swagger (target 0): score 0
+   => will use Bite (target 0)
+
+
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+[Move usage] The opposing Zigzagoon started using Bite
+The opposing Zigzagoon used Bite!
+[HP change] Fuecoco lost 4 HP (45=>41)
+[Move damage] Fuecoco lost 4 HP (45=>41)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco flinched and couldn't move!
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 3***
+
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Fuecoco (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Zigzagoon (1) is considering using Tackle (1) against Fuecoco (0)...
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+[AI] Zigzagoon (1) is considering using Bite (1) against Fuecoco (0)...
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     + 4 to prioritize highest damaging move
+[AI] Zigzagoon (1) is considering using Swagger (4) against Fuecoco (0)...
+     Zigzagoon (1)'s highest damaging move vs Fuecoco: Bite
+     - 3 because this will be pointless
+[AI] Move choices for Zigzagoon (1):
+   *   0.0% to use Tackle (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Swagger (target 0): score 0
+   => will use Bite (target 0)
+
+
+[Round order] The opposing Zigzagoon (1), Fuecoco (0)
+[Move usage] The opposing Zigzagoon started using Bite
+The opposing Zigzagoon used Bite!
+[HP change] Fuecoco lost 4 HP (41=>37)
+[Move damage] Fuecoco lost 4 HP (41=>37)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Zigzagoon lost 24 HP (24=>0)
+[Move damage] The opposing Zigzagoon lost 24 HP (24=>0)
+The opposing Zigzagoon's Oran Berry was incinerated!
+The opposing Zigzagoon fainted!
+Fuecoco got 1 Exp. Points!
+
+[End of round]
+Trick Room Turns: 0
+==============================
+     [Taillow] using Peck vs Fuecoco does a max of 6/37 damage
+     [Taillow] using Quick Attack vs Fuecoco does a max of 6/37 damage
+     Fuecoco (0)'s best move: Incinerate for 36/26 damage
+==============================
+     Fuecoco (0) speed (15) vs Taillow speed: 23
+     [Taillow] -  7: for target slow kill
+     [Taillow] final Switch score: -7
+==============================
+     [Rattata] using Quick Attack vs Fuecoco does a max of 6/37 damage
+     [Rattata] using Bite vs Fuecoco does a max of 5/37 damage
+     Fuecoco (0)'s best move: Incinerate for 33/25 damage
+==============================
+     Fuecoco (0) speed (15) vs Rattata speed: 20
+     [Rattata] -  7: for target slow kill
+     [Rattata] final Switch score: -7
+[AI] Highest move score (5) vs Switch In Score (-7)
+Youngster Joey sent out Taillow!
+[Ability triggered] The opposing Taillow's Keen Eye
+The opposing Taillow is getting pumped!
+
+***Round 4***
+
+     [Switch AI] -5 Do not switch to avoid negating Focus Energy
+[AI] Switch out Score (-5) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Fuecoco (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Taillow (1) is considering using Peck (1) against Fuecoco (0)...
+     Taillow (1)'s highest damaging move vs Fuecoco: Quick Attack
+[AI] Taillow (1) is considering using Quick Attack (1) against Fuecoco (0)...
+     Taillow (1)'s highest damaging move vs Fuecoco: Quick Attack
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Taillow (1):
+   *   0.0% to use Peck (target 0): score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   => will use Quick Attack (target 0)
+
+
+[Round order] The opposing Taillow (1), Fuecoco (0)
+[Move usage] The opposing Taillow started using Quick Attack
+The opposing Taillow used Quick Attack!
+[HP change] Fuecoco lost 6 HP (37=>31)
+[Move damage] Fuecoco lost 6 HP (37=>31)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Taillow lost 26 HP (26=>0)
+[Move damage] The opposing Taillow lost 26 HP (26=>0)
+The opposing Taillow's Oran Berry was incinerated!
+The opposing Taillow fainted!
+
+[End of round]
+Trick Room Turns: 0
+==============================
+     [Rattata] using Quick Attack vs Fuecoco does a max of 6/31 damage
+     [Rattata] using Bite vs Fuecoco does a max of 5/31 damage
+     Fuecoco (0)'s best move: Incinerate for 33/25 damage
+==============================
+     Fuecoco (0) speed (15) vs Rattata speed: 20
+     [Rattata] -  7: for target slow kill
+     [Rattata] final Switch score: -7
+[AI] Highest move score (14) vs Switch In Score (-7)
+Youngster Joey sent out Rattata!
+
+***Round 5***
+
+     Threat Score for Fuecoco (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Rattata (1) is considering using Quick Attack (1) against Fuecoco (0)...
+     Rattata (1)'s highest damaging move vs Fuecoco: Quick Attack
+     + 4 to prioritize highest damaging move
+[AI] Rattata (1) is considering using Bite (1) against Fuecoco (0)...
+     Rattata (1)'s highest damaging move vs Fuecoco: Quick Attack
+[AI] Move choices for Rattata (1):
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   => will use Quick Attack (target 0)
+
+
+[Round order] The opposing Rattata (1), Fuecoco (0)
+[Move usage] The opposing Rattata started using Quick Attack
+The opposing Rattata used Quick Attack!
+[HP change] Fuecoco lost 6 HP (31=>25)
+[Move damage] Fuecoco lost 6 HP (31=>25)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Rattata lost 25 HP (25=>0)
+[Move damage] The opposing Rattata lost 25 HP (25=>0)
+The opposing Rattata's Oran Berry was incinerated!
+The opposing Rattata fainted!
+
+***Player won***
+You defeated Youngster Joey!
+Wow. You're great!
+You got $128 for winning!
+Roles for PHANPY: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for TIMBURR: [:NONE]
+Roles for PIKIPEK: [:PHYSICALBREAKER]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Don!
+Youngster Don sent out Phanpy!
+Go! Fuecoco!
+[Round order] Fuecoco (0), the opposing Phanpy (1)
+
+***Round 1***
+
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Fuecoco (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Fuecoco (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Phanpy (1) is considering using Tackle (1) against Fuecoco (0)...
+     Phanpy (1)'s highest damaging move vs Fuecoco: Bulldoze
+[AI] Phanpy (1) is considering using Bulldoze (1)...
+     Phanpy (1)'s highest damaging move vs Fuecoco: Bulldoze
+     + 4 to prioritize highest damaging move
+[AI] Phanpy (1) is considering using Ice Shard (1) against Fuecoco (0)...
+     Phanpy (1)'s highest damaging move vs Fuecoco: Bulldoze
+[AI] Move choices for Phanpy (1):
+   *   0.0% to use Tackle (target 0): score 0
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Ice Shard (target 0): score 0
+   => will use Bulldoze
+
+
+[Round order] Fuecoco (0), the opposing Phanpy (1)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Phanpy lost 28 HP (34=>6)
+[Move damage] The opposing Phanpy lost 28 HP (34=>6)
+The opposing Phanpy's Oran Berry was incinerated!
+[Move usage] The opposing Phanpy started using Bulldoze
+The opposing Phanpy used Bulldoze!
+[HP change] Fuecoco lost 13 HP (25=>12)
+[Move damage] Fuecoco lost 13 HP (25=>12)
+It's super effective!
+[HP change] Fuecoco gained 10 HP (12=>22)
+Fuecoco restored a little HP using its Oran Berry!
+[Item consumed] Fuecoco consumed its held Oran Berry
+[Stat change] Fuecoco's Speed: 0 -> -1 (-1)
+Fuecoco's Speed fell!
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 2***
+
+Will: Double battles
+Koga: Double battles
+Bruno: Single battles
+Karen: Single battles
+Clearing randomizer options...
+Clearing restrictions...
+Clearing randomizer options...
+Clearing restrictions...
+Clearing randomizer options...
+Clearing restrictions...
+Randomizing trainers...
+Randomizing encounters...
+Randomizing static...
+Randomizing gift...
+Randomizing abilities...
+Roles for RATTATA: [:CRIT]
+Roles for RATTATA: [:CRIT]
+Roles for RATTATA: [:CRIT]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Joey!
+Youngster Joey sent out Rattata!
+Go! Scraggy!
+[Round order] Scraggy (0), the opposing Rattata (1)
+
+***Round 1***
+
+Roles for PRINPLUP: [:NONE]
+=====> Nature for Prinplup: Modest
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Joey!
+Youngster Joey sent out Prinplup!
+Go! Scraggy!
+[Round order] Scraggy (0), the opposing Prinplup (1)
+
+***Round 1***
+
+     Threat Score for Scraggy (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Scraggy (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Prinplup (1) is considering using Tackle (1) against Scraggy (0)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+[AI] Prinplup (1) is considering using Growl (4)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+     - 3 because this will be pointless
+[AI] Prinplup (1) is considering using Bubble (1)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+     + 4 to prioritize highest damaging move
+[AI] Prinplup (1) is considering using Water Sport (4)...
+[AI] Move choices for Prinplup (1):
+   *   0.0% to use Tackle (target 0): score 0
+   *   0.0% to use Growl: score 0
+   * 100.0% to use Bubble: score 5
+   *   0.0% to use Water Sport: score 0
+   => will use Bubble
+
+
+[Round order] Scraggy (0), the opposing Prinplup (1)
+[Move usage] Scraggy started using Payback
+Scraggy used Payback!
+[HP change] The opposing Prinplup lost 19 HP (38=>19)
+[Move damage] The opposing Prinplup lost 19 HP (38=>19)
+[Move usage] The opposing Prinplup started using Bubble
+The opposing Prinplup used Bubble!
+[HP change] Scraggy lost 8 HP (44=>36)
+[Move damage] Scraggy lost 8 HP (44=>36)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 2***
+
+     Threat Score for Scraggy (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Prinplup (1) is considering using Tackle (1) against Scraggy (0)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+[AI] Prinplup (1) is considering using Growl (4)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+     - 3 because this will be pointless
+[AI] Prinplup (1) is considering using Bubble (1)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+     + 4 to prioritize highest damaging move
+[AI] Prinplup (1) is considering using Water Sport (4)...
+[AI] Move choices for Prinplup (1):
+   *   0.0% to use Tackle (target 0): score 0
+   *   0.0% to use Growl: score 0
+   * 100.0% to use Bubble: score 5
+   *   0.0% to use Water Sport: score 0
+   => will use Bubble
+
+
+[Round order] Scraggy (0), the opposing Prinplup (1)
+[Move usage] Scraggy started using Payback
+Scraggy used Payback!
+[HP change] The opposing Prinplup lost 17 HP (19=>2)
+[Move damage] The opposing Prinplup lost 17 HP (19=>2)
+[Move usage] The opposing Prinplup started using Bubble
+The opposing Prinplup used Bubble!
+[HP change] Scraggy lost 9 HP (36=>27)
+[Move damage] Scraggy lost 9 HP (36=>27)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 3***
+
+     Threat Score for Scraggy (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Prinplup (1) is considering using Tackle (1) against Scraggy (0)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+[AI] Prinplup (1) is considering using Growl (4)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+     - 3 because this will be pointless
+[AI] Prinplup (1) is considering using Bubble (1)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+     + 4 to prioritize highest damaging move
+[AI] Prinplup (1) is considering using Water Sport (4)...
+[AI] Move choices for Prinplup (1):
+   *   0.0% to use Tackle (target 0): score 0
+   *   0.0% to use Growl: score 0
+   * 100.0% to use Bubble: score 5
+   *   0.0% to use Water Sport: score 0
+   => will use Bubble
+
+
+[Round order] Scraggy (0), the opposing Prinplup (1)
+[Move usage] Scraggy started using Payback
+Scraggy used Payback!
+[HP change] The opposing Prinplup lost 2 HP (2=>0)
+[Move damage] The opposing Prinplup lost 2 HP (2=>0)
+The opposing Prinplup fainted!
+Scraggy got 1 Exp. Points!
+
+***Player won***
+You defeated Youngster Joey!
+Wow. You're great!
+You got $176 for winning!
+Roles for HITMONTOP: [:CRIT]
+=====> Nature for Hitmontop: Adamant
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Don!
+Youngster Don sent out Hitmontop!
+Go! Scraggy!
+[Round order] Scraggy (0), the opposing Hitmontop (1)
+[Ability triggered] The opposing Hitmontop's Intimidate
+[Stat change] Scraggy's Attack: 0 -> -1 (-1)
+Scraggy's Attack fell!
+
+***Round 1***
+
+     Threat Score for Scraggy (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Scraggy (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Hitmontop (1) is considering using Fake Out (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+     + 18 for using turn 1
+[AI] Hitmontop (1) is considering using Focus Energy (4)...
+[AI] Hitmontop (1) is considering using Quick Attack (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+     + 4 to prioritize highest damaging move
+[AI] Hitmontop (1) is considering using Gyro Ball (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+[AI] Move choices for Hitmontop (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Focus Energy: score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Gyro Ball (target 0): score 0
+   => will use Fake Out (target 0)
+
+
+[Round order] The opposing Hitmontop (1), Scraggy (0)
+[Move usage] The opposing Hitmontop started using Fake Out
+The opposing Hitmontop used Fake Out!
+[HP change] Scraggy lost 5 HP (27=>22)
+[Move damage] Scraggy lost 5 HP (27=>22)
+[HP change] Scraggy gained 10 HP (22=>32)
+Scraggy restored a little HP using its Oran Berry!
+[Item consumed] Scraggy consumed its held Oran Berry
+[Move usage] Scraggy started using Payback
+Scraggy flinched and couldn't move!
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 2***
+
+     Threat Score for Scraggy (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hitmontop (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Hitmontop (1) is considering using Focus Energy (4)...
+[AI] Hitmontop (1) is considering using Quick Attack (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+     + 4 to prioritize highest damaging move
+[AI] Hitmontop (1) is considering using Gyro Ball (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+[AI] Move choices for Hitmontop (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Focus Energy: score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Gyro Ball (target 0): score 0
+   => will use Quick Attack (target 0)
+
+
+[Round order] The opposing Hitmontop (1), Scraggy (0)
+[Move usage] The opposing Hitmontop started using Quick Attack
+The opposing Hitmontop used Quick Attack!
+[HP change] Scraggy lost 6 HP (32=>26)
+[Move damage] Scraggy lost 6 HP (32=>26)
+[Move usage] Scraggy started using Low Kick
+Scraggy used Low Kick!
+[HP change] The opposing Hitmontop lost 11 HP (35=>24)
+[Move damage] The opposing Hitmontop lost 11 HP (35=>24)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 3***
+
+     Threat Score for Scraggy (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hitmontop (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Hitmontop (1) is considering using Focus Energy (4)...
+[AI] Hitmontop (1) is considering using Quick Attack (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+     + 4 to prioritize highest damaging move
+[AI] Hitmontop (1) is considering using Gyro Ball (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+[AI] Move choices for Hitmontop (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Focus Energy: score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Gyro Ball (target 0): score 0
+   => will use Quick Attack (target 0)
+
+
+[Round order] The opposing Hitmontop (1), Scraggy (0)
+[Move usage] The opposing Hitmontop started using Quick Attack
+The opposing Hitmontop used Quick Attack!
+[HP change] Scraggy lost 9 HP (26=>17)
+[Move damage] Scraggy lost 9 HP (26=>17)
+A critical hit!
+[Move usage] Scraggy started using Low Kick
+Scraggy used Low Kick!
+[HP change] The opposing Hitmontop lost 11 HP (24=>13)
+[Move damage] The opposing Hitmontop lost 11 HP (24=>13)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 4***
+
+     Threat Score for Scraggy (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hitmontop (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Hitmontop (1) is considering using Focus Energy (4)...
+[AI] Hitmontop (1) is considering using Quick Attack (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+     + 4 to prioritize highest damaging move
+[AI] Hitmontop (1) is considering using Gyro Ball (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+[AI] Move choices for Hitmontop (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Focus Energy: score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Gyro Ball (target 0): score 0
+   => will use Quick Attack (target 0)
+
+
+[Round order] The opposing Hitmontop (1), Scraggy (0)
+[Move usage] The opposing Hitmontop started using Quick Attack
+The opposing Hitmontop used Quick Attack!
+[HP change] Scraggy lost 6 HP (17=>11)
+[Move damage] Scraggy lost 6 HP (17=>11)
+[Move usage] Scraggy started using Low Kick
+Scraggy used Low Kick!
+[HP change] The opposing Hitmontop lost 10 HP (13=>3)
+[Move damage] The opposing Hitmontop lost 10 HP (13=>3)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 5***
+
+     Threat Score for Scraggy (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hitmontop (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Hitmontop (1) is considering using Focus Energy (4)...
+[AI] Hitmontop (1) is considering using Quick Attack (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+     + 9 to get a last ditch hit off.
+     + 4 to prioritize highest damaging move
+[AI] Hitmontop (1) is considering using Gyro Ball (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+[AI] Move choices for Hitmontop (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Focus Energy: score 0
+   * 100.0% to use Quick Attack (target 0): score 14
+   *   0.0% to use Gyro Ball (target 0): score 0
+   => will use Quick Attack (target 0)
+
+
+[Round order] The opposing Hitmontop (1), Scraggy (0)
+[Move usage] The opposing Hitmontop started using Quick Attack
+The opposing Hitmontop used Quick Attack!
+[HP change] Scraggy lost 5 HP (11=>6)
+[Move damage] Scraggy lost 5 HP (11=>6)
+[Move usage] Scraggy started using Low Kick
+Scraggy used Low Kick!
+[HP change] The opposing Hitmontop lost 3 HP (3=>0)
+[Move damage] The opposing Hitmontop lost 3 HP (3=>0)
+The opposing Hitmontop fainted!
+
+***Player won***
+You defeated Youngster Don!
+Roles for PRINPLUP: [:NONE]
+=====> Nature for Prinplup: Modest
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Joey!
+Youngster Joey sent out Prinplup!
+Go! Scraggy!
+[Round order] Scraggy (0), the opposing Prinplup (1)
+
+***Round 1***
+
+     Threat Score for Scraggy (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Scraggy (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Prinplup (1) is considering using Tackle (1) against Scraggy (0)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+[AI] Prinplup (1) is considering using Growl (4)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+     - 3 because this will be pointless
+[AI] Prinplup (1) is considering using Bubble (1)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+     + 4 to prioritize highest damaging move
+[AI] Prinplup (1) is considering using Water Sport (4)...
+[AI] Move choices for Prinplup (1):
+   *   0.0% to use Tackle (target 0): score 0
+   *   0.0% to use Growl: score 0
+   * 100.0% to use Bubble: score 5
+   *   0.0% to use Water Sport: score 0
+   => will use Bubble
+
+
+[Round order] Scraggy (0), the opposing Prinplup (1)
+[Move usage] Scraggy started using Low Kick
+Scraggy used Low Kick!
+[HP change] The opposing Prinplup lost 14 HP (38=>24)
+[Move damage] The opposing Prinplup lost 14 HP (38=>24)
+[Move usage] The opposing Prinplup started using Bubble
+The opposing Prinplup used Bubble!
+[HP change] Scraggy lost 8 HP (44=>36)
+[Move damage] Scraggy lost 8 HP (44=>36)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 2***
+
+     Threat Score for Scraggy (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Prinplup (1) is considering using Tackle (1) against Scraggy (0)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+[AI] Prinplup (1) is considering using Growl (4)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+     - 3 because this will be pointless
+[AI] Prinplup (1) is considering using Bubble (1)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+     + 4 to prioritize highest damaging move
+[AI] Prinplup (1) is considering using Water Sport (4)...
+[AI] Move choices for Prinplup (1):
+   *   0.0% to use Tackle (target 0): score 0
+   *   0.0% to use Growl: score 0
+   * 100.0% to use Bubble: score 5
+   *   0.0% to use Water Sport: score 0
+   => will use Bubble
+
+
+[Round order] Scraggy (0), the opposing Prinplup (1)
+[Move usage] Scraggy started using Payback
+Scraggy used Payback!
+[HP change] The opposing Prinplup lost 18 HP (24=>6)
+[Move damage] The opposing Prinplup lost 18 HP (24=>6)
+[Move usage] The opposing Prinplup started using Bubble
+The opposing Prinplup used Bubble!
+[HP change] Scraggy lost 9 HP (36=>27)
+[Move damage] Scraggy lost 9 HP (36=>27)
+[Stat change] Scraggy's Speed: 0 -> -1 (-1)
+Scraggy's Speed fell!
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 3***
+
+     Threat Score for Scraggy (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Prinplup (1) is considering using Tackle (1) against Scraggy (0)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+[AI] Prinplup (1) is considering using Growl (4)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+     - 3 because this will be pointless
+[AI] Prinplup (1) is considering using Bubble (1)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+     + 4 to prioritize highest damaging move
+[AI] Prinplup (1) is considering using Water Sport (4)...
+[AI] Move choices for Prinplup (1):
+   *   0.0% to use Tackle (target 0): score 0
+   *   0.0% to use Growl: score 0
+   * 100.0% to use Bubble: score 5
+   *   0.0% to use Water Sport: score 0
+   => will use Bubble
+
+
+[Round order] The opposing Prinplup (1), Scraggy (0)
+[Move usage] The opposing Prinplup started using Bubble
+The opposing Prinplup used Bubble!
+[HP change] Scraggy lost 8 HP (27=>19)
+[Move damage] Scraggy lost 8 HP (27=>19)
+[HP change] Scraggy gained 10 HP (19=>29)
+Scraggy restored a little HP using its Oran Berry!
+[Item consumed] Scraggy consumed its held Oran Berry
+[Move usage] Scraggy started using Payback
+Scraggy used Payback!
+[HP change] The opposing Prinplup lost 6 HP (6=>0)
+[Move damage] The opposing Prinplup lost 6 HP (6=>0)
+The opposing Prinplup fainted!
+Scraggy got 1 Exp. Points!
+
+***Player won***
+You defeated Youngster Joey!
+Wow. You're great!
+You got $176 for winning!
+Roles for HITMONTOP: [:CRIT]
+=====> Nature for Hitmontop: Adamant
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Don!
+Youngster Don sent out Hitmontop!
+Go! Scraggy!
+[Round order] Scraggy (0), the opposing Hitmontop (1)
+[Ability triggered] The opposing Hitmontop's Intimidate
+[Stat change] Scraggy's Attack: 0 -> -1 (-1)
+Scraggy's Attack fell!
+
+***Round 1***
+
+     Threat Score for Scraggy (0): 0
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Scraggy (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Hitmontop (1) is considering using Fake Out (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+     + 18 for using turn 1
+[AI] Hitmontop (1) is considering using Focus Energy (4)...
+[AI] Hitmontop (1) is considering using Quick Attack (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+     + 4 to prioritize highest damaging move
+[AI] Hitmontop (1) is considering using Gyro Ball (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+[AI] Move choices for Hitmontop (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Focus Energy: score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Gyro Ball (target 0): score 0
+   => will use Fake Out (target 0)
+
+
+[Round order] The opposing Hitmontop (1), Scraggy (0)
+[Move usage] The opposing Hitmontop started using Fake Out
+The opposing Hitmontop used Fake Out!
+[HP change] Scraggy lost 6 HP (29=>23)
+[Move damage] Scraggy lost 6 HP (29=>23)
+[Move usage] Scraggy started using Low Kick
+Scraggy flinched and couldn't move!
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 2***
+
+     Threat Score for Scraggy (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hitmontop (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Hitmontop (1) is considering using Focus Energy (4)...
+[AI] Hitmontop (1) is considering using Quick Attack (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+     + 4 to prioritize highest damaging move
+[AI] Hitmontop (1) is considering using Gyro Ball (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+[AI] Move choices for Hitmontop (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Focus Energy: score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Gyro Ball (target 0): score 0
+   => will use Quick Attack (target 0)
+
+
+[Round order] The opposing Hitmontop (1), Scraggy (0)
+[Move usage] The opposing Hitmontop started using Quick Attack
+The opposing Hitmontop used Quick Attack!
+[HP change] Scraggy lost 5 HP (23=>18)
+[Move damage] Scraggy lost 5 HP (23=>18)
+[HP change] Scraggy gained 10 HP (18=>28)
+Scraggy restored a little HP using its Oran Berry!
+[Item consumed] Scraggy consumed its held Oran Berry
+[Move usage] Scraggy started using Low Kick
+Scraggy used Low Kick!
+[HP change] The opposing Hitmontop lost 10 HP (35=>25)
+[Move damage] The opposing Hitmontop lost 10 HP (35=>25)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 3***
+
+     Threat Score for Scraggy (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hitmontop (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Hitmontop (1) is considering using Focus Energy (4)...
+[AI] Hitmontop (1) is considering using Quick Attack (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+     + 4 to prioritize highest damaging move
+[AI] Hitmontop (1) is considering using Gyro Ball (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+[AI] Move choices for Hitmontop (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Focus Energy: score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Gyro Ball (target 0): score 0
+   => will use Quick Attack (target 0)
+
+
+[Round order] The opposing Hitmontop (1), Scraggy (0)
+[Move usage] The opposing Hitmontop started using Quick Attack
+The opposing Hitmontop used Quick Attack!
+[HP change] Scraggy lost 6 HP (28=>22)
+[Move damage] Scraggy lost 6 HP (28=>22)
+[Move usage] Scraggy started using Low Kick
+Scraggy used Low Kick!
+[HP change] The opposing Hitmontop lost 11 HP (25=>14)
+[Move damage] The opposing Hitmontop lost 11 HP (25=>14)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 4***
+
+     Threat Score for Scraggy (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hitmontop (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Hitmontop (1) is considering using Focus Energy (4)...
+[AI] Hitmontop (1) is considering using Quick Attack (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+     + 4 to prioritize highest damaging move
+[AI] Hitmontop (1) is considering using Gyro Ball (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+[AI] Move choices for Hitmontop (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Focus Energy: score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Gyro Ball (target 0): score 0
+   => will use Quick Attack (target 0)
+
+
+[Round order] The opposing Hitmontop (1), Scraggy (0)
+[Move usage] The opposing Hitmontop started using Quick Attack
+The opposing Hitmontop used Quick Attack!
+[HP change] Scraggy lost 5 HP (22=>17)
+[Move damage] Scraggy lost 5 HP (22=>17)
+[Move usage] Scraggy started using Low Kick
+Scraggy used Low Kick!
+[HP change] The opposing Hitmontop lost 10 HP (14=>4)
+[Move damage] The opposing Hitmontop lost 10 HP (14=>4)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 5***
+
+     Threat Score for Scraggy (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hitmontop (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Hitmontop (1) is considering using Focus Energy (4)...
+[AI] Hitmontop (1) is considering using Quick Attack (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+     + 9 to get a last ditch hit off.
+     + 4 to prioritize highest damaging move
+[AI] Hitmontop (1) is considering using Gyro Ball (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+[AI] Move choices for Hitmontop (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Focus Energy: score 0
+   * 100.0% to use Quick Attack (target 0): score 14
+   *   0.0% to use Gyro Ball (target 0): score 0
+   => will use Quick Attack (target 0)
+
+
+[Round order] The opposing Hitmontop (1), Scraggy (0)
+[Move usage] The opposing Hitmontop started using Quick Attack
+The opposing Hitmontop used Quick Attack!
+[HP change] Scraggy lost 6 HP (17=>11)
+[Move damage] Scraggy lost 6 HP (17=>11)
+[Move usage] Scraggy started using Low Kick
+Scraggy used Low Kick!
+[HP change] The opposing Hitmontop lost 4 HP (4=>0)
+[Move damage] The opposing Hitmontop lost 4 HP (4=>0)
+The opposing Hitmontop fainted!
+
+***Player won***
+You defeated Youngster Don!
+Wow. You're great!
+You got $176 for winning!
+
+******************************************
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+Oh! A wild Bidoof appeared!
+Go! Scraggy!
+[Round order] Scraggy (0), the wild Bidoof (1)
+[HP change] Scraggy gained 10 HP (11=>21)
+Scraggy restored a little HP using its Oran Berry!
+[Item consumed] Scraggy consumed its held Oran Berry
+
+***Round 1***
+
+You got away safely!
+
+******************************************
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+Oh! A wild Ursaring appeared!
+Go! Scraggy!
+[Round order] Scraggy (0), the wild Ursaring (1)
+
+***Round 1***
+
+You got away safely!
+Roles for GROVYLE: [:NONE]
+=====> Nature for Grovyle: Adamant
+Roles for CHIMECHO: [:NONE]
+=====> Nature for Chimecho: Modest
+Roles for MARSHTOMP: [:NONE]
+=====> Nature for Marshtomp: Adamant
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Bug Catcher Cale!
+Bug Catcher Cale sent out Grovyle!
+Go! Scraggy!
+[Round order] The opposing Grovyle (1), Scraggy (0)
+
+***Round 1***
+
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Scraggy (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Scraggy (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Grovyle (1) is considering using Leer (4)...
+     Grovyle (1)'s highest damaging move vs Scraggy: Mega Drain
+     + 1 to make equal to highest damaging move
+[AI] Grovyle (1) is considering using Leafage (1) against Scraggy (0)...
+     Grovyle (1)'s highest damaging move vs Scraggy: Mega Drain
+[AI] Grovyle (1) is considering using Quick Attack (1) against Scraggy (0)...
+     Grovyle (1)'s highest damaging move vs Scraggy: Mega Drain
+[AI] Grovyle (1) is considering using Mega Drain (1) against Scraggy (0)...
+     Grovyle (1)'s highest damaging move vs Scraggy: Mega Drain
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Grovyle (1):
+   *  50.0% to use Leer: score 5
+   *   0.0% to use Leafage (target 0): score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *  50.0% to use Mega Drain (target 0): score 5
+   => will use Mega Drain (target 0)
+
+
+[Round order] The opposing Grovyle (1), Scraggy (0)
+[Move usage] The opposing Grovyle started using Mega Drain
+The opposing Grovyle used Mega Drain!
+[HP change] Scraggy lost 10 HP (21=>11)
+[Move damage] Scraggy lost 10 HP (21=>11)
+Scraggy had its energy drained!
+[Move usage] Scraggy started using Payback
+Scraggy used Payback!
+[HP change] The opposing Grovyle lost 35 HP (35=>0)
+[Move damage] The opposing Grovyle lost 35 HP (35=>0)
+The opposing Grovyle fainted!
+[Ability triggered] Scraggy's Beast Boost
+[Stat change] Scraggy's Defense: 0 -> 1 (+1)
+Scraggy's Defense rose!
+
+[End of round]
+Trick Room Turns: 0
+==============================
+     [Chimecho] using Mach Pulse vs Scraggy does a max of 7/11 damage
+     [Chimecho] using Fairy Wind vs Scraggy does a max of 42/11 damage
+     Scraggy (0)'s best move: Payback for 17/45 damage
+==============================
+     Scraggy (0) speed (24) vs Chimecho speed: 27
+     [Chimecho] + 12: for fast kill
+     [Chimecho] final Switch score: 12
+==============================
+     [Marshtomp] using Water Gun vs Scraggy does a max of 6/11 damage
+     [Marshtomp] using Rock Smash vs Scraggy does a max of 12/11 damage
+     [Marshtomp] using Rock Throw vs Scraggy does a max of 3/11 damage
+     Scraggy (0)'s best move: Payback for 20/39 damage
+==============================
+     Scraggy (0) speed (24) vs Marshtomp speed: 19
+     [Marshtomp] +  9: for slow kill
+     [Marshtomp] final Switch score: 9
+[AI] Highest move score (10) vs Switch In Score (12)
+Bug Catcher Cale sent out Chimecho!
+
+***Round 2***
+
+     move will not affect Scraggy (0)
+     [Switch AI] -7 We have fast kill
+[AI] Switch out Score (-7) vs Highest Moves Score (21)
+[AI] The AI will not try to switch.
+     Threat Score for Scraggy (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Chimecho (1) is considering using Mach Pulse (1) against Scraggy (0)...
+     Chimecho (1)'s highest damaging move vs Scraggy: Fairy Wind
+[AI] Chimecho (1) is considering using Growl (4)...
+     Chimecho (1)'s highest damaging move vs Scraggy: Fairy Wind
+     + 1 to make equal to highest damaging move
+     - 4 because we see kill or target sees 2HKO
+[AI] Chimecho (1) is considering using Fairy Wind (1) against Scraggy (0)...
+     Chimecho (1)'s highest damaging move vs Scraggy: Fairy Wind
+      + 20 for fast kill
+[AI] Chimecho (1) is considering using Confusion (1) against Scraggy (0)...
+     Chimecho (1)'s highest damaging move vs Scraggy: Fairy Wind
+     move will not affect Scraggy (0)
+     -  1: move will fail
+[AI] Move choices for Chimecho (1):
+   *   0.0% to use Mach Pulse (target 0): score 0
+   *   0.0% to use Growl: score 0
+   * 100.0% to use Fairy Wind (target 0): score 21
+   *   0.0% to use Confusion (target 0): score 0
+   => will use Fairy Wind (target 0)
+
+
+[Round order] The opposing Chimecho (1), Scraggy (0)
+[Move usage] The opposing Chimecho started using Fairy Wind
+The opposing Chimecho used Fairy Wind!
+[HP change] Scraggy lost 11 HP (11=>0)
+[Move damage] Scraggy lost 11 HP (11=>0)
+It's super effective!
+Scraggy fainted!
+
+***Player lost***
+You have no more Pokémon that can fight!
+You lost against Bug Catcher Cale!
+You gave $120 to the winner...
+You blacked out!
+Roles for HITMONTOP: [:CRIT]
+=====> Nature for Hitmontop: Adamant
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Don!
+Youngster Don sent out Hitmontop!
+Go! Scraggy!
+[Round order] Scraggy (0), the opposing Hitmontop (1)
+
+***Round 1***
+
+     Threat Score for Scraggy (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Scraggy (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Hitmontop (1) is considering using Fake Out (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+     + 18 for using turn 1
+[AI] Hitmontop (1) is considering using Focus Energy (4)...
+
+**Exception: undefined method `rough_damage' for nil:NilClass
+[Phantombass AI] 01_AI_Move_Scoring.rb:518:in `block in <main>'
+[Phantombass AI] 01_AI_Move_Scoring.rb:89:in `block in trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:87:in `each'
+[Phantombass AI] 01_AI_Move_Scoring.rb:87:in `trigger'
+[Phantombass AI] 01_AI_Move_Scoring.rb:100:in `trigger_status_moves'
+[Phantombass AI] 03_AI_Moves.rb:287:in `pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:91:in `block (2 levels) in pbGetMoveScores'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+[Phantombass AI] 03_AI_Moves.rb:91:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:461:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:461:in `each'
+001_Battle_Battler.rb:461:in `each_with_index'
+001_Battle_Battler.rb:461:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:58:in `pbGetMoveScores'
+[Phantombass AI] 01_AI_Main.rb:82:in `pbDefaultChooseEnemyCommand'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:597:in `block in pbCommandPhaseLoop'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:588:in `loop'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:588:in `pbCommandPhaseLoop'
+[Essentials Deluxe] Battle.rb:242:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:335:in `block (2 levels) in pbBattleLoop'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+002_Battle_StartAndEnd.rb:335:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:323:in `loop'
+002_Battle_StartAndEnd.rb:323:in `pbBattleLoop'
+[Pokemon Grueling Gold Scripts] 12_Item_Mechanics.rb:270:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:271:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:513:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:512:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:130:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:511:in `start_core'
+001_Overworld_BattleStarting.rb:477:in `start'
+(eval):1:in `execute_script'
+003_Interpreter.rb:143:in `eval'
+003_Interpreter.rb:143:in `execute_script'
+004_Interpreter_Commands.rb:428:in `command_111'
+004_Interpreter_Commands.rb:29:in `execute_command'
+003_Interpreter.rb:133:in `block in update'
+003_Interpreter.rb:90:in `loop'
+003_Interpreter.rb:90:in `update'
+[Following Pokemon EX] Refresh.rb:268:in `update'
+002_Scene_Map.rb:160:in `block in update'
+002_Scene_Map.rb:159:in `loop'
+002_Scene_Map.rb:159:in `update'
+[Pokemon Grueling Gold Scripts] 22_Unreal_Time.rb:199:in `update'
+[Following Pokemon EX] Refresh.rb:178:in `update'
+[v20.1 Hotfixes] Overworld bug fixes.rb:28:in `block in main'
+[v20.1 Hotfixes] Overworld bug fixes.rb:25:in `loop'
+[v20.1 Hotfixes] Overworld bug fixes.rb:25:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+Roles for HITMONTOP: [:CRIT]
+=====> Nature for Hitmontop: Adamant
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Don!
+Youngster Don sent out Hitmontop!
+Go! Scraggy!
+[Round order] Scraggy (0), the opposing Hitmontop (1)
+
+***Round 1***
+
+     Threat Score for Scraggy (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Scraggy (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Hitmontop (1) is considering using Fake Out (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+     + 18 for using turn 1
+[AI] Hitmontop (1) is considering using Focus Energy (4)...
+[AI] Hitmontop (1) is considering using Quick Attack (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+     + 4 to prioritize highest damaging move
+[AI] Hitmontop (1) is considering using Gyro Ball (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+[AI] Move choices for Hitmontop (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Focus Energy: score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Gyro Ball (target 0): score 0
+   => will use Fake Out (target 0)
+
+
+[Round order] The opposing Hitmontop (1), Scraggy (0)
+[Move usage] The opposing Hitmontop started using Fake Out
+The opposing Hitmontop used Fake Out!
+[HP change] Scraggy lost 7 HP (44=>37)
+[Move damage] Scraggy lost 7 HP (44=>37)
+[Move usage] Scraggy started using Low Kick
+Scraggy flinched and couldn't move!
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 2***
+
+     Threat Score for Scraggy (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hitmontop (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Hitmontop (1) is considering using Focus Energy (4)...
+[AI] Hitmontop (1) is considering using Quick Attack (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+     + 4 to prioritize highest damaging move
+[AI] Hitmontop (1) is considering using Gyro Ball (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+[AI] Move choices for Hitmontop (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Focus Energy: score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Gyro Ball (target 0): score 0
+   => will use Quick Attack (target 0)
+
+
+[Round order] The opposing Hitmontop (1), Scraggy (0)
+[Move usage] The opposing Hitmontop started using Quick Attack
+The opposing Hitmontop used Quick Attack!
+[HP change] Scraggy lost 8 HP (37=>29)
+[Move damage] Scraggy lost 8 HP (37=>29)
+[Move usage] Scraggy started using Low Kick
+Scraggy used Low Kick!
+[HP change] The opposing Hitmontop lost 18 HP (35=>17)
+[Move damage] The opposing Hitmontop lost 18 HP (35=>17)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 3***
+
+     Threat Score for Scraggy (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hitmontop (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Hitmontop (1) is considering using Focus Energy (4)...
+[AI] Hitmontop (1) is considering using Quick Attack (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+     + 4 to prioritize highest damaging move
+[AI] Hitmontop (1) is considering using Gyro Ball (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+[AI] Move choices for Hitmontop (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Focus Energy: score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Gyro Ball (target 0): score 0
+   => will use Quick Attack (target 0)
+
+
+[Round order] The opposing Hitmontop (1), Scraggy (0)
+[Move usage] The opposing Hitmontop started using Quick Attack
+The opposing Hitmontop used Quick Attack!
+[HP change] Scraggy lost 8 HP (29=>21)
+[Move damage] Scraggy lost 8 HP (29=>21)
+[HP change] Scraggy gained 10 HP (21=>31)
+Scraggy restored a little HP using its Oran Berry!
+[Item consumed] Scraggy consumed its held Oran Berry
+[Move usage] Scraggy started using Low Kick
+Scraggy used Low Kick!
+[HP change] The opposing Hitmontop lost 16 HP (17=>1)
+[Move damage] The opposing Hitmontop lost 16 HP (17=>1)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 4***
+
+     Threat Score for Scraggy (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hitmontop (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Hitmontop (1) is considering using Focus Energy (4)...
+[AI] Hitmontop (1) is considering using Quick Attack (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+     + 9 to get a last ditch hit off.
+     + 4 to prioritize highest damaging move
+[AI] Hitmontop (1) is considering using Gyro Ball (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+[AI] Move choices for Hitmontop (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Focus Energy: score 0
+   * 100.0% to use Quick Attack (target 0): score 14
+   *   0.0% to use Gyro Ball (target 0): score 0
+   => will use Quick Attack (target 0)
+
+
+[Round order] The opposing Hitmontop (1), Scraggy (0)
+[Move usage] The opposing Hitmontop started using Quick Attack
+The opposing Hitmontop used Quick Attack!
+[HP change] Scraggy lost 8 HP (31=>23)
+[Move damage] Scraggy lost 8 HP (31=>23)
+[Move usage] Scraggy started using Low Kick
+Scraggy used Low Kick!
+[HP change] The opposing Hitmontop lost 1 HP (1=>0)
+[Move damage] The opposing Hitmontop lost 1 HP (1=>0)
+The opposing Hitmontop fainted!
+Scraggy got 1 Exp. Points!
+
+***Player won***
+You defeated Youngster Don!
+Wow. You're great!
+You got $176 for winning!
+Roles for SNIVY: [:SETUPSWEEPER]
+=====> Nature for Snivy: Timid
+Roles for BUIZEL: [:NONE]
+=====> Nature for Buizel: Modest
+Roles for ARMAROUGE: [:SUPPORT]
+=====> Nature for Armarouge: Modest
+Roles for SHELLDER: [:NONE]
+=====> Nature for Shellder: Modest
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rival Kris!
+Rival Kris sent out Snivy!
+Go! Scraggy!
+[Round order] Scraggy (0), the opposing Snivy (1)
+
+***Round 1***
+
+Roles for PIKACHU: [:SPECIALBREAKER]
+Roles for MARILL: [:PHYSICALBREAKER]
+Roles for CYNDAQUIL: [:SPECIALBREAKER]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rival Kris!
+Rival Kris sent out Pikachu!
+Go! Scraggy!
+[Round order] The opposing Pikachu (1), Scraggy (0)
+
+***Round 1***
+
+Roles for HITMONTOP: [:CRIT]
+=====> Nature for Hitmontop: Adamant
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Don!
+Youngster Don sent out Hitmontop!
+Go! Scraggy!
+[Round order] Scraggy (0), the opposing Hitmontop (1)
+
+***Round 1***
+
+     Threat Score for Scraggy (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Scraggy (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Hitmontop (1) is considering using Fake Out (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+     + 18 for using turn 1
+[AI] Hitmontop (1) is considering using Focus Energy (4)...
+[AI] Hitmontop (1) is considering using Quick Attack (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+     + 4 to prioritize highest damaging move
+[AI] Hitmontop (1) is considering using Gyro Ball (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+[AI] Move choices for Hitmontop (1):
+   * 100.0% to use Fake Out (target 0): score 19
+   *   0.0% to use Focus Energy: score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Gyro Ball (target 0): score 0
+   => will use Fake Out (target 0)
+
+
+[Round order] The opposing Hitmontop (1), Scraggy (0)
+[Move usage] The opposing Hitmontop started using Fake Out
+The opposing Hitmontop used Fake Out!
+[HP change] Scraggy lost 5 HP (44=>39)
+[Move damage] Scraggy lost 5 HP (44=>39)
+[Move usage] Scraggy started using Payback
+Scraggy flinched and couldn't move!
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 2***
+
+     Threat Score for Scraggy (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hitmontop (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Hitmontop (1) is considering using Focus Energy (4)...
+[AI] Hitmontop (1) is considering using Quick Attack (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+     + 4 to prioritize highest damaging move
+[AI] Hitmontop (1) is considering using Gyro Ball (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+[AI] Move choices for Hitmontop (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Focus Energy: score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Gyro Ball (target 0): score 0
+   => will use Quick Attack (target 0)
+
+
+[Round order] The opposing Hitmontop (1), Scraggy (0)
+[Move usage] The opposing Hitmontop started using Quick Attack
+The opposing Hitmontop used Quick Attack!
+[HP change] Scraggy lost 5 HP (39=>34)
+[Move damage] Scraggy lost 5 HP (39=>34)
+[Move usage] Scraggy started using Payback
+Scraggy used Payback!
+[HP change] The opposing Hitmontop lost 12 HP (35=>23)
+[Move damage] The opposing Hitmontop lost 12 HP (35=>23)
+It's not very effective...
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 3***
+
+     Threat Score for Scraggy (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hitmontop (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Hitmontop (1) is considering using Focus Energy (4)...
+[AI] Hitmontop (1) is considering using Quick Attack (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+     + 4 to prioritize highest damaging move
+[AI] Hitmontop (1) is considering using Gyro Ball (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+[AI] Move choices for Hitmontop (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Focus Energy: score 0
+   * 100.0% to use Quick Attack (target 0): score 5
+   *   0.0% to use Gyro Ball (target 0): score 0
+   => will use Quick Attack (target 0)
+
+
+[Round order] The opposing Hitmontop (1), Scraggy (0)
+[Move usage] The opposing Hitmontop started using Quick Attack
+The opposing Hitmontop used Quick Attack!
+[HP change] Scraggy lost 5 HP (34=>29)
+[Move damage] Scraggy lost 5 HP (34=>29)
+[Move usage] Scraggy started using Payback
+Scraggy used Payback!
+[HP change] The opposing Hitmontop lost 12 HP (23=>11)
+[Move damage] The opposing Hitmontop lost 12 HP (23=>11)
+It's not very effective...
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 4***
+
+     Threat Score for Scraggy (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Hitmontop (1) is considering using Fake Out...
+     +  1: move will fail
+[AI] Hitmontop (1) is considering using Focus Energy (4)...
+[AI] Hitmontop (1) is considering using Quick Attack (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+     + 9 to get a last ditch hit off.
+     + 4 to prioritize highest damaging move
+[AI] Hitmontop (1) is considering using Gyro Ball (1) against Scraggy (0)...
+     Hitmontop (1)'s highest damaging move vs Scraggy: Quick Attack
+[AI] Move choices for Hitmontop (1):
+   *   0.0% to use Fake Out: score 0
+   *   0.0% to use Focus Energy: score 0
+   * 100.0% to use Quick Attack (target 0): score 14
+   *   0.0% to use Gyro Ball (target 0): score 0
+   => will use Quick Attack (target 0)
+
+
+[Round order] The opposing Hitmontop (1), Scraggy (0)
+[Move usage] The opposing Hitmontop started using Quick Attack
+The opposing Hitmontop used Quick Attack!
+[HP change] Scraggy lost 5 HP (29=>24)
+[Move damage] Scraggy lost 5 HP (29=>24)
+[Move usage] Scraggy started using Low Kick
+Scraggy used Low Kick!
+[HP change] The opposing Hitmontop lost 11 HP (11=>0)
+[Move damage] The opposing Hitmontop lost 11 HP (11=>0)
+The opposing Hitmontop fainted!
+Scraggy got 1 Exp. Points!
+
+***Player won***
+You defeated Youngster Don!
+Wow. You're great!
+You got $176 for winning!
+Roles for PRINPLUP: [:NONE]
+=====> Nature for Prinplup: Modest
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Joey!
+Youngster Joey sent out Prinplup!
+Go! Scraggy!
+[Round order] Scraggy (0), the opposing Prinplup (1)
+
+***Round 1***
+
+     Threat Score for Scraggy (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Scraggy (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Prinplup (1) is considering using Tackle (1) against Scraggy (0)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+[AI] Prinplup (1) is considering using Growl (4)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+     + 1 to make equal to highest damaging move
+[AI] Prinplup (1) is considering using Bubble (1)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+     + 4 to prioritize highest damaging move
+[AI] Prinplup (1) is considering using Water Sport (4)...
+[AI] Move choices for Prinplup (1):
+   *   0.0% to use Tackle (target 0): score 0
+   *  50.0% to use Growl: score 5
+   *  50.0% to use Bubble: score 5
+   *   0.0% to use Water Sport: score 0
+   => will use Bubble
+
+
+[Round order] Scraggy (0), the opposing Prinplup (1)
+[Move usage] Scraggy started using Low Kick
+Scraggy used Low Kick!
+[HP change] The opposing Prinplup lost 15 HP (38=>23)
+[Move damage] The opposing Prinplup lost 15 HP (38=>23)
+[Move usage] The opposing Prinplup started using Bubble
+The opposing Prinplup used Bubble!
+[HP change] Scraggy lost 9 HP (24=>15)
+[Move damage] Scraggy lost 9 HP (24=>15)
+[HP change] Scraggy gained 10 HP (15=>25)
+Scraggy restored a little HP using its Oran Berry!
+[Item consumed] Scraggy consumed its held Oran Berry
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 2***
+
+     Threat Score for Scraggy (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Prinplup (1) is considering using Tackle (1) against Scraggy (0)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+[AI] Prinplup (1) is considering using Growl (4)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+     - 3 because this will be pointless
+[AI] Prinplup (1) is considering using Bubble (1)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+     + 4 to prioritize highest damaging move
+[AI] Prinplup (1) is considering using Water Sport (4)...
+[AI] Move choices for Prinplup (1):
+   *   0.0% to use Tackle (target 0): score 0
+   *   0.0% to use Growl: score 0
+   * 100.0% to use Bubble: score 5
+   *   0.0% to use Water Sport: score 0
+   => will use Bubble
+
+
+[Round order] Scraggy (0), the opposing Prinplup (1)
+[Move usage] Scraggy started using Low Kick
+Scraggy used Low Kick!
+[HP change] The opposing Prinplup lost 14 HP (23=>9)
+[Move damage] The opposing Prinplup lost 14 HP (23=>9)
+[Move usage] The opposing Prinplup started using Bubble
+The opposing Prinplup used Bubble!
+[HP change] Scraggy lost 8 HP (25=>17)
+[Move damage] Scraggy lost 8 HP (25=>17)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 3***
+
+     Threat Score for Scraggy (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Prinplup (1) is considering using Tackle (1) against Scraggy (0)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+[AI] Prinplup (1) is considering using Growl (4)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+     - 3 because this will be pointless
+[AI] Prinplup (1) is considering using Bubble (1)...
+     Prinplup (1)'s highest damaging move vs Scraggy: Bubble
+     + 4 to prioritize highest damaging move
+[AI] Prinplup (1) is considering using Water Sport (4)...
+[AI] Move choices for Prinplup (1):
+   *   0.0% to use Tackle (target 0): score 0
+   *   0.0% to use Growl: score 0
+   * 100.0% to use Bubble: score 5
+   *   0.0% to use Water Sport: score 0
+   => will use Bubble
+
+
+[Round order] Scraggy (0), the opposing Prinplup (1)
+[Move usage] Scraggy started using Low Kick
+Scraggy used Low Kick!
+[HP change] The opposing Prinplup lost 9 HP (9=>0)
+[Move damage] The opposing Prinplup lost 9 HP (9=>0)
+The opposing Prinplup fainted!
+
+***Player won***
+You defeated Youngster Joey!
+Wow. You're great!
+You got $176 for winning!
+Roles for PIKACHU: [:SPECIALBREAKER]
+Roles for MARILL: [:PHYSICALBREAKER]
+Roles for CYNDAQUIL: [:SPECIALBREAKER]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rival Kris!
+Rival Kris sent out Pikachu!
+Go! Scraggy!
+[Round order] The opposing Pikachu (1), Scraggy (0)
+[HP change] Scraggy gained 10 HP (17=>27)
+Scraggy restored a little HP using its Oran Berry!
+[Item consumed] Scraggy consumed its held Oran Berry
+
+***Round 1***
+
