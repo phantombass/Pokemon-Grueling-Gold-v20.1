@@ -479,6 +479,7 @@ end
 # Weather-inducing move.
 #===============================================================================
 class Battle::Move::WeatherMove < Battle::Move
+  attr_reader :weatherType
   def initialize(battle, move)
     super
     @weatherType = :None
