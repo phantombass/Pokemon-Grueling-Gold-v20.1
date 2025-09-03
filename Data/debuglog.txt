@@ -13984,3 +13984,29 @@ Scraggy restored a little HP using its Oran Berry!
 
 ***Round 1***
 
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for ZUBAT: [:PHYSICALBREAKER]
+Roles for GRIMER: [:NONE]
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for SNEASEL: [:NONE]
+Roles for MASQUERAIN: [:NONE]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Team Rocket Grunt!
+Team Rocket Grunt sent out Sneasel!
+Go! Fuecoco!
+[Round order] The opposing Sneasel (1), Fuecoco (0)
+
+***Round 1***
+
