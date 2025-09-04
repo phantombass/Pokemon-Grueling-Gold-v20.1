@@ -14010,3 +14010,26 @@ Go! Fuecoco!
 
 ***Round 1***
 
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for TAPUBULU: [:PHYSICALBREAKER, :TANK]
+Roles for HEATRAN: [:SPECIALBREAKER]
+Roles for TOXAPEX: [:TOXICSTALLER, :TANK]
+Roles for KARTANA: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for SCIZOR: [:SETUPSWEEPER]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Ace Trainer Maryann!
+Ace Trainer Maryann sent out Tapu Bulu!
+Go! Basculegion!
+[Round order] The opposing Tapu Bulu (1), Basculegion (0)
+[Ability triggered] The opposing Tapu Bulu's Grassy Surge
+Grass grew to cover the battlefield!
+
+***Round 1***
+
