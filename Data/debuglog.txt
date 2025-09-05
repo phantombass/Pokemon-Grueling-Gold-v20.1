@@ -14033,3 +14033,30 @@ Grass grew to cover the battlefield!
 
 ***Round 1***
 
+Roles for TAPUBULU: [:PHYSICALBREAKER, :TANK]
+Roles for HEATRAN: [:SPECIALBREAKER]
+Roles for TOXAPEX: [:TOXICSTALLER, :TANK]
+Roles for KARTANA: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for SCIZOR: [:SETUPSWEEPER]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Ace Trainer Maryann!
+Ace Trainer Maryann sent out Tapu Bulu!
+Go! Jyamato!
+[Round order] The opposing Tapu Bulu (1), Jyamato (0)
+[Ability triggered] The opposing Tapu Bulu's Grassy Surge
+Grass grew to cover the battlefield!
+
+***Round 1***
+
+
+******************************************
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+Oh! A wild Tentacruel appeared!
+Go! Jyamato!
+[Round order] The wild Tentacruel (1), Jyamato (0)
+
+***Round 1***
+
+You got away safely!
