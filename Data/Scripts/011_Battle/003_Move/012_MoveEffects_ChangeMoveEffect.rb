@@ -849,6 +849,7 @@ end
 #       Pokémon.
 #===============================================================================
 class Battle::Move::UseMoveDependingOnEnvironment < Battle::Move
+  attr_reader :npMove
   def callsAnotherMove?; return true; end
 
   def pbOnStartUse(user, targets)
