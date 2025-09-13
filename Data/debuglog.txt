@@ -14225,3 +14225,31 @@ Go! Landorus!
 
 ***Round 1***
 
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for TINGLU: [:LEAD, :TOXICSTALLER]
+Roles for BASCULEGION: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for MUNKIDORI: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for CHIYU: [:SPECIALBREAKER]
+[AI] Randomizer cleared from Restricted mode setup
+Restricting abilities...
+Restricting moves...
+Roles for TINGLU: [:LEAD, :TOXICSTALLER]
+Roles for BASCULEGION: [:PHYSICALBREAKER, :OFFENSIVEPIVOT]
+Roles for MUNKIDORI: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for CHIYU: [:SPECIALBREAKER]
+Roles for ABSOL: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for KINGAMBIT: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Elite Four Karen!
+Elite Four Karen sent out Ting-Lu!
+Go! Fuecoco!
+[Round order] The opposing Ting-Lu (1), Fuecoco (0)
+[Ability triggered] The opposing Ting-Lu's Vessel of Ruin
+The opposing Ting-Lu's Vessel of Ruin weakened the Special Attack of all surrounding Pokémon!
+
+***Round 1***
+
