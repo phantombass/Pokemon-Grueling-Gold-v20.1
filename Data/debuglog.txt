@@ -14253,3 +14253,58 @@ The opposing Ting-Lu's Vessel of Ruin weakened the Special Attack of all surroun
 
 ***Round 1***
 
+Will: Single battles
+Koga: Single battles
+Bruno: Double battles
+Karen: Double battles
+Clearing randomizer options...
+Clearing restrictions...
+Clearing randomizer options...
+Will: Double battles
+Koga: Single battles
+Bruno: Double battles
+Karen: Single battles
+Clearing randomizer options...
+Clearing restrictions...
+Randomizing trainers...
+Randomizing encounters...
+Randomizing static...
+Randomizing gift...
+Randomizing abilities...
+
+******************************************
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+Oh! A wild Toxtricity appeared!
+Go! Kingler!
+[Round order] Kingler (0), the wild Toxtricity (1)
+
+***Round 1***
+
+You got away safely!
+
+******************************************
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+Oh! A wild Kabuto appeared!
+Go! Kingler!
+[Round order] Kingler (0), the wild Kabuto (1)
+[Ability triggered] The wild Kabuto's Slow Start
+The wild Kabuto can't get it going!
+
+***Round 1***
+
+You got away safely!
+Roles for PAWMO: [:PHYSICALBREAKER]
+Roles for VIBRAVA: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for METANG: [:PHYSICALBREAKER, :SPEEDCONTROL]
+Roles for COMFEY: [:OFFENSIVEPIVOT]
+Roles for VICTREEBEL: [:SPECIALBREAKER]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Elder Mashiro!
+Elder Mashiro sent out Pawmo!
+Go! Kingler!
+[Round order] The opposing Pawmo (1), Kingler (0)
+
+***Round 1***
+
