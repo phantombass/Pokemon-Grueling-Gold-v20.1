@@ -14308,3 +14308,57 @@ Go! Kingler!
 
 ***Round 1***
 
+Roles for SLOWBRO: [:WEATHERTERRAIN]
+Roles for SLOWKING: [:WEATHERTERRAIN]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Scientist Bill!
+Scientist Bill sent out Slowbro!
+Go! Kingler!
+An electric current runs across the battlefield!
+[Round order] The opposing Slowbro (1), Kingler (0)
+
+***Round 1***
+
+Roles for SLOWBRO: [:WEATHERTERRAIN]
+Roles for SLOWKING: [:WEATHERTERRAIN]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Scientist Bill!
+Scientist Bill sent out Slowbro!
+Go! Kingler!
+An electric current runs across the battlefield!
+[Round order] The opposing Slowbro (1), Kingler (0)
+
+***Round 1***
+
+Roles for ELECTRODE: [:SPECIALBREAKER]
+Roles for MAGNEZONE: [:NONE]
+Roles for MORPEKO: [:PHYSICALBREAKER]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Scientist Bill!
+Scientist Bill sent out Electrode!
+Go! Kingler!
+An electric current runs across the battlefield!
+[Round order] The opposing Electrode (1), Kingler (0)
+
+***Round 1***
+
+Roles for MUK: [:PHYSICALBREAKER, :LEAD]
+Roles for SINISTCHA: [:SPECIALBREAKER, :SETUPSWEEPER]
+Roles for GOTHITELLE: [:SETUPSWEEPER]
+Roles for SHARPEDO: [:PHYSICALBREAKER]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Team Rocket Grunt!
+Team Rocket Grunt sent out Muk!
+Go! Kingler!
+[Round order] The opposing Muk (1), Kingler (0)
+
+***Round 1***
+
