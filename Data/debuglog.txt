@@ -14362,3 +14362,77 @@ Go! Kingler!
 
 ***Round 1***
 
+Roles for WEEZING: [:LEAD]
+Roles for KROOKODILE: [:PHYSICALBREAKER]
+Roles for IRONMOTH: [:SPECIALBREAKER]
+Roles for GHOLDENGO: [:TANK, :SETUPSWEEPER]
+Roles for HERACROSS: [:PHYSICALBREAKER]
+Roles for SLAKING: [:PHYSICALBREAKER]
+
+******************************************
+[Started battle] Double trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rocket Admin Petrel!
+Rocket Admin Petrel sent out Weezing and Krookodile!
+Go! Braviary and Chesnaught!
+[Round order] The opposing Krookodile (3), Braviary (0), the opposing Weezing (1), Chesnaught (2)
+[Ability triggered] The opposing Krookodile's Intimidate
+[Stat change] Braviary's Attack: 0 -> -1 (-1)
+Braviary's Attack fell!
+[Ability triggered] Braviary's Competitive
+[Stat change] Braviary's Special Attack: 0 -> 2 (+2)
+Braviary's Special Attack rose sharply!
+[Stat change] Chesnaught's Attack: 0 -> -1 (-1)
+Chesnaught's Attack fell!
+
+***Round 1***
+
+Roles for WEEZING: [:LEAD]
+Roles for KROOKODILE: [:PHYSICALBREAKER]
+Roles for IRONMOTH: [:SPECIALBREAKER]
+Roles for GHOLDENGO: [:TANK, :SETUPSWEEPER]
+Roles for HERACROSS: [:PHYSICALBREAKER]
+Roles for SLAKING: [:PHYSICALBREAKER]
+Roles for WEEZING: [:LEAD]
+Roles for KROOKODILE: [:PHYSICALBREAKER]
+Roles for IRONMOTH: [:SPECIALBREAKER]
+Roles for GHOLDENGO: [:TANK, :SETUPSWEEPER]
+Roles for HERACROSS: [:PHYSICALBREAKER]
+Roles for SLAKING: [:PHYSICALBREAKER]
+
+******************************************
+[Started battle] Double trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rocket Admin Petrel!
+Rocket Admin Petrel sent out Weezing and Krookodile!
+Go! Braviary and Chesnaught!
+[Round order] The opposing Krookodile (3), Braviary (0), the opposing Weezing (1), Chesnaught (2)
+[Ability triggered] The opposing Krookodile's Intimidate
+[Stat change] Braviary's Attack: 0 -> -1 (-1)
+Braviary's Attack fell!
+[Ability triggered] Braviary's Competitive
+[Stat change] Braviary's Special Attack: 0 -> 2 (+2)
+Braviary's Special Attack rose sharply!
+[Stat change] Chesnaught's Attack: 0 -> -1 (-1)
+Chesnaught's Attack fell!
+
+***Round 1***
+
+Roles for WEEZING: [:SPECIALBREAKER]
+Roles for EXCADRILL: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for MILOTIC: [:SPECIALBREAKER, :SPEEDCONTROL, :OFFENSIVEPIVOT]
+Roles for GALLADE: [:PHYSICALBREAKER]
+Roles for VOLCANION: [:SPECIALBREAKER]
+Roles for URSALUNA: [:SPECIALBREAKER, :SETUPSWEEPER]
+
+******************************************
+[Started battle] Double trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rocket Admin Petrel!
+Rocket Admin Petrel sent out Weezing and Excadrill!
+Go! Braviary and Chesnaught!
+[Round order] The opposing Excadrill (3), Braviary (0), Chesnaught (2), the opposing Weezing (1)
+[Ability triggered] The opposing Excadrill's Mold Breaker
+The opposing Excadrill breaks the mold!
+[Ability triggered] The opposing Weezing's Misty Surge
+Mist swirled about the battlefield!
+
+***Round 1***
+
