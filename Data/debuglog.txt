@@ -14436,3 +14436,288 @@ Mist swirled about the battlefield!
 
 ***Round 1***
 
+Roles for TINKATON: [:PHYSICALBREAKER]
+=====> Nature for Tinkaton: Adamant
+Roles for MRMIME: [:STATUSABSORBER]
+=====> Nature for Mr. Mime: Modest
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Psychic Mark!
+Psychic Mark sent out Tinkaton!
+Go! Skeledirge!
+[Round order] Skeledirge (0), the opposing Tinkaton (1)
+[Ability triggered] The opposing Tinkaton's Dark Aura
+The opposing Tinkaton is radiating a dark aura!
+
+***Round 1***
+
+     move will not affect Skeledirge (0)
+     [Switch AI] +2 Target has fast kill
+[AI] Switch out Score (2) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Skeledirge (0): 6
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Skeledirge (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Tinkaton (1) is considering using Baby-Doll Eyes (4) against Skeledirge (0)...
+     Tinkaton (1)'s highest damaging move vs Skeledirge: Covet
+     - 3 because this will be pointless
+[AI] Tinkaton (1) is considering using Metal Claw (1) against Skeledirge (0)...
+     Tinkaton (1)'s highest damaging move vs Skeledirge: Covet
+[AI] Tinkaton (1) is considering using Covet (1) against Skeledirge (0)...
+     Tinkaton (1)'s highest damaging move vs Skeledirge: Covet
+     + 4 to prioritize highest damaging move
+[AI] Tinkaton (1) is considering using Rock Smash (1) against Skeledirge (0)...
+     Tinkaton (1)'s highest damaging move vs Skeledirge: Covet
+     move will not affect Skeledirge (0)
+     -  1: move will fail
+[AI] Move choices for Tinkaton (1):
+   *   0.0% to use Baby-Doll Eyes (target 0): score 0
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Covet (target 0): score 5
+   *   0.0% to use Rock Smash (target 0): score 0
+   => will use Covet (target 0)
+
+
+[Round order] Skeledirge (0), the opposing Tinkaton (1)
+[Move usage] Skeledirge started using Torch Song
+Skeledirge used Torch Song!
+[HP change] The opposing Tinkaton lost 51 HP (52=>1)
+[Move damage] The opposing Tinkaton lost 51 HP (52=>1)
+It's super effective!
+[Stat change] Skeledirge's Special Attack: 0 -> 1 (+1)
+Skeledirge's Special Attack rose!
+[Move usage] The opposing Tinkaton started using Covet
+The opposing Tinkaton used Covet!
+[HP change] Skeledirge lost 6 HP (71=>65)
+[Move damage] Skeledirge lost 6 HP (71=>65)
+It's not very effective...
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 2***
+
+     move will not affect Skeledirge (0)
+     [Switch AI] +2 Target has fast kill
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-8) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Skeledirge (0): 6
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tinkaton (1) is considering using Baby-Doll Eyes (4) against Skeledirge (0)...
+     Tinkaton (1)'s highest damaging move vs Skeledirge: Covet
+     - 3 because this will be pointless
+[AI] Tinkaton (1) is considering using Metal Claw (1) against Skeledirge (0)...
+     Tinkaton (1)'s highest damaging move vs Skeledirge: Covet
+[AI] Tinkaton (1) is considering using Covet (1) against Skeledirge (0)...
+     Tinkaton (1)'s highest damaging move vs Skeledirge: Covet
+     + 4 to prioritize highest damaging move
+[AI] Tinkaton (1) is considering using Rock Smash (1) against Skeledirge (0)...
+     Tinkaton (1)'s highest damaging move vs Skeledirge: Covet
+     move will not affect Skeledirge (0)
+     -  1: move will fail
+[AI] Move choices for Tinkaton (1):
+   *   0.0% to use Baby-Doll Eyes (target 0): score 0
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Covet (target 0): score 5
+   *   0.0% to use Rock Smash (target 0): score 0
+   => will use Covet (target 0)
+
+
+[Round order] Skeledirge (0), the opposing Tinkaton (1)
+[Move usage] Skeledirge started using Torch Song
+Skeledirge used Torch Song!
+[HP change] The opposing Tinkaton lost 1 HP (1=>0)
+[Move damage] The opposing Tinkaton lost 1 HP (1=>0)
+It's super effective!
+The opposing Tinkaton fainted!
+[Stat change] Skeledirge's Special Attack: 1 -> 2 (+1)
+Skeledirge's Special Attack rose!
+Skeledirge got 1 Exp. Points!
+
+[End of round]
+Trick Room Turns: 0
+     move will not affect Skeledirge (0)
+==============================
+     [Mr. Mime] using Confusion vs Skeledirge does a max of 14/65 damage
+     Skeledirge (0)'s best move: Torch Song for 48/39 damage
+==============================
+     Skeledirge (0) speed (37) vs Mr. Mime speed: 34
+     [Mr. Mime] -  9: for target fast kill
+     [Mr. Mime] final Switch score: -9
+[AI] Highest move score (5) vs Switch In Score (-9)
+Psychic Mark sent out Mr. Mime!
+
+***Round 3***
+
+     Threat Score for Skeledirge (0): 7
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mr. Mime (1) is considering using Copycat (4) against Skeledirge (0)...
+     Mr. Mime (1)'s highest damaging move vs Skeledirge: Confusion
+     move will not affect Skeledirge (0)
+     -  1: move will fail
+[AI] Mr. Mime (1) is considering using Baton Pass...
+     +  1: move will fail
+[AI] Mr. Mime (1) is considering using Encore (4) against Skeledirge (0)...
+     Mr. Mime (1)'s highest damaging move vs Skeledirge: Confusion
+
+**Exception: undefined method `moveBlacklist' for #<Battle::Move::DisableTargetUsingDifferentMove>
+[AI Backbone] 009_AI_MoveEffects_SwitchingActing.rb:715:in `block in <main>'
+005_Event_Handlers.rb:138:in `trigger'
+[AI Backbone] 001_Battle_AI.rb:328:in `move_will_fail_against_target?'
+[Phantombass AI] 03_AI_Moves.rb:26:in `pbPredictMoveFailureAgainstTarget'
+[Phantombass AI] 03_AI_Moves.rb:297:in `pbGetMoveScoreAgainstTarget'
+[Phantombass AI] 03_AI_Moves.rb:254:in `block in pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:247:in `each'
+[Phantombass AI] 03_AI_Moves.rb:247:in `pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:103:in `block (3 levels) in pbGetMoveScores'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+[Phantombass AI] 03_AI_Moves.rb:103:in `block (2 levels) in pbGetMoveScores'
+[Phantombass AI] 03_AI_Moves.rb:97:in `each'
+[Phantombass AI] 03_AI_Moves.rb:97:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:461:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:461:in `each'
+001_Battle_Battler.rb:461:in `each_with_index'
+001_Battle_Battler.rb:461:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:58:in `pbGetMoveScores'
+[Phantombass AI] 01_AI_Main.rb:82:in `pbDefaultChooseEnemyCommand'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:597:in `block in pbCommandPhaseLoop'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:588:in `loop'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:588:in `pbCommandPhaseLoop'
+[Essentials Deluxe] Battle.rb:242:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:335:in `block (2 levels) in pbBattleLoop'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+002_Battle_StartAndEnd.rb:335:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:323:in `loop'
+002_Battle_StartAndEnd.rb:323:in `pbBattleLoop'
+[Pokemon Grueling Gold Scripts] 12_Item_Mechanics.rb:270:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:271:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:513:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:512:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:130:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:511:in `start_core'
+001_Overworld_BattleStarting.rb:477:in `start'
+(eval):1:in `execute_script'
+003_Interpreter.rb:143:in `eval'
+003_Interpreter.rb:143:in `execute_script'
+004_Interpreter_Commands.rb:428:in `command_111'
+004_Interpreter_Commands.rb:29:in `execute_command'
+003_Interpreter.rb:133:in `block in update'
+003_Interpreter.rb:90:in `loop'
+003_Interpreter.rb:90:in `update'
+[Following Pokemon EX] Refresh.rb:268:in `update'
+002_Scene_Map.rb:160:in `block in update'
+002_Scene_Map.rb:159:in `loop'
+002_Scene_Map.rb:159:in `update'
+[Pokemon Grueling Gold Scripts] 22_Unreal_Time.rb:199:in `update'
+[Following Pokemon EX] Refresh.rb:178:in `update'
+[v20.1 Hotfixes] Overworld bug fixes.rb:28:in `block in main'
+[v20.1 Hotfixes] Overworld bug fixes.rb:25:in `loop'
+[v20.1 Hotfixes] Overworld bug fixes.rb:25:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+Roles for EMPOLEON: [:SPECIALBREAKER, :TANK]
+Roles for ESCAVALIER: [:PHYSICALBREAKER]
+Roles for IRONHANDS: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for STAKATAKA: [:PHYSICALBREAKER]
+Roles for CELESTEELA: [:PHYSICALBREAKER]
+Roles for MAWILE: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+******************************************
+[Started battle] Double trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Gym Leader Jasmine!
+Gym Leader Jasmine sent out Empoleon and Escavalier!
+Go! Kingler and Chimecho!
+[Round order] The opposing Empoleon (1), the opposing Escavalier (3), Chimecho (2), Kingler (0)
+
+***Round 1***
+
+Slow and steady. My Steel types are prepared for anything.
+Roles for EMPOLEON: [:SPECIALBREAKER, :TANK]
+Roles for ESCAVALIER: [:PHYSICALBREAKER]
+Roles for IRONHANDS: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for STAKATAKA: [:PHYSICALBREAKER]
+Roles for CELESTEELA: [:PHYSICALBREAKER]
+Roles for MAWILE: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+******************************************
+[Started battle] Double trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Gym Leader Jasmine!
+Gym Leader Jasmine sent out Empoleon and Escavalier!
+Go! Kingler and Chimecho!
+[Round order] The opposing Empoleon (1), the opposing Escavalier (3), Chimecho (2), Kingler (0)
+
+***Round 1***
+
+Slow and steady. My Steel types are prepared for anything.
+Roles for COFAGRIGUS: [:NONE]
+Roles for BRONZONG: [:PHYSICALBREAKER]
+Roles for EMPOLEON: [:SPECIALBREAKER, :TANK]
+Roles for CELESTEELA: [:SPECIALBREAKER]
+Roles for STEELIX: [:PHYSICALBREAKER]
+Roles for KINGAMBIT: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+******************************************
+[Started battle] Double trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Gym Leader Jasmine!
+Gym Leader Jasmine sent out Cofagrigus and Bronzong!
+Go! Kingler and Chimecho!
+[Round order] The opposing Bronzong (3), the opposing Cofagrigus (1), Kingler (0), Chimecho (2)
+[Ability triggered] The opposing Bronzong's Dimension Shift
+The opposing Bronzong twisted the dimensions!
+The opposing Bronzong floats in the air with its Air Balloon!
+[Ability triggered] The opposing Cofagrigus's Dauntless Shield
+[Stat change] The opposing Cofagrigus's Defense: 0 -> 1 (+1)
+The opposing Cofagrigus's Defense rose!
+
+***Round 1***
+
+Slow and steady. My Steel types are prepared for anything.
+Roles for COFAGRIGUS: [:NONE]
+Roles for BRONZONG: [:PHYSICALBREAKER]
+Roles for EMPOLEON: [:SPECIALBREAKER, :TANK]
+Roles for CELESTEELA: [:SPECIALBREAKER]
+Roles for STEELIX: [:PHYSICALBREAKER]
+Roles for KINGAMBIT: [:PHYSICALBREAKER, :SETUPSWEEPER]
+
+******************************************
+[Started battle] Double trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Gym Leader Jasmine!
+Gym Leader Jasmine sent out Cofagrigus and Bronzong!
+Go! Kingler and Chimecho!
+[Round order] The opposing Bronzong (3), the opposing Cofagrigus (1), Kingler (0), Chimecho (2)
+[Ability triggered] The opposing Bronzong's Dimension Shift
+The opposing Bronzong twisted the dimensions!
+The opposing Bronzong floats in the air with its Air Balloon!
+[Ability triggered] The opposing Cofagrigus's Dauntless Shield
+[Stat change] The opposing Cofagrigus's Defense: 0 -> 1 (+1)
+The opposing Cofagrigus's Defense rose!
+
+***Round 1***
+
+Slow and steady. My Steel types are prepared for anything.
