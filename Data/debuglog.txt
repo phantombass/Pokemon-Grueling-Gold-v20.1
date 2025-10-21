@@ -14721,3 +14721,1068 @@ The opposing Cofagrigus's Defense rose!
 ***Round 1***
 
 Slow and steady. My Steel types are prepared for anything.
+Roles for TINGLU: [:LEAD]
+=====> Nature for Ting-Lu: Adamant
+Roles for TOEDSCRUEL: [:NONE]
+=====> Nature for Toedscruel: Modest
+Roles for TAUROS: [:SETUPSWEEPER]
+=====> Nature for Tauros: Jolly
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Beauty Megan!
+Beauty Megan sent out Ting-Lu!
+Go! Skeledirge!
+[Round order] Skeledirge (0), the opposing Ting-Lu (1)
+
+***Round 1***
+
+Roles for HELIOPTILE: [:SETUPSWEEPER]
+Roles for FURRET: [:SETUPSWEEPER]
+Roles for SHROODLE: [:PHYSICALBREAKER]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Beauty Megan!
+Beauty Megan sent out Helioptile!
+Go! Fuecoco!
+[Round order] The opposing Helioptile (1), Fuecoco (0)
+
+***Round 1***
+
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Fuecoco (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Fuecoco (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Helioptile (1) is considering using Pound (1) against Fuecoco (0)...
+     Helioptile (1)'s highest damaging move vs Fuecoco: Thunder Shock
+[AI] Helioptile (1) is considering using Thunder Shock (1) against Fuecoco (0)...
+     Helioptile (1)'s highest damaging move vs Fuecoco: Thunder Shock
+     + 4 to prioritize highest damaging move
+[AI] Helioptile (1) is considering using Quick Attack (1) against Fuecoco (0)...
+     Helioptile (1)'s highest damaging move vs Fuecoco: Thunder Shock
+[AI] Helioptile (1) is considering using Charge (4)...
+[AI] Move choices for Helioptile (1):
+   *   0.0% to use Pound (target 0): score 0
+   * 100.0% to use Thunder Shock (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Charge: score 0
+   => will use Thunder Shock (target 0)
+
+
+[Round order] The opposing Helioptile (1), Fuecoco (0)
+[Move usage] The opposing Helioptile started using Thunder Shock
+The opposing Helioptile used Thunder Shock!
+[HP change] Fuecoco lost 9 HP (43=>34)
+[Move damage] Fuecoco lost 9 HP (43=>34)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Helioptile lost 25 HP (34=>9)
+[Move damage] The opposing Helioptile lost 25 HP (34=>9)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 2***
+
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Fuecoco (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Helioptile (1) is considering using Pound (1) against Fuecoco (0)...
+     Helioptile (1)'s highest damaging move vs Fuecoco: Thunder Shock
+[AI] Helioptile (1) is considering using Thunder Shock (1) against Fuecoco (0)...
+     Helioptile (1)'s highest damaging move vs Fuecoco: Thunder Shock
+     + 4 to prioritize highest damaging move
+[AI] Helioptile (1) is considering using Quick Attack (1) against Fuecoco (0)...
+     Helioptile (1)'s highest damaging move vs Fuecoco: Thunder Shock
+[AI] Helioptile (1) is considering using Charge (4)...
+[AI] Move choices for Helioptile (1):
+   *   0.0% to use Pound (target 0): score 0
+   * 100.0% to use Thunder Shock (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Charge: score 0
+   => will use Thunder Shock (target 0)
+
+
+[Round order] The opposing Helioptile (1), Fuecoco (0)
+[Move usage] The opposing Helioptile started using Thunder Shock
+The opposing Helioptile used Thunder Shock!
+[HP change] Fuecoco lost 8 HP (34=>26)
+[Move damage] Fuecoco lost 8 HP (34=>26)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Helioptile lost 9 HP (9=>0)
+[Move damage] The opposing Helioptile lost 9 HP (9=>0)
+The opposing Helioptile fainted!
+
+[End of round]
+Trick Room Turns: 0
+==============================
+     [Furret] using Quick Attack vs Fuecoco does a max of 14/26 damage
+     [Furret] using Fury Swipes vs Fuecoco does a max of 23/26 damage
+     Fuecoco (0)'s best move: Incinerate for 23/43 damage
+==============================
+     Fuecoco (0) speed (20) vs Furret speed: 28
+     [Furret] +  6: for fast 2HKO
+     [Furret] final Switch score: 6
+==============================
+     [Shroodle] using Bite vs Fuecoco does a max of 7/26 damage
+     [Shroodle] using Fury Swipes vs Fuecoco does a max of 14/26 damage
+     [Shroodle] using Poison Fang vs Fuecoco does a max of 9/26 damage
+     Fuecoco (0)'s best move: Incinerate for 30/33 damage
+==============================
+     Fuecoco (0) speed (20) vs Shroodle speed: 24
+     [Shroodle] +  6: for fast 2HKO
+     [Shroodle] final Switch score: 6
+[AI] Highest move score (10) vs Switch In Score (6)
+Beauty Megan sent out Furret!
+
+***Round 3***
+
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Fuecoco (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Furret (1) is considering using Foresight (4) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     + 1 to make equal to highest damaging move
+[AI] Furret (1) is considering using Defense Curl (4)...
+[AI] Furret (1) is considering using Quick Attack (1) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+[AI] Furret (1) is considering using Fury Swipes (1) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Furret (1):
+   *  50.0% to use Foresight (target 0): score 5
+   *   0.0% to use Defense Curl: score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *  50.0% to use Fury Swipes (target 0): score 5
+   => will use Fury Swipes (target 0)
+
+
+[Round order] The opposing Furret (1), Fuecoco (0)
+[Move usage] The opposing Furret started using Fury Swipes
+The opposing Furret used Fury Swipes!
+[HP change] Fuecoco lost 9 HP (26=>17)
+[Move damage] Fuecoco lost 9 HP (26=>17)
+[HP change] Fuecoco gained 10 HP (17=>27)
+Fuecoco restored a little HP using its Oran Berry!
+[Item consumed] Fuecoco consumed its held Oran Berry
+[HP change] Fuecoco lost 8 HP (27=>19)
+[Move damage] Fuecoco lost 8 HP (27=>19)
+[HP change] Fuecoco lost 9 HP (19=>10)
+[Move damage] Fuecoco lost 9 HP (19=>10)
+Hit 3 times!
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Furret lost 21 HP (43=>22)
+[Move damage] The opposing Furret lost 21 HP (43=>22)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 4***
+
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Fuecoco (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Furret (1) is considering using Foresight (4) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     + 1 to make equal to highest damaging move
+[AI] Furret (1) is considering using Defense Curl (4)...
+[AI] Furret (1) is considering using Quick Attack (1) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+[AI] Furret (1) is considering using Fury Swipes (1) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Furret (1):
+   *  50.0% to use Foresight (target 0): score 5
+   *   0.0% to use Defense Curl: score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *  50.0% to use Fury Swipes (target 0): score 5
+   => will use Foresight (target 0)
+
+
+[Round order] The opposing Furret (1), Fuecoco (0)
+[Move usage] The opposing Furret started using Foresight
+The opposing Furret used Foresight!
+Fuecoco was identified!
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Furret lost 21 HP (22=>1)
+[Move damage] The opposing Furret lost 21 HP (22=>1)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 5***
+
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Fuecoco (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Furret (1) is considering using Foresight (4) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     - 3 because this will be pointless
+[AI] Furret (1) is considering using Defense Curl (4)...
+[AI] Furret (1) is considering using Quick Attack (1) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+[AI] Furret (1) is considering using Fury Swipes (1) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Furret (1):
+   *   0.0% to use Foresight (target 0): score 0
+   *   0.0% to use Defense Curl: score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   * 100.0% to use Fury Swipes (target 0): score 5
+   => will use Fury Swipes (target 0)
+
+
+[Round order] The opposing Furret (1), Fuecoco (0)
+[Move usage] The opposing Furret started using Fury Swipes
+The opposing Furret used Fury Swipes!
+[HP change] Fuecoco lost 9 HP (49=>40)
+[Move damage] Fuecoco lost 9 HP (49=>40)
+[HP change] Fuecoco lost 9 HP (40=>31)
+[Move damage] Fuecoco lost 9 HP (40=>31)
+Hit 2 times!
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Furret lost 1 HP (1=>0)
+[Move damage] The opposing Furret lost 1 HP (1=>0)
+The opposing Furret fainted!
+
+[End of round]
+Trick Room Turns: 0
+==============================
+     [Shroodle] using Bite vs Fuecoco does a max of 7/31 damage
+     [Shroodle] using Fury Swipes vs Fuecoco does a max of 14/31 damage
+     [Shroodle] using Poison Fang vs Fuecoco does a max of 9/31 damage
+     Fuecoco (0)'s best move: Incinerate for 30/33 damage
+==============================
+     Fuecoco (0) speed (20) vs Shroodle speed: 24
+     [Shroodle] final Switch score: 0
+[AI] Highest move score (10) vs Switch In Score (0)
+Beauty Megan sent out Shroodle!
+
+***Round 6***
+
+     Threat Score for Fuecoco (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shroodle (1) is considering using Bite (1) against Fuecoco (0)...
+     Shroodle (1)'s highest damaging move vs Fuecoco: Fury Swipes
+[AI] Shroodle (1) is considering using Fury Swipes (1) against Fuecoco (0)...
+     Shroodle (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     + 4 to prioritize highest damaging move
+[AI] Shroodle (1) is considering using Switcheroo (4) against Fuecoco (0)...
+     Shroodle (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     move will not affect Fuecoco (0)
+     -  4: move will fail
+[AI] Shroodle (1) is considering using Poison Fang (1) against Fuecoco (0)...
+     Shroodle (1)'s highest damaging move vs Fuecoco: Fury Swipes
+[AI] Move choices for Shroodle (1):
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Fury Swipes (target 0): score 5
+   *   0.0% to use Switcheroo (target 0): score 0
+   *   0.0% to use Poison Fang (target 0): score 0
+   => will use Fury Swipes (target 0)
+
+
+[Round order] The opposing Shroodle (1), Fuecoco (0)
+[Move usage] The opposing Shroodle started using Fury Swipes
+The opposing Shroodle used Fury Swipes!
+[HP change] Fuecoco lost 5 HP (31=>26)
+[Move damage] Fuecoco lost 5 HP (31=>26)
+[HP change] Fuecoco lost 6 HP (26=>20)
+[Move damage] Fuecoco lost 6 HP (26=>20)
+[HP change] Fuecoco lost 5 HP (20=>15)
+[Move damage] Fuecoco lost 5 HP (20=>15)
+Hit 3 times!
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Shroodle lost 26 HP (33=>7)
+[Move damage] The opposing Shroodle lost 26 HP (33=>7)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 7***
+
+     Threat Score for Fuecoco (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shroodle (1) is considering using Bite (1) against Fuecoco (0)...
+     Shroodle (1)'s highest damaging move vs Fuecoco: Fury Swipes
+[AI] Shroodle (1) is considering using Fury Swipes (1) against Fuecoco (0)...
+     Shroodle (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     + 4 to prioritize highest damaging move
+[AI] Shroodle (1) is considering using Switcheroo (4) against Fuecoco (0)...
+     Shroodle (1)'s highest damaging move vs Fuecoco: Fury Swipes
+
+**Exception: undefined method `unlosableItem?' for #<Battle::NewAI::AIBattler>
+[AI Backbone] 007_AI_MoveEffects_Items.rb:59:in `block in <main>'
+005_Event_Handlers.rb:138:in `trigger'
+[AI Backbone] 001_Battle_AI.rb:328:in `move_will_fail_against_target?'
+[Phantombass AI] 03_AI_Moves.rb:26:in `pbPredictMoveFailureAgainstTarget'
+[Phantombass AI] 03_AI_Moves.rb:297:in `pbGetMoveScoreAgainstTarget'
+[Phantombass AI] 03_AI_Moves.rb:254:in `block in pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:247:in `each'
+[Phantombass AI] 03_AI_Moves.rb:247:in `pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:103:in `block (3 levels) in pbGetMoveScores'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+[Phantombass AI] 03_AI_Moves.rb:103:in `block (2 levels) in pbGetMoveScores'
+[Phantombass AI] 03_AI_Moves.rb:97:in `each'
+[Phantombass AI] 03_AI_Moves.rb:97:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:461:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:461:in `each'
+001_Battle_Battler.rb:461:in `each_with_index'
+001_Battle_Battler.rb:461:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:58:in `pbGetMoveScores'
+[Phantombass AI] 01_AI_Main.rb:82:in `pbDefaultChooseEnemyCommand'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:597:in `block in pbCommandPhaseLoop'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:588:in `loop'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:588:in `pbCommandPhaseLoop'
+[Essentials Deluxe] Battle.rb:242:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:335:in `block (2 levels) in pbBattleLoop'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+002_Battle_StartAndEnd.rb:335:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:323:in `loop'
+002_Battle_StartAndEnd.rb:323:in `pbBattleLoop'
+[Pokemon Grueling Gold Scripts] 12_Item_Mechanics.rb:270:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:271:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:513:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:512:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:130:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:511:in `start_core'
+001_Overworld_BattleStarting.rb:477:in `start'
+(eval):1:in `execute_script'
+003_Interpreter.rb:143:in `eval'
+003_Interpreter.rb:143:in `execute_script'
+004_Interpreter_Commands.rb:428:in `command_111'
+004_Interpreter_Commands.rb:29:in `execute_command'
+003_Interpreter.rb:133:in `block in update'
+003_Interpreter.rb:90:in `loop'
+003_Interpreter.rb:90:in `update'
+[Following Pokemon EX] Refresh.rb:268:in `update'
+002_Scene_Map.rb:160:in `block in update'
+002_Scene_Map.rb:159:in `loop'
+002_Scene_Map.rb:159:in `update'
+[Pokemon Grueling Gold Scripts] 22_Unreal_Time.rb:199:in `update'
+[Following Pokemon EX] Refresh.rb:178:in `update'
+[v20.1 Hotfixes] Overworld bug fixes.rb:28:in `block in main'
+[v20.1 Hotfixes] Overworld bug fixes.rb:25:in `loop'
+[v20.1 Hotfixes] Overworld bug fixes.rb:25:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+[AI] Shroodle (1) is considering using Poison Fang (1) against Fuecoco (0)...
+     Shroodle (1)'s highest damaging move vs Fuecoco: Fury Swipes
+[AI] Move choices for Shroodle (1):
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Fury Swipes (target 0): score 5
+   *   0.0% to use Switcheroo (target 0): score 0
+   *   0.0% to use Poison Fang (target 0): score 0
+   => will use Fury Swipes (target 0)
+
+
+[Round order] The opposing Shroodle (1), Fuecoco (0)
+[Move usage] The opposing Shroodle started using Fury Swipes
+The opposing Shroodle used Fury Swipes!
+Roles for HELIOPTILE: [:SETUPSWEEPER]
+Roles for FURRET: [:SETUPSWEEPER]
+Roles for SHROODLE: [:PHYSICALBREAKER]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Beauty Megan!
+Beauty Megan sent out Helioptile!
+Go! Fuecoco!
+[Round order] The opposing Helioptile (1), Fuecoco (0)
+
+***Round 1***
+
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Fuecoco (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Fuecoco (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Helioptile (1) is considering using Pound (1) against Fuecoco (0)...
+     Helioptile (1)'s highest damaging move vs Fuecoco: Thunder Shock
+[AI] Helioptile (1) is considering using Thunder Shock (1) against Fuecoco (0)...
+     Helioptile (1)'s highest damaging move vs Fuecoco: Thunder Shock
+     + 4 to prioritize highest damaging move
+[AI] Helioptile (1) is considering using Quick Attack (1) against Fuecoco (0)...
+     Helioptile (1)'s highest damaging move vs Fuecoco: Thunder Shock
+[AI] Helioptile (1) is considering using Charge (4)...
+[AI] Move choices for Helioptile (1):
+   *   0.0% to use Pound (target 0): score 0
+   * 100.0% to use Thunder Shock (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Charge: score 0
+   => will use Thunder Shock (target 0)
+
+
+[Round order] The opposing Helioptile (1), Fuecoco (0)
+[Move usage] The opposing Helioptile started using Thunder Shock
+The opposing Helioptile used Thunder Shock!
+[HP change] Fuecoco lost 8 HP (43=>35)
+[Move damage] Fuecoco lost 8 HP (43=>35)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Helioptile lost 24 HP (34=>10)
+[Move damage] The opposing Helioptile lost 24 HP (34=>10)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 2***
+
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Fuecoco (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Helioptile (1) is considering using Pound (1) against Fuecoco (0)...
+     Helioptile (1)'s highest damaging move vs Fuecoco: Thunder Shock
+[AI] Helioptile (1) is considering using Thunder Shock (1) against Fuecoco (0)...
+     Helioptile (1)'s highest damaging move vs Fuecoco: Thunder Shock
+     + 4 to prioritize highest damaging move
+[AI] Helioptile (1) is considering using Quick Attack (1) against Fuecoco (0)...
+     Helioptile (1)'s highest damaging move vs Fuecoco: Thunder Shock
+[AI] Helioptile (1) is considering using Charge (4)...
+[AI] Move choices for Helioptile (1):
+   *   0.0% to use Pound (target 0): score 0
+   * 100.0% to use Thunder Shock (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Charge: score 0
+   => will use Thunder Shock (target 0)
+
+
+[Round order] The opposing Helioptile (1), Fuecoco (0)
+[Move usage] The opposing Helioptile started using Thunder Shock
+The opposing Helioptile used Thunder Shock!
+[HP change] Fuecoco lost 9 HP (35=>26)
+[Move damage] Fuecoco lost 9 HP (35=>26)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Helioptile lost 10 HP (10=>0)
+[Move damage] The opposing Helioptile lost 10 HP (10=>0)
+The opposing Helioptile fainted!
+
+[End of round]
+Trick Room Turns: 0
+==============================
+     [Furret] using Quick Attack vs Fuecoco does a max of 14/26 damage
+     [Furret] using Fury Swipes vs Fuecoco does a max of 23/26 damage
+     Fuecoco (0)'s best move: Incinerate for 23/43 damage
+==============================
+     Fuecoco (0) speed (20) vs Furret speed: 28
+     [Furret] +  6: for fast 2HKO
+     [Furret] final Switch score: 6
+==============================
+     [Shroodle] using Bite vs Fuecoco does a max of 7/26 damage
+     [Shroodle] using Fury Swipes vs Fuecoco does a max of 14/26 damage
+     [Shroodle] using Poison Fang vs Fuecoco does a max of 9/26 damage
+     Fuecoco (0)'s best move: Incinerate for 30/33 damage
+==============================
+     Fuecoco (0) speed (20) vs Shroodle speed: 24
+     [Shroodle] +  6: for fast 2HKO
+     [Shroodle] final Switch score: 6
+[AI] Highest move score (10) vs Switch In Score (6)
+Beauty Megan sent out Furret!
+
+***Round 3***
+
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Fuecoco (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Furret (1) is considering using Foresight (4) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     + 1 to make equal to highest damaging move
+[AI] Furret (1) is considering using Defense Curl (4)...
+[AI] Furret (1) is considering using Quick Attack (1) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+[AI] Furret (1) is considering using Fury Swipes (1) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Furret (1):
+   *  50.0% to use Foresight (target 0): score 5
+   *   0.0% to use Defense Curl: score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *  50.0% to use Fury Swipes (target 0): score 5
+   => will use Fury Swipes (target 0)
+
+
+[Round order] The opposing Furret (1), Fuecoco (0)
+[Move usage] The opposing Furret started using Fury Swipes
+The opposing Furret used Fury Swipes!
+[HP change] Fuecoco lost 9 HP (26=>17)
+[Move damage] Fuecoco lost 9 HP (26=>17)
+[HP change] Fuecoco gained 10 HP (17=>27)
+Fuecoco restored a little HP using its Oran Berry!
+[Item consumed] Fuecoco consumed its held Oran Berry
+[HP change] Fuecoco lost 8 HP (27=>19)
+[Move damage] Fuecoco lost 8 HP (27=>19)
+[HP change] Fuecoco lost 9 HP (19=>10)
+[Move damage] Fuecoco lost 9 HP (19=>10)
+Hit 3 times!
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Furret lost 20 HP (43=>23)
+[Move damage] The opposing Furret lost 20 HP (43=>23)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 4***
+
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Fuecoco (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Furret (1) is considering using Foresight (4) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     + 1 to make equal to highest damaging move
+[AI] Furret (1) is considering using Defense Curl (4)...
+[AI] Furret (1) is considering using Quick Attack (1) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+[AI] Furret (1) is considering using Fury Swipes (1) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Furret (1):
+   *  50.0% to use Foresight (target 0): score 5
+   *   0.0% to use Defense Curl: score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *  50.0% to use Fury Swipes (target 0): score 5
+   => will use Foresight (target 0)
+
+
+[Round order] The opposing Furret (1), Fuecoco (0)
+[Move usage] The opposing Furret started using Foresight
+The opposing Furret used Foresight!
+Fuecoco was identified!
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Furret lost 20 HP (23=>3)
+[Move damage] The opposing Furret lost 20 HP (23=>3)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 5***
+
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Fuecoco (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Furret (1) is considering using Foresight (4) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     - 3 because this will be pointless
+[AI] Furret (1) is considering using Defense Curl (4)...
+[AI] Furret (1) is considering using Quick Attack (1) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+[AI] Furret (1) is considering using Fury Swipes (1) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Furret (1):
+   *   0.0% to use Foresight (target 0): score 0
+   *   0.0% to use Defense Curl: score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   * 100.0% to use Fury Swipes (target 0): score 5
+   => will use Fury Swipes (target 0)
+
+
+[Round order] The opposing Furret (1), Fuecoco (0)
+[Move usage] The opposing Furret started using Fury Swipes
+The opposing Furret used Fury Swipes!
+[HP change] Fuecoco lost 9 HP (49=>40)
+[Move damage] Fuecoco lost 9 HP (49=>40)
+[HP change] Fuecoco lost 9 HP (40=>31)
+[Move damage] Fuecoco lost 9 HP (40=>31)
+[HP change] Fuecoco lost 8 HP (31=>23)
+[Move damage] Fuecoco lost 8 HP (31=>23)
+Hit 3 times!
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Furret lost 3 HP (3=>0)
+[Move damage] The opposing Furret lost 3 HP (3=>0)
+The opposing Furret fainted!
+
+[End of round]
+Trick Room Turns: 0
+==============================
+     [Shroodle] using Bite vs Fuecoco does a max of 7/23 damage
+     [Shroodle] using Fury Swipes vs Fuecoco does a max of 14/23 damage
+     [Shroodle] using Poison Fang vs Fuecoco does a max of 9/23 damage
+     Fuecoco (0)'s best move: Incinerate for 30/33 damage
+==============================
+     Fuecoco (0) speed (20) vs Shroodle speed: 24
+     [Shroodle] +  6: for fast 2HKO
+     [Shroodle] final Switch score: 6
+[AI] Highest move score (10) vs Switch In Score (6)
+Beauty Megan sent out Shroodle!
+
+***Round 6***
+
+     Threat Score for Fuecoco (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shroodle (1) is considering using Bite (1) against Fuecoco (0)...
+     Shroodle (1)'s highest damaging move vs Fuecoco: Fury Swipes
+[AI] Shroodle (1) is considering using Fury Swipes (1) against Fuecoco (0)...
+     Shroodle (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     + 4 to prioritize highest damaging move
+[AI] Shroodle (1) is considering using Switcheroo (4) against Fuecoco (0)...
+     Shroodle (1)'s highest damaging move vs Fuecoco: Fury Swipes
+
+**Exception: undefined method `mega?' for #<Battle::NewAI::AIBattler>
+[Phantombass AI] 04_AI_Battler.rb:541:in `unlosableItem?'
+[AI Backbone] 007_AI_MoveEffects_Items.rb:59:in `block in <main>'
+005_Event_Handlers.rb:138:in `trigger'
+[AI Backbone] 001_Battle_AI.rb:328:in `move_will_fail_against_target?'
+[Phantombass AI] 03_AI_Moves.rb:26:in `pbPredictMoveFailureAgainstTarget'
+[Phantombass AI] 03_AI_Moves.rb:297:in `pbGetMoveScoreAgainstTarget'
+[Phantombass AI] 03_AI_Moves.rb:254:in `block in pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:247:in `each'
+[Phantombass AI] 03_AI_Moves.rb:247:in `pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:103:in `block (3 levels) in pbGetMoveScores'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+[Phantombass AI] 03_AI_Moves.rb:103:in `block (2 levels) in pbGetMoveScores'
+[Phantombass AI] 03_AI_Moves.rb:97:in `each'
+[Phantombass AI] 03_AI_Moves.rb:97:in `block in pbGetMoveScores'
+001_Battle_Battler.rb:461:in `block in eachMoveWithIndex'
+001_Battle_Battler.rb:461:in `each'
+001_Battle_Battler.rb:461:in `each_with_index'
+001_Battle_Battler.rb:461:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:58:in `pbGetMoveScores'
+[Phantombass AI] 01_AI_Main.rb:82:in `pbDefaultChooseEnemyCommand'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:597:in `block in pbCommandPhaseLoop'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:588:in `loop'
+[Pokemon Grueling Gold Scripts] 01_Settings.rb:588:in `pbCommandPhaseLoop'
+[Essentials Deluxe] Battle.rb:242:in `pbCommandPhase'
+002_Battle_StartAndEnd.rb:335:in `block (2 levels) in pbBattleLoop'
+[AI Backbone] 001_Battle_AI.rb:7:in `logonerr'
+002_Battle_StartAndEnd.rb:335:in `block in pbBattleLoop'
+002_Battle_StartAndEnd.rb:323:in `loop'
+002_Battle_StartAndEnd.rb:323:in `pbBattleLoop'
+[Pokemon Grueling Gold Scripts] 12_Item_Mechanics.rb:270:in `pbStartBattleCore'
+002_Battle_StartAndEnd.rb:271:in `pbStartBattle'
+001_Overworld_BattleStarting.rb:513:in `block (2 levels) in start_core'
+002_Overworld_BattleIntroAnim.rb:55:in `pbSceneStandby'
+001_Overworld_BattleStarting.rb:512:in `block in start_core'
+002_Overworld_BattleIntroAnim.rb:130:in `pbBattleAnimation'
+001_Overworld_BattleStarting.rb:511:in `start_core'
+001_Overworld_BattleStarting.rb:477:in `start'
+(eval):1:in `execute_script'
+003_Interpreter.rb:143:in `eval'
+003_Interpreter.rb:143:in `execute_script'
+004_Interpreter_Commands.rb:428:in `command_111'
+004_Interpreter_Commands.rb:29:in `execute_command'
+003_Interpreter.rb:133:in `block in update'
+003_Interpreter.rb:90:in `loop'
+003_Interpreter.rb:90:in `update'
+[Following Pokemon EX] Refresh.rb:268:in `update'
+002_Scene_Map.rb:160:in `block in update'
+002_Scene_Map.rb:159:in `loop'
+002_Scene_Map.rb:159:in `update'
+[Pokemon Grueling Gold Scripts] 22_Unreal_Time.rb:199:in `update'
+[Following Pokemon EX] Refresh.rb:178:in `update'
+[v20.1 Hotfixes] Overworld bug fixes.rb:28:in `block in main'
+[v20.1 Hotfixes] Overworld bug fixes.rb:25:in `loop'
+[v20.1 Hotfixes] Overworld bug fixes.rb:25:in `main'
+999_Main.rb:35:in `mainFunctionDebug'
+999_Main.rb:18:in `block in mainFunction'
+003_Errors.rb:80:in `pbCriticalCode'
+999_Main.rb:18:in `mainFunction'
+999_Main.rb:45:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:44:in `loop'
+999_Main.rb:44:in `block in load_scripts_from_folder'
+Section000:31:in `eval'
+Section000:31:in `block in load_scripts_from_folder'
+Section000:28:in `each'
+Section000:28:in `load_scripts_from_folder'
+Section000:41:in `block in load_scripts_from_folder'
+Section000:40:in `each'
+Section000:40:in `load_scripts_from_folder'
+Section000:45:in `<main>'
+-e:in `eval'
+
+
+[AI] Shroodle (1) is considering using Poison Fang (1) against Fuecoco (0)...
+     Shroodle (1)'s highest damaging move vs Fuecoco: Fury Swipes
+[AI] Move choices for Shroodle (1):
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Fury Swipes (target 0): score 5
+   *   0.0% to use Switcheroo (target 0): score 0
+   *   0.0% to use Poison Fang (target 0): score 0
+   => will use Fury Swipes (target 0)
+
+
+[Round order] The opposing Shroodle (1), Fuecoco (0)
+[Move usage] The opposing Shroodle started using Fury Swipes
+The opposing Shroodle used Fury Swipes!
+Roles for HELIOPTILE: [:SETUPSWEEPER]
+Roles for FURRET: [:SETUPSWEEPER]
+Roles for SHROODLE: [:PHYSICALBREAKER]
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Beauty Megan!
+Beauty Megan sent out Helioptile!
+Go! Fuecoco!
+[Round order] The opposing Helioptile (1), Fuecoco (0)
+
+***Round 1***
+
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Fuecoco (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Fuecoco (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Helioptile (1) is considering using Pound (1) against Fuecoco (0)...
+     Helioptile (1)'s highest damaging move vs Fuecoco: Thunder Shock
+[AI] Helioptile (1) is considering using Thunder Shock (1) against Fuecoco (0)...
+     Helioptile (1)'s highest damaging move vs Fuecoco: Thunder Shock
+     + 4 to prioritize highest damaging move
+[AI] Helioptile (1) is considering using Quick Attack (1) against Fuecoco (0)...
+     Helioptile (1)'s highest damaging move vs Fuecoco: Thunder Shock
+[AI] Helioptile (1) is considering using Charge (4)...
+[AI] Move choices for Helioptile (1):
+   *   0.0% to use Pound (target 0): score 0
+   * 100.0% to use Thunder Shock (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Charge: score 0
+   => will use Thunder Shock (target 0)
+
+
+[Round order] The opposing Helioptile (1), Fuecoco (0)
+[Move usage] The opposing Helioptile started using Thunder Shock
+The opposing Helioptile used Thunder Shock!
+[HP change] Fuecoco lost 9 HP (43=>34)
+[Move damage] Fuecoco lost 9 HP (43=>34)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Helioptile lost 26 HP (34=>8)
+[Move damage] The opposing Helioptile lost 26 HP (34=>8)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 2***
+
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Fuecoco (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Helioptile (1) is considering using Pound (1) against Fuecoco (0)...
+     Helioptile (1)'s highest damaging move vs Fuecoco: Thunder Shock
+[AI] Helioptile (1) is considering using Thunder Shock (1) against Fuecoco (0)...
+     Helioptile (1)'s highest damaging move vs Fuecoco: Thunder Shock
+     + 4 to prioritize highest damaging move
+[AI] Helioptile (1) is considering using Quick Attack (1) against Fuecoco (0)...
+     Helioptile (1)'s highest damaging move vs Fuecoco: Thunder Shock
+[AI] Helioptile (1) is considering using Charge (4)...
+[AI] Move choices for Helioptile (1):
+   *   0.0% to use Pound (target 0): score 0
+   * 100.0% to use Thunder Shock (target 0): score 5
+   *   0.0% to use Quick Attack (target 0): score 0
+   *   0.0% to use Charge: score 0
+   => will use Thunder Shock (target 0)
+
+
+[Round order] The opposing Helioptile (1), Fuecoco (0)
+[Move usage] The opposing Helioptile started using Thunder Shock
+The opposing Helioptile used Thunder Shock!
+[HP change] Fuecoco lost 8 HP (34=>26)
+[Move damage] Fuecoco lost 8 HP (34=>26)
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Helioptile lost 8 HP (8=>0)
+[Move damage] The opposing Helioptile lost 8 HP (8=>0)
+The opposing Helioptile fainted!
+
+[End of round]
+Trick Room Turns: 0
+==============================
+     [Furret] using Quick Attack vs Fuecoco does a max of 14/26 damage
+     [Furret] using Fury Swipes vs Fuecoco does a max of 23/26 damage
+     Fuecoco (0)'s best move: Incinerate for 23/43 damage
+==============================
+     Fuecoco (0) speed (20) vs Furret speed: 28
+     [Furret] +  6: for fast 2HKO
+     [Furret] final Switch score: 6
+==============================
+     [Shroodle] using Bite vs Fuecoco does a max of 7/26 damage
+     [Shroodle] using Fury Swipes vs Fuecoco does a max of 14/26 damage
+     [Shroodle] using Poison Fang vs Fuecoco does a max of 9/26 damage
+     Fuecoco (0)'s best move: Incinerate for 30/33 damage
+==============================
+     Fuecoco (0) speed (20) vs Shroodle speed: 24
+     [Shroodle] +  6: for fast 2HKO
+     [Shroodle] final Switch score: 6
+[AI] Highest move score (10) vs Switch In Score (6)
+Beauty Megan sent out Furret!
+
+***Round 3***
+
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Fuecoco (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Furret (1) is considering using Foresight (4) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     + 1 to make equal to highest damaging move
+[AI] Furret (1) is considering using Defense Curl (4)...
+[AI] Furret (1) is considering using Quick Attack (1) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+[AI] Furret (1) is considering using Fury Swipes (1) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Furret (1):
+   *  50.0% to use Foresight (target 0): score 5
+   *   0.0% to use Defense Curl: score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *  50.0% to use Fury Swipes (target 0): score 5
+   => will use Foresight (target 0)
+
+
+[Round order] The opposing Furret (1), Fuecoco (0)
+[Move usage] The opposing Furret started using Foresight
+The opposing Furret used Foresight!
+Fuecoco was identified!
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Furret lost 21 HP (43=>22)
+[Move damage] The opposing Furret lost 21 HP (43=>22)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 4***
+
+[AI] Switch out Score (0) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Fuecoco (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Furret (1) is considering using Foresight (4) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     + 1 to make equal to highest damaging move
+[AI] Furret (1) is considering using Defense Curl (4)...
+[AI] Furret (1) is considering using Quick Attack (1) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+[AI] Furret (1) is considering using Fury Swipes (1) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Furret (1):
+   *  50.0% to use Foresight (target 0): score 5
+   *   0.0% to use Defense Curl: score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   *  50.0% to use Fury Swipes (target 0): score 5
+   => will use Fury Swipes (target 0)
+
+
+[Round order] The opposing Furret (1), Fuecoco (0)
+[Move usage] The opposing Furret started using Fury Swipes
+The opposing Furret used Fury Swipes!
+[HP change] Fuecoco lost 13 HP (49=>36)
+[Move damage] Fuecoco lost 13 HP (49=>36)
+A critical hit!
+[HP change] Fuecoco lost 8 HP (36=>28)
+[Move damage] Fuecoco lost 8 HP (36=>28)
+[HP change] Fuecoco lost 8 HP (28=>20)
+[Move damage] Fuecoco lost 8 HP (28=>20)
+[HP change] Fuecoco gained 10 HP (20=>30)
+Fuecoco restored a little HP using its Oran Berry!
+[Item consumed] Fuecoco consumed its held Oran Berry
+[HP change] Fuecoco lost 9 HP (30=>21)
+[Move damage] Fuecoco lost 9 HP (30=>21)
+Hit 4 times!
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Furret lost 20 HP (22=>2)
+[Move damage] The opposing Furret lost 20 HP (22=>2)
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 5***
+
+     [Switch AI] -10 Not hard switching when can be killed easily later
+[AI] Switch out Score (-10) vs Highest Moves Score (5)
+[AI] The AI will not try to switch.
+     Threat Score for Fuecoco (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Furret (1) is considering using Foresight (4) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     - 3 because this will be pointless
+[AI] Furret (1) is considering using Defense Curl (4)...
+[AI] Furret (1) is considering using Quick Attack (1) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+[AI] Furret (1) is considering using Fury Swipes (1) against Fuecoco (0)...
+     Furret (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Furret (1):
+   *   0.0% to use Foresight (target 0): score 0
+   *   0.0% to use Defense Curl: score 0
+   *   0.0% to use Quick Attack (target 0): score 0
+   * 100.0% to use Fury Swipes (target 0): score 5
+   => will use Fury Swipes (target 0)
+
+
+[Round order] The opposing Furret (1), Fuecoco (0)
+[Move usage] The opposing Furret started using Fury Swipes
+The opposing Furret used Fury Swipes!
+[HP change] Fuecoco lost 9 HP (49=>40)
+[Move damage] Fuecoco lost 9 HP (49=>40)
+[HP change] Fuecoco lost 8 HP (40=>32)
+[Move damage] Fuecoco lost 8 HP (40=>32)
+Hit 2 times!
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Furret lost 2 HP (2=>0)
+[Move damage] The opposing Furret lost 2 HP (2=>0)
+The opposing Furret fainted!
+
+[End of round]
+Trick Room Turns: 0
+==============================
+     [Shroodle] using Bite vs Fuecoco does a max of 7/32 damage
+     [Shroodle] using Fury Swipes vs Fuecoco does a max of 14/32 damage
+     [Shroodle] using Poison Fang vs Fuecoco does a max of 9/32 damage
+     Fuecoco (0)'s best move: Incinerate for 30/33 damage
+==============================
+     Fuecoco (0) speed (20) vs Shroodle speed: 24
+     [Shroodle] final Switch score: 0
+[AI] Highest move score (10) vs Switch In Score (0)
+Beauty Megan sent out Shroodle!
+
+***Round 6***
+
+     Threat Score for Fuecoco (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shroodle (1) is considering using Bite (1) against Fuecoco (0)...
+     Shroodle (1)'s highest damaging move vs Fuecoco: Fury Swipes
+[AI] Shroodle (1) is considering using Fury Swipes (1) against Fuecoco (0)...
+     Shroodle (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     + 4 to prioritize highest damaging move
+[AI] Shroodle (1) is considering using Switcheroo (4) against Fuecoco (0)...
+     Shroodle (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     + 1 to make equal to highest damaging move
+[AI] Shroodle (1) is considering using Poison Fang (1) against Fuecoco (0)...
+     Shroodle (1)'s highest damaging move vs Fuecoco: Fury Swipes
+[AI] Move choices for Shroodle (1):
+   *   0.0% to use Bite (target 0): score 0
+   *  50.0% to use Fury Swipes (target 0): score 5
+   *  50.0% to use Switcheroo (target 0): score 5
+   *   0.0% to use Poison Fang (target 0): score 0
+   => will use Fury Swipes (target 0)
+
+
+[Round order] The opposing Shroodle (1), Fuecoco (0)
+[Move usage] The opposing Shroodle started using Fury Swipes
+The opposing Shroodle used Fury Swipes!
+[HP change] Fuecoco lost 6 HP (32=>26)
+[Move damage] Fuecoco lost 6 HP (32=>26)
+[HP change] Fuecoco lost 6 HP (26=>20)
+[Move damage] Fuecoco lost 6 HP (26=>20)
+Hit 2 times!
+[Move usage] Fuecoco started using Leer
+Fuecoco used Leer!
+[Stat change] The opposing Shroodle's Defense: 0 -> -1 (-1)
+The opposing Shroodle's Defense fell!
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 7***
+
+     Threat Score for Fuecoco (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Shroodle (1) is considering using Bite (1) against Fuecoco (0)...
+     Shroodle (1)'s highest damaging move vs Fuecoco: Fury Swipes
+[AI] Shroodle (1) is considering using Fury Swipes (1) against Fuecoco (0)...
+     Shroodle (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     + 4 to prioritize highest damaging move
+[AI] Shroodle (1) is considering using Switcheroo (4) against Fuecoco (0)...
+     Shroodle (1)'s highest damaging move vs Fuecoco: Fury Swipes
+     + 1 to make equal to highest damaging move
+[AI] Shroodle (1) is considering using Poison Fang (1) against Fuecoco (0)...
+     Shroodle (1)'s highest damaging move vs Fuecoco: Fury Swipes
+[AI] Move choices for Shroodle (1):
+   *   0.0% to use Bite (target 0): score 0
+   *  50.0% to use Fury Swipes (target 0): score 5
+   *  50.0% to use Switcheroo (target 0): score 5
+   *   0.0% to use Poison Fang (target 0): score 0
+   => will use Switcheroo (target 0)
+
+
+[Round order] The opposing Shroodle (1), Fuecoco (0)
+[Move usage] The opposing Shroodle started using Switcheroo
+The opposing Shroodle used Switcheroo!
+The opposing Shroodle switched items with its opponent!
+The opposing Shroodle obtained Iapapa Berry.
+[Move usage] Fuecoco started using Incinerate
+Fuecoco used Incinerate!
+[HP change] The opposing Shroodle lost 30 HP (33=>3)
+[Move damage] The opposing Shroodle lost 30 HP (33=>3)
+The opposing Shroodle's Iapapa Berry was incinerated!
+
+[End of round]
+Trick Room Turns: 0
+
+***Round 8***
+
