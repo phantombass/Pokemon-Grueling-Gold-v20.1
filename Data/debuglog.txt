@@ -15786,3 +15786,312 @@ Trick Room Turns: 0
 
 ***Round 8***
 
+Roles for WEEZING: [:LEAD]
+Roles for KROOKODILE: [:PHYSICALBREAKER]
+Roles for IRONMOTH: [:SPECIALBREAKER]
+Roles for GHOLDENGO: [:TANK, :SETUPSWEEPER]
+Roles for HERACROSS: [:PHYSICALBREAKER]
+Roles for SLAKING: [:PHYSICALBREAKER]
+
+******************************************
+[Started battle] 1v2 trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rocket Admin Petrel!
+Rocket Admin Petrel sent out Weezing and Krookodile!
+Go! Fuecoco!
+[Round order] The opposing Krookodile (3), the opposing Weezing (1), Fuecoco (0)
+[Ability triggered] The opposing Krookodile's Intimidate
+[Stat change] Fuecoco's Attack: 0 -> -1 (-1)
+Fuecoco's Attack fell!
+
+***Round 1***
+
+Roles for WEEZING: [:LEAD]
+Roles for KROOKODILE: [:PHYSICALBREAKER]
+Roles for IRONMOTH: [:SPECIALBREAKER]
+Roles for GHOLDENGO: [:TANK, :SETUPSWEEPER]
+Roles for HERACROSS: [:PHYSICALBREAKER]
+Roles for SLAKING: [:PHYSICALBREAKER]
+Roles for WEEZING: [:LEAD]
+Roles for KROOKODILE: [:PHYSICALBREAKER]
+Roles for IRONMOTH: [:SPECIALBREAKER]
+Roles for GHOLDENGO: [:TANK, :SETUPSWEEPER]
+Roles for HERACROSS: [:PHYSICALBREAKER]
+Roles for SLAKING: [:PHYSICALBREAKER]
+Roles for WEEZING: [:LEAD]
+Roles for KROOKODILE: [:PHYSICALBREAKER]
+Roles for IRONMOTH: [:SPECIALBREAKER]
+Roles for GHOLDENGO: [:TANK, :SETUPSWEEPER]
+Roles for HERACROSS: [:PHYSICALBREAKER]
+Roles for SLAKING: [:PHYSICALBREAKER]
+Roles for WEEZING: [:LEAD]
+Roles for KROOKODILE: [:PHYSICALBREAKER]
+Roles for IRONMOTH: [:SPECIALBREAKER]
+Roles for GHOLDENGO: [:TANK, :SETUPSWEEPER]
+Roles for HERACROSS: [:PHYSICALBREAKER]
+Roles for SLAKING: [:PHYSICALBREAKER]
+Roles for WEEZING: [:LEAD]
+Roles for KROOKODILE: [:PHYSICALBREAKER]
+Roles for IRONMOTH: [:SPECIALBREAKER]
+Roles for GHOLDENGO: [:TANK, :SETUPSWEEPER]
+Roles for HERACROSS: [:PHYSICALBREAKER]
+Roles for SLAKING: [:PHYSICALBREAKER]
+
+******************************************
+[Started battle] 1v2 trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rocket Admin Petrel!
+Rocket Admin Petrel sent out Weezing and Krookodile!
+Go! Fuecoco!
+[Round order] The opposing Krookodile (3), the opposing Weezing (1), Fuecoco (0)
+[Ability triggered] The opposing Krookodile's Intimidate
+[Stat change] Fuecoco's Attack: 0 -> -1 (-1)
+Fuecoco's Attack fell!
+
+***Round 1***
+
+Roles for WEEZING: [:LEAD]
+Roles for KROOKODILE: [:PHYSICALBREAKER]
+Roles for IRONMOTH: [:SPECIALBREAKER]
+Roles for GHOLDENGO: [:TANK, :SETUPSWEEPER]
+Roles for HERACROSS: [:PHYSICALBREAKER]
+Roles for SLAKING: [:PHYSICALBREAKER]
+
+******************************************
+[Started battle] 1v2 trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rocket Admin Petrel!
+Rocket Admin Petrel sent out Weezing and Krookodile!
+Go! Fuecoco!
+[Round order] The opposing Krookodile (3), the opposing Weezing (1), Fuecoco (0)
+[Ability triggered] The opposing Krookodile's Intimidate
+[Stat change] Fuecoco's Attack: 0 -> -1 (-1)
+Fuecoco's Attack fell!
+
+***Round 1***
+
+Roles for WEEZING: [:LEAD]
+Roles for KROOKODILE: [:PHYSICALBREAKER]
+Roles for IRONMOTH: [:SPECIALBREAKER]
+Roles for GHOLDENGO: [:TANK, :SETUPSWEEPER]
+Roles for HERACROSS: [:PHYSICALBREAKER]
+Roles for SLAKING: [:PHYSICALBREAKER]
+Roles for WEEZING: [:LEAD]
+Roles for KROOKODILE: [:PHYSICALBREAKER]
+Roles for IRONMOTH: [:SPECIALBREAKER]
+Roles for GHOLDENGO: [:TANK, :SETUPSWEEPER]
+Roles for HERACROSS: [:PHYSICALBREAKER]
+Roles for SLAKING: [:PHYSICALBREAKER]
+
+******************************************
+[Started battle] 1v2 trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rocket Admin Petrel!
+Rocket Admin Petrel sent out Weezing and Krookodile!
+Go! Fuecoco!
+[Round order] The opposing Krookodile (3), the opposing Weezing (1), Fuecoco (0)
+[Ability triggered] The opposing Krookodile's Intimidate
+[Stat change] Fuecoco's Attack: 0 -> -1 (-1)
+Fuecoco's Attack fell!
+
+***Round 1***
+
+Roles for WEEZING: [:LEAD]
+Roles for KROOKODILE: [:PHYSICALBREAKER]
+Roles for IRONMOTH: [:SPECIALBREAKER]
+Roles for GHOLDENGO: [:TANK, :SETUPSWEEPER]
+Roles for HERACROSS: [:PHYSICALBREAKER]
+Roles for SLAKING: [:PHYSICALBREAKER]
+
+******************************************
+[Started battle] 1v2 trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rocket Admin Petrel!
+Rocket Admin Petrel sent out Weezing and Krookodile!
+Go! Fuecoco!
+[Round order] The opposing Krookodile (3), the opposing Weezing (1), Fuecoco (0)
+[Ability triggered] The opposing Krookodile's Intimidate
+[Stat change] Fuecoco's Attack: 0 -> -1 (-1)
+Fuecoco's Attack fell!
+
+***Round 1***
+
+Roles for WEEZING: [:LEAD]
+Roles for KROOKODILE: [:PHYSICALBREAKER]
+Roles for IRONMOTH: [:SPECIALBREAKER]
+Roles for GHOLDENGO: [:TANK, :SETUPSWEEPER]
+Roles for HERACROSS: [:PHYSICALBREAKER]
+Roles for SLAKING: [:PHYSICALBREAKER]
+
+******************************************
+[Started battle] 1v2 trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rocket Admin Petrel!
+Rocket Admin Petrel sent out Weezing and Krookodile!
+Go! Fuecoco!
+[Round order] The opposing Krookodile (3), the opposing Weezing (1), Fuecoco (0)
+[Ability triggered] The opposing Krookodile's Intimidate
+[Stat change] Fuecoco's Attack: 0 -> -1 (-1)
+Fuecoco's Attack fell!
+
+***Round 1***
+
+Roles for WEEZING: [:SPECIALBREAKER]
+Roles for EXCADRILL: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for MILOTIC: [:SPECIALBREAKER, :SPEEDCONTROL, :OFFENSIVEPIVOT]
+Roles for GALLADE: [:PHYSICALBREAKER]
+Roles for VOLCANION: [:SPECIALBREAKER]
+Roles for URSALUNA: [:SPECIALBREAKER, :SETUPSWEEPER]
+
+******************************************
+[Started battle] 1v2 trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rocket Admin Petrel!
+Rocket Admin Petrel sent out Weezing and Excadrill!
+Go! Fuecoco!
+[Round order] The opposing Excadrill (3), the opposing Weezing (1), Fuecoco (0)
+[Ability triggered] The opposing Excadrill's Mold Breaker
+The opposing Excadrill breaks the mold!
+[Ability triggered] The opposing Weezing's Misty Surge
+Mist swirled about the battlefield!
+
+***Round 1***
+
+Roles for WEEZING: [:LEAD]
+Roles for KROOKODILE: [:PHYSICALBREAKER]
+Roles for IRONMOTH: [:SPECIALBREAKER]
+Roles for GHOLDENGO: [:TANK, :SETUPSWEEPER]
+Roles for HERACROSS: [:PHYSICALBREAKER]
+Roles for SLAKING: [:PHYSICALBREAKER]
+
+******************************************
+[Started battle] 1v2 trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rocket Admin Petrel!
+Rocket Admin Petrel sent out Weezing and Krookodile!
+Roles for WEEZING: [:LEAD]
+Roles for KROOKODILE: [:PHYSICALBREAKER]
+Roles for IRONMOTH: [:SPECIALBREAKER]
+Roles for GHOLDENGO: [:TANK, :SETUPSWEEPER]
+Roles for HERACROSS: [:PHYSICALBREAKER]
+Roles for SLAKING: [:PHYSICALBREAKER]
+
+******************************************
+[Started battle] 1v2 trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rocket Admin Petrel!
+Rocket Admin Petrel sent out Weezing and Krookodile!
+Go! Fuecoco!
+[Round order] The opposing Krookodile (3), the opposing Weezing (1), Fuecoco (0)
+[Ability triggered] The opposing Krookodile's Intimidate
+[Stat change] Fuecoco's Attack: 0 -> -1 (-1)
+Fuecoco's Attack fell!
+
+***Round 1***
+
+Roles for WEEZING: [:LEAD]
+Roles for KROOKODILE: [:PHYSICALBREAKER]
+Roles for IRONMOTH: [:SPECIALBREAKER]
+Roles for GHOLDENGO: [:TANK, :SETUPSWEEPER]
+Roles for HERACROSS: [:PHYSICALBREAKER]
+Roles for SLAKING: [:PHYSICALBREAKER]
+
+******************************************
+[Started battle] 1v2 trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rocket Admin Petrel!
+Rocket Admin Petrel sent out Weezing and Krookodile!
+Go! Fuecoco!
+[Round order] The opposing Krookodile (3), the opposing Weezing (1), Fuecoco (0)
+[Ability triggered] The opposing Krookodile's Intimidate
+[Stat change] Fuecoco's Attack: 0 -> -1 (-1)
+Fuecoco's Attack fell!
+
+***Round 1***
+
+Roles for WEEZING: [:LEAD]
+Roles for KROOKODILE: [:PHYSICALBREAKER]
+Roles for IRONMOTH: [:SPECIALBREAKER]
+Roles for GHOLDENGO: [:TANK, :SETUPSWEEPER]
+Roles for HERACROSS: [:PHYSICALBREAKER]
+Roles for SLAKING: [:PHYSICALBREAKER]
+
+******************************************
+[Started battle] 1v2 trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rocket Admin Petrel!
+Rocket Admin Petrel sent out Weezing and Krookodile!
+Go! Fuecoco!
+[Round order] The opposing Krookodile (3), the opposing Weezing (1), Fuecoco (0)
+[Ability triggered] The opposing Krookodile's Intimidate
+[Stat change] Fuecoco's Attack: 0 -> -1 (-1)
+Fuecoco's Attack fell!
+
+***Round 1***
+
+Roles for WEEZING: [:SPECIALBREAKER]
+Roles for EXCADRILL: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for MILOTIC: [:SPECIALBREAKER, :SPEEDCONTROL, :OFFENSIVEPIVOT]
+Roles for GALLADE: [:PHYSICALBREAKER]
+Roles for VOLCANION: [:SPECIALBREAKER]
+Roles for URSALUNA: [:SPECIALBREAKER, :SETUPSWEEPER]
+
+******************************************
+[Started battle] 1v2 trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rocket Admin Petrel!
+Rocket Admin Petrel sent out Weezing and Excadrill!
+Go! Fuecoco!
+[Round order] The opposing Excadrill (3), the opposing Weezing (1), Fuecoco (0)
+[Ability triggered] The opposing Excadrill's Mold Breaker
+The opposing Excadrill breaks the mold!
+[Ability triggered] The opposing Weezing's Misty Surge
+Mist swirled about the battlefield!
+
+***Round 1***
+
+Roles for WEEZING: [:LEAD]
+Roles for KROOKODILE: [:PHYSICALBREAKER]
+Roles for IRONMOTH: [:SPECIALBREAKER]
+Roles for GHOLDENGO: [:TANK, :SETUPSWEEPER]
+Roles for HERACROSS: [:PHYSICALBREAKER]
+Roles for SLAKING: [:PHYSICALBREAKER]
+
+******************************************
+[Started battle] 1v2 trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rocket Admin Petrel!
+Rocket Admin Petrel sent out Weezing and Krookodile!
+Go! Fuecoco!
+[Round order] The opposing Krookodile (3), the opposing Weezing (1), Fuecoco (0)
+[Ability triggered] The opposing Krookodile's Intimidate
+[Stat change] Fuecoco's Attack: 0 -> -1 (-1)
+Fuecoco's Attack fell!
+
+***Round 1***
+
+Roles for WEEZING: [:SPECIALBREAKER]
+Roles for EXCADRILL: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for MILOTIC: [:SPECIALBREAKER, :SPEEDCONTROL, :OFFENSIVEPIVOT]
+Roles for GALLADE: [:PHYSICALBREAKER]
+Roles for VOLCANION: [:SPECIALBREAKER]
+Roles for URSALUNA: [:SPECIALBREAKER, :SETUPSWEEPER]
+
+******************************************
+[Started battle] 1v2 trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rocket Admin Petrel!
+Rocket Admin Petrel sent out Weezing and Excadrill!
+Go! Fuecoco!
+[Round order] The opposing Excadrill (3), the opposing Weezing (1), Fuecoco (0)
+[Ability triggered] The opposing Excadrill's Mold Breaker
+The opposing Excadrill breaks the mold!
+[Ability triggered] The opposing Weezing's Misty Surge
+Mist swirled about the battlefield!
+Roles for WEEZING: [:SPECIALBREAKER]
+Roles for EXCADRILL: [:PHYSICALBREAKER, :SETUPSWEEPER]
+Roles for MILOTIC: [:SPECIALBREAKER, :SPEEDCONTROL, :OFFENSIVEPIVOT]
+Roles for GALLADE: [:PHYSICALBREAKER]
+Roles for VOLCANION: [:SPECIALBREAKER]
+Roles for URSALUNA: [:SPECIALBREAKER, :SETUPSWEEPER]
+
+******************************************
+[Started battle] 1v2 trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rocket Admin Petrel!
+Rocket Admin Petrel sent out Weezing and Excadrill!
+Roles for WEEZING: [:LEAD]
+Roles for KROOKODILE: [:PHYSICALBREAKER]
+Roles for IRONMOTH: [:SPECIALBREAKER]
+Roles for GHOLDENGO: [:TANK, :SETUPSWEEPER]
+Roles for HERACROSS: [:PHYSICALBREAKER]
+Roles for SLAKING: [:PHYSICALBREAKER]
+
+******************************************
+[Started battle] 1v2 trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Rocket Admin Petrel!
