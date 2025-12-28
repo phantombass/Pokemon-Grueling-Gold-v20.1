@@ -16095,3 +16095,33 @@ Roles for SLAKING: [:PHYSICALBREAKER]
 ******************************************
 [Started battle] 1v2 trainer battle (1 trainer(s) vs. 1 trainer(s))
 You are challenged by Rocket Admin Petrel!
+Roles for HITMONTOP: [:CRIT]
+=====> Nature for Hitmontop: Adamant
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Youngster Don!
+Youngster Don sent out Hitmontop!
+Go! Scraggy!
+[Round order] Scraggy (0), the opposing Hitmontop (1)
+
+***Round 1***
+
+Roles for STUNKY: [:TOXICSTALLER]
+=====> Nature for Stunky: Modest
+Roles for SHIFTRY: [:NONE]
+=====> Nature for Shiftry: Adamant
+Roles for STUNKY: [:TOXICSTALLER]
+=====> Nature for Stunky: Modest
+Roles for SHIFTRY: [:NONE]
+=====> Nature for Shiftry: Adamant
+
+******************************************
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+You are challenged by Team Rocket Grunt!
+Team Rocket Grunt sent out Stunky!
+Go! Scraggy!
+[Round order] The opposing Stunky (1), Scraggy (0)
+
+***Round 1***
+
